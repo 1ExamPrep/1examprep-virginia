@@ -43,7 +43,7 @@
   "_ga4PropertyId_help": "Numeric GA4 property ID (GA4 Admin → Property → Property details). Needed by /admin/ to read reports.",
   "googleOAuthClientId": "",
   "_googleOAuthClientId_help": "OAuth client ID (Google Cloud Console → APIs & Services → Credentials → Create OAuth client ID → Web application; add this site's address under Authorized JavaScript origins; enable the Google Analytics Data API). Lets /admin/ sign you in with Google.",
-  "repo": "1ExamPrep/virginia-contractor-exam",
+  "repo": "1ExamPrep/1examprep-virginia",
   "_repo_help": "GitHub owner/repo, used by /admin/ to show sync runs and recent updates.",
   "dashboardUrl": "https://site-dashboard-c32v.onrender.com",
   "_dashboardUrl_help": "Address of your site dashboard on Render, e.g. https://site-dashboard.onrender.com. With siteKey set, every page view and click is sent there.",
