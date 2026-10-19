@@ -35,6 +35,12 @@ _nb = lambda x: html.escape(x).replace(" ", "&nbsp;")
 WORDMARK_TEXT = "%s<span>%s</span>%s" % (_nb(WM[0]), _nb(WM[1]), _nb(WM[2])) if WM[1] else html.escape(WM[0])
 LOGO_NAV = CFG.get("logoNav") if CFG.get("logoNav") and os.path.exists(os.path.join(ROOT, CFG.get("logoNav"))) else None
 HAS_PNG_ICONS = os.path.exists(os.path.join(ROOT, "shared", "favicon.png"))
+NAV_W, NAV_H = 140, 52
+if LOGO_NAV:
+    try:
+        from PIL import Image as _I
+        _w, _h = _I.open(os.path.join(ROOT, LOGO_NAV)).size; NAV_W = round(_w * NAV_H / _h)
+    except Exception: pass
 TODAY = datetime.date.today().isoformat()
 LAUNCH = CFG.get("launched", TODAY)
 
@@ -55,7 +61,7 @@ UNCLASSIFIED = [p["title"] for p in PRODUCTS if p["cls"] == "other" or p["type"]
 
 # ---------- helpers ----------
 def wordmark(rel):
-    if LOGO_NAV: return '<img class="brand-img" src="%s%s" alt="%s" width="172" height="48" decoding="async">' % (rel, LOGO_NAV, html.escape(BRAND))
+    if LOGO_NAV: return '<img class="brand-img" src="%s%s" alt="%s" width="%d" height="%d" decoding="async">' % (rel, LOGO_NAV, html.escape(BRAND), NAV_W, NAV_H)
     return WORDMARK_TEXT
 def brand_tokens(out, rel=None):
     if rel is None:

@@ -25,3 +25,4 @@
 @media (max-width:720px){.compare table{font-size:.85rem}.va-find .btn{width:100%}}
 .nav .brand{white-space:nowrap}
 @media (max-width:420px){.nav .brand{font-size:.8rem!important;max-width:60vw}}
+.brand-img{height:54px}@media (max-width:720px){.brand-img{height:42px}}.site-footer .brand-img{height:46px}
