@@ -305,8 +305,8 @@ def home_main():
     for g, gname, gblurb in vaclass.GROUPS:
         cl = classes_in(g)
         if not cl: continue
-        items = "".join('<li><a href="%s/"><b>%s</b></a><span>%s from %s</span></li>' % (c["slug"], esc(c["name"]), plural(len(c["products"]), "option"), money(c["lo"])) for c in cl)
-        secs.append('<section id="%s" class="va-group" aria-labelledby="h-%s"><div class="wrap"><h2 id="h-%s">%s</h2><p class="sub-h">%s</p><ul class="states-grid va-list">%s</ul></div></section>' % (g, g, g, esc(gname), esc(gblurb), items))
+        items = "".join('<li><a class="va-lic" href="%s/"><b>%s</b><span>%s, from %s</span></a></li>' % (c["slug"], esc(c["name"]), plural(len(c["products"]), "option"), money(c["lo"])) for c in cl)
+        secs.append('<section id="%s" class="va-group" aria-labelledby="h-%s"><div class="wrap"><h2 id="h-%s">%s</h2><p class="sub-h">%s</p><ul class="va-lics">%s</ul></div></section>' % (g, g, g, esc(gname), esc(gblurb), items))
     classes_tbl = ('<section id="classes" class="center" aria-labelledby="h-classes"><div class="wrap"><h2 id="h-classes">How do Virginia contractor license classes work?</h2>'
                    '<p class="sub-h">The class decides how large a job your firm may take. The trade classification on the license decides what kind of work it may do, and each classification has its own exam.</p>'
                    '<div class="compare"><table><thead><tr><th>Class</th><th>Single contract</th><th>Total in 12 months</th><th>Exams</th></tr></thead><tbody>'
