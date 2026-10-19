@@ -1,0 +1,54 @@
+name: Build site
+
+# Rebuilds all pages when the catalog or the page templates change (for example after the dashboard
+# commits a new shared/catalog.js), or when triggered by hand / by the dashboard.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "shared/catalog.js"
+      - "store/products-full.json"
+      - "store/template.html"
+      - "store/product.html"
+      - "store/admin.html"
+      - "store/blog-post.html"
+      - "store/blog-index.html"
+      - "store/faq.html"
+      - "content/**"
+      - "tools/blogkit.py"
+      - "tools/vaclass.py"
+      - "tools/vacopy.py"
+      - "shared/va.css"
+      - "shared/search.js"
+      - "shared/store.css"
+      - "site-config.json"
+      - "build.py"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-site
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build pages
+        run: |
+          pip install -q pillow
+          python3 build.py
+      - name: Commit generated pages
+        run: |
+          git config user.name "site-build[bot]"
+          git config user.email "site-build@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then echo "Nothing changed."; exit 0; fi
+          git commit -m "Rebuild pages ($(date -u +%Y-%m-%d\ %H:%M) UTC)"
+          git push

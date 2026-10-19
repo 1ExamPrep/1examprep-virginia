@@ -1,0 +1,160 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Admin — {{BRAND}}</title>
+<meta name="robots" content="noindex, nofollow">
+<link rel="icon" href="../shared/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Archivo:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../shared/base.css">
+<link rel="stylesheet" href="../shared/store.css">
+<style>
+:root{--surface-1:#ffffff;--text-primary:#1b1f3b;--text-secondary:#5b5f7a;--series-1:#2a78d6;--series-2:#eb6834;--grid:rgba(27,31,59,.1)}
+body{background:var(--bg)}
+.adm section{padding:0;margin-top:1.5rem}
+.adm{padding:1.5rem 0 5rem}
+.adm-head{display:flex;align-items:center;gap:1rem;flex-wrap:wrap;margin:1rem 0 1.5rem}
+.adm-head h1{font-family:var(--font-display);font-size:clamp(1.6rem,3vw,2.2rem);letter-spacing:-.02em;margin-right:auto}
+.pill{display:inline-flex;align-items:center;gap:.4rem;padding:.4rem .8rem;border-radius:999px;background:#fff;font-size:.85rem;font-weight:600;color:var(--muted);border:1px solid var(--line)}
+.pill i{width:8px;height:8px;border-radius:50%;background:#c3c7d6}
+.pill.ok i{background:#157347}.pill.bad i{background:#c0392b}.pill.run i{background:#eda100}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:.9rem;margin-bottom:1.5rem}
+.tile{background:var(--surface-1);border-radius:1rem;padding:1rem 1.1rem;border:1px solid var(--line)}
+.tile small{display:block;color:var(--text-secondary);font-size:.8rem;font-weight:600}
+.tile b{display:block;font-family:var(--font-display);font-size:1.9rem;letter-spacing:-.02em;line-height:1.1;margin-top:.2rem}
+.tile .sub{font-size:.8rem;color:var(--text-secondary);margin-top:.2rem}
+.panel{background:var(--surface-1);border-radius:1.25rem;padding:1.25rem;border:1px solid var(--line);margin-bottom:1rem}
+.panel h2{font-family:var(--font-display);font-size:1.1rem;letter-spacing:-.01em;margin:0 0 .8rem;text-transform:none;display:flex;align-items:center;gap:.6rem}
+.panel h2 small{font:500 .8rem var(--font-body);color:var(--text-secondary)}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:1rem}
+@media (max-width:900px){.two{grid-template-columns:1fr}}
+.seg{display:inline-flex;background:var(--bg);border-radius:999px;padding:.25rem}
+.seg button{border:0;background:transparent;padding:.5rem .9rem;border-radius:999px;font-weight:700;color:var(--muted);font-size:.9rem}
+.seg button[aria-pressed="true"]{background:var(--ink);color:#fff}
+.btn-g{display:inline-flex;align-items:center;gap:.5rem;padding:.65rem 1rem;border-radius:999px;border:1px solid var(--line);background:#fff;font-weight:700;cursor:pointer}
+.btn-g:hover{border-color:var(--ink)}
+.note{background:#fff8f0;border:1px solid #ffd9bf;border-radius:1rem;padding:1rem 1.2rem;font-size:.92rem;line-height:1.5;margin-bottom:1rem}
+.note code{background:#fff;padding:.1rem .35rem;border-radius:.3rem;border:1px solid var(--line)}
+.note ol{margin:.5rem 0 0 1.2rem;padding:0}
+/* chart */
+.viz{position:relative}
+.viz svg{width:100%;height:220px;display:block;overflow:visible}
+.viz .ax{stroke:var(--grid);stroke-width:1}
+.viz .ln{fill:none;stroke:var(--series-1);stroke-width:2;stroke-linejoin:round;stroke-linecap:round}
+.viz .ln.s2{stroke:var(--series-2)}
+.viz .ar{fill:var(--series-1);opacity:.08}
+.viz .ar.s2{fill:var(--series-2)}
+.viz .lbl{font:500 11px var(--font-body);fill:var(--text-secondary)}
+.viz .dot{fill:var(--surface-1);stroke:var(--series-1);stroke-width:2;r:4;opacity:0}
+.viz .dot.s2{stroke:var(--series-2)}
+.viz .dot.on{opacity:1}
+.viz .xh{stroke:var(--text-secondary);stroke-dasharray:3 3;opacity:0}
+.viz .xh.on{opacity:.6}
+.tip{position:absolute;pointer-events:none;background:var(--ink);color:#fff;font-size:.8rem;padding:.4rem .6rem;border-radius:.5rem;transform:translate(-50%,-120%);white-space:nowrap;opacity:0;transition:opacity .1s}
+.tip.on{opacity:1}
+.hit{fill:transparent}
+/* bars */
+.bars{display:grid;gap:.45rem}
+.bar{display:grid;grid-template-columns:minmax(0,1fr) 3.5rem;gap:.6rem;align-items:center;font-size:.9rem}
+.bar .lab{display:flex;align-items:center;gap:.6rem;min-width:0}
+.bar .lab span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.bar .lab i{display:block;height:10px;border-radius:4px;background:var(--series-1);flex:none;min-width:4px}
+.bar .lab i.s2{background:var(--series-2)}
+.bar b{text-align:right;font-weight:600;color:var(--text-primary);font-variant-numeric:tabular-nums}
+.empty{color:var(--text-secondary);font-size:.9rem;padding:.5rem 0}
+/* table */
+.tbl{overflow:auto;max-height:520px}
+table{width:100%;border-collapse:collapse;font-size:.9rem}
+th,td{padding:.55rem .6rem;text-align:left;border-bottom:1px solid var(--line);white-space:nowrap}
+th{position:sticky;top:0;background:var(--surface-1);font-size:.78rem;color:var(--text-secondary)}
+td.num,th.num{text-align:right;font-variant-numeric:tabular-nums}
+.q{width:100%;border:1px solid var(--line);border-radius:.7rem;padding:.6rem .9rem;font:500 .95rem var(--font-body);margin-bottom:.6rem}
+a.lnk{color:var(--series-1);text-decoration:none}
+.muted{color:var(--text-secondary)}
+</style>
+</head>
+<body>
+<header class="nav"><div class="wrap">
+  <a class="brand" href="../">{{WORDMARK}}</a>
+  <nav class="nav-links" aria-label="Admin"><a href="#traffic">Traffic</a><a href="#buttons">Buttons</a><a href="#catalog">Catalog</a><a href="#system">System</a></nav>
+  <div class="nav-tools"><a class="btn btn-buy" href="../" style="background:var(--ink)">View site</a></div>
+</div></header>
+
+<main id="main" class="wrap adm">
+  <div class="adm-head">
+    <h1>Admin dashboard</h1>
+    <span class="pill" id="pSite"><i></i>Site</span>
+    <span class="pill" id="pSync"><i></i>Shopify sync</span>
+    <span class="pill" id="pGa"><i></i>Analytics</span>
+  </div>
+
+  <div id="setupNote" class="note" hidden></div>
+
+  <section id="traffic" aria-labelledby="h-traffic">
+    <div class="adm-head" style="margin:0 0 .8rem">
+      <h2 id="h-traffic" style="font-family:var(--font-display);font-size:1.3rem;margin-right:auto;text-transform:none">Traffic and conversions</h2>
+      <div class="seg" id="range"><button type="button" data-days="7" aria-pressed="false">7 days</button><button type="button" data-days="28" aria-pressed="true">28 days</button><button type="button" data-days="90" aria-pressed="false">90 days</button></div>
+      <button type="button" class="btn-g" id="signin" hidden>Sign in with Google</button>
+    </div>
+    <div class="grid" id="kpis">
+      <div class="tile"><small>Sessions</small><b id="kSessions">–</b><span class="sub" id="kUsers"></span></div>
+      <div class="tile"><small>Page views</small><b id="kViews">–</b></div>
+      <div class="tile"><small>Buy now clicks</small><b id="kBuy">–</b><span class="sub" id="kBuyRate"></span></div>
+      <div class="tile"><small>Checkout value clicked</small><b id="kValue">–</b><span class="sub">sum of prices behind Buy clicks</span></div>
+      <div class="tile"><small>Phone taps</small><b id="kPhone">–</b></div>
+      <div class="tile"><small>Searches</small><b id="kSearch">–</b></div>
+    </div>
+    <div class="two">
+      <div class="panel"><h2>Sessions per day</h2><div class="viz" id="cSessions"><div class="empty">Sign in to load.</div></div></div>
+      <div class="panel"><h2>Buy now clicks per day</h2><div class="viz" id="cBuy"><div class="empty">Sign in to load.</div></div></div>
+    </div>
+  </section>
+
+  <section id="buttons" aria-labelledby="h-buttons" style="margin-top:1rem">
+    <h2 id="h-buttons" style="font-family:var(--font-display);font-size:1.3rem;margin:0 0 .8rem;text-transform:none">What people click</h2>
+    <div class="two">
+      <div class="panel"><h2>Buy clicks by state <small>top 12</small></h2><div class="bars" id="bState"><div class="empty">–</div></div></div>
+      <div class="panel"><h2>Buy clicks by package</h2><div class="bars" id="bTier"><div class="empty">–</div></div></div>
+      <div class="panel"><h2>Buy clicks by level</h2><div class="bars" id="bLevel"><div class="empty">–</div></div></div>
+      <div class="panel"><h2>Which button <small>needs the button_location custom dimension in GA4</small></h2><div class="bars" id="bLoc"><div class="empty">–</div></div></div>
+      <div class="panel"><h2>All events</h2><div class="bars" id="bEvents"><div class="empty">–</div></div></div>
+      <div class="panel"><h2>Search terms</h2><div class="bars" id="bSearch"><div class="empty">–</div></div></div>
+      <div class="panel"><h2>Top pages</h2><div class="bars" id="bPages"><div class="empty">–</div></div></div>
+      <div class="panel"><h2>Where visitors come from</h2><div class="bars" id="bSource"><div class="empty">–</div></div></div>
+      <div class="panel"><h2>Devices</h2><div class="bars" id="bDevice"><div class="empty">–</div></div></div>
+    </div>
+  </section>
+
+  <section id="catalog" aria-labelledby="h-catalog" style="margin-top:1rem">
+    <h2 id="h-catalog" style="font-family:var(--font-display);font-size:1.3rem;margin:0 0 .8rem;text-transform:none">Catalog</h2>
+    <div class="grid">
+      <div class="tile"><small>Products on site</small><b id="cCount">–</b><span class="sub" id="cPulled"></span></div>
+      <div class="tile"><small>States × levels</small><b id="cCombos">–</b><span class="sub">listing pages</span></div>
+      <div class="tile"><small>Product pages</small><b id="cPages">–</b></div>
+      <div class="tile"><small>Price range</small><b id="cPrice">–</b></div>
+      <div class="tile"><small>Duplicates hidden</small><b id="cDupes">–</b><span class="sub">same tier listed twice in Shopify</span></div>
+    </div>
+    <div class="panel">
+      <input class="q" id="cQ" type="search" placeholder="Filter products: state, level, package, price…" aria-label="Filter products">
+      <div class="tbl"><table id="cTable"><thead><tr><th>State</th><th>Level</th><th>Package</th><th class="num">Price</th><th class="num">Was</th><th>Variants</th><th>Page</th><th>Shopify</th></tr></thead><tbody></tbody></table></div>
+    </div>
+  </section>
+
+  <section id="system" aria-labelledby="h-system" style="margin-top:1rem">
+    <h2 id="h-system" style="font-family:var(--font-display);font-size:1.3rem;margin:0 0 .8rem;text-transform:none">System</h2>
+    <div class="two">
+      <div class="panel"><h2>Weekly Shopify sync <small>GitHub Actions</small></h2><div id="runs" class="bars"><div class="empty">Loading…</div></div></div>
+      <div class="panel"><h2>Latest site updates <small>commits on main</small></h2><div id="commits" class="bars"><div class="empty">Loading…</div></div></div>
+    </div>
+    <div class="panel"><h2>Links</h2><p class="muted" id="links"></p></div>
+  </section>
+</main>
+
+<script>window.ADMIN={{ADMIN_JSON}};</script>
+<script src="../shared/catalog.js"></script>
+<script src="https://accounts.google.com/gsi/client" async defer></script>
+<script src="../shared/admin.js"></script>
+</body>
+</html>

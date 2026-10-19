@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>{{TITLE}}</title>
+<meta name="description" content="{{DESC}}">
+{{CANONICAL}}<meta property="og:type" content="product">
+<meta property="og:title" content="{{TITLE}}">
+<meta property="og:description" content="{{DESC}}">
+{{OGIMAGE}}{{HEAD_EXTRA}}<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Archivo:wght@400;500;700&display=swap" rel="stylesheet">
+{{ASSETS_HEAD}}
+<script type="application/ld+json">{{JSONLD}}</script>
+</head>
+<body class="pdp">
+<a class="skip" href="#main">Skip to content</a>
+<header class="nav"><div class="wrap">
+  <a class="brand" href="{{HOME}}" id="homeLink" aria-label="{{BRAND}} home">{{WORDMARK}}</a>
+  <nav class="nav-links" aria-label="Main"><a href="../">All {{CLASS}} prep</a><a href="#included">What's included</a><a href="#details">Details</a><a href="{{HOME}}faq/">FAQ</a><a href="{{HOME}}blog/">Blog</a></nav>
+  {{NAV_TOOLS}}
+</div></header>
+
+<main class="wrap" id="main">
+  <nav class="crumb" aria-label="Breadcrumb"><a href="{{HOME}}">All licenses</a><span>/</span><a href="{{HOME}}#{{GROUP}}">{{GROUP_NAME}}</a><span>/</span><a href="../">{{CLASS}}</a><span>/</span>{{TYPE_NAME}}</nav>
+
+  <section class="pdp-top" aria-labelledby="h1">
+    <div class="gallery" id="gallery">
+      <div class="g-main"><img id="gMain" src="{{IMAGE}}" alt="{{IMAGE_ALT}}"></div>
+      <div class="g-thumbs" id="gThumbs">{{THUMBS}}</div>
+    </div>
+    <div class="buybox">
+      <span class="pc-tier">{{KICKER}}</span>
+      <h1 class="pdp-h1" id="h1">{{H1}}</h1>
+      <p class="pdp-sub">{{SUB}}</p>
+      <div class="pdp-price"><span class="pc-now" id="pNow">{{PRICE}}</span>{{COMPARE_HTML}}</div>
+      <form class="variants" id="variants">{{VARIANTS_HTML}}</form>
+      <a class="btn btn-buy btn-buy--lg" id="buyBtn" href="{{BUY_URL}}" rel="noopener">Buy now, go to checkout</a>
+      <ul class="assure">
+        <li>Secure checkout, fulfilled by {{FULFILL_NAME}}</li>
+        <li>{{DELIVERY}}</li>
+        <li>Questions before you buy? Call <a href="tel:{{PHONE_TEL}}">{{PHONE}}</a></li>
+      </ul>
+    </div>
+  </section>
+
+  {{TAKEAWAYS_HTML}}
+  <section class="pdp-grid" aria-labelledby="included">
+    <div>
+      <h2 id="included">What does the {{TYPE_NAME}} include?</h2>
+      {{INCLUDED_HTML}}
+      {{ADDONS_HTML}}
+      <h2 id="details">About this {{CLASS}} package</h2>
+      <div class="desc">{{DESCRIPTION_HTML}}</div>
+      {{EXAM_HTML}}
+    </div>
+    <aside class="side">
+      <h2 id="h-related" style="font-size:1.05rem">Other {{CLASS}} options</h2>
+      <div class="related">{{RELATED_HTML}}</div>
+      <a class="side-link" href="../">Compare every {{CLASS}} package &rarr;</a>
+      <a class="side-link" href="{{HOME}}">Choose a different license &rarr;</a>
+      {{MORE_LINKS_HTML}}
+    </aside>
+  </section>
+
+  <section id="faq" class="pdp-faq" aria-labelledby="h-faq">
+    <h2 id="h-faq">Questions before you buy</h2>
+    <div class="faq">{{FAQ_HTML}}</div>
+  </section>
+  {{SOURCES_HTML}}
+</main>
+
+{{FOOTER}}
+
+<div class="stickybar">
+  <div><strong>{{TYPE_NAME}}</strong><small><span id="sPrice">{{PRICE}}</span> · straight to checkout</small></div>
+  <a class="btn btn-buy" id="sBuy" href="{{BUY_URL}}" rel="noopener">Buy now</a>
+</div>
+
+<script>window.PRODUCT={{P_JSON}};window.ROUTE={{ROUTE}};</script>
+{{ASSETS_PRODUCT}}
+{{ASSETS_SEARCH}}
+</body>
+</html>

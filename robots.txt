@@ -1,0 +1,53 @@
+# robots.txt for Pass the Virginia Contractor Exam (https://passthevirginiacontractorexam.com)
+# Search engines and AI assistants are both welcome. Internal search, raw data and the admin page are held back.
+
+User-agent: *
+Allow: /
+Disallow: /search/
+Disallow: /store/
+Disallow: /admin/
+Disallow: /*?q=
+
+# Named so the allow is explicit for AI crawlers.
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: meta-externalagent
+Allow: /
+
+Sitemap: https://passthevirginiacontractorexam.com/sitemap.xml
+# Blog: https://passthevirginiacontractorexam.com/blog/ (RSS at https://passthevirginiacontractorexam.com/blog/feed.xml). FAQ: https://passthevirginiacontractorexam.com/faq/
+# Guides for AI assistants: https://passthevirginiacontractorexam.com/llms.txt and https://passthevirginiacontractorexam.com/agents.md

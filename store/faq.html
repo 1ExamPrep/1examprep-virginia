@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>{{TITLE}}</title>
+<meta name="description" content="{{DESC}}">
+{{CANONICAL}}<meta property="og:type" content="website">
+<meta property="og:title" content="{{TITLE}}">
+<meta property="og:description" content="{{DESC}}">
+{{OGIMAGE}}{{HEAD_EXTRA}}<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Archivo:wght@400;500;700&display=swap" rel="stylesheet">
+{{ASSETS_HEAD}}
+</head>
+<body class="blog faqpage">
+<a class="skip" href="#main">Skip to content</a>
+<header class="nav"><div class="wrap">
+  <a class="brand" href="{{HOME}}" id="homeLink" aria-label="{{BRAND}} home">{{WORDMARK}}</a>
+  <nav class="nav-links" aria-label="Main"><a href="{{HOME}}#contractor">Licenses</a><a href="{{REL}}faq/" aria-current="page">FAQ</a><a href="{{REL}}blog/">Blog</a>{{MORE_LINK}}</nav>
+  {{NAV_TOOLS}}
+</div></header>
+
+<main class="wrap" id="main">
+  <nav class="crumb" aria-label="Breadcrumb">{{CRUMB_HTML}}</nav>
+  <div class="blog-head">
+    <h1 id="h1">{{H1}}</h1>
+    <p class="post-lead">{{LEAD}}</p>
+  </div>
+
+  {{TAKEAWAYS_HTML}}
+
+  <div class="faq-tools">
+    <input class="faq-filter" type="search" placeholder="Type to filter these questions…" aria-label="Filter questions" data-faq-filter>
+    <nav class="tagbar" aria-label="Sections">{{JUMP_HTML}}</nav>
+  </div>
+
+  {{SECTIONS_HTML}}
+
+  <aside class="post-cta" aria-label="Shop packages">
+    <div>
+      <span class="pc-tier">{{CTA_KICKER}}</span>
+      <p class="cta-h">{{CTA_TITLE}}</p>
+      <p>{{CTA_TEXT}}</p>
+    </div>
+    <a class="btn btn-buy" href="{{CTA_URL}}" data-track="faq_cta">{{CTA_LABEL}}</a>
+  </aside>
+
+  {{RELATED_HTML}}
+</main>
+
+{{FOOTER}}
+<script>window.ROUTE={{ROUTE}};</script>
+<script>
+(function(){var f=document.querySelector("[data-faq-filter]");if(!f)return;var items=Array.prototype.slice.call(document.querySelectorAll(".faq-sec details"));var secs=Array.prototype.slice.call(document.querySelectorAll(".faq-sec"));var t;
+f.addEventListener("input",function(){clearTimeout(t);t=setTimeout(function(){var q=f.value.trim().toLowerCase();items.forEach(function(d){var hit=!q||d.textContent.toLowerCase().indexOf(q)>-1;d.hidden=!hit;if(q&&hit)d.open=true;});secs.forEach(function(s){s.hidden=q&&!s.querySelector("details:not([hidden])");});
+if(q.length>=3&&window.dash&&dash.track)dash.track("faq_filter",{search_term:q});},200);});})();
+</script>
+{{ASSETS_SEARCH}}
+</body>
+</html>

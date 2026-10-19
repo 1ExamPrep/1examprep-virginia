@@ -1,0 +1,109 @@
+{
+ "_help": "Nationwide FAQ shown on /faq/. Edit freely, then run python3 build.py. Each license page also builds its own questions from tools/vacopy.py.",
+ "categories": [
+  {
+   "name": "How do you get licensed in Virginia?",
+   "slug": "licensing",
+   "items": [
+    [
+     "Who licenses contractors in Virginia?",
+     "The Board for Contractors, part of the Department of Professional and Occupational Regulation (DPOR). It issues Class A, B and C contractor licenses and, through its Tradesmen program, individual licenses for electricians, plumbers, HVAC technicians and gas fitters."
+    ],
+    [
+     "What is the difference between Class A, B and C?",
+     "The class sets how large a job the firm may take. Class C covers single jobs of $1,000 to under $10,000 and under $150,000 a year. Class B covers single jobs of $10,000 to under $120,000 and under $750,000 a year. Class A has no upper limit."
+    ],
+    [
+     "What is a trade classification?",
+     "The classification on the license says what kind of work the firm may do, such as Residential Building, Home Improvement, Roofing or Concrete. A firm can hold several, and each one needs a qualified person who has passed that classification's exam where one applies."
+    ],
+    [
+     "Do I need the 8-hour pre-license course?",
+     "Yes. Every Class A, B and C applicant completes 8 hours of pre-license education before the license is issued. For Class A and B it is the designated employee or a member of responsible management who takes it."
+    ],
+    [
+     "Is a tradesman license the same as a contractor license?",
+     "No. A tradesman license belongs to a person, such as a journeyman electrician. A contractor license belongs to the business. An electrical contracting firm needs both: its own Board for Contractors license and a licensed master in the trade."
+    ],
+    [
+     "Who certifies building inspectors and plans examiners?",
+     "The Department of Housing and Community Development (DHCD). The path is the Virginia Building Code Academy Core class, the classes for the certification, then the required exam, which is usually an ICC exam."
+    ]
+   ]
+  },
+  {
+   "name": "How does the Virginia exam work?",
+   "slug": "exam",
+   "items": [
+    [
+     "Who runs the Virginia contractor and tradesman exams?",
+     "PSI runs them for the Board for Contractors. Tradesman candidates need approval from the board before PSI will let them schedule."
+    ],
+    [
+     "How much do the exams cost?",
+     "Contractor exams cost $40 for one portion, $72 for two and $85 for three. Tradesman exams cost $100 for journeyman and $125 for master. These fees go to PSI and are separate from the board's application fee."
+    ],
+    [
+     "Are the exams open book?",
+     "Yes. You bring your own references. They may be highlighted, underlined and permanently tabbed, but removable flags, loose papers and unbound references are not allowed."
+    ],
+    [
+     "What does the business and law exam cover?",
+     "The Virginia portion covers the board's regulations and Virginia law; the general portion covers business, contracts, lien law, safety and project management. It is written to the NASCLA Contractors Guide to Business, Law and Project Management, Virginia edition."
+    ],
+    [
+     "Are the practice questions the real exam questions?",
+     "No. Licensing exam questions are confidential. Practice questions are original material written to the same subjects, format and difficulty, with explanations that point to the reference section."
+    ]
+   ]
+  },
+  {
+   "name": "How should you study for it?",
+   "slug": "studying",
+   "items": [
+    [
+     "How long should I study?",
+     "Most candidates do well with six to eight weeks at about 90 minutes a day: getting fast in the references, working through the business and law material, and sitting timed practice exams in the last two weeks."
+    ],
+    [
+     "Why do people fail an open-book exam?",
+     "Mostly time. Candidates who look up every answer from scratch run out of minutes. Knowing roughly where each topic lives in the book, and having the book tabbed, is what gets people through."
+    ],
+    [
+     "Are highlighted and tabbed books worth it?",
+     "For most people, yes. The tabs are permanent and allowed in the exam room, and the highlighting points at the sections questions come from, which saves the hours it takes to prepare a set of books yourself."
+    ],
+    [
+     "Should I rent or buy the books?",
+     "Rent if you only need the references for the exam and want to spend less. Buy if you want to keep them for the job or might sit another classification later."
+    ]
+   ]
+  },
+  {
+   "name": "How does ordering work?",
+   "slug": "ordering",
+   "items": [
+    [
+     "Who ships the orders?",
+     "Orders are processed, shipped and supported by our fulfillment center, 1 Exam Prep. Buy now opens secure checkout there with the item already in the cart."
+    ],
+    [
+     "How fast can I start?",
+     "Online courses and practice exams arrive by email after purchase, so you can start the same day. Books ship from the fulfillment center; shipping options are shown at checkout."
+    ],
+    [
+     "What is The 1 Package?",
+     "The all-inclusive option for a contractor classification: exam prep, the reference books, help with the Board for Contractors application and the business setup, in one order."
+    ],
+    [
+     "Does buying a package register me for the exam?",
+     "No. The board approves you and PSI or ICC schedules the exam. A package gets you ready for the test itself."
+    ],
+    [
+     "Can I ask a question before I buy?",
+     "Yes. Call (877) 775-9400 or email sales@1examprep.com and say which license you are going for."
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>{{TITLE}}</title>
+<meta name="description" content="{{DESC}}">
+{{CANONICAL}}<meta property="og:title" content="{{TITLE}}">
+<meta property="og:description" content="{{DESC}}">
+{{OGIMAGE}}{{HEAD_EXTRA}}
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Archivo:wght@400;500;700&display=swap" rel="stylesheet">
+{{ASSETS_HEAD}}
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="nav"><div class="wrap">
+  <a class="brand" href="{{HOME}}" id="homeLink" aria-label="{{BRAND}} home">{{WORDMARK}}</a>
+  <nav class="nav-links" aria-label="Main"><a href="{{HOME}}#contractor">Contractor</a><a href="{{HOME}}#trades">Trades</a><a href="{{HOME}}#officials">Inspectors</a><a href="{{REL}}faq/">FAQ</a><a href="{{REL}}blog/">Blog</a></nav>
+  {{NAV_TOOLS}}
+</div></header>
+<main id="main">
+{{MAIN}}
+</main>
+{{FOOTER}}
+{{STICKY}}
+<script>window.ROUTE={{ROUTE}};</script>
+{{ASSETS_SEARCH}}
+</body>
+</html>

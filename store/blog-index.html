@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>{{TITLE}}</title>
+<meta name="description" content="{{DESC}}">
+{{CANONICAL}}<meta property="og:type" content="website">
+<meta property="og:title" content="{{TITLE}}">
+<meta property="og:description" content="{{DESC}}">
+{{OGIMAGE}}{{HEAD_EXTRA}}<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Archivo:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="alternate" type="application/rss+xml" title="{{BRAND}} blog" href="{{REL}}blog/feed.xml">
+{{ASSETS_HEAD}}
+</head>
+<body class="blog">
+<a class="skip" href="#main">Skip to content</a>
+<header class="nav"><div class="wrap">
+  <a class="brand" href="{{HOME}}" id="homeLink" aria-label="{{BRAND}} home">{{WORDMARK}}</a>
+  <nav class="nav-links" aria-label="Main"><a href="{{HOME}}#contractor">Licenses</a><a href="{{HOME}}#compare">Compare</a><a href="{{REL}}faq/">FAQ</a><a href="{{REL}}blog/" aria-current="page">Blog</a></nav>
+  {{NAV_TOOLS}}
+</div></header>
+
+<main class="wrap" id="main">
+  <nav class="crumb" aria-label="Breadcrumb"><a href="{{HOME}}">Home</a><span>/</span>Blog</nav>
+  <div class="blog-head">
+    <h1 id="h1">{{H1}}</h1>
+    <p class="post-lead">{{LEAD}}</p>
+    {{TAG_FILTER}}
+  </div>
+
+  {{TAKEAWAYS_HTML}}
+  {{INTRO_HTML}}
+  {{FEATURED_HTML}}
+  <section class="post-grid" aria-label="All posts">
+    {{CARDS_HTML}}
+  </section>
+  {{EMPTY_HTML}}
+
+  <section class="blog-start" aria-labelledby="h-start">
+    <h2 id="h-start">Where should you start if your Virginia exam is coming up?</h2>
+    <p>Three things trip up most Virginia candidates, and none of them is a lack of trade knowledge. The first is the clock. The contractor and tradesman exams are open book, and the people who run out of time are the ones who look up answers they should already know roughly where to find. Tab your references, read the table of contents until you can place any topic in its chapter, and drill the index with a timer.</p>
+    <p>The second is the business side. Most Class A and B firms sit the business and law portion as well as the trade exam, and contract law, lien rules and the Virginia regulations catch people who only studied their trade. The third is the edition. Your PSI candidate bulletin names the reference books your test is written to, and the books you bring must match it. The posts here link to the matching <a href="{{HOME}}#contractor">license pages</a>, where every package ships from our fulfillment center, {{FULFILL_NAME}}.</p>
+    <h2 id="h-topics">What does this blog cover?</h2>
+    <p><strong>Study strategy.</strong> How to split six to eight weeks between the reference books, the business and law material and timed practice; how to keep an error log that points at sections instead of vague topics; and what to do in the last 3 days. Every plan assumes about 90 minutes an evening, because most readers work full days.</p>
+    <p><strong>Using the references.</strong> Which chapters carry most of the questions, how to highlight and tab a book so the tabs are useful, and how to read an exception without missing the condition that makes it apply. Permanent tabs and highlighting are allowed in Virginia exam rooms; removable flags are not.</p>
+    <p><strong>Virginia licensing.</strong> Class A, B and C limits, the 8-hour pre-license course, tradesman licenses through the Board for Contractors, and DHCD certification for inspectors and plans examiners. Rules change without much notice, so each post carries the date it was last checked and a link to the board's own page.</p>
+  </section>
+
+  <section class="blog-start" aria-labelledby="h-bfaq">
+    <h2 id="h-bfaq">Questions we get asked most</h2>
+    <div class="faq" style="margin:0;max-width:none">
+      {{BLOG_FAQ_HTML}}
+    </div>
+  </section>
+
+  <aside class="post-cta" aria-label="Shop packages">
+    <div>
+      <span class="pc-tier">Ready to study?</span>
+      <p class="cta-h">Find your license, then choose a package.</p>
+      <p>Exam prep for 60 Virginia contractor, tradesman and inspector licenses. Buy buttons go straight to checkout.</p>
+    </div>
+    <a class="btn btn-buy" href="{{HOME}}#contractor" data-track="blog_cta">Find my license</a>
+  </aside>
+</main>
+
+{{FOOTER}}
+<script>window.ROUTE={{ROUTE}};</script>
+{{ASSETS_SEARCH}}
+</body>
+</html>
