@@ -1,12 +1,12 @@
 ---
 title: Application and Business Filing Services Licensing Service
-url: https://passthevirginiacontractorexam.com/licensing-services/licensing-service-3/
+url: https://passyourvirginiacontractorexam.com/licensing-services/licensing-service-3/
 updated: 2026-10-19
-site: Pass the Virginia Contractor Exam
+site: Pass Your Virginia Contractor Exam
 description: Licensing Service for the Virginia Application and Business Filing Services exam: help preparing and filing the license application. $295. One-click checkout.
 ---
 
-[All licenses](https://passthevirginiacontractorexam.com/) /[Business and law, pre-license and paperwork](https://passthevirginiacontractorexam.com/#business) /[Application and Business Filing Services](https://passthevirginiacontractorexam.com/licensing-services/) /Licensing Service
+[All licenses](https://passyourvirginiacontractorexam.com/) /[Business and law, pre-license and paperwork](https://passyourvirginiacontractorexam.com/#business) /[Application and Business Filing Services](https://passyourvirginiacontractorexam.com/licensing-services/) /Licensing Service
 
 Application and Business Filing Services · Licensing Service
 
@@ -50,10 +50,10 @@ The Application and Business Filing Services products cover the business side of
 
 ## Other Application and Business Filing Services options
 
-[**Licensing Service** Virginia Contractor License Application Service $495](https://passthevirginiacontractorexam.com/licensing-services/licensing-service-2/) · [**Licensing Service** Ultimate Virginia State Application and Business Filing Pack… $995](https://passthevirginiacontractorexam.com/licensing-services/licensing-service/) [Compare every Application and Business Filing Services package →](https://passthevirginiacontractorexam.com/licensing-services/) [Choose a different license →](https://passthevirginiacontractorexam.com/)
+[**Licensing Service** Virginia Contractor License Application Service $495](https://passyourvirginiacontractorexam.com/licensing-services/licensing-service-2/) · [**Licensing Service** Ultimate Virginia State Application and Business Filing Pack… $995](https://passyourvirginiacontractorexam.com/licensing-services/licensing-service/) [Compare every Application and Business Filing Services package →](https://passyourvirginiacontractorexam.com/licensing-services/) [Choose a different license →](https://passyourvirginiacontractorexam.com/)
 
 ### More business and law, pre-license and paperwork
-[8-Hour Pre-License Education](https://passthevirginiacontractorexam.com/pre-license-education/) · [Class A/B Business and Law](https://passthevirginiacontractorexam.com/business-and-law/) · [Virginia exam FAQ](https://passthevirginiacontractorexam.com/faq/) · [Study tips](https://passthevirginiacontractorexam.com/blog/)
+[8-Hour Pre-License Education](https://passyourvirginiacontractorexam.com/pre-license-education/) · [Class A/B Business and Law](https://passyourvirginiacontractorexam.com/business-and-law/) · [Virginia exam FAQ](https://passyourvirginiacontractorexam.com/faq/) · [Study tips](https://passyourvirginiacontractorexam.com/blog/)
 
 ## Questions before you buy
 
@@ -91,6 +91,6 @@ Licensing facts checked against these pages; last updated October 19, 2026. Rule
 
 ---
 
-Source: https://passthevirginiacontractorexam.com/licensing-services/licensing-service-3/  
-Publisher: Pass the Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
+Source: https://passyourvirginiacontractorexam.com/licensing-services/licensing-service-3/  
+Publisher: Pass Your Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
 Prices change; the product page and checkout show the current price.

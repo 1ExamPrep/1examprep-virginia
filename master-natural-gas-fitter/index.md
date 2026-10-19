@@ -1,12 +1,12 @@
 ---
 title: Virginia Master Natural Gas Fitter Exam Prep
-url: https://passthevirginiacontractorexam.com/master-natural-gas-fitter/
+url: https://passyourvirginiacontractorexam.com/master-natural-gas-fitter/
 updated: 2026-10-19
-site: Pass the Virginia Contractor Exam
+site: Pass Your Virginia Contractor Exam
 description: Master Natural Gas Fitter exam prep for Virginia: 7 options from $79.99 to $2,795, including book package, books and courses rental, highlighted and tabbed.
 ---
 
-[All licenses](https://passthevirginiacontractorexam.com/) /[Tradesman licenses](https://passthevirginiacontractorexam.com/#trades) /Master Natural Gas Fitter
+[All licenses](https://passyourvirginiacontractorexam.com/) /[Tradesman licenses](https://passyourvirginiacontractorexam.com/#trades) /Master Natural Gas Fitter
 
 # Master Natural Gas Fitter exam prep
 
@@ -28,65 +28,65 @@ Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Det
 
 Online Practice Exams
 
-### [Virginia Master Natural Gasfitter - Online Practice Questions](https://passthevirginiacontractorexam.com/master-natural-gas-fitter/online-practice-exams/)
+### [Virginia Master Natural Gasfitter - Online Practice Questions](https://passyourvirginiacontractorexam.com/master-natural-gas-fitter/online-practice-exams/)
 
 $79.99 (was $120) Save 33%
-[Buy now](https://1examprep.com/cart/50797624950841:1) · [Details](https://passthevirginiacontractorexam.com/master-natural-gas-fitter/online-practice-exams/)
+[Buy now](https://1examprep.com/cart/50797624950841:1) · [Details](https://passyourvirginiacontractorexam.com/master-natural-gas-fitter/online-practice-exams/)
 
 Book Package
 
-### [Virginia Master Natural Gasfitter Contractor Exam Complete Book Package](https://passthevirginiacontractorexam.com/master-natural-gas-fitter/book-package/)
+### [Virginia Master Natural Gasfitter Contractor Exam Complete Book Package](https://passyourvirginiacontractorexam.com/master-natural-gas-fitter/book-package/)
 
 $445 (was $545) Save 18%  to $645
-[Buy now](https://1examprep.com/cart/50659700539449:1) · [Details](https://passthevirginiacontractorexam.com/master-natural-gas-fitter/book-package/)
+[Buy now](https://1examprep.com/cart/50659700539449:1) · [Details](https://passyourvirginiacontractorexam.com/master-natural-gas-fitter/book-package/)
 
 Highlighted and Tabbed Books
 
-### [Virginia Master Natural Gasfitter Contractor Exam Complete Pre-Highlighted & Tabbed Book Package](https://passthevirginiacontractorexam.com/master-natural-gas-fitter/highlighted-tabbed/)
+### [Virginia Master Natural Gasfitter Contractor Exam Complete Pre-Highlighted & Tabbed Book Package](https://passyourvirginiacontractorexam.com/master-natural-gas-fitter/highlighted-tabbed/)
 
 $645 (was $845) Save 24%
-[Buy now](https://1examprep.com/cart/44379250655289:1) · [Details](https://passthevirginiacontractorexam.com/master-natural-gas-fitter/highlighted-tabbed/)
+[Buy now](https://1examprep.com/cart/44379250655289:1) · [Details](https://passyourvirginiacontractorexam.com/master-natural-gas-fitter/highlighted-tabbed/)
 
 Live Virtual Training
 
-### [Virginia Master Natural Gasfitter Contractor Exam Prep - Live Virtual + Self Study Training](https://passthevirginiacontractorexam.com/master-natural-gas-fitter/live-training/)
+### [Virginia Master Natural Gasfitter Contractor Exam Prep - Live Virtual + Self Study Training](https://passyourvirginiacontractorexam.com/master-natural-gas-fitter/live-training/)
 
 $495 (was $695) Save 29%
-[Buy now](https://1examprep.com/cart/45846482878521:1) · [Details](https://passthevirginiacontractorexam.com/master-natural-gas-fitter/live-training/)
+[Buy now](https://1examprep.com/cart/45846482878521:1) · [Details](https://passyourvirginiacontractorexam.com/master-natural-gas-fitter/live-training/)
 
 Books and Courses Rental
 
-### [Virginia Master Natural Gasfitter - Books & Courses Rental Package](https://passthevirginiacontractorexam.com/master-natural-gas-fitter/rental-package/)
+### [Virginia Master Natural Gasfitter - Books & Courses Rental Package](https://passyourvirginiacontractorexam.com/master-natural-gas-fitter/rental-package/)
 
 $1,805 (was $2,105) Save 14%
-[Buy now](https://1examprep.com/cart/46150220644409:1) · [Details](https://passthevirginiacontractorexam.com/master-natural-gas-fitter/rental-package/)
+[Buy now](https://1examprep.com/cart/46150220644409:1) · [Details](https://passyourvirginiacontractorexam.com/master-natural-gas-fitter/rental-package/)
 
 Ultimate Rental Package
 
-### [Virginia Master Natural Gasfitter - Ultimate Exam Prep Rental Package](https://passthevirginiacontractorexam.com/master-natural-gas-fitter/ultimate-rental/)
+### [Virginia Master Natural Gasfitter - Ultimate Exam Prep Rental Package](https://passyourvirginiacontractorexam.com/master-natural-gas-fitter/ultimate-rental/)
 
 $1,415 (was $1,815) Save 22%
-[Buy now](https://1examprep.com/cart/46151371423801:1) · [Details](https://passthevirginiacontractorexam.com/master-natural-gas-fitter/ultimate-rental/)
+[Buy now](https://1examprep.com/cart/46151371423801:1) · [Details](https://passyourvirginiacontractorexam.com/master-natural-gas-fitter/ultimate-rental/)
 
 The 1 Package (all-inclusive)
 
-### [The 1 Package: All-Inclusive Virginia Master Natural Gasfitter Exam, Licensing & Business Setup Solution](https://passthevirginiacontractorexam.com/master-natural-gas-fitter/the-1-package/)
+### [The 1 Package: All-Inclusive Virginia Master Natural Gasfitter Exam, Licensing & Business Setup Solution](https://passyourvirginiacontractorexam.com/master-natural-gas-fitter/the-1-package/)
 
 $2,795 (was $3,295) Save 15%
-[Buy now](https://1examprep.com/cart/46151470907449:1) · [Details](https://passthevirginiacontractorexam.com/master-natural-gas-fitter/the-1-package/)
+[Buy now](https://1examprep.com/cart/46151470907449:1) · [Details](https://passyourvirginiacontractorexam.com/master-natural-gas-fitter/the-1-package/)
 
 ## How do the Master Natural Gas Fitter options compare?
 
 Prices are the starting price for each option; some offer add-ons at checkout.
 
 Option | What you get | Price
-[Online Practice Exams](https://passthevirginiacontractorexam.com/master-natural-gas-fitter/online-practice-exams/) | timed practice questions online, with explanations | $79.99
-[Book Package](https://passthevirginiacontractorexam.com/master-natural-gas-fitter/book-package/) | the reference books the exam is written to, new and unmarked | $445
-[Highlighted and Tabbed Books](https://passthevirginiacontractorexam.com/master-natural-gas-fitter/highlighted-tabbed/) | the reference books already highlighted and permanently tabbed, ready for the exam room | $645
-[Live Virtual Training](https://passthevirginiacontractorexam.com/master-natural-gas-fitter/live-training/) | live virtual classes with an instructor plus self-study material | $495
-[Books and Courses Rental](https://passthevirginiacontractorexam.com/master-natural-gas-fitter/rental-package/) | the reference books on rental plus the online course, returned after your exam | $1,805
-[Ultimate Rental Package](https://passthevirginiacontractorexam.com/master-natural-gas-fitter/ultimate-rental/) | highlighted and tabbed rental books, the online course and live training | $1,415
-[The 1 Package (all-inclusive)](https://passthevirginiacontractorexam.com/master-natural-gas-fitter/the-1-package/) | everything: exam prep, books, licensing paperwork and business setup | $2,795
+[Online Practice Exams](https://passyourvirginiacontractorexam.com/master-natural-gas-fitter/online-practice-exams/) | timed practice questions online, with explanations | $79.99
+[Book Package](https://passyourvirginiacontractorexam.com/master-natural-gas-fitter/book-package/) | the reference books the exam is written to, new and unmarked | $445
+[Highlighted and Tabbed Books](https://passyourvirginiacontractorexam.com/master-natural-gas-fitter/highlighted-tabbed/) | the reference books already highlighted and permanently tabbed, ready for the exam room | $645
+[Live Virtual Training](https://passyourvirginiacontractorexam.com/master-natural-gas-fitter/live-training/) | live virtual classes with an instructor plus self-study material | $495
+[Books and Courses Rental](https://passyourvirginiacontractorexam.com/master-natural-gas-fitter/rental-package/) | the reference books on rental plus the online course, returned after your exam | $1,805
+[Ultimate Rental Package](https://passyourvirginiacontractorexam.com/master-natural-gas-fitter/ultimate-rental/) | highlighted and tabbed rental books, the online course and live training | $1,415
+[The 1 Package (all-inclusive)](https://passyourvirginiacontractorexam.com/master-natural-gas-fitter/the-1-package/) | everything: exam prep, books, licensing paperwork and business setup | $2,795
 
 ## How does the Master Natural Gas Fitter exam work?
 
@@ -135,27 +135,27 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 
 ### More in Tradesman licenses
 
-- [NASCLA Electrical Contractor](https://passthevirginiacontractorexam.com/electrical-contractor-nascla/)
-- [Journeyman Electrician](https://passthevirginiacontractorexam.com/journeyman-electrician/)
-- [Master Electrician](https://passthevirginiacontractorexam.com/master-electrician/)
-- [Residential Plumber Tradesman](https://passthevirginiacontractorexam.com/residential-plumber/)
-- [Journeyman Plumber](https://passthevirginiacontractorexam.com/journeyman-plumber/)
-- [Master Plumber](https://passthevirginiacontractorexam.com/master-plumber/)
-- [Residential HVAC Tradesman](https://passthevirginiacontractorexam.com/residential-hvac/)
-- [Journeyman HVAC](https://passthevirginiacontractorexam.com/journeyman-hvac/)
+- [NASCLA Electrical Contractor](https://passyourvirginiacontractorexam.com/electrical-contractor-nascla/)
+- [Journeyman Electrician](https://passyourvirginiacontractorexam.com/journeyman-electrician/)
+- [Master Electrician](https://passyourvirginiacontractorexam.com/master-electrician/)
+- [Residential Plumber Tradesman](https://passyourvirginiacontractorexam.com/residential-plumber/)
+- [Journeyman Plumber](https://passyourvirginiacontractorexam.com/journeyman-plumber/)
+- [Master Plumber](https://passyourvirginiacontractorexam.com/master-plumber/)
+- [Residential HVAC Tradesman](https://passyourvirginiacontractorexam.com/residential-hvac/)
+- [Journeyman HVAC](https://passyourvirginiacontractorexam.com/journeyman-hvac/)
 
 ### Other license groups
 
-- [Contractor license classes](https://passthevirginiacontractorexam.com/#contractor)
-- [Business and law, pre-license and paperwork](https://passthevirginiacontractorexam.com/#business)
-- [Building officials](https://passthevirginiacontractorexam.com/#officials)
-- [Code books and code courses](https://passthevirginiacontractorexam.com/#codes)
+- [Contractor license classes](https://passyourvirginiacontractorexam.com/#contractor)
+- [Business and law, pre-license and paperwork](https://passyourvirginiacontractorexam.com/#business)
+- [Building officials](https://passyourvirginiacontractorexam.com/#officials)
+- [Code books and code courses](https://passyourvirginiacontractorexam.com/#codes)
 
 ### Also on this site
 
-- [Virginia exam FAQ](https://passthevirginiacontractorexam.com/faq/)
-- [Study tips and licensing news](https://passthevirginiacontractorexam.com/blog/)
-- [Class A, B and C limits](https://passthevirginiacontractorexam.com/#classes)
+- [Virginia exam FAQ](https://passyourvirginiacontractorexam.com/faq/)
+- [Study tips and licensing news](https://passyourvirginiacontractorexam.com/blog/)
+- [Class A, B and C limits](https://passyourvirginiacontractorexam.com/#classes)
 
 ## Sources
 
@@ -166,6 +166,6 @@ Licensing facts checked against these pages; last updated October 19, 2026. Rule
 
 ---
 
-Source: https://passthevirginiacontractorexam.com/master-natural-gas-fitter/  
-Publisher: Pass the Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
+Source: https://passyourvirginiacontractorexam.com/master-natural-gas-fitter/  
+Publisher: Pass Your Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
 Prices change; the product page and checkout show the current price.

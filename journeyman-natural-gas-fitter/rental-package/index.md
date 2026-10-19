@@ -1,12 +1,12 @@
 ---
 title: Journeyman Natural Gas Fitter Books and Courses Rental
-url: https://passthevirginiacontractorexam.com/journeyman-natural-gas-fitter/rental-package/
+url: https://passyourvirginiacontractorexam.com/journeyman-natural-gas-fitter/rental-package/
 updated: 2026-10-19
-site: Pass the Virginia Contractor Exam
+site: Pass Your Virginia Contractor Exam
 description: Books and Courses Rental for the Virginia Journeyman Natural Gas Fitter exam: the reference books on rental plus the online course, returned after your exam.
 ---
 
-[All licenses](https://passthevirginiacontractorexam.com/) /[Tradesman licenses](https://passthevirginiacontractorexam.com/#trades) /[Journeyman Natural Gas Fitter](https://passthevirginiacontractorexam.com/journeyman-natural-gas-fitter/) /Books and Courses Rental
+[All licenses](https://passyourvirginiacontractorexam.com/) /[Tradesman licenses](https://passyourvirginiacontractorexam.com/#trades) /[Journeyman Natural Gas Fitter](https://passyourvirginiacontractorexam.com/journeyman-natural-gas-fitter/) /Books and Courses Rental
 
 Journeyman Natural Gas Fitter · Books and Courses Rental
 
@@ -53,10 +53,10 @@ The Journeyman Natural Gas Fitter exam is a tradesman exam: one person is licens
 
 ## Other Journeyman Natural Gas Fitter options
 
-[**Online Exam Prep Course** Virginia Journeyman Natural Gasfitter- Online Exam Prep $295](https://passthevirginiacontractorexam.com/journeyman-natural-gas-fitter/online-course/) · [**Highlighted and Tabbed Books** Virginia Journeyman Natural Gasfitter Exam Complete Highligh… $645](https://passthevirginiacontractorexam.com/journeyman-natural-gas-fitter/highlighted-tabbed/) · [**Live Virtual Training** Virginia Journeyman Natural Gasfitter Exam Prep - Live Virtu… $495](https://passthevirginiacontractorexam.com/journeyman-natural-gas-fitter/live-training/) · [**Ultimate Rental Package** Virginia Journeyman Natural Gasfitter Ultimate Exam Prep Ren… $1,660](https://passthevirginiacontractorexam.com/journeyman-natural-gas-fitter/ultimate-rental/) [Compare every Journeyman Natural Gas Fitter package →](https://passthevirginiacontractorexam.com/journeyman-natural-gas-fitter/) [Choose a different license →](https://passthevirginiacontractorexam.com/)
+[**Online Exam Prep Course** Virginia Journeyman Natural Gasfitter- Online Exam Prep $295](https://passyourvirginiacontractorexam.com/journeyman-natural-gas-fitter/online-course/) · [**Highlighted and Tabbed Books** Virginia Journeyman Natural Gasfitter Exam Complete Highligh… $645](https://passyourvirginiacontractorexam.com/journeyman-natural-gas-fitter/highlighted-tabbed/) · [**Live Virtual Training** Virginia Journeyman Natural Gasfitter Exam Prep - Live Virtu… $495](https://passyourvirginiacontractorexam.com/journeyman-natural-gas-fitter/live-training/) · [**Ultimate Rental Package** Virginia Journeyman Natural Gasfitter Ultimate Exam Prep Ren… $1,660](https://passyourvirginiacontractorexam.com/journeyman-natural-gas-fitter/ultimate-rental/) [Compare every Journeyman Natural Gas Fitter package →](https://passyourvirginiacontractorexam.com/journeyman-natural-gas-fitter/) [Choose a different license →](https://passyourvirginiacontractorexam.com/)
 
 ### More tradesman licenses
-[NASCLA Electrical Contractor](https://passthevirginiacontractorexam.com/electrical-contractor-nascla/) · [Journeyman Electrician](https://passthevirginiacontractorexam.com/journeyman-electrician/) · [Master Electrician](https://passthevirginiacontractorexam.com/master-electrician/) · [Residential Plumber Tradesman](https://passthevirginiacontractorexam.com/residential-plumber/) · [Journeyman Plumber](https://passthevirginiacontractorexam.com/journeyman-plumber/) · [Virginia exam FAQ](https://passthevirginiacontractorexam.com/faq/) · [Study tips](https://passthevirginiacontractorexam.com/blog/)
+[NASCLA Electrical Contractor](https://passyourvirginiacontractorexam.com/electrical-contractor-nascla/) · [Journeyman Electrician](https://passyourvirginiacontractorexam.com/journeyman-electrician/) · [Master Electrician](https://passyourvirginiacontractorexam.com/master-electrician/) · [Residential Plumber Tradesman](https://passyourvirginiacontractorexam.com/residential-plumber/) · [Journeyman Plumber](https://passyourvirginiacontractorexam.com/journeyman-plumber/) · [Virginia exam FAQ](https://passyourvirginiacontractorexam.com/faq/) · [Study tips](https://passyourvirginiacontractorexam.com/blog/)
 
 ## Questions before you buy
 
@@ -97,6 +97,6 @@ Licensing facts checked against these pages; last updated October 19, 2026. Rule
 
 ---
 
-Source: https://passthevirginiacontractorexam.com/journeyman-natural-gas-fitter/rental-package/  
-Publisher: Pass the Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
+Source: https://passyourvirginiacontractorexam.com/journeyman-natural-gas-fitter/rental-package/  
+Publisher: Pass Your Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
 Prices change; the product page and checkout show the current price.

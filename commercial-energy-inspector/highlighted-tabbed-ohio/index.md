@@ -1,12 +1,12 @@
 ---
 title: Commercial Energy Inspector: Highlighted and Tabbed Books
-url: https://passthevirginiacontractorexam.com/commercial-energy-inspector/highlighted-tabbed-ohio/
+url: https://passyourvirginiacontractorexam.com/commercial-energy-inspector/highlighted-tabbed-ohio/
 updated: 2026-10-19
-site: Pass the Virginia Contractor Exam
+site: Pass Your Virginia Contractor Exam
 description: Highlighted and Tabbed Books for the Virginia Commercial Energy Inspector exam: the reference books already highlighted and permanently tabbed, ready for the.
 ---
 
-[All licenses](https://passthevirginiacontractorexam.com/) /[Building officials](https://passthevirginiacontractorexam.com/#officials) /[Commercial Energy Inspector](https://passthevirginiacontractorexam.com/commercial-energy-inspector/) /Highlighted and Tabbed Books
+[All licenses](https://passyourvirginiacontractorexam.com/) /[Building officials](https://passyourvirginiacontractorexam.com/#officials) /[Commercial Energy Inspector](https://passyourvirginiacontractorexam.com/commercial-energy-inspector/) /Highlighted and Tabbed Books
 
 Commercial Energy Inspector · Highlighted and Tabbed Books (Ohio edition)
 
@@ -50,10 +50,10 @@ The Commercial Energy Inspector exam is a code official certification. It is tak
 
 ## Other Commercial Energy Inspector options
 
-[**Books and Courses Rental (West Virginia edition)** West Virginia Commercial Energy Inspector (ICC - 77) - Books… $540](https://passthevirginiacontractorexam.com/commercial-energy-inspector/rental-package-west-virginia/) [Compare every Commercial Energy Inspector package →](https://passthevirginiacontractorexam.com/commercial-energy-inspector/) [Choose a different license →](https://passthevirginiacontractorexam.com/)
+[**Books and Courses Rental (West Virginia edition)** West Virginia Commercial Energy Inspector (ICC - 77) - Books… $540](https://passyourvirginiacontractorexam.com/commercial-energy-inspector/rental-package-west-virginia/) [Compare every Commercial Energy Inspector package →](https://passyourvirginiacontractorexam.com/commercial-energy-inspector/) [Choose a different license →](https://passyourvirginiacontractorexam.com/)
 
 ### More building officials
-[Residential Energy Inspector / Plans Examiner](https://passthevirginiacontractorexam.com/residential-energy-inspector/) · [Commercial Energy Plans Examiner](https://passthevirginiacontractorexam.com/commercial-energy-plans-examiner/) · [Building Plans Examiner (B3)](https://passthevirginiacontractorexam.com/building-plans-examiner/) · [Residential Plans Examiner (R3)](https://passthevirginiacontractorexam.com/residential-plans-examiner/) · [Electrical Plans Examiner (E3)](https://passthevirginiacontractorexam.com/electrical-plans-examiner/) · [Virginia exam FAQ](https://passthevirginiacontractorexam.com/faq/) · [Study tips](https://passthevirginiacontractorexam.com/blog/)
+[Residential Energy Inspector / Plans Examiner](https://passyourvirginiacontractorexam.com/residential-energy-inspector/) · [Commercial Energy Plans Examiner](https://passyourvirginiacontractorexam.com/commercial-energy-plans-examiner/) · [Building Plans Examiner (B3)](https://passyourvirginiacontractorexam.com/building-plans-examiner/) · [Residential Plans Examiner (R3)](https://passyourvirginiacontractorexam.com/residential-plans-examiner/) · [Electrical Plans Examiner (E3)](https://passyourvirginiacontractorexam.com/electrical-plans-examiner/) · [Virginia exam FAQ](https://passyourvirginiacontractorexam.com/faq/) · [Study tips](https://passyourvirginiacontractorexam.com/blog/)
 
 ## Questions before you buy
 
@@ -90,6 +90,6 @@ Licensing facts checked against these pages; last updated October 19, 2026. Rule
 
 ---
 
-Source: https://passthevirginiacontractorexam.com/commercial-energy-inspector/highlighted-tabbed-ohio/  
-Publisher: Pass the Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
+Source: https://passyourvirginiacontractorexam.com/commercial-energy-inspector/highlighted-tabbed-ohio/  
+Publisher: Pass Your Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
 Prices change; the product page and checkout show the current price.

@@ -1,12 +1,12 @@
 ---
 title: Residential Building Inspector (B1) Online Exam Prep Course
-url: https://passthevirginiacontractorexam.com/residential-building-inspector/online-course/
+url: https://passyourvirginiacontractorexam.com/residential-building-inspector/online-course/
 updated: 2026-10-19
-site: Pass the Virginia Contractor Exam
+site: Pass Your Virginia Contractor Exam
 description: Online Exam Prep Course for the Virginia Residential Building Inspector (B1) exam: an online course with practice exams you can take on a phone or laptop.
 ---
 
-[All licenses](https://passthevirginiacontractorexam.com/) /[Building officials](https://passthevirginiacontractorexam.com/#officials) /[Residential Building Inspector (B1)](https://passthevirginiacontractorexam.com/residential-building-inspector/) /Online Exam Prep Course
+[All licenses](https://passyourvirginiacontractorexam.com/) /[Building officials](https://passyourvirginiacontractorexam.com/#officials) /[Residential Building Inspector (B1)](https://passyourvirginiacontractorexam.com/residential-building-inspector/) /Online Exam Prep Course
 
 Residential Building Inspector (B1) · Online Exam Prep Course
 
@@ -50,10 +50,10 @@ The Residential Building Inspector (B1) exam is a code official certification. I
 
 ## Other Residential Building Inspector (B1) options
 
-[**Book Package** Virginia Residential Building Inspector (ICC - B1) Exam Book… $199](https://passthevirginiacontractorexam.com/residential-building-inspector/book-package/) · [**Highlighted and Tabbed Books** Virginia Residential Building Inspector (ICC - B1) Highlight… $345](https://passthevirginiacontractorexam.com/residential-building-inspector/highlighted-tabbed/) · [**Books and Courses Rental** Virginia Residential Building Inspector (ICC - B1) - Books &… $640](https://passthevirginiacontractorexam.com/residential-building-inspector/rental-package/) [Compare every Residential Building Inspector (B1) package →](https://passthevirginiacontractorexam.com/residential-building-inspector/) [Choose a different license →](https://passthevirginiacontractorexam.com/)
+[**Book Package** Virginia Residential Building Inspector (ICC - B1) Exam Book… $199](https://passyourvirginiacontractorexam.com/residential-building-inspector/book-package/) · [**Highlighted and Tabbed Books** Virginia Residential Building Inspector (ICC - B1) Highlight… $345](https://passyourvirginiacontractorexam.com/residential-building-inspector/highlighted-tabbed/) · [**Books and Courses Rental** Virginia Residential Building Inspector (ICC - B1) - Books &… $640](https://passyourvirginiacontractorexam.com/residential-building-inspector/rental-package/) [Compare every Residential Building Inspector (B1) package →](https://passyourvirginiacontractorexam.com/residential-building-inspector/) [Choose a different license →](https://passyourvirginiacontractorexam.com/)
 
 ### More building officials
-[Residential Energy Inspector / Plans Examiner](https://passthevirginiacontractorexam.com/residential-energy-inspector/) · [Commercial Energy Inspector](https://passthevirginiacontractorexam.com/commercial-energy-inspector/) · [Commercial Energy Plans Examiner](https://passthevirginiacontractorexam.com/commercial-energy-plans-examiner/) · [Building Plans Examiner (B3)](https://passthevirginiacontractorexam.com/building-plans-examiner/) · [Residential Plans Examiner (R3)](https://passthevirginiacontractorexam.com/residential-plans-examiner/) · [Virginia exam FAQ](https://passthevirginiacontractorexam.com/faq/) · [Study tips](https://passthevirginiacontractorexam.com/blog/)
+[Residential Energy Inspector / Plans Examiner](https://passyourvirginiacontractorexam.com/residential-energy-inspector/) · [Commercial Energy Inspector](https://passyourvirginiacontractorexam.com/commercial-energy-inspector/) · [Commercial Energy Plans Examiner](https://passyourvirginiacontractorexam.com/commercial-energy-plans-examiner/) · [Building Plans Examiner (B3)](https://passyourvirginiacontractorexam.com/building-plans-examiner/) · [Residential Plans Examiner (R3)](https://passyourvirginiacontractorexam.com/residential-plans-examiner/) · [Virginia exam FAQ](https://passyourvirginiacontractorexam.com/faq/) · [Study tips](https://passyourvirginiacontractorexam.com/blog/)
 
 ## Questions before you buy
 
@@ -90,6 +90,6 @@ Licensing facts checked against these pages; last updated October 19, 2026. Rule
 
 ---
 
-Source: https://passthevirginiacontractorexam.com/residential-building-inspector/online-course/  
-Publisher: Pass the Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
+Source: https://passyourvirginiacontractorexam.com/residential-building-inspector/online-course/  
+Publisher: Pass Your Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
 Prices change; the product page and checkout show the current price.

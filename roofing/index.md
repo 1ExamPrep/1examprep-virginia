@@ -1,12 +1,12 @@
 ---
 title: Virginia Roofing Contractor Exam Prep
-url: https://passthevirginiacontractorexam.com/roofing/
+url: https://passyourvirginiacontractorexam.com/roofing/
 updated: 2026-10-19
-site: Pass the Virginia Contractor Exam
+site: Pass Your Virginia Contractor Exam
 description: Roofing Contractor exam prep for Virginia: 8 options from $89.99 to $3,210, including book package, books and courses rental, highlighted and tabbed books.
 ---
 
-[All licenses](https://passthevirginiacontractorexam.com/) /[Contractor license classes](https://passthevirginiacontractorexam.com/#contractor) /Roofing Contractor
+[All licenses](https://passyourvirginiacontractorexam.com/) /[Contractor license classes](https://passyourvirginiacontractorexam.com/#contractor) /Roofing Contractor
 
 # Roofing Contractor exam prep
 
@@ -28,73 +28,73 @@ Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Det
 
 Online Exam Prep Course
 
-### [Virginia Roofing Contractor - Online Exam Prep Course](https://passthevirginiacontractorexam.com/roofing/online-course/)
+### [Virginia Roofing Contractor - Online Exam Prep Course](https://passyourvirginiacontractorexam.com/roofing/online-course/)
 
 $295 (was $395) Save 25%  to $595
-[Buy now](https://1examprep.com/cart/19542622470201:1) · [Details](https://passthevirginiacontractorexam.com/roofing/online-course/)
+[Buy now](https://1examprep.com/cart/19542622470201:1) · [Details](https://passyourvirginiacontractorexam.com/roofing/online-course/)
 
 Pre-Printed Tabs
 
-### [Virginia Roofing Contracting Exam; Pre-Printed Tabs](https://passthevirginiacontractorexam.com/roofing/tabs/)
+### [Virginia Roofing Contracting Exam; Pre-Printed Tabs](https://passyourvirginiacontractorexam.com/roofing/tabs/)
 
 $89.99 (was $99.99) Save 10%
-[Buy now](https://1examprep.com/cart/41290037100601:1) · [Details](https://passthevirginiacontractorexam.com/roofing/tabs/)
+[Buy now](https://1examprep.com/cart/41290037100601:1) · [Details](https://passyourvirginiacontractorexam.com/roofing/tabs/)
 
 Book Package
 
-### [Virginia Roofing Contractor Complete Book Package](https://passthevirginiacontractorexam.com/roofing/book-package/)
+### [Virginia Roofing Contractor Complete Book Package](https://passyourvirginiacontractorexam.com/roofing/book-package/)
 
 $995 (was $1,095) Save 9%  to $1,495
-[Buy now](https://1examprep.com/cart/50694072696889:1) · [Details](https://passthevirginiacontractorexam.com/roofing/book-package/)
+[Buy now](https://1examprep.com/cart/50694072696889:1) · [Details](https://passyourvirginiacontractorexam.com/roofing/book-package/)
 
 Highlighted and Tabbed Books
 
-### [Virginia Roofing Contractor Highlighted and Tabbed Book Package](https://passthevirginiacontractorexam.com/roofing/highlighted-tabbed/)
+### [Virginia Roofing Contractor Highlighted and Tabbed Book Package](https://passyourvirginiacontractorexam.com/roofing/highlighted-tabbed/)
 
 $1,495 (was $1,695) Save 12%  to $1,790
-[Buy now](https://1examprep.com/cart/50694278840377:1) · [Details](https://passthevirginiacontractorexam.com/roofing/highlighted-tabbed/)
+[Buy now](https://1examprep.com/cart/50694278840377:1) · [Details](https://passyourvirginiacontractorexam.com/roofing/highlighted-tabbed/)
 
 Live Virtual Training
 
-### [Virginia Roofing Contractor Exam Prep - Live Virtual + Self Study Training](https://passthevirginiacontractorexam.com/roofing/live-training/)
+### [Virginia Roofing Contractor Exam Prep - Live Virtual + Self Study Training](https://passyourvirginiacontractorexam.com/roofing/live-training/)
 
 $595 (was $795) Save 25%
-[Buy now](https://1examprep.com/cart/45846829105209:1) · [Details](https://passthevirginiacontractorexam.com/roofing/live-training/)
+[Buy now](https://1examprep.com/cart/45846829105209:1) · [Details](https://passyourvirginiacontractorexam.com/roofing/live-training/)
 
 Books and Courses Rental
 
-### [Virginia Roofing Contractor - Book & Courses Rental Package](https://passthevirginiacontractorexam.com/roofing/rental-package/)
+### [Virginia Roofing Contractor - Book & Courses Rental Package](https://passyourvirginiacontractorexam.com/roofing/rental-package/)
 
 $2,085 (was $2,385) Save 13%  to $2,835
-[Buy now](https://1examprep.com/cart/44449133133881:1) · [Details](https://passthevirginiacontractorexam.com/roofing/rental-package/)
+[Buy now](https://1examprep.com/cart/44449133133881:1) · [Details](https://passyourvirginiacontractorexam.com/roofing/rental-package/)
 
 Ultimate Rental Package
 
-### [Virginia Roofing Contractor Ultimate Exam Prep Rental Package](https://passthevirginiacontractorexam.com/roofing/ultimate-rental/)
+### [Virginia Roofing Contractor Ultimate Exam Prep Rental Package](https://passyourvirginiacontractorexam.com/roofing/ultimate-rental/)
 
 $2,510 (was $2,910) Save 14%
-[Buy now](https://1examprep.com/cart/44449221607481:1) · [Details](https://passthevirginiacontractorexam.com/roofing/ultimate-rental/)
+[Buy now](https://1examprep.com/cart/44449221607481:1) · [Details](https://passyourvirginiacontractorexam.com/roofing/ultimate-rental/)
 
 The 1 Package (all-inclusive)
 
-### [The 1 Package: All-Inclusive Virginia Roofing Contractor Exam, Licensing & Business Setup Solution](https://passthevirginiacontractorexam.com/roofing/the-1-package/)
+### [The 1 Package: All-Inclusive Virginia Roofing Contractor Exam, Licensing & Business Setup Solution](https://passyourvirginiacontractorexam.com/roofing/the-1-package/)
 
 $3,210 (was $3,710) Save 13%
-[Buy now](https://1examprep.com/cart/44449252180025:1) · [Details](https://passthevirginiacontractorexam.com/roofing/the-1-package/)
+[Buy now](https://1examprep.com/cart/44449252180025:1) · [Details](https://passyourvirginiacontractorexam.com/roofing/the-1-package/)
 
 ## How do the Roofing Contractor options compare?
 
 Prices are the starting price for each option; some offer add-ons at checkout.
 
 Option | What you get | Price
-[Online Exam Prep Course](https://passthevirginiacontractorexam.com/roofing/online-course/) | an online course with practice exams you can take on a phone or laptop | $295
-[Pre-Printed Tabs](https://passthevirginiacontractorexam.com/roofing/tabs/) | pre-printed permanent tabs for the reference books, allowed in the exam room | $89.99
-[Book Package](https://passthevirginiacontractorexam.com/roofing/book-package/) | the reference books the exam is written to, new and unmarked | $995
-[Highlighted and Tabbed Books](https://passthevirginiacontractorexam.com/roofing/highlighted-tabbed/) | the reference books already highlighted and permanently tabbed, ready for the exam room | $1,495
-[Live Virtual Training](https://passthevirginiacontractorexam.com/roofing/live-training/) | live virtual classes with an instructor plus self-study material | $595
-[Books and Courses Rental](https://passthevirginiacontractorexam.com/roofing/rental-package/) | the reference books on rental plus the online course, returned after your exam | $2,085
-[Ultimate Rental Package](https://passthevirginiacontractorexam.com/roofing/ultimate-rental/) | highlighted and tabbed rental books, the online course and live training | $2,510
-[The 1 Package (all-inclusive)](https://passthevirginiacontractorexam.com/roofing/the-1-package/) | everything: exam prep, books, licensing paperwork and business setup | $3,210
+[Online Exam Prep Course](https://passyourvirginiacontractorexam.com/roofing/online-course/) | an online course with practice exams you can take on a phone or laptop | $295
+[Pre-Printed Tabs](https://passyourvirginiacontractorexam.com/roofing/tabs/) | pre-printed permanent tabs for the reference books, allowed in the exam room | $89.99
+[Book Package](https://passyourvirginiacontractorexam.com/roofing/book-package/) | the reference books the exam is written to, new and unmarked | $995
+[Highlighted and Tabbed Books](https://passyourvirginiacontractorexam.com/roofing/highlighted-tabbed/) | the reference books already highlighted and permanently tabbed, ready for the exam room | $1,495
+[Live Virtual Training](https://passyourvirginiacontractorexam.com/roofing/live-training/) | live virtual classes with an instructor plus self-study material | $595
+[Books and Courses Rental](https://passyourvirginiacontractorexam.com/roofing/rental-package/) | the reference books on rental plus the online course, returned after your exam | $2,085
+[Ultimate Rental Package](https://passyourvirginiacontractorexam.com/roofing/ultimate-rental/) | highlighted and tabbed rental books, the online course and live training | $2,510
+[The 1 Package (all-inclusive)](https://passyourvirginiacontractorexam.com/roofing/the-1-package/) | everything: exam prep, books, licensing paperwork and business setup | $3,210
 
 ## How does the Roofing Contractor exam work?
 
@@ -143,27 +143,27 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 
 ### More in Contractor license classes
 
-- [NASCLA Commercial General Building Contractor](https://passthevirginiacontractorexam.com/nascla-commercial-general-building/)
-- [Commercial Building Contractor (CBC)](https://passthevirginiacontractorexam.com/commercial-building/)
-- [Commercial Improvement Contractor (CIC)](https://passthevirginiacontractorexam.com/commercial-improvement/)
-- [Residential Building Contractor (RBC)](https://passthevirginiacontractorexam.com/residential-building/)
-- [Home Improvement Contractor (HIC)](https://passthevirginiacontractorexam.com/home-improvement/)
-- [Concrete Contractor](https://passthevirginiacontractorexam.com/concrete/)
-- [Masonry Contractor](https://passthevirginiacontractorexam.com/masonry/)
-- [Floor and Floor Covering Contractor](https://passthevirginiacontractorexam.com/flooring/)
+- [NASCLA Commercial General Building Contractor](https://passyourvirginiacontractorexam.com/nascla-commercial-general-building/)
+- [Commercial Building Contractor (CBC)](https://passyourvirginiacontractorexam.com/commercial-building/)
+- [Commercial Improvement Contractor (CIC)](https://passyourvirginiacontractorexam.com/commercial-improvement/)
+- [Residential Building Contractor (RBC)](https://passyourvirginiacontractorexam.com/residential-building/)
+- [Home Improvement Contractor (HIC)](https://passyourvirginiacontractorexam.com/home-improvement/)
+- [Concrete Contractor](https://passyourvirginiacontractorexam.com/concrete/)
+- [Masonry Contractor](https://passyourvirginiacontractorexam.com/masonry/)
+- [Floor and Floor Covering Contractor](https://passyourvirginiacontractorexam.com/flooring/)
 
 ### Other license groups
 
-- [Business and law, pre-license and paperwork](https://passthevirginiacontractorexam.com/#business)
-- [Tradesman licenses](https://passthevirginiacontractorexam.com/#trades)
-- [Building officials](https://passthevirginiacontractorexam.com/#officials)
-- [Code books and code courses](https://passthevirginiacontractorexam.com/#codes)
+- [Business and law, pre-license and paperwork](https://passyourvirginiacontractorexam.com/#business)
+- [Tradesman licenses](https://passyourvirginiacontractorexam.com/#trades)
+- [Building officials](https://passyourvirginiacontractorexam.com/#officials)
+- [Code books and code courses](https://passyourvirginiacontractorexam.com/#codes)
 
 ### Also on this site
 
-- [Virginia exam FAQ](https://passthevirginiacontractorexam.com/faq/)
-- [Study tips and licensing news](https://passthevirginiacontractorexam.com/blog/)
-- [Class A, B and C limits](https://passthevirginiacontractorexam.com/#classes)
+- [Virginia exam FAQ](https://passyourvirginiacontractorexam.com/faq/)
+- [Study tips and licensing news](https://passyourvirginiacontractorexam.com/blog/)
+- [Class A, B and C limits](https://passyourvirginiacontractorexam.com/#classes)
 
 ## Sources
 
@@ -175,6 +175,6 @@ Licensing facts checked against these pages; last updated October 19, 2026. Rule
 
 ---
 
-Source: https://passthevirginiacontractorexam.com/roofing/  
-Publisher: Pass the Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
+Source: https://passyourvirginiacontractorexam.com/roofing/  
+Publisher: Pass Your Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
 Prices change; the product page and checkout show the current price.

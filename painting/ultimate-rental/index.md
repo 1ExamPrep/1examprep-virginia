@@ -1,12 +1,12 @@
 ---
 title: Painting and Wall Covering Contractor Ultimate Rental
-url: https://passthevirginiacontractorexam.com/painting/ultimate-rental/
+url: https://passyourvirginiacontractorexam.com/painting/ultimate-rental/
 updated: 2026-10-19
-site: Pass the Virginia Contractor Exam
+site: Pass Your Virginia Contractor Exam
 description: Ultimate Rental Package for the Virginia Painting and Wall Covering Contractor exam: highlighted and tabbed rental books, the online course and live.
 ---
 
-[All licenses](https://passthevirginiacontractorexam.com/) /[Contractor license classes](https://passthevirginiacontractorexam.com/#contractor) /[Painting and Wall Covering Contractor](https://passthevirginiacontractorexam.com/painting/) /Ultimate Rental Package
+[All licenses](https://passyourvirginiacontractorexam.com/) /[Contractor license classes](https://passyourvirginiacontractorexam.com/#contractor) /[Painting and Wall Covering Contractor](https://passyourvirginiacontractorexam.com/painting/) /Ultimate Rental Package
 
 Painting and Wall Covering Contractor · Ultimate Rental Package
 
@@ -50,10 +50,10 @@ The Painting and Wall Covering Contractor exam is the technical portion of the l
 
 ## Other Painting and Wall Covering Contractor options
 
-[**Online Exam Prep Course** Virginia Painting and Wall Covering Contractor - Online Exam… $295](https://passthevirginiacontractorexam.com/painting/online-course/) · [**Pre-Printed Tabs** Virginia Painting and Wall Covering Contracting Exam; Pre-Pr… $39.99](https://passthevirginiacontractorexam.com/painting/tabs/) · [**Book Package** Virginia Painting and Wall Covering Contractor Complete Book… $345](https://passthevirginiacontractorexam.com/painting/book-package/) · [**Highlighted and Tabbed Books** Virginia Painting and Wall Covering Contractor - Highlighted… $595](https://passthevirginiacontractorexam.com/painting/highlighted-tabbed/) · [**Books and Courses Rental** Virginia Painting and Wallcovering Contractor - Book & Cours… $1,185](https://passthevirginiacontractorexam.com/painting/rental-package/) · [**The 1 Package (all-inclusive)** The 1 Package: All-Inclusive Virginia Painting and Wallcover… $2,795](https://passthevirginiacontractorexam.com/painting/the-1-package/) [Compare every Painting and Wall Covering Contractor package →](https://passthevirginiacontractorexam.com/painting/) [Choose a different license →](https://passthevirginiacontractorexam.com/)
+[**Online Exam Prep Course** Virginia Painting and Wall Covering Contractor - Online Exam… $295](https://passyourvirginiacontractorexam.com/painting/online-course/) · [**Pre-Printed Tabs** Virginia Painting and Wall Covering Contracting Exam; Pre-Pr… $39.99](https://passyourvirginiacontractorexam.com/painting/tabs/) · [**Book Package** Virginia Painting and Wall Covering Contractor Complete Book… $345](https://passyourvirginiacontractorexam.com/painting/book-package/) · [**Highlighted and Tabbed Books** Virginia Painting and Wall Covering Contractor - Highlighted… $595](https://passyourvirginiacontractorexam.com/painting/highlighted-tabbed/) · [**Books and Courses Rental** Virginia Painting and Wallcovering Contractor - Book & Cours… $1,185](https://passyourvirginiacontractorexam.com/painting/rental-package/) · [**The 1 Package (all-inclusive)** The 1 Package: All-Inclusive Virginia Painting and Wallcover… $2,795](https://passyourvirginiacontractorexam.com/painting/the-1-package/) [Compare every Painting and Wall Covering Contractor package →](https://passyourvirginiacontractorexam.com/painting/) [Choose a different license →](https://passyourvirginiacontractorexam.com/)
 
 ### More contractor license classes
-[NASCLA Commercial General Building Contractor](https://passthevirginiacontractorexam.com/nascla-commercial-general-building/) · [Commercial Building Contractor (CBC)](https://passthevirginiacontractorexam.com/commercial-building/) · [Commercial Improvement Contractor (CIC)](https://passthevirginiacontractorexam.com/commercial-improvement/) · [Residential Building Contractor (RBC)](https://passthevirginiacontractorexam.com/residential-building/) · [Home Improvement Contractor (HIC)](https://passthevirginiacontractorexam.com/home-improvement/) · [Virginia exam FAQ](https://passthevirginiacontractorexam.com/faq/) · [Study tips](https://passthevirginiacontractorexam.com/blog/)
+[NASCLA Commercial General Building Contractor](https://passyourvirginiacontractorexam.com/nascla-commercial-general-building/) · [Commercial Building Contractor (CBC)](https://passyourvirginiacontractorexam.com/commercial-building/) · [Commercial Improvement Contractor (CIC)](https://passyourvirginiacontractorexam.com/commercial-improvement/) · [Residential Building Contractor (RBC)](https://passyourvirginiacontractorexam.com/residential-building/) · [Home Improvement Contractor (HIC)](https://passyourvirginiacontractorexam.com/home-improvement/) · [Virginia exam FAQ](https://passyourvirginiacontractorexam.com/faq/) · [Study tips](https://passyourvirginiacontractorexam.com/blog/)
 
 ## Questions before you buy
 
@@ -95,6 +95,6 @@ Licensing facts checked against these pages; last updated October 19, 2026. Rule
 
 ---
 
-Source: https://passthevirginiacontractorexam.com/painting/ultimate-rental/  
-Publisher: Pass the Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
+Source: https://passyourvirginiacontractorexam.com/painting/ultimate-rental/  
+Publisher: Pass Your Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
 Prices change; the product page and checkout show the current price.

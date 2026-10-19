@@ -1,12 +1,12 @@
 ---
 title: Residential Building Contractor (RBC) Pre-Printed Tabs
-url: https://passthevirginiacontractorexam.com/residential-building/tabs/
+url: https://passyourvirginiacontractorexam.com/residential-building/tabs/
 updated: 2026-10-19
-site: Pass the Virginia Contractor Exam
+site: Pass Your Virginia Contractor Exam
 description: Pre-Printed Tabs for the Virginia Residential Building Contractor (RBC) exam: pre-printed permanent tabs for the reference books, allowed in the exam room.
 ---
 
-[All licenses](https://passthevirginiacontractorexam.com/) /[Contractor license classes](https://passthevirginiacontractorexam.com/#contractor) /[Residential Building Contractor (RBC)](https://passthevirginiacontractorexam.com/residential-building/) /Pre-Printed Tabs
+[All licenses](https://passyourvirginiacontractorexam.com/) /[Contractor license classes](https://passyourvirginiacontractorexam.com/#contractor) /[Residential Building Contractor (RBC)](https://passyourvirginiacontractorexam.com/residential-building/) /Pre-Printed Tabs
 
 Residential Building Contractor (RBC) · Pre-Printed Tabs
 
@@ -37,7 +37,7 @@ Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 ## About this Residential Building Contractor (RBC) package
 
-VIRGINIA RESIDENTIAL BUILDING CONTRACTOR EXAM; PRE-PRINTED TABS The Virginia Residential Building Contractor Exam Pre-Printed Tabs set from Pass the Virginia Contractor Exam is designed to assist candidates preparing for the Virginia Department of Professional and Occupational Regulation (DPOR) residential building contractor licensing examination. These durable, color-coded tabs correspond to critical sections of the International Residential Code (IRC), OSHA safety standards, and other PSI-approved references.
+VIRGINIA RESIDENTIAL BUILDING CONTRACTOR EXAM; PRE-PRINTED TABS The Virginia Residential Building Contractor Exam Pre-Printed Tabs set from Pass Your Virginia Contractor Exam is designed to assist candidates preparing for the Virginia Department of Professional and Occupational Regulation (DPOR) residential building contractor licensing examination. These durable, color-coded tabs correspond to critical sections of the International Residential Code (IRC), OSHA safety standards, and other PSI-approved references.
 
 ## How does the Residential Building Contractor (RBC) exam work?
 
@@ -50,10 +50,10 @@ The Residential Building Contractor (RBC) exam is the technical portion of the l
 
 ## Other Residential Building Contractor (RBC) options
 
-[**Online Exam Prep Course** Virginia Residential Building Contractor - Online Exam Prep … $295](https://passthevirginiacontractorexam.com/residential-building/online-course/) · [**Book Package** Virginia Residential Building Contractor Book Package $545](https://passthevirginiacontractorexam.com/residential-building/book-package/) · [**Highlighted and Tabbed Books** Virginia Residential Building Contractor - Highlighted and T… $895](https://passthevirginiacontractorexam.com/residential-building/highlighted-tabbed/) · [**Live Virtual Training** Virginia Residential Building Contractor Exam Prep - Live Vi… $595](https://passthevirginiacontractorexam.com/residential-building/live-training/) · [**Ultimate Rental Package** Virginia Residential Building Contractor Ultimate Exam Prep … $1,910](https://passthevirginiacontractorexam.com/residential-building/ultimate-rental/) · [**The 1 Package (all-inclusive)** The 1 Package: All-Inclusive Virginia Residential Building C… $2,610](https://passthevirginiacontractorexam.com/residential-building/the-1-package/) [Compare every Residential Building Contractor (RBC) package →](https://passthevirginiacontractorexam.com/residential-building/) [Choose a different license →](https://passthevirginiacontractorexam.com/)
+[**Online Exam Prep Course** Virginia Residential Building Contractor - Online Exam Prep … $295](https://passyourvirginiacontractorexam.com/residential-building/online-course/) · [**Book Package** Virginia Residential Building Contractor Book Package $545](https://passyourvirginiacontractorexam.com/residential-building/book-package/) · [**Highlighted and Tabbed Books** Virginia Residential Building Contractor - Highlighted and T… $895](https://passyourvirginiacontractorexam.com/residential-building/highlighted-tabbed/) · [**Live Virtual Training** Virginia Residential Building Contractor Exam Prep - Live Vi… $595](https://passyourvirginiacontractorexam.com/residential-building/live-training/) · [**Ultimate Rental Package** Virginia Residential Building Contractor Ultimate Exam Prep … $1,910](https://passyourvirginiacontractorexam.com/residential-building/ultimate-rental/) · [**The 1 Package (all-inclusive)** The 1 Package: All-Inclusive Virginia Residential Building C… $2,610](https://passyourvirginiacontractorexam.com/residential-building/the-1-package/) [Compare every Residential Building Contractor (RBC) package →](https://passyourvirginiacontractorexam.com/residential-building/) [Choose a different license →](https://passyourvirginiacontractorexam.com/)
 
 ### More contractor license classes
-[NASCLA Commercial General Building Contractor](https://passthevirginiacontractorexam.com/nascla-commercial-general-building/) · [Commercial Building Contractor (CBC)](https://passthevirginiacontractorexam.com/commercial-building/) · [Commercial Improvement Contractor (CIC)](https://passthevirginiacontractorexam.com/commercial-improvement/) · [Home Improvement Contractor (HIC)](https://passthevirginiacontractorexam.com/home-improvement/) · [Concrete Contractor](https://passthevirginiacontractorexam.com/concrete/) · [Virginia exam FAQ](https://passthevirginiacontractorexam.com/faq/) · [Study tips](https://passthevirginiacontractorexam.com/blog/)
+[NASCLA Commercial General Building Contractor](https://passyourvirginiacontractorexam.com/nascla-commercial-general-building/) · [Commercial Building Contractor (CBC)](https://passyourvirginiacontractorexam.com/commercial-building/) · [Commercial Improvement Contractor (CIC)](https://passyourvirginiacontractorexam.com/commercial-improvement/) · [Home Improvement Contractor (HIC)](https://passyourvirginiacontractorexam.com/home-improvement/) · [Concrete Contractor](https://passyourvirginiacontractorexam.com/concrete/) · [Virginia exam FAQ](https://passyourvirginiacontractorexam.com/faq/) · [Study tips](https://passyourvirginiacontractorexam.com/blog/)
 
 ## Questions before you buy
 
@@ -91,6 +91,6 @@ Licensing facts checked against these pages; last updated October 19, 2026. Rule
 
 ---
 
-Source: https://passthevirginiacontractorexam.com/residential-building/tabs/  
-Publisher: Pass the Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
+Source: https://passyourvirginiacontractorexam.com/residential-building/tabs/  
+Publisher: Pass Your Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
 Prices change; the product page and checkout show the current price.

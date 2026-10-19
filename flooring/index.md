@@ -1,12 +1,12 @@
 ---
 title: Virginia Floor and Floor Covering Contractor Exam Prep
-url: https://passthevirginiacontractorexam.com/flooring/
+url: https://passyourvirginiacontractorexam.com/flooring/
 updated: 2026-10-19
-site: Pass the Virginia Contractor Exam
+site: Pass Your Virginia Contractor Exam
 description: Floor and Floor Covering Contractor exam prep for Virginia: 7 options from $295 to $2,710, including book package, books and courses rental, highlighted and.
 ---
 
-[All licenses](https://passthevirginiacontractorexam.com/) /[Contractor license classes](https://passthevirginiacontractorexam.com/#contractor) /Floor and Floor Covering Contractor
+[All licenses](https://passyourvirginiacontractorexam.com/) /[Contractor license classes](https://passyourvirginiacontractorexam.com/#contractor) /Floor and Floor Covering Contractor
 
 # Floor and Floor Covering Contractor exam prep
 
@@ -28,65 +28,65 @@ Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Det
 
 Online Exam Prep Course
 
-### [Virginia Flooring and Floor Covering Contracting - Online Exam Prep Course](https://passthevirginiacontractorexam.com/flooring/online-course/)
+### [Virginia Flooring and Floor Covering Contracting - Online Exam Prep Course](https://passyourvirginiacontractorexam.com/flooring/online-course/)
 
 $295 (was $395) Save 25%  to $595
-[Buy now](https://1examprep.com/cart/45892329406521:1) · [Details](https://passthevirginiacontractorexam.com/flooring/online-course/)
+[Buy now](https://1examprep.com/cart/45892329406521:1) · [Details](https://passyourvirginiacontractorexam.com/flooring/online-course/)
 
 Book Package
 
-### [Virginia Flooring and Floor Covering Contracting Exam Complete Book Package](https://passthevirginiacontractorexam.com/flooring/book-package/)
+### [Virginia Flooring and Floor Covering Contracting Exam Complete Book Package](https://passyourvirginiacontractorexam.com/flooring/book-package/)
 
 $645 (was $745) Save 13%  to $995
-[Buy now](https://1examprep.com/cart/46480639787065:1) · [Details](https://passthevirginiacontractorexam.com/flooring/book-package/)
+[Buy now](https://1examprep.com/cart/46480639787065:1) · [Details](https://passyourvirginiacontractorexam.com/flooring/book-package/)
 
 Highlighted and Tabbed Books
 
-### [Virginia Flooring and Floor Covering Contracting Exam Complete Highlighted & Tabbed Book Package](https://passthevirginiacontractorexam.com/flooring/highlighted-tabbed/)
+### [Virginia Flooring and Floor Covering Contracting Exam Complete Highlighted & Tabbed Book Package](https://passyourvirginiacontractorexam.com/flooring/highlighted-tabbed/)
 
 $995 (was $1,095) Save 9%  to $1,290
-[Buy now](https://1examprep.com/cart/46480710828089:1) · [Details](https://passthevirginiacontractorexam.com/flooring/highlighted-tabbed/)
+[Buy now](https://1examprep.com/cart/46480710828089:1) · [Details](https://passyourvirginiacontractorexam.com/flooring/highlighted-tabbed/)
 
 Live Virtual Training
 
-### [Virginia Flooring and Floor Covering Contractor Exam Prep - Live Virtual + Self Study Training](https://passthevirginiacontractorexam.com/flooring/live-training/)
+### [Virginia Flooring and Floor Covering Contractor Exam Prep - Live Virtual + Self Study Training](https://passyourvirginiacontractorexam.com/flooring/live-training/)
 
 $595 (was $795) Save 25%
-[Buy now](https://1examprep.com/cart/45845500821561:1) · [Details](https://passthevirginiacontractorexam.com/flooring/live-training/)
+[Buy now](https://1examprep.com/cart/45845500821561:1) · [Details](https://passyourvirginiacontractorexam.com/flooring/live-training/)
 
 Books and Courses Rental
 
-### [Virginia Flooring and Floor Covering Contractor Exam - Book & Course Rental Package](https://passthevirginiacontractorexam.com/flooring/rental-package/)
+### [Virginia Flooring and Floor Covering Contractor Exam - Book & Course Rental Package](https://passyourvirginiacontractorexam.com/flooring/rental-package/)
 
 $1,585 (was $1,885) Save 16%  to $2,335
-[Buy now](https://1examprep.com/cart/45892329701433:1) · [Details](https://passthevirginiacontractorexam.com/flooring/rental-package/)
+[Buy now](https://1examprep.com/cart/45892329701433:1) · [Details](https://passyourvirginiacontractorexam.com/flooring/rental-package/)
 
 Ultimate Rental Package
 
-### [Virginia Flooring and Floor Covering Contractor Ultimate Exam Prep Rental Package](https://passthevirginiacontractorexam.com/flooring/ultimate-rental/)
+### [Virginia Flooring and Floor Covering Contractor Ultimate Exam Prep Rental Package](https://passyourvirginiacontractorexam.com/flooring/ultimate-rental/)
 
 $2,010 (was $2,410) Save 17%
-[Buy now](https://1examprep.com/cart/46480767189049:1) · [Details](https://passthevirginiacontractorexam.com/flooring/ultimate-rental/)
+[Buy now](https://1examprep.com/cart/46480767189049:1) · [Details](https://passyourvirginiacontractorexam.com/flooring/ultimate-rental/)
 
 The 1 Package (all-inclusive)
 
-### [The 1 Package: All-Inclusive Virginia Flooring and Floor Covering Contractor Exam, Licensing & Business Setup Solution](https://passthevirginiacontractorexam.com/flooring/the-1-package/)
+### [The 1 Package: All-Inclusive Virginia Flooring and Floor Covering Contractor Exam, Licensing & Business Setup Solution](https://passyourvirginiacontractorexam.com/flooring/the-1-package/)
 
 $2,710 (was $3,210) Save 16%
-[Buy now](https://1examprep.com/cart/44449259520057:1) · [Details](https://passthevirginiacontractorexam.com/flooring/the-1-package/)
+[Buy now](https://1examprep.com/cart/44449259520057:1) · [Details](https://passyourvirginiacontractorexam.com/flooring/the-1-package/)
 
 ## How do the Floor and Floor Covering Contractor options compare?
 
 Prices are the starting price for each option; some offer add-ons at checkout.
 
 Option | What you get | Price
-[Online Exam Prep Course](https://passthevirginiacontractorexam.com/flooring/online-course/) | an online course with practice exams you can take on a phone or laptop | $295
-[Book Package](https://passthevirginiacontractorexam.com/flooring/book-package/) | the reference books the exam is written to, new and unmarked | $645
-[Highlighted and Tabbed Books](https://passthevirginiacontractorexam.com/flooring/highlighted-tabbed/) | the reference books already highlighted and permanently tabbed, ready for the exam room | $995
-[Live Virtual Training](https://passthevirginiacontractorexam.com/flooring/live-training/) | live virtual classes with an instructor plus self-study material | $595
-[Books and Courses Rental](https://passthevirginiacontractorexam.com/flooring/rental-package/) | the reference books on rental plus the online course, returned after your exam | $1,585
-[Ultimate Rental Package](https://passthevirginiacontractorexam.com/flooring/ultimate-rental/) | highlighted and tabbed rental books, the online course and live training | $2,010
-[The 1 Package (all-inclusive)](https://passthevirginiacontractorexam.com/flooring/the-1-package/) | everything: exam prep, books, licensing paperwork and business setup | $2,710
+[Online Exam Prep Course](https://passyourvirginiacontractorexam.com/flooring/online-course/) | an online course with practice exams you can take on a phone or laptop | $295
+[Book Package](https://passyourvirginiacontractorexam.com/flooring/book-package/) | the reference books the exam is written to, new and unmarked | $645
+[Highlighted and Tabbed Books](https://passyourvirginiacontractorexam.com/flooring/highlighted-tabbed/) | the reference books already highlighted and permanently tabbed, ready for the exam room | $995
+[Live Virtual Training](https://passyourvirginiacontractorexam.com/flooring/live-training/) | live virtual classes with an instructor plus self-study material | $595
+[Books and Courses Rental](https://passyourvirginiacontractorexam.com/flooring/rental-package/) | the reference books on rental plus the online course, returned after your exam | $1,585
+[Ultimate Rental Package](https://passyourvirginiacontractorexam.com/flooring/ultimate-rental/) | highlighted and tabbed rental books, the online course and live training | $2,010
+[The 1 Package (all-inclusive)](https://passyourvirginiacontractorexam.com/flooring/the-1-package/) | everything: exam prep, books, licensing paperwork and business setup | $2,710
 
 ## How does the Floor and Floor Covering Contractor exam work?
 
@@ -135,27 +135,27 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 
 ### More in Contractor license classes
 
-- [NASCLA Commercial General Building Contractor](https://passthevirginiacontractorexam.com/nascla-commercial-general-building/)
-- [Commercial Building Contractor (CBC)](https://passthevirginiacontractorexam.com/commercial-building/)
-- [Commercial Improvement Contractor (CIC)](https://passthevirginiacontractorexam.com/commercial-improvement/)
-- [Residential Building Contractor (RBC)](https://passthevirginiacontractorexam.com/residential-building/)
-- [Home Improvement Contractor (HIC)](https://passthevirginiacontractorexam.com/home-improvement/)
-- [Concrete Contractor](https://passthevirginiacontractorexam.com/concrete/)
-- [Masonry Contractor](https://passthevirginiacontractorexam.com/masonry/)
-- [Roofing Contractor](https://passthevirginiacontractorexam.com/roofing/)
+- [NASCLA Commercial General Building Contractor](https://passyourvirginiacontractorexam.com/nascla-commercial-general-building/)
+- [Commercial Building Contractor (CBC)](https://passyourvirginiacontractorexam.com/commercial-building/)
+- [Commercial Improvement Contractor (CIC)](https://passyourvirginiacontractorexam.com/commercial-improvement/)
+- [Residential Building Contractor (RBC)](https://passyourvirginiacontractorexam.com/residential-building/)
+- [Home Improvement Contractor (HIC)](https://passyourvirginiacontractorexam.com/home-improvement/)
+- [Concrete Contractor](https://passyourvirginiacontractorexam.com/concrete/)
+- [Masonry Contractor](https://passyourvirginiacontractorexam.com/masonry/)
+- [Roofing Contractor](https://passyourvirginiacontractorexam.com/roofing/)
 
 ### Other license groups
 
-- [Business and law, pre-license and paperwork](https://passthevirginiacontractorexam.com/#business)
-- [Tradesman licenses](https://passthevirginiacontractorexam.com/#trades)
-- [Building officials](https://passthevirginiacontractorexam.com/#officials)
-- [Code books and code courses](https://passthevirginiacontractorexam.com/#codes)
+- [Business and law, pre-license and paperwork](https://passyourvirginiacontractorexam.com/#business)
+- [Tradesman licenses](https://passyourvirginiacontractorexam.com/#trades)
+- [Building officials](https://passyourvirginiacontractorexam.com/#officials)
+- [Code books and code courses](https://passyourvirginiacontractorexam.com/#codes)
 
 ### Also on this site
 
-- [Virginia exam FAQ](https://passthevirginiacontractorexam.com/faq/)
-- [Study tips and licensing news](https://passthevirginiacontractorexam.com/blog/)
-- [Class A, B and C limits](https://passthevirginiacontractorexam.com/#classes)
+- [Virginia exam FAQ](https://passyourvirginiacontractorexam.com/faq/)
+- [Study tips and licensing news](https://passyourvirginiacontractorexam.com/blog/)
+- [Class A, B and C limits](https://passyourvirginiacontractorexam.com/#classes)
 
 ## Sources
 
@@ -167,6 +167,6 @@ Licensing facts checked against these pages; last updated October 19, 2026. Rule
 
 ---
 
-Source: https://passthevirginiacontractorexam.com/flooring/  
-Publisher: Pass the Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
+Source: https://passyourvirginiacontractorexam.com/flooring/  
+Publisher: Pass Your Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
 Prices change; the product page and checkout show the current price.

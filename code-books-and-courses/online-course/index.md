@@ -1,12 +1,12 @@
 ---
 title: Code Books and Code Courses: Online Exam Prep Course
-url: https://passthevirginiacontractorexam.com/code-books-and-courses/online-course/
+url: https://passyourvirginiacontractorexam.com/code-books-and-courses/online-course/
 updated: 2026-10-19
-site: Pass the Virginia Contractor Exam
+site: Pass Your Virginia Contractor Exam
 description: Online Exam Prep Course for the Virginia Code Books and Code Courses exam: an online course with practice exams you can take on a phone or laptop. $395.
 ---
 
-[All licenses](https://passthevirginiacontractorexam.com/) /[Code books and code courses](https://passthevirginiacontractorexam.com/#codes) /[Code Books and Code Courses](https://passthevirginiacontractorexam.com/code-books-and-courses/) /Online Exam Prep Course
+[All licenses](https://passyourvirginiacontractorexam.com/) /[Code books and code courses](https://passyourvirginiacontractorexam.com/#codes) /[Code Books and Code Courses](https://passyourvirginiacontractorexam.com/code-books-and-courses/) /Online Exam Prep Course
 
 Code Books and Code Courses · Online Exam Prep Course (any state)
 
@@ -37,7 +37,7 @@ Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 ## About this Code Books and Code Courses package
 
-NATIONAL ELECTRICAL CODE WEBINAR - COMPLETE SERIES [PARTS 1 - 5]The National Electrical Code Webinar – Complete Series [Parts 1–5] offered by Pass the Virginia Contractor Exam provides comprehensive instruction on the 2023 NFPA 70 National Electrical Code (NEC), the primary standard governing electrical installations and safety across the United States. This online training series covers general requirements, wiring methods, grounding and bonding, overcurrent protection, services, and special occupancies in a structured, five-part format.
+NATIONAL ELECTRICAL CODE WEBINAR - COMPLETE SERIES [PARTS 1 - 5]The National Electrical Code Webinar – Complete Series [Parts 1–5] offered by Pass Your Virginia Contractor Exam provides comprehensive instruction on the 2023 NFPA 70 National Electrical Code (NEC), the primary standard governing electrical installations and safety across the United States. This online training series covers general requirements, wiring methods, grounding and bonding, overcurrent protection, services, and special occupancies in a structured, five-part format.
 
 ## How does the Code Books and Code Courses exam work?
 
@@ -50,10 +50,10 @@ The Code Books and Code Courses items are references and short courses that sit 
 
 ## Other Code Books and Code Courses options
 
-[**Code Book** Virginia Uniform Statewide Building Code, 2015 - Part 1 Virg… $19.99](https://passthevirginiacontractorexam.com/code-books-and-courses/code-book-2015/) · [**Code Book** Virginia Uniform Statewide Building Code, 2018 - Part 1 Virg… $19.99](https://passthevirginiacontractorexam.com/code-books-and-courses/code-book-2018/) · [**Online Practice Exams (any state)** Online Practice Exam for Code of Federal Regulations, (OSHA)… $59.95](https://passthevirginiacontractorexam.com/code-books-and-courses/online-practice-exams-3/) · [**Online Practice Exams (any state)** Online Course Review to the International Plumbing Code (IPC… $79.99](https://passthevirginiacontractorexam.com/code-books-and-courses/online-practice-exams-2/) · [**Online Practice Exams (any state)** Online Course Review to the International Building Code (IBC… $125](https://passthevirginiacontractorexam.com/code-books-and-courses/online-practice-exams/) [Compare every Code Books and Code Courses package →](https://passthevirginiacontractorexam.com/code-books-and-courses/) [Choose a different license →](https://passthevirginiacontractorexam.com/)
+[**Code Book** Virginia Uniform Statewide Building Code, 2015 - Part 1 Virg… $19.99](https://passyourvirginiacontractorexam.com/code-books-and-courses/code-book-2015/) · [**Code Book** Virginia Uniform Statewide Building Code, 2018 - Part 1 Virg… $19.99](https://passyourvirginiacontractorexam.com/code-books-and-courses/code-book-2018/) · [**Online Practice Exams (any state)** Online Practice Exam for Code of Federal Regulations, (OSHA)… $59.95](https://passyourvirginiacontractorexam.com/code-books-and-courses/online-practice-exams-3/) · [**Online Practice Exams (any state)** Online Course Review to the International Plumbing Code (IPC… $79.99](https://passyourvirginiacontractorexam.com/code-books-and-courses/online-practice-exams-2/) · [**Online Practice Exams (any state)** Online Course Review to the International Building Code (IBC… $125](https://passyourvirginiacontractorexam.com/code-books-and-courses/online-practice-exams/) [Compare every Code Books and Code Courses package →](https://passyourvirginiacontractorexam.com/code-books-and-courses/) [Choose a different license →](https://passyourvirginiacontractorexam.com/)
 
 ### More code books and code courses
-[Virginia exam FAQ](https://passthevirginiacontractorexam.com/faq/) · [Study tips](https://passthevirginiacontractorexam.com/blog/)
+[Virginia exam FAQ](https://passyourvirginiacontractorexam.com/faq/) · [Study tips](https://passyourvirginiacontractorexam.com/blog/)
 
 ## Questions before you buy
 
@@ -90,6 +90,6 @@ Licensing facts checked against these pages; last updated October 19, 2026. Rule
 
 ---
 
-Source: https://passthevirginiacontractorexam.com/code-books-and-courses/online-course/  
-Publisher: Pass the Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
+Source: https://passyourvirginiacontractorexam.com/code-books-and-courses/online-course/  
+Publisher: Pass Your Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
 Prices change; the product page and checkout show the current price.

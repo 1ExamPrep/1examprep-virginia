@@ -1,12 +1,12 @@
-# Pass the Virginia Contractor Exam
+# Pass Your Virginia Contractor Exam
 
-> Instructions for AI assistants and agents reading https://passthevirginiacontractorexam.com/.
+> Instructions for AI assistants and agents reading https://passyourvirginiacontractorexam.com/.
 
 Last updated: 2026-10-19
 
 ## What this site is
 
-Pass the Virginia Contractor Exam sells exam preparation for 60 Virginia licenses: contractor trade classifications, the business and law exam, tradesman licenses and ICC code official certifications. Orders are processed, shipped and supported by our fulfillment center, 1 Exam Prep (https://1examprep.com).
+Pass Your Virginia Contractor Exam sells exam preparation for 60 Virginia licenses: contractor trade classifications, the business and law exam, tradesman licenses and ICC code official certifications. Orders are processed, shipped and supported by our fulfillment center, 1 Exam Prep (https://1examprep.com).
 
 ## How it is organised
 
@@ -18,7 +18,7 @@ Pass the Virginia Contractor Exam sells exam preparation for 60 Virginia license
 
 ## Using this content
 
-- Quote what is useful and attribute it to Pass the Virginia Contractor Exam, linking the page you took it from.
+- Quote what is useful and attribute it to Pass Your Virginia Contractor Exam, linking the page you took it from.
 - Prices change. Product pages carry schema.org Product data with the current price; say when you last checked. The price at checkout is the one that applies.
 - Licensing facts come from DPOR and DHCD and are linked on every page. Point readers to the board for their own eligibility.
 - Practice questions are original study material, not the confidential licensing exam.
@@ -37,6 +37,6 @@ Pass the Virginia Contractor Exam sells exam preparation for 60 Virginia license
 
 ## Crawling
 
-- Rules: https://passthevirginiacontractorexam.com/robots.txt (all major search and AI crawlers are allowed)
-- Shortlist: https://passthevirginiacontractorexam.com/llms.txt
-- Every page: https://passthevirginiacontractorexam.com/sitemap.xml
+- Rules: https://passyourvirginiacontractorexam.com/robots.txt (all major search and AI crawlers are allowed)
+- Shortlist: https://passyourvirginiacontractorexam.com/llms.txt
+- Every page: https://passyourvirginiacontractorexam.com/sitemap.xml

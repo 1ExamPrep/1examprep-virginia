@@ -1,12 +1,12 @@
 ---
 title: Commercial Building Contractor (CBC) Pre-Printed Tabs
-url: https://passthevirginiacontractorexam.com/commercial-building/tabs/
+url: https://passyourvirginiacontractorexam.com/commercial-building/tabs/
 updated: 2026-10-19
-site: Pass the Virginia Contractor Exam
+site: Pass Your Virginia Contractor Exam
 description: Pre-Printed Tabs for the Virginia Commercial Building Contractor (CBC) exam: pre-printed permanent tabs for the reference books, allowed in the exam room.
 ---
 
-[All licenses](https://passthevirginiacontractorexam.com/) /[Contractor license classes](https://passthevirginiacontractorexam.com/#contractor) /[Commercial Building Contractor (CBC)](https://passthevirginiacontractorexam.com/commercial-building/) /Pre-Printed Tabs
+[All licenses](https://passyourvirginiacontractorexam.com/) /[Contractor license classes](https://passyourvirginiacontractorexam.com/#contractor) /[Commercial Building Contractor (CBC)](https://passyourvirginiacontractorexam.com/commercial-building/) /Pre-Printed Tabs
 
 Commercial Building Contractor (CBC) · Pre-Printed Tabs
 
@@ -37,7 +37,7 @@ Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 ## About this Commercial Building Contractor (CBC) package
 
-Virginia Commercial Building Technical Contractor Exam; Pre-Printed Tabs The Virginia Commercial Building Technical Contractor Exam Pre-Printed Tabs by Pass the Virginia Contractor Exam are designed for use with the official reference books approved by the Virginia Department of Professional and Occupational Regulation (DPOR) for the Commercial Building (BLD) classification.
+Virginia Commercial Building Technical Contractor Exam; Pre-Printed Tabs The Virginia Commercial Building Technical Contractor Exam Pre-Printed Tabs by Pass Your Virginia Contractor Exam are designed for use with the official reference books approved by the Virginia Department of Professional and Occupational Regulation (DPOR) for the Commercial Building (BLD) classification.
 
 ## How does the Commercial Building Contractor (CBC) exam work?
 
@@ -50,10 +50,10 @@ The Commercial Building Contractor (CBC) exam is the technical portion of the li
 
 ## Other Commercial Building Contractor (CBC) options
 
-[**Online Exam Prep Course** Virginia Commercial Building Technical Contractor - Online E… $295](https://passthevirginiacontractorexam.com/commercial-building/online-course/) · [**Book Package** Virginia Commercial Building Technical Contractor Book Packa… $1,145](https://passthevirginiacontractorexam.com/commercial-building/book-package/) · [**Highlighted and Tabbed Books** Virginia Commercial Building Technical Contractor Book Packa… $1,695](https://passthevirginiacontractorexam.com/commercial-building/highlighted-tabbed/) · [**Live Virtual Training** Virginia Commercial Building Technical Contractor Exam Prep … $595](https://passthevirginiacontractorexam.com/commercial-building/live-training/) · [**Books and Courses Rental** Virginia Commercial Building Technical Contractor - Book Ren… $2,285](https://passthevirginiacontractorexam.com/commercial-building/rental-package/) · [**Ultimate Rental Package** Virginia Commercial Building Technical Contractor Ultimate E… $2,710](https://passthevirginiacontractorexam.com/commercial-building/ultimate-rental/) · [**The 1 Package (all-inclusive)** The 1 Package: All-Inclusive Virginia Commercial Building Te… $3,410](https://passthevirginiacontractorexam.com/commercial-building/the-1-package/) [Compare every Commercial Building Contractor (CBC) package →](https://passthevirginiacontractorexam.com/commercial-building/) [Choose a different license →](https://passthevirginiacontractorexam.com/)
+[**Online Exam Prep Course** Virginia Commercial Building Technical Contractor - Online E… $295](https://passyourvirginiacontractorexam.com/commercial-building/online-course/) · [**Book Package** Virginia Commercial Building Technical Contractor Book Packa… $1,145](https://passyourvirginiacontractorexam.com/commercial-building/book-package/) · [**Highlighted and Tabbed Books** Virginia Commercial Building Technical Contractor Book Packa… $1,695](https://passyourvirginiacontractorexam.com/commercial-building/highlighted-tabbed/) · [**Live Virtual Training** Virginia Commercial Building Technical Contractor Exam Prep … $595](https://passyourvirginiacontractorexam.com/commercial-building/live-training/) · [**Books and Courses Rental** Virginia Commercial Building Technical Contractor - Book Ren… $2,285](https://passyourvirginiacontractorexam.com/commercial-building/rental-package/) · [**Ultimate Rental Package** Virginia Commercial Building Technical Contractor Ultimate E… $2,710](https://passyourvirginiacontractorexam.com/commercial-building/ultimate-rental/) · [**The 1 Package (all-inclusive)** The 1 Package: All-Inclusive Virginia Commercial Building Te… $3,410](https://passyourvirginiacontractorexam.com/commercial-building/the-1-package/) [Compare every Commercial Building Contractor (CBC) package →](https://passyourvirginiacontractorexam.com/commercial-building/) [Choose a different license →](https://passyourvirginiacontractorexam.com/)
 
 ### More contractor license classes
-[NASCLA Commercial General Building Contractor](https://passthevirginiacontractorexam.com/nascla-commercial-general-building/) · [Commercial Improvement Contractor (CIC)](https://passthevirginiacontractorexam.com/commercial-improvement/) · [Residential Building Contractor (RBC)](https://passthevirginiacontractorexam.com/residential-building/) · [Home Improvement Contractor (HIC)](https://passthevirginiacontractorexam.com/home-improvement/) · [Concrete Contractor](https://passthevirginiacontractorexam.com/concrete/) · [Virginia exam FAQ](https://passthevirginiacontractorexam.com/faq/) · [Study tips](https://passthevirginiacontractorexam.com/blog/)
+[NASCLA Commercial General Building Contractor](https://passyourvirginiacontractorexam.com/nascla-commercial-general-building/) · [Commercial Improvement Contractor (CIC)](https://passyourvirginiacontractorexam.com/commercial-improvement/) · [Residential Building Contractor (RBC)](https://passyourvirginiacontractorexam.com/residential-building/) · [Home Improvement Contractor (HIC)](https://passyourvirginiacontractorexam.com/home-improvement/) · [Concrete Contractor](https://passyourvirginiacontractorexam.com/concrete/) · [Virginia exam FAQ](https://passyourvirginiacontractorexam.com/faq/) · [Study tips](https://passyourvirginiacontractorexam.com/blog/)
 
 ## Questions before you buy
 
@@ -91,6 +91,6 @@ Licensing facts checked against these pages; last updated October 19, 2026. Rule
 
 ---
 
-Source: https://passthevirginiacontractorexam.com/commercial-building/tabs/  
-Publisher: Pass the Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
+Source: https://passyourvirginiacontractorexam.com/commercial-building/tabs/  
+Publisher: Pass Your Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
 Prices change; the product page and checkout show the current price.

@@ -1,12 +1,12 @@
 ---
 title: Virginia Home Improvement Contractor (HIC) Exam Prep
-url: https://passthevirginiacontractorexam.com/home-improvement/
+url: https://passyourvirginiacontractorexam.com/home-improvement/
 updated: 2026-10-19
-site: Pass the Virginia Contractor Exam
+site: Pass Your Virginia Contractor Exam
 description: Home Improvement Contractor (HIC) exam prep for Virginia: 8 options from $99.99 to $3,510, including book package, books and courses rental, highlighted and.
 ---
 
-[All licenses](https://passthevirginiacontractorexam.com/) /[Contractor license classes](https://passthevirginiacontractorexam.com/#contractor) /Home Improvement Contractor (HIC)
+[All licenses](https://passyourvirginiacontractorexam.com/) /[Contractor license classes](https://passyourvirginiacontractorexam.com/#contractor) /Home Improvement Contractor (HIC)
 
 # Home Improvement Contractor (HIC) exam prep
 
@@ -28,73 +28,73 @@ Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Det
 
 Online Exam Prep Course
 
-### [Virginia Home Improvement Contractor - Online Exam Prep Course](https://passthevirginiacontractorexam.com/home-improvement/online-course/)
+### [Virginia Home Improvement Contractor - Online Exam Prep Course](https://passyourvirginiacontractorexam.com/home-improvement/online-course/)
 
 $295 (was $395) Save 25%  to $595
-[Buy now](https://1examprep.com/cart/32413448461:1) · [Details](https://passthevirginiacontractorexam.com/home-improvement/online-course/)
+[Buy now](https://1examprep.com/cart/32413448461:1) · [Details](https://passyourvirginiacontractorexam.com/home-improvement/online-course/)
 
 Pre-Printed Tabs
 
-### [Virginia Home Improvement Contractor Exam; Pre-Printed Tabs](https://passthevirginiacontractorexam.com/home-improvement/tabs/)
+### [Virginia Home Improvement Contractor Exam; Pre-Printed Tabs](https://passyourvirginiacontractorexam.com/home-improvement/tabs/)
 
 $99.99 (was $111.50) Save 10%
-[Buy now](https://1examprep.com/cart/40748071419961:1) · [Details](https://passthevirginiacontractorexam.com/home-improvement/tabs/)
+[Buy now](https://1examprep.com/cart/40748071419961:1) · [Details](https://passyourvirginiacontractorexam.com/home-improvement/tabs/)
 
 Book Package
 
-### [Virginia Home Improvement Contractor Exam Complete Book Package](https://passthevirginiacontractorexam.com/home-improvement/book-package/)
+### [Virginia Home Improvement Contractor Exam Complete Book Package](https://passyourvirginiacontractorexam.com/home-improvement/book-package/)
 
 $1,195 (was $1,295) Save 8%  to $1,795
-[Buy now](https://1examprep.com/cart/50633736650809:1) · [Details](https://passthevirginiacontractorexam.com/home-improvement/book-package/)
+[Buy now](https://1examprep.com/cart/50633736650809:1) · [Details](https://passyourvirginiacontractorexam.com/home-improvement/book-package/)
 
 Highlighted and Tabbed Books
 
-### [Virginia Home Improvement Contractor Exam - Highlighted and Tabbed Book Package](https://passthevirginiacontractorexam.com/home-improvement/highlighted-tabbed/)
+### [Virginia Home Improvement Contractor Exam - Highlighted and Tabbed Book Package](https://passyourvirginiacontractorexam.com/home-improvement/highlighted-tabbed/)
 
 $1,795 (was $1,995) Save 10%  to $2,090
-[Buy now](https://1examprep.com/cart/50633779642425:1) · [Details](https://passthevirginiacontractorexam.com/home-improvement/highlighted-tabbed/)
+[Buy now](https://1examprep.com/cart/50633779642425:1) · [Details](https://passyourvirginiacontractorexam.com/home-improvement/highlighted-tabbed/)
 
 Live Virtual Training
 
-### [Virginia Home Improvement Contractor Exam Prep - Live Virtual + Self Study Training](https://passthevirginiacontractorexam.com/home-improvement/live-training/)
+### [Virginia Home Improvement Contractor Exam Prep - Live Virtual + Self Study Training](https://passyourvirginiacontractorexam.com/home-improvement/live-training/)
 
 $595 (was $795) Save 25%
-[Buy now](https://1examprep.com/cart/45845502099513:1) · [Details](https://passthevirginiacontractorexam.com/home-improvement/live-training/)
+[Buy now](https://1examprep.com/cart/45845502099513:1) · [Details](https://passyourvirginiacontractorexam.com/home-improvement/live-training/)
 
 Books and Courses Rental
 
-### [Virginia Home Improvement Contracting - Book Rental Package (Trade Only)](https://passthevirginiacontractorexam.com/home-improvement/rental-package/)
+### [Virginia Home Improvement Contracting - Book Rental Package (Trade Only)](https://passyourvirginiacontractorexam.com/home-improvement/rental-package/)
 
 $1,649 (was $1,949) Save 15%  to $1,949
-[Buy now](https://1examprep.com/cart/41258307584057:1) · [Details](https://passthevirginiacontractorexam.com/home-improvement/rental-package/)
+[Buy now](https://1examprep.com/cart/41258307584057:1) · [Details](https://passyourvirginiacontractorexam.com/home-improvement/rental-package/)
 
 Ultimate Rental Package
 
-### [Virginia Home Improvement Contractor Exam Ultimate Exam Prep Rental Package](https://passthevirginiacontractorexam.com/home-improvement/ultimate-rental/)
+### [Virginia Home Improvement Contractor Exam Ultimate Exam Prep Rental Package](https://passyourvirginiacontractorexam.com/home-improvement/ultimate-rental/)
 
 $2,810 (was $3,210) Save 12%
-[Buy now](https://1examprep.com/cart/44449236811833:1) · [Details](https://passthevirginiacontractorexam.com/home-improvement/ultimate-rental/)
+[Buy now](https://1examprep.com/cart/44449236811833:1) · [Details](https://passyourvirginiacontractorexam.com/home-improvement/ultimate-rental/)
 
 The 1 Package (all-inclusive)
 
-### [The 1 Package: All-Inclusive Virginia Home Improvement Contractor Exam, Licensing & Business Setup Solution](https://passthevirginiacontractorexam.com/home-improvement/the-1-package/)
+### [The 1 Package: All-Inclusive Virginia Home Improvement Contractor Exam, Licensing & Business Setup Solution](https://passyourvirginiacontractorexam.com/home-improvement/the-1-package/)
 
 $3,510 (was $4,010) Save 12%
-[Buy now](https://1examprep.com/cart/44449257259065:1) · [Details](https://passthevirginiacontractorexam.com/home-improvement/the-1-package/)
+[Buy now](https://1examprep.com/cart/44449257259065:1) · [Details](https://passyourvirginiacontractorexam.com/home-improvement/the-1-package/)
 
 ## How do the Home Improvement Contractor (HIC) options compare?
 
 Prices are the starting price for each option; some offer add-ons at checkout.
 
 Option | What you get | Price
-[Online Exam Prep Course](https://passthevirginiacontractorexam.com/home-improvement/online-course/) | an online course with practice exams you can take on a phone or laptop | $295
-[Pre-Printed Tabs](https://passthevirginiacontractorexam.com/home-improvement/tabs/) | pre-printed permanent tabs for the reference books, allowed in the exam room | $99.99
-[Book Package](https://passthevirginiacontractorexam.com/home-improvement/book-package/) | the reference books the exam is written to, new and unmarked | $1,195
-[Highlighted and Tabbed Books](https://passthevirginiacontractorexam.com/home-improvement/highlighted-tabbed/) | the reference books already highlighted and permanently tabbed, ready for the exam room | $1,795
-[Live Virtual Training](https://passthevirginiacontractorexam.com/home-improvement/live-training/) | live virtual classes with an instructor plus self-study material | $595
-[Books and Courses Rental](https://passthevirginiacontractorexam.com/home-improvement/rental-package/) | the reference books on rental plus the online course, returned after your exam | $1,649
-[Ultimate Rental Package](https://passthevirginiacontractorexam.com/home-improvement/ultimate-rental/) | highlighted and tabbed rental books, the online course and live training | $2,810
-[The 1 Package (all-inclusive)](https://passthevirginiacontractorexam.com/home-improvement/the-1-package/) | everything: exam prep, books, licensing paperwork and business setup | $3,510
+[Online Exam Prep Course](https://passyourvirginiacontractorexam.com/home-improvement/online-course/) | an online course with practice exams you can take on a phone or laptop | $295
+[Pre-Printed Tabs](https://passyourvirginiacontractorexam.com/home-improvement/tabs/) | pre-printed permanent tabs for the reference books, allowed in the exam room | $99.99
+[Book Package](https://passyourvirginiacontractorexam.com/home-improvement/book-package/) | the reference books the exam is written to, new and unmarked | $1,195
+[Highlighted and Tabbed Books](https://passyourvirginiacontractorexam.com/home-improvement/highlighted-tabbed/) | the reference books already highlighted and permanently tabbed, ready for the exam room | $1,795
+[Live Virtual Training](https://passyourvirginiacontractorexam.com/home-improvement/live-training/) | live virtual classes with an instructor plus self-study material | $595
+[Books and Courses Rental](https://passyourvirginiacontractorexam.com/home-improvement/rental-package/) | the reference books on rental plus the online course, returned after your exam | $1,649
+[Ultimate Rental Package](https://passyourvirginiacontractorexam.com/home-improvement/ultimate-rental/) | highlighted and tabbed rental books, the online course and live training | $2,810
+[The 1 Package (all-inclusive)](https://passyourvirginiacontractorexam.com/home-improvement/the-1-package/) | everything: exam prep, books, licensing paperwork and business setup | $3,510
 
 ## How does the Home Improvement Contractor (HIC) exam work?
 
@@ -143,27 +143,27 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 
 ### More in Contractor license classes
 
-- [NASCLA Commercial General Building Contractor](https://passthevirginiacontractorexam.com/nascla-commercial-general-building/)
-- [Commercial Building Contractor (CBC)](https://passthevirginiacontractorexam.com/commercial-building/)
-- [Commercial Improvement Contractor (CIC)](https://passthevirginiacontractorexam.com/commercial-improvement/)
-- [Residential Building Contractor (RBC)](https://passthevirginiacontractorexam.com/residential-building/)
-- [Concrete Contractor](https://passthevirginiacontractorexam.com/concrete/)
-- [Masonry Contractor](https://passthevirginiacontractorexam.com/masonry/)
-- [Roofing Contractor](https://passthevirginiacontractorexam.com/roofing/)
-- [Floor and Floor Covering Contractor](https://passthevirginiacontractorexam.com/flooring/)
+- [NASCLA Commercial General Building Contractor](https://passyourvirginiacontractorexam.com/nascla-commercial-general-building/)
+- [Commercial Building Contractor (CBC)](https://passyourvirginiacontractorexam.com/commercial-building/)
+- [Commercial Improvement Contractor (CIC)](https://passyourvirginiacontractorexam.com/commercial-improvement/)
+- [Residential Building Contractor (RBC)](https://passyourvirginiacontractorexam.com/residential-building/)
+- [Concrete Contractor](https://passyourvirginiacontractorexam.com/concrete/)
+- [Masonry Contractor](https://passyourvirginiacontractorexam.com/masonry/)
+- [Roofing Contractor](https://passyourvirginiacontractorexam.com/roofing/)
+- [Floor and Floor Covering Contractor](https://passyourvirginiacontractorexam.com/flooring/)
 
 ### Other license groups
 
-- [Business and law, pre-license and paperwork](https://passthevirginiacontractorexam.com/#business)
-- [Tradesman licenses](https://passthevirginiacontractorexam.com/#trades)
-- [Building officials](https://passthevirginiacontractorexam.com/#officials)
-- [Code books and code courses](https://passthevirginiacontractorexam.com/#codes)
+- [Business and law, pre-license and paperwork](https://passyourvirginiacontractorexam.com/#business)
+- [Tradesman licenses](https://passyourvirginiacontractorexam.com/#trades)
+- [Building officials](https://passyourvirginiacontractorexam.com/#officials)
+- [Code books and code courses](https://passyourvirginiacontractorexam.com/#codes)
 
 ### Also on this site
 
-- [Virginia exam FAQ](https://passthevirginiacontractorexam.com/faq/)
-- [Study tips and licensing news](https://passthevirginiacontractorexam.com/blog/)
-- [Class A, B and C limits](https://passthevirginiacontractorexam.com/#classes)
+- [Virginia exam FAQ](https://passyourvirginiacontractorexam.com/faq/)
+- [Study tips and licensing news](https://passyourvirginiacontractorexam.com/blog/)
+- [Class A, B and C limits](https://passyourvirginiacontractorexam.com/#classes)
 
 ## Sources
 
@@ -175,6 +175,6 @@ Licensing facts checked against these pages; last updated October 19, 2026. Rule
 
 ---
 
-Source: https://passthevirginiacontractorexam.com/home-improvement/  
-Publisher: Pass the Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
+Source: https://passyourvirginiacontractorexam.com/home-improvement/  
+Publisher: Pass Your Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
 Prices change; the product page and checkout show the current price.

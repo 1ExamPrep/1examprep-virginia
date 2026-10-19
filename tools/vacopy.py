@@ -1,4 +1,4 @@
-"""Copy for passthevirginiacontractorexam.com: what each license covers and the facts per license group.
+"""Copy for passyourvirginiacontractorexam.com: what each license covers and the facts per license group.
 
 Edit freely, then run python3 build.py. Figures here were checked against the DPOR and DHCD pages
 listed in SOURCES on 2026-10-19. Re-check them when the boards change their rules.

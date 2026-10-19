@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build passthevirginiacontractorexam.com.
+"""Build passyourvirginiacontractorexam.com.
 
   python3 build.py
 

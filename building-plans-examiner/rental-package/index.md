@@ -1,12 +1,12 @@
 ---
 title: Building Plans Examiner (B3) Books and Courses Rental
-url: https://passthevirginiacontractorexam.com/building-plans-examiner/rental-package/
+url: https://passyourvirginiacontractorexam.com/building-plans-examiner/rental-package/
 updated: 2026-10-19
-site: Pass the Virginia Contractor Exam
+site: Pass Your Virginia Contractor Exam
 description: Books and Courses Rental for the Virginia Building Plans Examiner (B3) exam: the reference books on rental plus the online course, returned after your exam.
 ---
 
-[All licenses](https://passthevirginiacontractorexam.com/) /[Building officials](https://passthevirginiacontractorexam.com/#officials) /[Building Plans Examiner (B3)](https://passthevirginiacontractorexam.com/building-plans-examiner/) /Books and Courses Rental
+[All licenses](https://passyourvirginiacontractorexam.com/) /[Building officials](https://passyourvirginiacontractorexam.com/#officials) /[Building Plans Examiner (B3)](https://passyourvirginiacontractorexam.com/building-plans-examiner/) /Books and Courses Rental
 
 Building Plans Examiner (B3) · Books and Courses Rental
 
@@ -53,10 +53,10 @@ The Building Plans Examiner (B3) exam is a code official certification. It is ta
 
 ## Other Building Plans Examiner (B3) options
 
-[**Online Exam Prep Course** Virginia Building Plans Examiner (ICC - B3) - Online Exam Pr… $295](https://passthevirginiacontractorexam.com/building-plans-examiner/online-course/) · [**Book Package** Virginia Building Plans Examiner (ICC - B3) Exam Book Packag… $695](https://passthevirginiacontractorexam.com/building-plans-examiner/book-package/) · [**Highlighted and Tabbed Books** Virginia Building Plans Examiner (ICC - B3) Highlighted & Ta… $995](https://passthevirginiacontractorexam.com/building-plans-examiner/highlighted-tabbed/) · [**Highlighted and Tabbed Books (Ohio edition)** Ohio Building Plans Examiner (ICC - B3) Highlighted & Tabbed… $995](https://passthevirginiacontractorexam.com/building-plans-examiner/highlighted-tabbed-ohio/) · [**Books and Courses Rental (West Virginia edition)** West Virginia Building Plans Examiner (ICC - B3) - Books & C… $1,290](https://passthevirginiacontractorexam.com/building-plans-examiner/rental-package-west-virginia/) [Compare every Building Plans Examiner (B3) package →](https://passthevirginiacontractorexam.com/building-plans-examiner/) [Choose a different license →](https://passthevirginiacontractorexam.com/)
+[**Online Exam Prep Course** Virginia Building Plans Examiner (ICC - B3) - Online Exam Pr… $295](https://passyourvirginiacontractorexam.com/building-plans-examiner/online-course/) · [**Book Package** Virginia Building Plans Examiner (ICC - B3) Exam Book Packag… $695](https://passyourvirginiacontractorexam.com/building-plans-examiner/book-package/) · [**Highlighted and Tabbed Books** Virginia Building Plans Examiner (ICC - B3) Highlighted & Ta… $995](https://passyourvirginiacontractorexam.com/building-plans-examiner/highlighted-tabbed/) · [**Highlighted and Tabbed Books (Ohio edition)** Ohio Building Plans Examiner (ICC - B3) Highlighted & Tabbed… $995](https://passyourvirginiacontractorexam.com/building-plans-examiner/highlighted-tabbed-ohio/) · [**Books and Courses Rental (West Virginia edition)** West Virginia Building Plans Examiner (ICC - B3) - Books & C… $1,290](https://passyourvirginiacontractorexam.com/building-plans-examiner/rental-package-west-virginia/) [Compare every Building Plans Examiner (B3) package →](https://passyourvirginiacontractorexam.com/building-plans-examiner/) [Choose a different license →](https://passyourvirginiacontractorexam.com/)
 
 ### More building officials
-[Residential Energy Inspector / Plans Examiner](https://passthevirginiacontractorexam.com/residential-energy-inspector/) · [Commercial Energy Inspector](https://passthevirginiacontractorexam.com/commercial-energy-inspector/) · [Commercial Energy Plans Examiner](https://passthevirginiacontractorexam.com/commercial-energy-plans-examiner/) · [Residential Plans Examiner (R3)](https://passthevirginiacontractorexam.com/residential-plans-examiner/) · [Electrical Plans Examiner (E3)](https://passthevirginiacontractorexam.com/electrical-plans-examiner/) · [Virginia exam FAQ](https://passthevirginiacontractorexam.com/faq/) · [Study tips](https://passthevirginiacontractorexam.com/blog/)
+[Residential Energy Inspector / Plans Examiner](https://passyourvirginiacontractorexam.com/residential-energy-inspector/) · [Commercial Energy Inspector](https://passyourvirginiacontractorexam.com/commercial-energy-inspector/) · [Commercial Energy Plans Examiner](https://passyourvirginiacontractorexam.com/commercial-energy-plans-examiner/) · [Residential Plans Examiner (R3)](https://passyourvirginiacontractorexam.com/residential-plans-examiner/) · [Electrical Plans Examiner (E3)](https://passyourvirginiacontractorexam.com/electrical-plans-examiner/) · [Virginia exam FAQ](https://passyourvirginiacontractorexam.com/faq/) · [Study tips](https://passyourvirginiacontractorexam.com/blog/)
 
 ## Questions before you buy
 
@@ -97,6 +97,6 @@ Licensing facts checked against these pages; last updated October 19, 2026. Rule
 
 ---
 
-Source: https://passthevirginiacontractorexam.com/building-plans-examiner/rental-package/  
-Publisher: Pass the Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
+Source: https://passyourvirginiacontractorexam.com/building-plans-examiner/rental-package/  
+Publisher: Pass Your Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
 Prices change; the product page and checkout show the current price.

@@ -1,12 +1,12 @@
 ---
 title: Residential Energy Inspector / Plans Examiner Book Package
-url: https://passthevirginiacontractorexam.com/residential-energy-inspector/book-package/
+url: https://passyourvirginiacontractorexam.com/residential-energy-inspector/book-package/
 updated: 2026-10-19
-site: Pass the Virginia Contractor Exam
+site: Pass Your Virginia Contractor Exam
 description: Book Package for the Virginia Residential Energy Inspector / Plans Examiner exam: the reference books the exam is written to, new and unmarked. $129.
 ---
 
-[All licenses](https://passthevirginiacontractorexam.com/) /[Building officials](https://passthevirginiacontractorexam.com/#officials) /[Residential Energy Inspector / Plans Examiner](https://passthevirginiacontractorexam.com/residential-energy-inspector/) /Book Package
+[All licenses](https://passyourvirginiacontractorexam.com/) /[Building officials](https://passyourvirginiacontractorexam.com/#officials) /[Residential Energy Inspector / Plans Examiner](https://passyourvirginiacontractorexam.com/residential-energy-inspector/) /Book Package
 
 Residential Energy Inspector / Plans Examiner · Book Package
 
@@ -53,10 +53,10 @@ The Residential Energy Inspector / Plans Examiner exam is a code official certif
 
 ## Other Residential Energy Inspector / Plans Examiner options
 
-[**Online Exam Prep Course** Virginia Residential Energy Inspector / Plans Examiner (ICC … $295](https://passthevirginiacontractorexam.com/residential-energy-inspector/online-course/) · [**Highlighted and Tabbed Books** Virginia Residential Energy Inspector / Plans Examiner (ICC … $245](https://passthevirginiacontractorexam.com/residential-energy-inspector/highlighted-tabbed/) · [**Live Virtual Training** Virginia Residential Energy Inspector / Plans Examiner (ICC … $495](https://passthevirginiacontractorexam.com/residential-energy-inspector/live-training/) · [**Books and Courses Rental** Virginia Residential Energy Inspector / Plans Examiner (ICC … $540](https://passthevirginiacontractorexam.com/residential-energy-inspector/rental-package/) · [**Books and Courses Rental (West Virginia edition)** West Virginia Residential Energy Inspector / Plans Examiner … $540](https://passthevirginiacontractorexam.com/residential-energy-inspector/rental-package-west-virginia/) [Compare every Residential Energy Inspector / Plans Examiner package →](https://passthevirginiacontractorexam.com/residential-energy-inspector/) [Choose a different license →](https://passthevirginiacontractorexam.com/)
+[**Online Exam Prep Course** Virginia Residential Energy Inspector / Plans Examiner (ICC … $295](https://passyourvirginiacontractorexam.com/residential-energy-inspector/online-course/) · [**Highlighted and Tabbed Books** Virginia Residential Energy Inspector / Plans Examiner (ICC … $245](https://passyourvirginiacontractorexam.com/residential-energy-inspector/highlighted-tabbed/) · [**Live Virtual Training** Virginia Residential Energy Inspector / Plans Examiner (ICC … $495](https://passyourvirginiacontractorexam.com/residential-energy-inspector/live-training/) · [**Books and Courses Rental** Virginia Residential Energy Inspector / Plans Examiner (ICC … $540](https://passyourvirginiacontractorexam.com/residential-energy-inspector/rental-package/) · [**Books and Courses Rental (West Virginia edition)** West Virginia Residential Energy Inspector / Plans Examiner … $540](https://passyourvirginiacontractorexam.com/residential-energy-inspector/rental-package-west-virginia/) [Compare every Residential Energy Inspector / Plans Examiner package →](https://passyourvirginiacontractorexam.com/residential-energy-inspector/) [Choose a different license →](https://passyourvirginiacontractorexam.com/)
 
 ### More building officials
-[Commercial Energy Inspector](https://passthevirginiacontractorexam.com/commercial-energy-inspector/) · [Commercial Energy Plans Examiner](https://passthevirginiacontractorexam.com/commercial-energy-plans-examiner/) · [Building Plans Examiner (B3)](https://passthevirginiacontractorexam.com/building-plans-examiner/) · [Residential Plans Examiner (R3)](https://passthevirginiacontractorexam.com/residential-plans-examiner/) · [Electrical Plans Examiner (E3)](https://passthevirginiacontractorexam.com/electrical-plans-examiner/) · [Virginia exam FAQ](https://passthevirginiacontractorexam.com/faq/) · [Study tips](https://passthevirginiacontractorexam.com/blog/)
+[Commercial Energy Inspector](https://passyourvirginiacontractorexam.com/commercial-energy-inspector/) · [Commercial Energy Plans Examiner](https://passyourvirginiacontractorexam.com/commercial-energy-plans-examiner/) · [Building Plans Examiner (B3)](https://passyourvirginiacontractorexam.com/building-plans-examiner/) · [Residential Plans Examiner (R3)](https://passyourvirginiacontractorexam.com/residential-plans-examiner/) · [Electrical Plans Examiner (E3)](https://passyourvirginiacontractorexam.com/electrical-plans-examiner/) · [Virginia exam FAQ](https://passyourvirginiacontractorexam.com/faq/) · [Study tips](https://passyourvirginiacontractorexam.com/blog/)
 
 ## Questions before you buy
 
@@ -93,6 +93,6 @@ Licensing facts checked against these pages; last updated October 19, 2026. Rule
 
 ---
 
-Source: https://passthevirginiacontractorexam.com/residential-energy-inspector/book-package/  
-Publisher: Pass the Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
+Source: https://passyourvirginiacontractorexam.com/residential-energy-inspector/book-package/  
+Publisher: Pass Your Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
 Prices change; the product page and checkout show the current price.

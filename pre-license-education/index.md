@@ -1,12 +1,12 @@
 ---
 title: Virginia 8-Hour Pre-License Education Exam Prep
-url: https://passthevirginiacontractorexam.com/pre-license-education/
+url: https://passyourvirginiacontractorexam.com/pre-license-education/
 updated: 2026-10-19
-site: Pass the Virginia Contractor Exam
+site: Pass Your Virginia Contractor Exam
 description: 8-Hour Pre-License Education exam prep for Virginia: 1 option from $89 to $89, including online exam prep course. One-click checkout.
 ---
 
-[All licenses](https://passthevirginiacontractorexam.com/) /[Business and law, pre-license and paperwork](https://passthevirginiacontractorexam.com/#business) /8-Hour Pre-License Education
+[All licenses](https://passyourvirginiacontractorexam.com/) /[Business and law, pre-license and paperwork](https://passyourvirginiacontractorexam.com/#business) /8-Hour Pre-License Education
 
 # 8-Hour Pre-License Education exam prep
 
@@ -28,17 +28,17 @@ Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Det
 
 Online Exam Prep Course
 
-### [Virginia 8-Hour Pre-License Education Online Course for Contractors](https://passthevirginiacontractorexam.com/pre-license-education/online-course/)
+### [Virginia 8-Hour Pre-License Education Online Course for Contractors](https://passyourvirginiacontractorexam.com/pre-license-education/online-course/)
 
 $89
-[Buy now](https://1examprep.com/cart/44568533893177:1) · [Details](https://passthevirginiacontractorexam.com/pre-license-education/online-course/)
+[Buy now](https://1examprep.com/cart/44568533893177:1) · [Details](https://passyourvirginiacontractorexam.com/pre-license-education/online-course/)
 
 ## How do the 8-Hour Pre-License Education options compare?
 
 Prices are the starting price for each option; some offer add-ons at checkout.
 
 Option | What you get | Price
-[Online Exam Prep Course](https://passthevirginiacontractorexam.com/pre-license-education/online-course/) | an online course with practice exams you can take on a phone or laptop | $89
+[Online Exam Prep Course](https://passyourvirginiacontractorexam.com/pre-license-education/online-course/) | an online course with practice exams you can take on a phone or laptop | $89
 
 ## How does the 8-Hour Pre-License Education exam work?
 
@@ -87,21 +87,21 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 
 ### More in Business and law, pre-license and paperwork
 
-- [Class A/B Business and Law](https://passthevirginiacontractorexam.com/business-and-law/)
-- [Application and Business Filing Services](https://passthevirginiacontractorexam.com/licensing-services/)
+- [Class A/B Business and Law](https://passyourvirginiacontractorexam.com/business-and-law/)
+- [Application and Business Filing Services](https://passyourvirginiacontractorexam.com/licensing-services/)
 
 ### Other license groups
 
-- [Contractor license classes](https://passthevirginiacontractorexam.com/#contractor)
-- [Tradesman licenses](https://passthevirginiacontractorexam.com/#trades)
-- [Building officials](https://passthevirginiacontractorexam.com/#officials)
-- [Code books and code courses](https://passthevirginiacontractorexam.com/#codes)
+- [Contractor license classes](https://passyourvirginiacontractorexam.com/#contractor)
+- [Tradesman licenses](https://passyourvirginiacontractorexam.com/#trades)
+- [Building officials](https://passyourvirginiacontractorexam.com/#officials)
+- [Code books and code courses](https://passyourvirginiacontractorexam.com/#codes)
 
 ### Also on this site
 
-- [Virginia exam FAQ](https://passthevirginiacontractorexam.com/faq/)
-- [Study tips and licensing news](https://passthevirginiacontractorexam.com/blog/)
-- [Class A, B and C limits](https://passthevirginiacontractorexam.com/#classes)
+- [Virginia exam FAQ](https://passyourvirginiacontractorexam.com/faq/)
+- [Study tips and licensing news](https://passyourvirginiacontractorexam.com/blog/)
+- [Class A, B and C limits](https://passyourvirginiacontractorexam.com/#classes)
 
 ## Sources
 
@@ -113,6 +113,6 @@ Licensing facts checked against these pages; last updated October 19, 2026. Rule
 
 ---
 
-Source: https://passthevirginiacontractorexam.com/pre-license-education/  
-Publisher: Pass the Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
+Source: https://passyourvirginiacontractorexam.com/pre-license-education/  
+Publisher: Pass Your Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
 Prices change; the product page and checkout show the current price.

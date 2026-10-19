@@ -1,12 +1,12 @@
 ---
 title: Virginia Masonry Contractor Exam Prep
-url: https://passthevirginiacontractorexam.com/masonry/
+url: https://passyourvirginiacontractorexam.com/masonry/
 updated: 2026-10-19
-site: Pass the Virginia Contractor Exam
+site: Pass Your Virginia Contractor Exam
 description: Masonry Contractor exam prep for Virginia: 8 options from $74.99 to $2,510, including book package, books and courses rental, highlighted and tabbed books.
 ---
 
-[All licenses](https://passthevirginiacontractorexam.com/) /[Contractor license classes](https://passthevirginiacontractorexam.com/#contractor) /Masonry Contractor
+[All licenses](https://passyourvirginiacontractorexam.com/) /[Contractor license classes](https://passyourvirginiacontractorexam.com/#contractor) /Masonry Contractor
 
 # Masonry Contractor exam prep
 
@@ -28,73 +28,73 @@ Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Det
 
 Online Exam Prep Course
 
-### [Virginia Masonry Contractor - Online Exam Prep Course](https://passthevirginiacontractorexam.com/masonry/online-course/)
+### [Virginia Masonry Contractor - Online Exam Prep Course](https://passyourvirginiacontractorexam.com/masonry/online-course/)
 
 $295 (was $395) Save 25%  to $495
-[Buy now](https://1examprep.com/cart/32414230413:1) · [Details](https://passthevirginiacontractorexam.com/masonry/online-course/)
+[Buy now](https://1examprep.com/cart/32414230413:1) · [Details](https://passyourvirginiacontractorexam.com/masonry/online-course/)
 
 Pre-Printed Tabs
 
-### [Virginia Masonry Contracting Exam; Pre-Printed Tabs](https://passthevirginiacontractorexam.com/masonry/tabs/)
+### [Virginia Masonry Contracting Exam; Pre-Printed Tabs](https://passyourvirginiacontractorexam.com/masonry/tabs/)
 
 $74.99 (was $83.50) Save 10%
-[Buy now](https://1examprep.com/cart/41290790469689:1) · [Details](https://passthevirginiacontractorexam.com/masonry/tabs/)
+[Buy now](https://1examprep.com/cart/41290790469689:1) · [Details](https://passyourvirginiacontractorexam.com/masonry/tabs/)
 
 Book Package
 
-### [Virginia Masonry Contractor Exam Complete Book Package](https://passthevirginiacontractorexam.com/masonry/book-package/)
+### [Virginia Masonry Contractor Exam Complete Book Package](https://passyourvirginiacontractorexam.com/masonry/book-package/)
 
 $545 (was $645) Save 16%  to $795
-[Buy now](https://1examprep.com/cart/50659013886009:1) · [Details](https://passthevirginiacontractorexam.com/masonry/book-package/)
+[Buy now](https://1examprep.com/cart/50659013886009:1) · [Details](https://passyourvirginiacontractorexam.com/masonry/book-package/)
 
 Highlighted and Tabbed Books
 
-### [Virginia Masonry Contractor Exam - Highlighted and Tabbed Book Package](https://passthevirginiacontractorexam.com/masonry/highlighted-tabbed/)
+### [Virginia Masonry Contractor Exam - Highlighted and Tabbed Book Package](https://passyourvirginiacontractorexam.com/masonry/highlighted-tabbed/)
 
 $795 (was $995) Save 20%  to $1,090
-[Buy now](https://1examprep.com/cart/50659076276281:1) · [Details](https://passthevirginiacontractorexam.com/masonry/highlighted-tabbed/)
+[Buy now](https://1examprep.com/cart/50659076276281:1) · [Details](https://passyourvirginiacontractorexam.com/masonry/highlighted-tabbed/)
 
 Live Virtual Training
 
-### [Virginia Masonry Contractor Exam Prep - Live Virtual + Self Study Training](https://passthevirginiacontractorexam.com/masonry/live-training/)
+### [Virginia Masonry Contractor Exam Prep - Live Virtual + Self Study Training](https://passyourvirginiacontractorexam.com/masonry/live-training/)
 
 $495 (was $695) Save 29%
-[Buy now](https://1examprep.com/cart/45845519499321:1) · [Details](https://passthevirginiacontractorexam.com/masonry/live-training/)
+[Buy now](https://1examprep.com/cart/45845519499321:1) · [Details](https://passyourvirginiacontractorexam.com/masonry/live-training/)
 
 Books and Courses Rental
 
-### [Virginia Masonry Contractor - Books & Courses Rental Package](https://passthevirginiacontractorexam.com/masonry/rental-package/)
+### [Virginia Masonry Contractor - Books & Courses Rental Package](https://passyourvirginiacontractorexam.com/masonry/rental-package/)
 
 $1,385 (was $1,685) Save 18%  to $1,835
-[Buy now](https://1examprep.com/cart/50659259809849:1) · [Details](https://passthevirginiacontractorexam.com/masonry/rental-package/)
+[Buy now](https://1examprep.com/cart/50659259809849:1) · [Details](https://passyourvirginiacontractorexam.com/masonry/rental-package/)
 
 Ultimate Rental Package
 
-### [Virginia Masonry Contractor - Ultimate Exam Prep Rental Package](https://passthevirginiacontractorexam.com/masonry/ultimate-rental/)
+### [Virginia Masonry Contractor - Ultimate Exam Prep Rental Package](https://passyourvirginiacontractorexam.com/masonry/ultimate-rental/)
 
 $1,810 (was $2,210) Save 18%
-[Buy now](https://1examprep.com/cart/46151334985785:1) · [Details](https://passthevirginiacontractorexam.com/masonry/ultimate-rental/)
+[Buy now](https://1examprep.com/cart/46151334985785:1) · [Details](https://passyourvirginiacontractorexam.com/masonry/ultimate-rental/)
 
 The 1 Package (all-inclusive)
 
-### [The 1 Package: All-Inclusive Virginia Masonry Contractor Exam, Licensing & Business Setup Solution](https://passthevirginiacontractorexam.com/masonry/the-1-package/)
+### [The 1 Package: All-Inclusive Virginia Masonry Contractor Exam, Licensing & Business Setup Solution](https://passyourvirginiacontractorexam.com/masonry/the-1-package/)
 
 $2,510 (was $3,010) Save 17%
-[Buy now](https://1examprep.com/cart/50659286319161:1) · [Details](https://passthevirginiacontractorexam.com/masonry/the-1-package/)
+[Buy now](https://1examprep.com/cart/50659286319161:1) · [Details](https://passyourvirginiacontractorexam.com/masonry/the-1-package/)
 
 ## How do the Masonry Contractor options compare?
 
 Prices are the starting price for each option; some offer add-ons at checkout.
 
 Option | What you get | Price
-[Online Exam Prep Course](https://passthevirginiacontractorexam.com/masonry/online-course/) | an online course with practice exams you can take on a phone or laptop | $295
-[Pre-Printed Tabs](https://passthevirginiacontractorexam.com/masonry/tabs/) | pre-printed permanent tabs for the reference books, allowed in the exam room | $74.99
-[Book Package](https://passthevirginiacontractorexam.com/masonry/book-package/) | the reference books the exam is written to, new and unmarked | $545
-[Highlighted and Tabbed Books](https://passthevirginiacontractorexam.com/masonry/highlighted-tabbed/) | the reference books already highlighted and permanently tabbed, ready for the exam room | $795
-[Live Virtual Training](https://passthevirginiacontractorexam.com/masonry/live-training/) | live virtual classes with an instructor plus self-study material | $495
-[Books and Courses Rental](https://passthevirginiacontractorexam.com/masonry/rental-package/) | the reference books on rental plus the online course, returned after your exam | $1,385
-[Ultimate Rental Package](https://passthevirginiacontractorexam.com/masonry/ultimate-rental/) | highlighted and tabbed rental books, the online course and live training | $1,810
-[The 1 Package (all-inclusive)](https://passthevirginiacontractorexam.com/masonry/the-1-package/) | everything: exam prep, books, licensing paperwork and business setup | $2,510
+[Online Exam Prep Course](https://passyourvirginiacontractorexam.com/masonry/online-course/) | an online course with practice exams you can take on a phone or laptop | $295
+[Pre-Printed Tabs](https://passyourvirginiacontractorexam.com/masonry/tabs/) | pre-printed permanent tabs for the reference books, allowed in the exam room | $74.99
+[Book Package](https://passyourvirginiacontractorexam.com/masonry/book-package/) | the reference books the exam is written to, new and unmarked | $545
+[Highlighted and Tabbed Books](https://passyourvirginiacontractorexam.com/masonry/highlighted-tabbed/) | the reference books already highlighted and permanently tabbed, ready for the exam room | $795
+[Live Virtual Training](https://passyourvirginiacontractorexam.com/masonry/live-training/) | live virtual classes with an instructor plus self-study material | $495
+[Books and Courses Rental](https://passyourvirginiacontractorexam.com/masonry/rental-package/) | the reference books on rental plus the online course, returned after your exam | $1,385
+[Ultimate Rental Package](https://passyourvirginiacontractorexam.com/masonry/ultimate-rental/) | highlighted and tabbed rental books, the online course and live training | $1,810
+[The 1 Package (all-inclusive)](https://passyourvirginiacontractorexam.com/masonry/the-1-package/) | everything: exam prep, books, licensing paperwork and business setup | $2,510
 
 ## How does the Masonry Contractor exam work?
 
@@ -143,27 +143,27 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 
 ### More in Contractor license classes
 
-- [NASCLA Commercial General Building Contractor](https://passthevirginiacontractorexam.com/nascla-commercial-general-building/)
-- [Commercial Building Contractor (CBC)](https://passthevirginiacontractorexam.com/commercial-building/)
-- [Commercial Improvement Contractor (CIC)](https://passthevirginiacontractorexam.com/commercial-improvement/)
-- [Residential Building Contractor (RBC)](https://passthevirginiacontractorexam.com/residential-building/)
-- [Home Improvement Contractor (HIC)](https://passthevirginiacontractorexam.com/home-improvement/)
-- [Concrete Contractor](https://passthevirginiacontractorexam.com/concrete/)
-- [Roofing Contractor](https://passthevirginiacontractorexam.com/roofing/)
-- [Floor and Floor Covering Contractor](https://passthevirginiacontractorexam.com/flooring/)
+- [NASCLA Commercial General Building Contractor](https://passyourvirginiacontractorexam.com/nascla-commercial-general-building/)
+- [Commercial Building Contractor (CBC)](https://passyourvirginiacontractorexam.com/commercial-building/)
+- [Commercial Improvement Contractor (CIC)](https://passyourvirginiacontractorexam.com/commercial-improvement/)
+- [Residential Building Contractor (RBC)](https://passyourvirginiacontractorexam.com/residential-building/)
+- [Home Improvement Contractor (HIC)](https://passyourvirginiacontractorexam.com/home-improvement/)
+- [Concrete Contractor](https://passyourvirginiacontractorexam.com/concrete/)
+- [Roofing Contractor](https://passyourvirginiacontractorexam.com/roofing/)
+- [Floor and Floor Covering Contractor](https://passyourvirginiacontractorexam.com/flooring/)
 
 ### Other license groups
 
-- [Business and law, pre-license and paperwork](https://passthevirginiacontractorexam.com/#business)
-- [Tradesman licenses](https://passthevirginiacontractorexam.com/#trades)
-- [Building officials](https://passthevirginiacontractorexam.com/#officials)
-- [Code books and code courses](https://passthevirginiacontractorexam.com/#codes)
+- [Business and law, pre-license and paperwork](https://passyourvirginiacontractorexam.com/#business)
+- [Tradesman licenses](https://passyourvirginiacontractorexam.com/#trades)
+- [Building officials](https://passyourvirginiacontractorexam.com/#officials)
+- [Code books and code courses](https://passyourvirginiacontractorexam.com/#codes)
 
 ### Also on this site
 
-- [Virginia exam FAQ](https://passthevirginiacontractorexam.com/faq/)
-- [Study tips and licensing news](https://passthevirginiacontractorexam.com/blog/)
-- [Class A, B and C limits](https://passthevirginiacontractorexam.com/#classes)
+- [Virginia exam FAQ](https://passyourvirginiacontractorexam.com/faq/)
+- [Study tips and licensing news](https://passyourvirginiacontractorexam.com/blog/)
+- [Class A, B and C limits](https://passyourvirginiacontractorexam.com/#classes)
 
 ## Sources
 
@@ -175,6 +175,6 @@ Licensing facts checked against these pages; last updated October 19, 2026. Rule
 
 ---
 
-Source: https://passthevirginiacontractorexam.com/masonry/  
-Publisher: Pass the Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
+Source: https://passyourvirginiacontractorexam.com/masonry/  
+Publisher: Pass Your Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
 Prices change; the product page and checkout show the current price.

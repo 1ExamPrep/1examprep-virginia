@@ -1,12 +1,12 @@
 ---
 title: Virginia Residential Plumber Tradesman Book Package
-url: https://passthevirginiacontractorexam.com/residential-plumber/book-package/
+url: https://passyourvirginiacontractorexam.com/residential-plumber/book-package/
 updated: 2026-10-19
-site: Pass the Virginia Contractor Exam
+site: Pass Your Virginia Contractor Exam
 description: Book Package for the Virginia Residential Plumber Tradesman exam: the reference books the exam is written to, new and unmarked. $195. One-click checkout.
 ---
 
-[All licenses](https://passthevirginiacontractorexam.com/) /[Tradesman licenses](https://passthevirginiacontractorexam.com/#trades) /[Residential Plumber Tradesman](https://passthevirginiacontractorexam.com/residential-plumber/) /Book Package
+[All licenses](https://passyourvirginiacontractorexam.com/) /[Tradesman licenses](https://passyourvirginiacontractorexam.com/#trades) /[Residential Plumber Tradesman](https://passyourvirginiacontractorexam.com/residential-plumber/) /Book Package
 
 Residential Plumber Tradesman · Book Package
 
@@ -53,10 +53,10 @@ The Residential Plumber Tradesman exam is a tradesman exam: one person is licens
 
 ## Other Residential Plumber Tradesman options
 
-[**Highlighted and Tabbed Books** Virginia Residential Plumber Tradesman Highlighted & Tabbed … $345](https://passthevirginiacontractorexam.com/residential-plumber/highlighted-tabbed/) [Compare every Residential Plumber Tradesman package →](https://passthevirginiacontractorexam.com/residential-plumber/) [Choose a different license →](https://passthevirginiacontractorexam.com/)
+[**Highlighted and Tabbed Books** Virginia Residential Plumber Tradesman Highlighted & Tabbed … $345](https://passyourvirginiacontractorexam.com/residential-plumber/highlighted-tabbed/) [Compare every Residential Plumber Tradesman package →](https://passyourvirginiacontractorexam.com/residential-plumber/) [Choose a different license →](https://passyourvirginiacontractorexam.com/)
 
 ### More tradesman licenses
-[NASCLA Electrical Contractor](https://passthevirginiacontractorexam.com/electrical-contractor-nascla/) · [Journeyman Electrician](https://passthevirginiacontractorexam.com/journeyman-electrician/) · [Master Electrician](https://passthevirginiacontractorexam.com/master-electrician/) · [Journeyman Plumber](https://passthevirginiacontractorexam.com/journeyman-plumber/) · [Master Plumber](https://passthevirginiacontractorexam.com/master-plumber/) · [Virginia exam FAQ](https://passthevirginiacontractorexam.com/faq/) · [Study tips](https://passthevirginiacontractorexam.com/blog/)
+[NASCLA Electrical Contractor](https://passyourvirginiacontractorexam.com/electrical-contractor-nascla/) · [Journeyman Electrician](https://passyourvirginiacontractorexam.com/journeyman-electrician/) · [Master Electrician](https://passyourvirginiacontractorexam.com/master-electrician/) · [Journeyman Plumber](https://passyourvirginiacontractorexam.com/journeyman-plumber/) · [Master Plumber](https://passyourvirginiacontractorexam.com/master-plumber/) · [Virginia exam FAQ](https://passyourvirginiacontractorexam.com/faq/) · [Study tips](https://passyourvirginiacontractorexam.com/blog/)
 
 ## Questions before you buy
 
@@ -93,6 +93,6 @@ Licensing facts checked against these pages; last updated October 19, 2026. Rule
 
 ---
 
-Source: https://passthevirginiacontractorexam.com/residential-plumber/book-package/  
-Publisher: Pass the Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
+Source: https://passyourvirginiacontractorexam.com/residential-plumber/book-package/  
+Publisher: Pass Your Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
 Prices change; the product page and checkout show the current price.

@@ -1,4 +1,4 @@
-# robots.txt for Pass the Virginia Contractor Exam (https://passthevirginiacontractorexam.com)
+# robots.txt for Pass Your Virginia Contractor Exam (https://passyourvirginiacontractorexam.com)
 # Search engines and AI assistants are both welcome. Internal search, raw data and the admin page are held back.
 
 User-agent: *
@@ -49,6 +49,6 @@ Allow: /
 User-agent: meta-externalagent
 Allow: /
 
-Sitemap: https://passthevirginiacontractorexam.com/sitemap.xml
-# Blog: https://passthevirginiacontractorexam.com/blog/ (RSS at https://passthevirginiacontractorexam.com/blog/feed.xml). FAQ: https://passthevirginiacontractorexam.com/faq/
-# Guides for AI assistants: https://passthevirginiacontractorexam.com/llms.txt and https://passthevirginiacontractorexam.com/agents.md
+Sitemap: https://passyourvirginiacontractorexam.com/sitemap.xml
+# Blog: https://passyourvirginiacontractorexam.com/blog/ (RSS at https://passyourvirginiacontractorexam.com/blog/feed.xml). FAQ: https://passyourvirginiacontractorexam.com/faq/
+# Guides for AI assistants: https://passyourvirginiacontractorexam.com/llms.txt and https://passyourvirginiacontractorexam.com/agents.md

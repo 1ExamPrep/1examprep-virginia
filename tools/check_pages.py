@@ -1,5 +1,5 @@
 """Grade built pages against the "What every page and post needs to pass" checklist.
-Usage: python3 tools/check_pages.py . https://passthevirginiacontractorexam.com
+Usage: python3 tools/check_pages.py . https://passyourvirginiacontractorexam.com
 """
 import sys, os, re, json, collections
 from bs4 import BeautifulSoup

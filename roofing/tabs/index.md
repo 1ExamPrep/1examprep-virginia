@@ -1,12 +1,12 @@
 ---
 title: Virginia Roofing Contractor Pre-Printed Tabs
-url: https://passthevirginiacontractorexam.com/roofing/tabs/
+url: https://passyourvirginiacontractorexam.com/roofing/tabs/
 updated: 2026-10-19
-site: Pass the Virginia Contractor Exam
+site: Pass Your Virginia Contractor Exam
 description: Pre-Printed Tabs for the Virginia Roofing Contractor exam: pre-printed permanent tabs for the reference books, allowed in the exam room. $89.99. One-click.
 ---
 
-[All licenses](https://passthevirginiacontractorexam.com/) /[Contractor license classes](https://passthevirginiacontractorexam.com/#contractor) /[Roofing Contractor](https://passthevirginiacontractorexam.com/roofing/) /Pre-Printed Tabs
+[All licenses](https://passyourvirginiacontractorexam.com/) /[Contractor license classes](https://passyourvirginiacontractorexam.com/#contractor) /[Roofing Contractor](https://passyourvirginiacontractorexam.com/roofing/) /Pre-Printed Tabs
 
 Roofing Contractor · Pre-Printed Tabs
 
@@ -37,7 +37,7 @@ Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 ## About this Roofing Contractor package
 
-VIRGINIA ROOFING CONTRACTING EXAM; PRE-PRINTED TABS The Virginia Roofing Contracting Exam Pre-Printed Tabs set from Pass the Virginia Contractor Exam is designed to help candidates efficiently navigate reference materials during the Virginia Department of Professional and Occupational Regulation (DPOR) roofing contractor licensing examination. These durable, color-coded tabs correspond to key sections of the International Building Code (IBC), OSHA safety standards, and roofing installation references used in the PSI open-book test.
+VIRGINIA ROOFING CONTRACTING EXAM; PRE-PRINTED TABS The Virginia Roofing Contracting Exam Pre-Printed Tabs set from Pass Your Virginia Contractor Exam is designed to help candidates efficiently navigate reference materials during the Virginia Department of Professional and Occupational Regulation (DPOR) roofing contractor licensing examination. These durable, color-coded tabs correspond to key sections of the International Building Code (IBC), OSHA safety standards, and roofing installation references used in the PSI open-book test.
 
 ## How does the Roofing Contractor exam work?
 
@@ -50,10 +50,10 @@ The Roofing Contractor exam is the technical portion of the license for that cla
 
 ## Other Roofing Contractor options
 
-[**Online Exam Prep Course** Virginia Roofing Contractor - Online Exam Prep Course $295](https://passthevirginiacontractorexam.com/roofing/online-course/) · [**Book Package** Virginia Roofing Contractor Complete Book Package $995](https://passthevirginiacontractorexam.com/roofing/book-package/) · [**Highlighted and Tabbed Books** Virginia Roofing Contractor Highlighted and Tabbed Book Pack… $1,495](https://passthevirginiacontractorexam.com/roofing/highlighted-tabbed/) · [**Live Virtual Training** Virginia Roofing Contractor Exam Prep - Live Virtual + Self … $595](https://passthevirginiacontractorexam.com/roofing/live-training/) · [**Books and Courses Rental** Virginia Roofing Contractor - Book & Courses Rental Package $2,085](https://passthevirginiacontractorexam.com/roofing/rental-package/) · [**Ultimate Rental Package** Virginia Roofing Contractor Ultimate Exam Prep Rental Packag… $2,510](https://passthevirginiacontractorexam.com/roofing/ultimate-rental/) · [**The 1 Package (all-inclusive)** The 1 Package: All-Inclusive Virginia Roofing Contractor Exa… $3,210](https://passthevirginiacontractorexam.com/roofing/the-1-package/) [Compare every Roofing Contractor package →](https://passthevirginiacontractorexam.com/roofing/) [Choose a different license →](https://passthevirginiacontractorexam.com/)
+[**Online Exam Prep Course** Virginia Roofing Contractor - Online Exam Prep Course $295](https://passyourvirginiacontractorexam.com/roofing/online-course/) · [**Book Package** Virginia Roofing Contractor Complete Book Package $995](https://passyourvirginiacontractorexam.com/roofing/book-package/) · [**Highlighted and Tabbed Books** Virginia Roofing Contractor Highlighted and Tabbed Book Pack… $1,495](https://passyourvirginiacontractorexam.com/roofing/highlighted-tabbed/) · [**Live Virtual Training** Virginia Roofing Contractor Exam Prep - Live Virtual + Self … $595](https://passyourvirginiacontractorexam.com/roofing/live-training/) · [**Books and Courses Rental** Virginia Roofing Contractor - Book & Courses Rental Package $2,085](https://passyourvirginiacontractorexam.com/roofing/rental-package/) · [**Ultimate Rental Package** Virginia Roofing Contractor Ultimate Exam Prep Rental Packag… $2,510](https://passyourvirginiacontractorexam.com/roofing/ultimate-rental/) · [**The 1 Package (all-inclusive)** The 1 Package: All-Inclusive Virginia Roofing Contractor Exa… $3,210](https://passyourvirginiacontractorexam.com/roofing/the-1-package/) [Compare every Roofing Contractor package →](https://passyourvirginiacontractorexam.com/roofing/) [Choose a different license →](https://passyourvirginiacontractorexam.com/)
 
 ### More contractor license classes
-[NASCLA Commercial General Building Contractor](https://passthevirginiacontractorexam.com/nascla-commercial-general-building/) · [Commercial Building Contractor (CBC)](https://passthevirginiacontractorexam.com/commercial-building/) · [Commercial Improvement Contractor (CIC)](https://passthevirginiacontractorexam.com/commercial-improvement/) · [Residential Building Contractor (RBC)](https://passthevirginiacontractorexam.com/residential-building/) · [Home Improvement Contractor (HIC)](https://passthevirginiacontractorexam.com/home-improvement/) · [Virginia exam FAQ](https://passthevirginiacontractorexam.com/faq/) · [Study tips](https://passthevirginiacontractorexam.com/blog/)
+[NASCLA Commercial General Building Contractor](https://passyourvirginiacontractorexam.com/nascla-commercial-general-building/) · [Commercial Building Contractor (CBC)](https://passyourvirginiacontractorexam.com/commercial-building/) · [Commercial Improvement Contractor (CIC)](https://passyourvirginiacontractorexam.com/commercial-improvement/) · [Residential Building Contractor (RBC)](https://passyourvirginiacontractorexam.com/residential-building/) · [Home Improvement Contractor (HIC)](https://passyourvirginiacontractorexam.com/home-improvement/) · [Virginia exam FAQ](https://passyourvirginiacontractorexam.com/faq/) · [Study tips](https://passyourvirginiacontractorexam.com/blog/)
 
 ## Questions before you buy
 
@@ -91,6 +91,6 @@ Licensing facts checked against these pages; last updated October 19, 2026. Rule
 
 ---
 
-Source: https://passthevirginiacontractorexam.com/roofing/tabs/  
-Publisher: Pass the Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
+Source: https://passyourvirginiacontractorexam.com/roofing/tabs/  
+Publisher: Pass Your Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
 Prices change; the product page and checkout show the current price.

@@ -1,12 +1,12 @@
 ---
 title: Master Gas Fitter (LP) The 1 Package (all-inclusive)
-url: https://passthevirginiacontractorexam.com/master-gas-fitter/the-1-package/
+url: https://passyourvirginiacontractorexam.com/master-gas-fitter/the-1-package/
 updated: 2026-10-19
-site: Pass the Virginia Contractor Exam
+site: Pass Your Virginia Contractor Exam
 description: The 1 Package (all-inclusive) for the Virginia Master Gas Fitter (LP) exam: everything: exam prep, books, licensing paperwork and business setup. $2,597.
 ---
 
-[All licenses](https://passthevirginiacontractorexam.com/) /[Tradesman licenses](https://passthevirginiacontractorexam.com/#trades) /[Master Gas Fitter (LP)](https://passthevirginiacontractorexam.com/master-gas-fitter/) /The 1 Package (all-inclusive)
+[All licenses](https://passyourvirginiacontractorexam.com/) /[Tradesman licenses](https://passyourvirginiacontractorexam.com/#trades) /[Master Gas Fitter (LP)](https://passyourvirginiacontractorexam.com/master-gas-fitter/) /The 1 Package (all-inclusive)
 
 Master Gas Fitter (LP) · The 1 Package (all-inclusive)
 
@@ -37,7 +37,7 @@ Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 ## About this Master Gas Fitter (LP) package
 
-THE 1 PACKAGE: ALL-INCLUSIVE VIRGINIA MASTER GASFITTER CONTRACTOR EXAM, LICENSING & BUSINESS SETUP SOLUTION The 1 Package: All-Inclusive Virginia Master Gasfitter Contractor Exam, Licensing & Business Setup Solution from Pass the Virginia Contractor Exam provides a complete preparation and licensing solution for candidates pursuing the Virginia Board for Contractors Master Gasfitter (GFC) classification.
+THE 1 PACKAGE: ALL-INCLUSIVE VIRGINIA MASTER GASFITTER CONTRACTOR EXAM, LICENSING & BUSINESS SETUP SOLUTION The 1 Package: All-Inclusive Virginia Master Gasfitter Contractor Exam, Licensing & Business Setup Solution from Pass Your Virginia Contractor Exam provides a complete preparation and licensing solution for candidates pursuing the Virginia Board for Contractors Master Gasfitter (GFC) classification.
 
 ## How does the Master Gas Fitter (LP) exam work?
 
@@ -50,10 +50,10 @@ The Master Gas Fitter (LP) exam is a tradesman exam: one person is licensed, and
 
 ## Other Master Gas Fitter (LP) options
 
-[**Online Exam Prep Course** Virginia Master Gasfitter Contractor - Online Exam Prep Cour… $295](https://passthevirginiacontractorexam.com/master-gas-fitter/online-course/) · [**Pre-Printed Tabs** Virginia Master Gasfitter Exam; Pre-Printed Tabs $39.99](https://passthevirginiacontractorexam.com/master-gas-fitter/tabs/) · [**Book Package** Virginia Master Gasfitter Contractor Book Package $445](https://passthevirginiacontractorexam.com/master-gas-fitter/book-package/) · [**Highlighted and Tabbed Books** Virginia Master Gasfitter Contractor - Highlighted and Tabbe… $645](https://passthevirginiacontractorexam.com/master-gas-fitter/highlighted-tabbed/) · [**Live Virtual Training** Virginia Master Gasfitter Contractor Exam Prep - Live Virtua… $495](https://passthevirginiacontractorexam.com/master-gas-fitter/live-training/) · [**Books and Courses Rental** Virginia Master Gasfitter Contractor - Book & Course Rental … $1,235](https://passthevirginiacontractorexam.com/master-gas-fitter/rental-package/) · [**Ultimate Rental Package** Virginia Master Gasfitter Contractor Ultimate Exam Prep Rent… $1,660](https://passthevirginiacontractorexam.com/master-gas-fitter/ultimate-rental/) [Compare every Master Gas Fitter (LP) package →](https://passthevirginiacontractorexam.com/master-gas-fitter/) [Choose a different license →](https://passthevirginiacontractorexam.com/)
+[**Online Exam Prep Course** Virginia Master Gasfitter Contractor - Online Exam Prep Cour… $295](https://passyourvirginiacontractorexam.com/master-gas-fitter/online-course/) · [**Pre-Printed Tabs** Virginia Master Gasfitter Exam; Pre-Printed Tabs $39.99](https://passyourvirginiacontractorexam.com/master-gas-fitter/tabs/) · [**Book Package** Virginia Master Gasfitter Contractor Book Package $445](https://passyourvirginiacontractorexam.com/master-gas-fitter/book-package/) · [**Highlighted and Tabbed Books** Virginia Master Gasfitter Contractor - Highlighted and Tabbe… $645](https://passyourvirginiacontractorexam.com/master-gas-fitter/highlighted-tabbed/) · [**Live Virtual Training** Virginia Master Gasfitter Contractor Exam Prep - Live Virtua… $495](https://passyourvirginiacontractorexam.com/master-gas-fitter/live-training/) · [**Books and Courses Rental** Virginia Master Gasfitter Contractor - Book & Course Rental … $1,235](https://passyourvirginiacontractorexam.com/master-gas-fitter/rental-package/) · [**Ultimate Rental Package** Virginia Master Gasfitter Contractor Ultimate Exam Prep Rent… $1,660](https://passyourvirginiacontractorexam.com/master-gas-fitter/ultimate-rental/) [Compare every Master Gas Fitter (LP) package →](https://passyourvirginiacontractorexam.com/master-gas-fitter/) [Choose a different license →](https://passyourvirginiacontractorexam.com/)
 
 ### More tradesman licenses
-[NASCLA Electrical Contractor](https://passthevirginiacontractorexam.com/electrical-contractor-nascla/) · [Journeyman Electrician](https://passthevirginiacontractorexam.com/journeyman-electrician/) · [Master Electrician](https://passthevirginiacontractorexam.com/master-electrician/) · [Residential Plumber Tradesman](https://passthevirginiacontractorexam.com/residential-plumber/) · [Journeyman Plumber](https://passthevirginiacontractorexam.com/journeyman-plumber/) · [Virginia exam FAQ](https://passthevirginiacontractorexam.com/faq/) · [Study tips](https://passthevirginiacontractorexam.com/blog/)
+[NASCLA Electrical Contractor](https://passyourvirginiacontractorexam.com/electrical-contractor-nascla/) · [Journeyman Electrician](https://passyourvirginiacontractorexam.com/journeyman-electrician/) · [Master Electrician](https://passyourvirginiacontractorexam.com/master-electrician/) · [Residential Plumber Tradesman](https://passyourvirginiacontractorexam.com/residential-plumber/) · [Journeyman Plumber](https://passyourvirginiacontractorexam.com/journeyman-plumber/) · [Virginia exam FAQ](https://passyourvirginiacontractorexam.com/faq/) · [Study tips](https://passyourvirginiacontractorexam.com/blog/)
 
 ## Questions before you buy
 
@@ -94,6 +94,6 @@ Licensing facts checked against these pages; last updated October 19, 2026. Rule
 
 ---
 
-Source: https://passthevirginiacontractorexam.com/master-gas-fitter/the-1-package/  
-Publisher: Pass the Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
+Source: https://passyourvirginiacontractorexam.com/master-gas-fitter/the-1-package/  
+Publisher: Pass Your Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
 Prices change; the product page and checkout show the current price.

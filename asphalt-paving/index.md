@@ -1,12 +1,12 @@
 ---
 title: Virginia Asphalt Paving and Sealcoating Contractor Exam Prep
-url: https://passthevirginiacontractorexam.com/asphalt-paving/
+url: https://passyourvirginiacontractorexam.com/asphalt-paving/
 updated: 2026-10-19
-site: Pass the Virginia Contractor Exam
+site: Pass Your Virginia Contractor Exam
 description: Asphalt Paving and Sealcoating Contractor exam prep for Virginia: 2 options from $795 to $1,495, including book package, highlighted and tabbed books.
 ---
 
-[All licenses](https://passthevirginiacontractorexam.com/) /[Contractor license classes](https://passthevirginiacontractorexam.com/#contractor) /Asphalt Paving and Sealcoating Contractor
+[All licenses](https://passyourvirginiacontractorexam.com/) /[Contractor license classes](https://passyourvirginiacontractorexam.com/#contractor) /Asphalt Paving and Sealcoating Contractor
 
 # Asphalt Paving and Sealcoating Contractor exam prep
 
@@ -28,25 +28,25 @@ Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Det
 
 Book Package
 
-### [Virginia Asphalt Paving & Sealcoating Contractor Exam Complete Book Package](https://passthevirginiacontractorexam.com/asphalt-paving/book-package/)
+### [Virginia Asphalt Paving & Sealcoating Contractor Exam Complete Book Package](https://passyourvirginiacontractorexam.com/asphalt-paving/book-package/)
 
 $795 (was $1,195) Save 33%  to $1,495
-[Buy now](https://1examprep.com/cart/46480990568505:1) · [Details](https://passthevirginiacontractorexam.com/asphalt-paving/book-package/)
+[Buy now](https://1examprep.com/cart/46480990568505:1) · [Details](https://passyourvirginiacontractorexam.com/asphalt-paving/book-package/)
 
 Highlighted and Tabbed Books
 
-### [Virginia Asphalt Paving & Sealcoating Contractor Exam Complete Highlighted & Tabbed Book Package](https://passthevirginiacontractorexam.com/asphalt-paving/highlighted-tabbed/)
+### [Virginia Asphalt Paving & Sealcoating Contractor Exam Complete Highlighted & Tabbed Book Package](https://passyourvirginiacontractorexam.com/asphalt-paving/highlighted-tabbed/)
 
 $1,495 (was $1,695) Save 12%
-[Buy now](https://1examprep.com/cart/44447363989561:1) · [Details](https://passthevirginiacontractorexam.com/asphalt-paving/highlighted-tabbed/)
+[Buy now](https://1examprep.com/cart/44447363989561:1) · [Details](https://passyourvirginiacontractorexam.com/asphalt-paving/highlighted-tabbed/)
 
 ## How do the Asphalt Paving and Sealcoating Contractor options compare?
 
 Prices are the starting price for each option; some offer add-ons at checkout.
 
 Option | What you get | Price
-[Book Package](https://passthevirginiacontractorexam.com/asphalt-paving/book-package/) | the reference books the exam is written to, new and unmarked | $795
-[Highlighted and Tabbed Books](https://passthevirginiacontractorexam.com/asphalt-paving/highlighted-tabbed/) | the reference books already highlighted and permanently tabbed, ready for the exam room | $1,495
+[Book Package](https://passyourvirginiacontractorexam.com/asphalt-paving/book-package/) | the reference books the exam is written to, new and unmarked | $795
+[Highlighted and Tabbed Books](https://passyourvirginiacontractorexam.com/asphalt-paving/highlighted-tabbed/) | the reference books already highlighted and permanently tabbed, ready for the exam room | $1,495
 
 ## How does the Asphalt Paving and Sealcoating Contractor exam work?
 
@@ -95,27 +95,27 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 
 ### More in Contractor license classes
 
-- [NASCLA Commercial General Building Contractor](https://passthevirginiacontractorexam.com/nascla-commercial-general-building/)
-- [Commercial Building Contractor (CBC)](https://passthevirginiacontractorexam.com/commercial-building/)
-- [Commercial Improvement Contractor (CIC)](https://passthevirginiacontractorexam.com/commercial-improvement/)
-- [Residential Building Contractor (RBC)](https://passthevirginiacontractorexam.com/residential-building/)
-- [Home Improvement Contractor (HIC)](https://passthevirginiacontractorexam.com/home-improvement/)
-- [Concrete Contractor](https://passthevirginiacontractorexam.com/concrete/)
-- [Masonry Contractor](https://passthevirginiacontractorexam.com/masonry/)
-- [Roofing Contractor](https://passthevirginiacontractorexam.com/roofing/)
+- [NASCLA Commercial General Building Contractor](https://passyourvirginiacontractorexam.com/nascla-commercial-general-building/)
+- [Commercial Building Contractor (CBC)](https://passyourvirginiacontractorexam.com/commercial-building/)
+- [Commercial Improvement Contractor (CIC)](https://passyourvirginiacontractorexam.com/commercial-improvement/)
+- [Residential Building Contractor (RBC)](https://passyourvirginiacontractorexam.com/residential-building/)
+- [Home Improvement Contractor (HIC)](https://passyourvirginiacontractorexam.com/home-improvement/)
+- [Concrete Contractor](https://passyourvirginiacontractorexam.com/concrete/)
+- [Masonry Contractor](https://passyourvirginiacontractorexam.com/masonry/)
+- [Roofing Contractor](https://passyourvirginiacontractorexam.com/roofing/)
 
 ### Other license groups
 
-- [Business and law, pre-license and paperwork](https://passthevirginiacontractorexam.com/#business)
-- [Tradesman licenses](https://passthevirginiacontractorexam.com/#trades)
-- [Building officials](https://passthevirginiacontractorexam.com/#officials)
-- [Code books and code courses](https://passthevirginiacontractorexam.com/#codes)
+- [Business and law, pre-license and paperwork](https://passyourvirginiacontractorexam.com/#business)
+- [Tradesman licenses](https://passyourvirginiacontractorexam.com/#trades)
+- [Building officials](https://passyourvirginiacontractorexam.com/#officials)
+- [Code books and code courses](https://passyourvirginiacontractorexam.com/#codes)
 
 ### Also on this site
 
-- [Virginia exam FAQ](https://passthevirginiacontractorexam.com/faq/)
-- [Study tips and licensing news](https://passthevirginiacontractorexam.com/blog/)
-- [Class A, B and C limits](https://passthevirginiacontractorexam.com/#classes)
+- [Virginia exam FAQ](https://passyourvirginiacontractorexam.com/faq/)
+- [Study tips and licensing news](https://passyourvirginiacontractorexam.com/blog/)
+- [Class A, B and C limits](https://passyourvirginiacontractorexam.com/#classes)
 
 ## Sources
 
@@ -127,6 +127,6 @@ Licensing facts checked against these pages; last updated October 19, 2026. Rule
 
 ---
 
-Source: https://passthevirginiacontractorexam.com/asphalt-paving/  
-Publisher: Pass the Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
+Source: https://passyourvirginiacontractorexam.com/asphalt-paving/  
+Publisher: Pass Your Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
 Prices change; the product page and checkout show the current price.

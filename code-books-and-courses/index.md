@@ -1,12 +1,12 @@
 ---
 title: Virginia Code Books and Code Courses Exam Prep
-url: https://passthevirginiacontractorexam.com/code-books-and-courses/
+url: https://passyourvirginiacontractorexam.com/code-books-and-courses/
 updated: 2026-10-19
-site: Pass the Virginia Contractor Exam
+site: Pass Your Virginia Contractor Exam
 description: Code Books and Code Courses exam prep for Virginia: 6 options from $19.99 to $395, including code book, online exam prep course, online practice exams.
 ---
 
-[All licenses](https://passthevirginiacontractorexam.com/) /[Code books and code courses](https://passthevirginiacontractorexam.com/#codes) /Code Books and Code Courses
+[All licenses](https://passyourvirginiacontractorexam.com/) /[Code books and code courses](https://passyourvirginiacontractorexam.com/#codes) /Code Books and Code Courses
 
 # Code Books and Code Courses exam prep
 
@@ -28,57 +28,57 @@ Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Det
 
 Code Book
 
-### [Virginia Uniform Statewide Building Code, 2015 - Part 1 Virginia Construction Code [Binder]](https://passthevirginiacontractorexam.com/code-books-and-courses/code-book-2015/)
+### [Virginia Uniform Statewide Building Code, 2015 - Part 1 Virginia Construction Code [Binder]](https://passyourvirginiacontractorexam.com/code-books-and-courses/code-book-2015/)
 
 $19.99 (was $22.25) Save 10%
-[Buy now](https://1examprep.com/cart/30993604542521:1) · [Details](https://passthevirginiacontractorexam.com/code-books-and-courses/code-book-2015/)
+[Buy now](https://1examprep.com/cart/30993604542521:1) · [Details](https://passyourvirginiacontractorexam.com/code-books-and-courses/code-book-2015/)
 
 Code Book
 
-### [Virginia Uniform Statewide Building Code, 2018 - Part 1 Virginia Construction Code [Binder]](https://passthevirginiacontractorexam.com/code-books-and-courses/code-book-2018/)
+### [Virginia Uniform Statewide Building Code, 2018 - Part 1 Virginia Construction Code [Binder]](https://passyourvirginiacontractorexam.com/code-books-and-courses/code-book-2018/)
 
 $19.99 (was $22.25) Save 10%
-[Buy now](https://1examprep.com/cart/41226618011705:1) · [Details](https://passthevirginiacontractorexam.com/code-books-and-courses/code-book-2018/)
+[Buy now](https://1examprep.com/cart/41226618011705:1) · [Details](https://passyourvirginiacontractorexam.com/code-books-and-courses/code-book-2018/)
 
 Online Practice Exams (any state)
 
-### [Online Practice Exam for Code of Federal Regulations, (OSHA) 29 Part 1926](https://passthevirginiacontractorexam.com/code-books-and-courses/online-practice-exams-3/)
+### [Online Practice Exam for Code of Federal Regulations, (OSHA) 29 Part 1926](https://passyourvirginiacontractorexam.com/code-books-and-courses/online-practice-exams-3/)
 
 $59.95 (was $66.95) Save 10%
-[Buy now](https://1examprep.com/cart/18797677117497:1) · [Details](https://passthevirginiacontractorexam.com/code-books-and-courses/online-practice-exams-3/)
+[Buy now](https://1examprep.com/cart/18797677117497:1) · [Details](https://passyourvirginiacontractorexam.com/code-books-and-courses/online-practice-exams-3/)
 
 Online Practice Exams (any state)
 
-### [Online Course Review to the International Plumbing Code (IPC)®](https://passthevirginiacontractorexam.com/code-books-and-courses/online-practice-exams-2/)
+### [Online Course Review to the International Plumbing Code (IPC)®](https://passyourvirginiacontractorexam.com/code-books-and-courses/online-practice-exams-2/)
 
 $79.99 (was $129.99) Save 38%
-[Buy now](https://1examprep.com/cart/18815500517433:1) · [Details](https://passthevirginiacontractorexam.com/code-books-and-courses/online-practice-exams-2/)
+[Buy now](https://1examprep.com/cart/18815500517433:1) · [Details](https://passyourvirginiacontractorexam.com/code-books-and-courses/online-practice-exams-2/)
 
 Online Practice Exams (any state)
 
-### [Online Course Review to the International Building Code (IBC)®](https://passthevirginiacontractorexam.com/code-books-and-courses/online-practice-exams/)
+### [Online Course Review to the International Building Code (IBC)®](https://passyourvirginiacontractorexam.com/code-books-and-courses/online-practice-exams/)
 
 $125 (was $140) Save 11%
-[Buy now](https://1examprep.com/cart/18815488491577:1) · [Details](https://passthevirginiacontractorexam.com/code-books-and-courses/online-practice-exams/)
+[Buy now](https://1examprep.com/cart/18815488491577:1) · [Details](https://passyourvirginiacontractorexam.com/code-books-and-courses/online-practice-exams/)
 
 Online Exam Prep Course (any state)
 
-### [National Electrical Code Webinar - Complete Series [Parts 1 - 5]](https://passthevirginiacontractorexam.com/code-books-and-courses/online-course/)
+### [National Electrical Code Webinar - Complete Series [Parts 1 - 5]](https://passyourvirginiacontractorexam.com/code-books-and-courses/online-course/)
 
 $395 (was $440) Save 10%
-[Buy now](https://1examprep.com/cart/31291007205433:1) · [Details](https://passthevirginiacontractorexam.com/code-books-and-courses/online-course/)
+[Buy now](https://1examprep.com/cart/31291007205433:1) · [Details](https://passyourvirginiacontractorexam.com/code-books-and-courses/online-course/)
 
 ## How do the Code Books and Code Courses options compare?
 
 Prices are the starting price for each option; some offer add-ons at checkout.
 
 Option | What you get | Price
-[Code Book](https://passthevirginiacontractorexam.com/code-books-and-courses/code-book-2015/) | the printed code book | $19.99
-[Code Book](https://passthevirginiacontractorexam.com/code-books-and-courses/code-book-2018/) | the printed code book | $19.99
-[Online Practice Exams](https://passthevirginiacontractorexam.com/code-books-and-courses/online-practice-exams-3/) (any state) | timed practice questions online, with explanations | $59.95
-[Online Practice Exams](https://passthevirginiacontractorexam.com/code-books-and-courses/online-practice-exams-2/) (any state) | timed practice questions online, with explanations | $79.99
-[Online Practice Exams](https://passthevirginiacontractorexam.com/code-books-and-courses/online-practice-exams/) (any state) | timed practice questions online, with explanations | $125
-[Online Exam Prep Course](https://passthevirginiacontractorexam.com/code-books-and-courses/online-course/) (any state) | an online course with practice exams you can take on a phone or laptop | $395
+[Code Book](https://passyourvirginiacontractorexam.com/code-books-and-courses/code-book-2015/) | the printed code book | $19.99
+[Code Book](https://passyourvirginiacontractorexam.com/code-books-and-courses/code-book-2018/) | the printed code book | $19.99
+[Online Practice Exams](https://passyourvirginiacontractorexam.com/code-books-and-courses/online-practice-exams-3/) (any state) | timed practice questions online, with explanations | $59.95
+[Online Practice Exams](https://passyourvirginiacontractorexam.com/code-books-and-courses/online-practice-exams-2/) (any state) | timed practice questions online, with explanations | $79.99
+[Online Practice Exams](https://passyourvirginiacontractorexam.com/code-books-and-courses/online-practice-exams/) (any state) | timed practice questions online, with explanations | $125
+[Online Exam Prep Course](https://passyourvirginiacontractorexam.com/code-books-and-courses/online-course/) (any state) | an online course with practice exams you can take on a phone or laptop | $395
 
 ## How does the Code Books and Code Courses exam work?
 
@@ -127,20 +127,20 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 
 ### More in Code books and code courses
 
-- [Every license](https://passthevirginiacontractorexam.com/)
+- [Every license](https://passyourvirginiacontractorexam.com/)
 
 ### Other license groups
 
-- [Contractor license classes](https://passthevirginiacontractorexam.com/#contractor)
-- [Business and law, pre-license and paperwork](https://passthevirginiacontractorexam.com/#business)
-- [Tradesman licenses](https://passthevirginiacontractorexam.com/#trades)
-- [Building officials](https://passthevirginiacontractorexam.com/#officials)
+- [Contractor license classes](https://passyourvirginiacontractorexam.com/#contractor)
+- [Business and law, pre-license and paperwork](https://passyourvirginiacontractorexam.com/#business)
+- [Tradesman licenses](https://passyourvirginiacontractorexam.com/#trades)
+- [Building officials](https://passyourvirginiacontractorexam.com/#officials)
 
 ### Also on this site
 
-- [Virginia exam FAQ](https://passthevirginiacontractorexam.com/faq/)
-- [Study tips and licensing news](https://passthevirginiacontractorexam.com/blog/)
-- [Class A, B and C limits](https://passthevirginiacontractorexam.com/#classes)
+- [Virginia exam FAQ](https://passyourvirginiacontractorexam.com/faq/)
+- [Study tips and licensing news](https://passyourvirginiacontractorexam.com/blog/)
+- [Class A, B and C limits](https://passyourvirginiacontractorexam.com/#classes)
 
 ## Sources
 
@@ -151,6 +151,6 @@ Licensing facts checked against these pages; last updated October 19, 2026. Rule
 
 ---
 
-Source: https://passthevirginiacontractorexam.com/code-books-and-courses/  
-Publisher: Pass the Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
+Source: https://passyourvirginiacontractorexam.com/code-books-and-courses/  
+Publisher: Pass Your Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
 Prices change; the product page and checkout show the current price.

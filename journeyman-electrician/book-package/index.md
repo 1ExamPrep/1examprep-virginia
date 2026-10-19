@@ -1,12 +1,12 @@
 ---
 title: Virginia Journeyman Electrician Book Package
-url: https://passthevirginiacontractorexam.com/journeyman-electrician/book-package/
+url: https://passyourvirginiacontractorexam.com/journeyman-electrician/book-package/
 updated: 2026-10-19
-site: Pass the Virginia Contractor Exam
+site: Pass Your Virginia Contractor Exam
 description: Book Package for the Virginia Journeyman Electrician exam: the reference books the exam is written to, new and unmarked. $399. One-click checkout.
 ---
 
-[All licenses](https://passthevirginiacontractorexam.com/) /[Tradesman licenses](https://passthevirginiacontractorexam.com/#trades) /[Journeyman Electrician](https://passthevirginiacontractorexam.com/journeyman-electrician/) /Book Package
+[All licenses](https://passyourvirginiacontractorexam.com/) /[Tradesman licenses](https://passyourvirginiacontractorexam.com/#trades) /[Journeyman Electrician](https://passyourvirginiacontractorexam.com/journeyman-electrician/) /Book Package
 
 Journeyman Electrician · Book Package
 
@@ -37,7 +37,7 @@ Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 ## About this Journeyman Electrician package
 
-VIRGINIA JOURNEYMAN ELECTRICIAN BOOK PACKAGE The Virginia Journeyman Electrician Book Package from Pass the Virginia Contractor Exam includes all reference materials approved by the Virginia Department of Professional and Occupational Regulation (DPOR) for the journeyman electrician licensing exam. This comprehensive set features the National Electrical Code (NEC) and other PSI-approved resources covering wiring methods, conductor sizing, grounding, load calculations, overcurrent protection, and safety standards.
+VIRGINIA JOURNEYMAN ELECTRICIAN BOOK PACKAGE The Virginia Journeyman Electrician Book Package from Pass Your Virginia Contractor Exam includes all reference materials approved by the Virginia Department of Professional and Occupational Regulation (DPOR) for the journeyman electrician licensing exam. This comprehensive set features the National Electrical Code (NEC) and other PSI-approved resources covering wiring methods, conductor sizing, grounding, load calculations, overcurrent protection, and safety standards.
 
 ## How does the Journeyman Electrician exam work?
 
@@ -50,10 +50,10 @@ The Journeyman Electrician exam is a tradesman exam: one person is licensed, and
 
 ## Other Journeyman Electrician options
 
-[**Online Exam Prep Course** Virginia Journeyman Electrician - Online Exam Prep Course $250](https://passthevirginiacontractorexam.com/journeyman-electrician/online-course/) · [**Online Exam Prep Course** Virginia NASCLA Journeyman Electrician - Online Exam Prep $295](https://passthevirginiacontractorexam.com/journeyman-electrician/online-course-2/) · [**Pre-Printed Tabs** Virginia Journeyman Electrician Exam; Pre-Printed Tabs $39.99](https://passthevirginiacontractorexam.com/journeyman-electrician/tabs/) · [**Study Guide and Flash Cards** 2026 Virginia Journeyman Electrician Exam Prep and Study Gui… $99.95](https://passthevirginiacontractorexam.com/journeyman-electrician/study-guide-flash-cards-2026/) · [**Study Guide** Virginia 2023 Journeyman Electrician Exam Prep and Study Gui… $59.95](https://passthevirginiacontractorexam.com/journeyman-electrician/study-guide-2023/) · [**Study Guide** Virginia 2026 Journeyman Electrician Exam Prep and Study Gui… $59.95](https://passthevirginiacontractorexam.com/journeyman-electrician/study-guide-2026/) · [**Book Package** Virginia NASCLA Journeyman Electrician Exam Book Package $795](https://passthevirginiacontractorexam.com/journeyman-electrician/book-package-2/) · [**Study Guide + NEC with Tabs** 2023 Virginia Journeyman Electrician Study Guide & National … $249.95](https://passthevirginiacontractorexam.com/journeyman-electrician/study-guide-nec-tabs-2023/) [Compare every Journeyman Electrician package →](https://passthevirginiacontractorexam.com/journeyman-electrician/) [Choose a different license →](https://passthevirginiacontractorexam.com/)
+[**Online Exam Prep Course** Virginia Journeyman Electrician - Online Exam Prep Course $250](https://passyourvirginiacontractorexam.com/journeyman-electrician/online-course/) · [**Online Exam Prep Course** Virginia NASCLA Journeyman Electrician - Online Exam Prep $295](https://passyourvirginiacontractorexam.com/journeyman-electrician/online-course-2/) · [**Pre-Printed Tabs** Virginia Journeyman Electrician Exam; Pre-Printed Tabs $39.99](https://passyourvirginiacontractorexam.com/journeyman-electrician/tabs/) · [**Study Guide and Flash Cards** 2026 Virginia Journeyman Electrician Exam Prep and Study Gui… $99.95](https://passyourvirginiacontractorexam.com/journeyman-electrician/study-guide-flash-cards-2026/) · [**Study Guide** Virginia 2023 Journeyman Electrician Exam Prep and Study Gui… $59.95](https://passyourvirginiacontractorexam.com/journeyman-electrician/study-guide-2023/) · [**Study Guide** Virginia 2026 Journeyman Electrician Exam Prep and Study Gui… $59.95](https://passyourvirginiacontractorexam.com/journeyman-electrician/study-guide-2026/) · [**Book Package** Virginia NASCLA Journeyman Electrician Exam Book Package $795](https://passyourvirginiacontractorexam.com/journeyman-electrician/book-package-2/) · [**Study Guide + NEC with Tabs** 2023 Virginia Journeyman Electrician Study Guide & National … $249.95](https://passyourvirginiacontractorexam.com/journeyman-electrician/study-guide-nec-tabs-2023/) [Compare every Journeyman Electrician package →](https://passyourvirginiacontractorexam.com/journeyman-electrician/) [Choose a different license →](https://passyourvirginiacontractorexam.com/)
 
 ### More tradesman licenses
-[NASCLA Electrical Contractor](https://passthevirginiacontractorexam.com/electrical-contractor-nascla/) · [Master Electrician](https://passthevirginiacontractorexam.com/master-electrician/) · [Residential Plumber Tradesman](https://passthevirginiacontractorexam.com/residential-plumber/) · [Journeyman Plumber](https://passthevirginiacontractorexam.com/journeyman-plumber/) · [Master Plumber](https://passthevirginiacontractorexam.com/master-plumber/) · [Virginia exam FAQ](https://passthevirginiacontractorexam.com/faq/) · [Study tips](https://passthevirginiacontractorexam.com/blog/)
+[NASCLA Electrical Contractor](https://passyourvirginiacontractorexam.com/electrical-contractor-nascla/) · [Master Electrician](https://passyourvirginiacontractorexam.com/master-electrician/) · [Residential Plumber Tradesman](https://passyourvirginiacontractorexam.com/residential-plumber/) · [Journeyman Plumber](https://passyourvirginiacontractorexam.com/journeyman-plumber/) · [Master Plumber](https://passyourvirginiacontractorexam.com/master-plumber/) · [Virginia exam FAQ](https://passyourvirginiacontractorexam.com/faq/) · [Study tips](https://passyourvirginiacontractorexam.com/blog/)
 
 ## Questions before you buy
 
@@ -90,6 +90,6 @@ Licensing facts checked against these pages; last updated October 19, 2026. Rule
 
 ---
 
-Source: https://passthevirginiacontractorexam.com/journeyman-electrician/book-package/  
-Publisher: Pass the Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
+Source: https://passyourvirginiacontractorexam.com/journeyman-electrician/book-package/  
+Publisher: Pass Your Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
 Prices change; the product page and checkout show the current price.

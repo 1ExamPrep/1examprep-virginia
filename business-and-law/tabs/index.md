@@ -1,12 +1,12 @@
 ---
 title: Virginia Class A/B Business and Law Pre-Printed Tabs
-url: https://passthevirginiacontractorexam.com/business-and-law/tabs/
+url: https://passyourvirginiacontractorexam.com/business-and-law/tabs/
 updated: 2026-10-19
-site: Pass the Virginia Contractor Exam
+site: Pass Your Virginia Contractor Exam
 description: Pre-Printed Tabs for the Virginia Class A/B Business and Law exam: pre-printed permanent tabs for the reference books, allowed in the exam room. $19.95.
 ---
 
-[All licenses](https://passthevirginiacontractorexam.com/) /[Business and law, pre-license and paperwork](https://passthevirginiacontractorexam.com/#business) /[Class A/B Business and Law](https://passthevirginiacontractorexam.com/business-and-law/) /Pre-Printed Tabs
+[All licenses](https://passyourvirginiacontractorexam.com/) /[Business and law, pre-license and paperwork](https://passyourvirginiacontractorexam.com/#business) /[Class A/B Business and Law](https://passyourvirginiacontractorexam.com/business-and-law/) /Pre-Printed Tabs
 
 Class A/B Business and Law · Pre-Printed Tabs
 
@@ -50,10 +50,10 @@ The Class A/B Business and Law products cover the business side of a Virginia co
 
 ## Other Class A/B Business and Law options
 
-[**Online Practice Exams** Virginia Class A/B Business Exam - Online Practice Questions $79.99](https://passthevirginiacontractorexam.com/business-and-law/online-practice-exams-2/) · [**Online Exam Prep Course** Virginia Class A/B Business - Online Exam Prep Course $195](https://passthevirginiacontractorexam.com/business-and-law/online-course/) · [**Pre-Printed Tabs** Virginia NASCLA Contractors Guide to Business, Law and Proje… $19.95](https://passthevirginiacontractorexam.com/business-and-law/tabs-2/) · [**Highlighted and Tabbed Books** Virginia Class A/B Business Exam Book Package - Highlighted … $249](https://passthevirginiacontractorexam.com/business-and-law/highlighted-tabbed/) · [**Books and Courses Rental** Virginia Residential Building Contractor - Book Rental Packa… $1,485](https://passthevirginiacontractorexam.com/business-and-law/rental-package-4/) · [**Books and Courses Rental** Virginia Commercial Improvement Contracting - Book Rental Pa… $1,899](https://passthevirginiacontractorexam.com/business-and-law/rental-package-2/) · [**Books and Courses Rental** Virginia Commercial Building Technical Contractor - Book Ren… $1,999](https://passthevirginiacontractorexam.com/business-and-law/rental-package/) · [**Books and Courses Rental** Virginia Home Improvement Contractor Exam - Book Rental Pack… $2,385](https://passthevirginiacontractorexam.com/business-and-law/rental-package-3/) [Compare every Class A/B Business and Law package →](https://passthevirginiacontractorexam.com/business-and-law/) [Choose a different license →](https://passthevirginiacontractorexam.com/)
+[**Online Practice Exams** Virginia Class A/B Business Exam - Online Practice Questions $79.99](https://passyourvirginiacontractorexam.com/business-and-law/online-practice-exams-2/) · [**Online Exam Prep Course** Virginia Class A/B Business - Online Exam Prep Course $195](https://passyourvirginiacontractorexam.com/business-and-law/online-course/) · [**Pre-Printed Tabs** Virginia NASCLA Contractors Guide to Business, Law and Proje… $19.95](https://passyourvirginiacontractorexam.com/business-and-law/tabs-2/) · [**Highlighted and Tabbed Books** Virginia Class A/B Business Exam Book Package - Highlighted … $249](https://passyourvirginiacontractorexam.com/business-and-law/highlighted-tabbed/) · [**Books and Courses Rental** Virginia Residential Building Contractor - Book Rental Packa… $1,485](https://passyourvirginiacontractorexam.com/business-and-law/rental-package-4/) · [**Books and Courses Rental** Virginia Commercial Improvement Contracting - Book Rental Pa… $1,899](https://passyourvirginiacontractorexam.com/business-and-law/rental-package-2/) · [**Books and Courses Rental** Virginia Commercial Building Technical Contractor - Book Ren… $1,999](https://passyourvirginiacontractorexam.com/business-and-law/rental-package/) · [**Books and Courses Rental** Virginia Home Improvement Contractor Exam - Book Rental Pack… $2,385](https://passyourvirginiacontractorexam.com/business-and-law/rental-package-3/) [Compare every Class A/B Business and Law package →](https://passyourvirginiacontractorexam.com/business-and-law/) [Choose a different license →](https://passyourvirginiacontractorexam.com/)
 
 ### More business and law, pre-license and paperwork
-[8-Hour Pre-License Education](https://passthevirginiacontractorexam.com/pre-license-education/) · [Application and Business Filing Services](https://passthevirginiacontractorexam.com/licensing-services/) · [Virginia exam FAQ](https://passthevirginiacontractorexam.com/faq/) · [Study tips](https://passthevirginiacontractorexam.com/blog/)
+[8-Hour Pre-License Education](https://passyourvirginiacontractorexam.com/pre-license-education/) · [Application and Business Filing Services](https://passyourvirginiacontractorexam.com/licensing-services/) · [Virginia exam FAQ](https://passyourvirginiacontractorexam.com/faq/) · [Study tips](https://passyourvirginiacontractorexam.com/blog/)
 
 ## Questions before you buy
 
@@ -91,6 +91,6 @@ Licensing facts checked against these pages; last updated October 19, 2026. Rule
 
 ---
 
-Source: https://passthevirginiacontractorexam.com/business-and-law/tabs/  
-Publisher: Pass the Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
+Source: https://passyourvirginiacontractorexam.com/business-and-law/tabs/  
+Publisher: Pass Your Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
 Prices change; the product page and checkout show the current price.

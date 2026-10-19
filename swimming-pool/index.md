@@ -1,12 +1,12 @@
 ---
 title: Virginia Swimming Pool Construction Contractor Exam Prep
-url: https://passthevirginiacontractorexam.com/swimming-pool/
+url: https://passyourvirginiacontractorexam.com/swimming-pool/
 updated: 2026-10-19
-site: Pass the Virginia Contractor Exam
+site: Pass Your Virginia Contractor Exam
 description: Swimming Pool Construction Contractor exam prep for Virginia: 8 options from $99.99 to $3,210, including book package, books and courses rental, highlighted.
 ---
 
-[All licenses](https://passthevirginiacontractorexam.com/) /[Contractor license classes](https://passthevirginiacontractorexam.com/#contractor) /Swimming Pool Construction Contractor
+[All licenses](https://passyourvirginiacontractorexam.com/) /[Contractor license classes](https://passyourvirginiacontractorexam.com/#contractor) /Swimming Pool Construction Contractor
 
 # Swimming Pool Construction Contractor exam prep
 
@@ -28,73 +28,73 @@ Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Det
 
 Online Exam Prep Course
 
-### [Virginia Swimming Pool Construction Contractor - Online Exam Prep Course](https://passthevirginiacontractorexam.com/swimming-pool/online-course/)
+### [Virginia Swimming Pool Construction Contractor - Online Exam Prep Course](https://passyourvirginiacontractorexam.com/swimming-pool/online-course/)
 
 $295 (was $395) Save 25%  to $495
-[Buy now](https://1examprep.com/cart/46033170694201:1) · [Details](https://passthevirginiacontractorexam.com/swimming-pool/online-course/)
+[Buy now](https://1examprep.com/cart/46033170694201:1) · [Details](https://passyourvirginiacontractorexam.com/swimming-pool/online-course/)
 
 Pre-Printed Tabs
 
-### [Virginia Swimming Pool Contracting Exam; Pre-Printed Tabs](https://passthevirginiacontractorexam.com/swimming-pool/tabs/)
+### [Virginia Swimming Pool Contracting Exam; Pre-Printed Tabs](https://passyourvirginiacontractorexam.com/swimming-pool/tabs/)
 
 $99.99 (was $111.50) Save 10%
-[Buy now](https://1examprep.com/cart/41290844831801:1) · [Details](https://passthevirginiacontractorexam.com/swimming-pool/tabs/)
+[Buy now](https://1examprep.com/cart/41290844831801:1) · [Details](https://passyourvirginiacontractorexam.com/swimming-pool/tabs/)
 
 Book Package
 
-### [Virginia Swimming Pool Construction Contractor Exam Book Package](https://passthevirginiacontractorexam.com/swimming-pool/book-package/)
+### [Virginia Swimming Pool Construction Contractor Exam Book Package](https://passyourvirginiacontractorexam.com/swimming-pool/book-package/)
 
 $1,045 (was $1,195) Save 13%  to $1,495
-[Buy now](https://1examprep.com/cart/46379300356153:1) · [Details](https://passthevirginiacontractorexam.com/swimming-pool/book-package/)
+[Buy now](https://1examprep.com/cart/46379300356153:1) · [Details](https://passyourvirginiacontractorexam.com/swimming-pool/book-package/)
 
 Highlighted and Tabbed Books
 
-### [Virginia Swimming Pool Construction Contractor - Highlighted and Tabbed Book Package](https://passthevirginiacontractorexam.com/swimming-pool/highlighted-tabbed/)
+### [Virginia Swimming Pool Construction Contractor - Highlighted and Tabbed Book Package](https://passyourvirginiacontractorexam.com/swimming-pool/highlighted-tabbed/)
 
 $1,495 (was $1,695) Save 12%  to $1,790
-[Buy now](https://1examprep.com/cart/46379296129081:1) · [Details](https://passthevirginiacontractorexam.com/swimming-pool/highlighted-tabbed/)
+[Buy now](https://1examprep.com/cart/46379296129081:1) · [Details](https://passyourvirginiacontractorexam.com/swimming-pool/highlighted-tabbed/)
 
 Live Virtual Training
 
-### [Virginia Swimming Pool Construction Contractor Exam Prep - Live Virtual + Self Study Training](https://passthevirginiacontractorexam.com/swimming-pool/live-training/)
+### [Virginia Swimming Pool Construction Contractor Exam Prep - Live Virtual + Self Study Training](https://passyourvirginiacontractorexam.com/swimming-pool/live-training/)
 
 $595 (was $795) Save 25%
-[Buy now](https://1examprep.com/cart/45852082667577:1) · [Details](https://passthevirginiacontractorexam.com/swimming-pool/live-training/)
+[Buy now](https://1examprep.com/cart/45852082667577:1) · [Details](https://passyourvirginiacontractorexam.com/swimming-pool/live-training/)
 
 Books and Courses Rental
 
-### [Virginia Swimming Pool Construction Contractor - Book Rental Package](https://passthevirginiacontractorexam.com/swimming-pool/rental-package/)
+### [Virginia Swimming Pool Construction Contractor - Book Rental Package](https://passyourvirginiacontractorexam.com/swimming-pool/rental-package/)
 
 $2,085 (was $2,385) Save 13%  to $2,535
-[Buy now](https://1examprep.com/cart/46379451285561:1) · [Details](https://passthevirginiacontractorexam.com/swimming-pool/rental-package/)
+[Buy now](https://1examprep.com/cart/46379451285561:1) · [Details](https://passyourvirginiacontractorexam.com/swimming-pool/rental-package/)
 
 Ultimate Rental Package
 
-### [Virginia Swimming Pool Construction Contractor Ultimate Exam Prep Rental Package](https://passthevirginiacontractorexam.com/swimming-pool/ultimate-rental/)
+### [Virginia Swimming Pool Construction Contractor Ultimate Exam Prep Rental Package](https://passyourvirginiacontractorexam.com/swimming-pool/ultimate-rental/)
 
 $2,510 (was $2,910) Save 14%
-[Buy now](https://1examprep.com/cart/44449210302521:1) · [Details](https://passthevirginiacontractorexam.com/swimming-pool/ultimate-rental/)
+[Buy now](https://1examprep.com/cart/44449210302521:1) · [Details](https://passyourvirginiacontractorexam.com/swimming-pool/ultimate-rental/)
 
 The 1 Package (all-inclusive)
 
-### [The 1 Package: All-Inclusive Virginia Swimming Pool Construction Contractor Exam, Licensing & Business Setup Solution](https://passthevirginiacontractorexam.com/swimming-pool/the-1-package/)
+### [The 1 Package: All-Inclusive Virginia Swimming Pool Construction Contractor Exam, Licensing & Business Setup Solution](https://passyourvirginiacontractorexam.com/swimming-pool/the-1-package/)
 
 $3,210 (was $3,710) Save 13%
-[Buy now](https://1examprep.com/cart/44449251655737:1) · [Details](https://passthevirginiacontractorexam.com/swimming-pool/the-1-package/)
+[Buy now](https://1examprep.com/cart/44449251655737:1) · [Details](https://passyourvirginiacontractorexam.com/swimming-pool/the-1-package/)
 
 ## How do the Swimming Pool Construction Contractor options compare?
 
 Prices are the starting price for each option; some offer add-ons at checkout.
 
 Option | What you get | Price
-[Online Exam Prep Course](https://passthevirginiacontractorexam.com/swimming-pool/online-course/) | an online course with practice exams you can take on a phone or laptop | $295
-[Pre-Printed Tabs](https://passthevirginiacontractorexam.com/swimming-pool/tabs/) | pre-printed permanent tabs for the reference books, allowed in the exam room | $99.99
-[Book Package](https://passthevirginiacontractorexam.com/swimming-pool/book-package/) | the reference books the exam is written to, new and unmarked | $1,045
-[Highlighted and Tabbed Books](https://passthevirginiacontractorexam.com/swimming-pool/highlighted-tabbed/) | the reference books already highlighted and permanently tabbed, ready for the exam room | $1,495
-[Live Virtual Training](https://passthevirginiacontractorexam.com/swimming-pool/live-training/) | live virtual classes with an instructor plus self-study material | $595
-[Books and Courses Rental](https://passthevirginiacontractorexam.com/swimming-pool/rental-package/) | the reference books on rental plus the online course, returned after your exam | $2,085
-[Ultimate Rental Package](https://passthevirginiacontractorexam.com/swimming-pool/ultimate-rental/) | highlighted and tabbed rental books, the online course and live training | $2,510
-[The 1 Package (all-inclusive)](https://passthevirginiacontractorexam.com/swimming-pool/the-1-package/) | everything: exam prep, books, licensing paperwork and business setup | $3,210
+[Online Exam Prep Course](https://passyourvirginiacontractorexam.com/swimming-pool/online-course/) | an online course with practice exams you can take on a phone or laptop | $295
+[Pre-Printed Tabs](https://passyourvirginiacontractorexam.com/swimming-pool/tabs/) | pre-printed permanent tabs for the reference books, allowed in the exam room | $99.99
+[Book Package](https://passyourvirginiacontractorexam.com/swimming-pool/book-package/) | the reference books the exam is written to, new and unmarked | $1,045
+[Highlighted and Tabbed Books](https://passyourvirginiacontractorexam.com/swimming-pool/highlighted-tabbed/) | the reference books already highlighted and permanently tabbed, ready for the exam room | $1,495
+[Live Virtual Training](https://passyourvirginiacontractorexam.com/swimming-pool/live-training/) | live virtual classes with an instructor plus self-study material | $595
+[Books and Courses Rental](https://passyourvirginiacontractorexam.com/swimming-pool/rental-package/) | the reference books on rental plus the online course, returned after your exam | $2,085
+[Ultimate Rental Package](https://passyourvirginiacontractorexam.com/swimming-pool/ultimate-rental/) | highlighted and tabbed rental books, the online course and live training | $2,510
+[The 1 Package (all-inclusive)](https://passyourvirginiacontractorexam.com/swimming-pool/the-1-package/) | everything: exam prep, books, licensing paperwork and business setup | $3,210
 
 ## How does the Swimming Pool Construction Contractor exam work?
 
@@ -143,27 +143,27 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 
 ### More in Contractor license classes
 
-- [NASCLA Commercial General Building Contractor](https://passthevirginiacontractorexam.com/nascla-commercial-general-building/)
-- [Commercial Building Contractor (CBC)](https://passthevirginiacontractorexam.com/commercial-building/)
-- [Commercial Improvement Contractor (CIC)](https://passthevirginiacontractorexam.com/commercial-improvement/)
-- [Residential Building Contractor (RBC)](https://passthevirginiacontractorexam.com/residential-building/)
-- [Home Improvement Contractor (HIC)](https://passthevirginiacontractorexam.com/home-improvement/)
-- [Concrete Contractor](https://passthevirginiacontractorexam.com/concrete/)
-- [Masonry Contractor](https://passthevirginiacontractorexam.com/masonry/)
-- [Roofing Contractor](https://passthevirginiacontractorexam.com/roofing/)
+- [NASCLA Commercial General Building Contractor](https://passyourvirginiacontractorexam.com/nascla-commercial-general-building/)
+- [Commercial Building Contractor (CBC)](https://passyourvirginiacontractorexam.com/commercial-building/)
+- [Commercial Improvement Contractor (CIC)](https://passyourvirginiacontractorexam.com/commercial-improvement/)
+- [Residential Building Contractor (RBC)](https://passyourvirginiacontractorexam.com/residential-building/)
+- [Home Improvement Contractor (HIC)](https://passyourvirginiacontractorexam.com/home-improvement/)
+- [Concrete Contractor](https://passyourvirginiacontractorexam.com/concrete/)
+- [Masonry Contractor](https://passyourvirginiacontractorexam.com/masonry/)
+- [Roofing Contractor](https://passyourvirginiacontractorexam.com/roofing/)
 
 ### Other license groups
 
-- [Business and law, pre-license and paperwork](https://passthevirginiacontractorexam.com/#business)
-- [Tradesman licenses](https://passthevirginiacontractorexam.com/#trades)
-- [Building officials](https://passthevirginiacontractorexam.com/#officials)
-- [Code books and code courses](https://passthevirginiacontractorexam.com/#codes)
+- [Business and law, pre-license and paperwork](https://passyourvirginiacontractorexam.com/#business)
+- [Tradesman licenses](https://passyourvirginiacontractorexam.com/#trades)
+- [Building officials](https://passyourvirginiacontractorexam.com/#officials)
+- [Code books and code courses](https://passyourvirginiacontractorexam.com/#codes)
 
 ### Also on this site
 
-- [Virginia exam FAQ](https://passthevirginiacontractorexam.com/faq/)
-- [Study tips and licensing news](https://passthevirginiacontractorexam.com/blog/)
-- [Class A, B and C limits](https://passthevirginiacontractorexam.com/#classes)
+- [Virginia exam FAQ](https://passyourvirginiacontractorexam.com/faq/)
+- [Study tips and licensing news](https://passyourvirginiacontractorexam.com/blog/)
+- [Class A, B and C limits](https://passyourvirginiacontractorexam.com/#classes)
 
 ## Sources
 
@@ -175,6 +175,6 @@ Licensing facts checked against these pages; last updated October 19, 2026. Rule
 
 ---
 
-Source: https://passthevirginiacontractorexam.com/swimming-pool/  
-Publisher: Pass the Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
+Source: https://passyourvirginiacontractorexam.com/swimming-pool/  
+Publisher: Pass Your Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
 Prices change; the product page and checkout show the current price.

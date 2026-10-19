@@ -1,12 +1,12 @@
 ---
 title: Virginia Contractor Exam FAQ: 20 Answers
-url: https://passthevirginiacontractorexam.com/faq/
+url: https://passyourvirginiacontractorexam.com/faq/
 updated: 2026-10-19
-site: Pass the Virginia Contractor Exam
+site: Pass Your Virginia Contractor Exam
 description: 20 answers about Virginia contractor, tradesman and code official exams: the Class A, B and C limits, the 8-hour pre-license course, PSI exam fees, open-book.
 ---
 
-[Home](https://passthevirginiacontractorexam.com/) /FAQ
+[Home](https://passyourvirginiacontractorexam.com/) /FAQ
 
 # Virginia contractor exam FAQ
 
@@ -115,72 +115,72 @@ Yes. Call (877) 775-9400 or email sales@1examprep.com and say which license you 
 
 Every license page ends with its own questions: the price range, open-book rules, who issues the license and the exam fee. Pick yours below.
 
-- [8-Hour Pre-License Education](https://passthevirginiacontractorexam.com/pre-license-education/#faq)
-- [Class A/B Business and Law](https://passthevirginiacontractorexam.com/business-and-law/#faq)
-- [Application and Business Filing Services](https://passthevirginiacontractorexam.com/licensing-services/#faq)
-- [Residential Energy Inspector / Plans Examiner](https://passthevirginiacontractorexam.com/residential-energy-inspector/#faq)
-- [Commercial Energy Inspector](https://passthevirginiacontractorexam.com/commercial-energy-inspector/#faq)
-- [Commercial Energy Plans Examiner](https://passthevirginiacontractorexam.com/commercial-energy-plans-examiner/#faq)
-- [Building Plans Examiner (B3)](https://passthevirginiacontractorexam.com/building-plans-examiner/#faq)
-- [Residential Plans Examiner (R3)](https://passthevirginiacontractorexam.com/residential-plans-examiner/#faq)
-- [Electrical Plans Examiner (E3)](https://passthevirginiacontractorexam.com/electrical-plans-examiner/#faq)
-- [Mechanical Plans Examiner (M3)](https://passthevirginiacontractorexam.com/mechanical-plans-examiner/#faq)
-- [Plumbing Plans Examiner (P3)](https://passthevirginiacontractorexam.com/plumbing-plans-examiner/#faq)
-- [Fire Plans Examiner](https://passthevirginiacontractorexam.com/fire-plans-examiner/#faq)
-- [Fire Inspector II](https://passthevirginiacontractorexam.com/fire-inspector/#faq)
-- [Commercial Building Inspector (B2)](https://passthevirginiacontractorexam.com/commercial-building-inspector/#faq)
-- [Residential Building Inspector (B1)](https://passthevirginiacontractorexam.com/residential-building-inspector/#faq)
-- [Commercial Electrical Inspector (E2)](https://passthevirginiacontractorexam.com/commercial-electrical-inspector/#faq)
-- [Residential Electrical Inspector (E1)](https://passthevirginiacontractorexam.com/residential-electrical-inspector/#faq)
-- [Commercial Mechanical Inspector (M2)](https://passthevirginiacontractorexam.com/commercial-mechanical-inspector/#faq)
-- [Commercial Plumbing Inspector (P2)](https://passthevirginiacontractorexam.com/commercial-plumbing-inspector/#faq)
-- [Residential Plumbing Inspector (P1)](https://passthevirginiacontractorexam.com/residential-plumbing-inspector/#faq)
-- [NASCLA Electrical Contractor](https://passthevirginiacontractorexam.com/electrical-contractor-nascla/#faq)
-- [Journeyman Electrician](https://passthevirginiacontractorexam.com/journeyman-electrician/#faq)
-- [Master Electrician](https://passthevirginiacontractorexam.com/master-electrician/#faq)
-- [Residential Plumber Tradesman](https://passthevirginiacontractorexam.com/residential-plumber/#faq)
-- [Journeyman Plumber](https://passthevirginiacontractorexam.com/journeyman-plumber/#faq)
-- [Master Plumber](https://passthevirginiacontractorexam.com/master-plumber/#faq)
-- [Residential HVAC Tradesman](https://passthevirginiacontractorexam.com/residential-hvac/#faq)
-- [Journeyman HVAC](https://passthevirginiacontractorexam.com/journeyman-hvac/#faq)
-- [Master HVAC](https://passthevirginiacontractorexam.com/master-hvac/#faq)
-- [Journeyman Natural Gas Fitter](https://passthevirginiacontractorexam.com/journeyman-natural-gas-fitter/#faq)
-- [Master Natural Gas Fitter](https://passthevirginiacontractorexam.com/master-natural-gas-fitter/#faq)
-- [Journeyman Gas Fitter (LP)](https://passthevirginiacontractorexam.com/journeyman-gas-fitter/#faq)
-- [Master Gas Fitter (LP)](https://passthevirginiacontractorexam.com/master-gas-fitter/#faq)
-- [NASCLA Commercial General Building Contractor](https://passthevirginiacontractorexam.com/nascla-commercial-general-building/#faq)
-- [Commercial Building Contractor (CBC)](https://passthevirginiacontractorexam.com/commercial-building/#faq)
-- [Commercial Improvement Contractor (CIC)](https://passthevirginiacontractorexam.com/commercial-improvement/#faq)
-- [Residential Building Contractor (RBC)](https://passthevirginiacontractorexam.com/residential-building/#faq)
-- [Home Improvement Contractor (HIC)](https://passthevirginiacontractorexam.com/home-improvement/#faq)
-- [Concrete Contractor](https://passthevirginiacontractorexam.com/concrete/#faq)
-- [Masonry Contractor](https://passthevirginiacontractorexam.com/masonry/#faq)
-- [Roofing Contractor](https://passthevirginiacontractorexam.com/roofing/#faq)
-- [Floor and Floor Covering Contractor](https://passthevirginiacontractorexam.com/flooring/#faq)
-- [Painting and Wall Covering Contractor](https://passthevirginiacontractorexam.com/painting/#faq)
-- [Tile, Marble, Ceramic and Terrazzo Contractor](https://passthevirginiacontractorexam.com/tile/#faq)
-- [Swimming Pool Construction Contractor](https://passthevirginiacontractorexam.com/swimming-pool/#faq)
-- [Refrigeration Contractor](https://passthevirginiacontractorexam.com/refrigeration/#faq)
-- [Fire Alarm Systems Contractor](https://passthevirginiacontractorexam.com/fire-alarm/#faq)
-- [Framing Contractor](https://passthevirginiacontractorexam.com/framing/#faq)
-- [Finish Carpentry Contractor](https://passthevirginiacontractorexam.com/finish-carpentry/#faq)
-- [Insulation and Weather Stripping Contractor](https://passthevirginiacontractorexam.com/insulation/#faq)
-- [Marine Facility Contractor](https://passthevirginiacontractorexam.com/marine-facility/#faq)
-- [Alternative Energy Systems Contractor](https://passthevirginiacontractorexam.com/alternative-energy/#faq)
-- [Asphalt Paving and Sealcoating Contractor](https://passthevirginiacontractorexam.com/asphalt-paving/#faq)
-- [Billboard Sign Contractor](https://passthevirginiacontractorexam.com/billboard-sign/#faq)
-- [Farm Improvement Contractor](https://passthevirginiacontractorexam.com/farm-improvement/#faq)
-- [Landscape Service Contractor](https://passthevirginiacontractorexam.com/landscape-service/#faq)
-- [Steel Erection Contractor](https://passthevirginiacontractorexam.com/steel-erection/#faq)
-- [Underground Utility and Excavating Contractor](https://passthevirginiacontractorexam.com/underground-utility/#faq)
-- [Vessel Contractor](https://passthevirginiacontractorexam.com/vessel/#faq)
-- [Code Books and Code Courses](https://passthevirginiacontractorexam.com/code-books-and-courses/#faq)
+- [8-Hour Pre-License Education](https://passyourvirginiacontractorexam.com/pre-license-education/#faq)
+- [Class A/B Business and Law](https://passyourvirginiacontractorexam.com/business-and-law/#faq)
+- [Application and Business Filing Services](https://passyourvirginiacontractorexam.com/licensing-services/#faq)
+- [Residential Energy Inspector / Plans Examiner](https://passyourvirginiacontractorexam.com/residential-energy-inspector/#faq)
+- [Commercial Energy Inspector](https://passyourvirginiacontractorexam.com/commercial-energy-inspector/#faq)
+- [Commercial Energy Plans Examiner](https://passyourvirginiacontractorexam.com/commercial-energy-plans-examiner/#faq)
+- [Building Plans Examiner (B3)](https://passyourvirginiacontractorexam.com/building-plans-examiner/#faq)
+- [Residential Plans Examiner (R3)](https://passyourvirginiacontractorexam.com/residential-plans-examiner/#faq)
+- [Electrical Plans Examiner (E3)](https://passyourvirginiacontractorexam.com/electrical-plans-examiner/#faq)
+- [Mechanical Plans Examiner (M3)](https://passyourvirginiacontractorexam.com/mechanical-plans-examiner/#faq)
+- [Plumbing Plans Examiner (P3)](https://passyourvirginiacontractorexam.com/plumbing-plans-examiner/#faq)
+- [Fire Plans Examiner](https://passyourvirginiacontractorexam.com/fire-plans-examiner/#faq)
+- [Fire Inspector II](https://passyourvirginiacontractorexam.com/fire-inspector/#faq)
+- [Commercial Building Inspector (B2)](https://passyourvirginiacontractorexam.com/commercial-building-inspector/#faq)
+- [Residential Building Inspector (B1)](https://passyourvirginiacontractorexam.com/residential-building-inspector/#faq)
+- [Commercial Electrical Inspector (E2)](https://passyourvirginiacontractorexam.com/commercial-electrical-inspector/#faq)
+- [Residential Electrical Inspector (E1)](https://passyourvirginiacontractorexam.com/residential-electrical-inspector/#faq)
+- [Commercial Mechanical Inspector (M2)](https://passyourvirginiacontractorexam.com/commercial-mechanical-inspector/#faq)
+- [Commercial Plumbing Inspector (P2)](https://passyourvirginiacontractorexam.com/commercial-plumbing-inspector/#faq)
+- [Residential Plumbing Inspector (P1)](https://passyourvirginiacontractorexam.com/residential-plumbing-inspector/#faq)
+- [NASCLA Electrical Contractor](https://passyourvirginiacontractorexam.com/electrical-contractor-nascla/#faq)
+- [Journeyman Electrician](https://passyourvirginiacontractorexam.com/journeyman-electrician/#faq)
+- [Master Electrician](https://passyourvirginiacontractorexam.com/master-electrician/#faq)
+- [Residential Plumber Tradesman](https://passyourvirginiacontractorexam.com/residential-plumber/#faq)
+- [Journeyman Plumber](https://passyourvirginiacontractorexam.com/journeyman-plumber/#faq)
+- [Master Plumber](https://passyourvirginiacontractorexam.com/master-plumber/#faq)
+- [Residential HVAC Tradesman](https://passyourvirginiacontractorexam.com/residential-hvac/#faq)
+- [Journeyman HVAC](https://passyourvirginiacontractorexam.com/journeyman-hvac/#faq)
+- [Master HVAC](https://passyourvirginiacontractorexam.com/master-hvac/#faq)
+- [Journeyman Natural Gas Fitter](https://passyourvirginiacontractorexam.com/journeyman-natural-gas-fitter/#faq)
+- [Master Natural Gas Fitter](https://passyourvirginiacontractorexam.com/master-natural-gas-fitter/#faq)
+- [Journeyman Gas Fitter (LP)](https://passyourvirginiacontractorexam.com/journeyman-gas-fitter/#faq)
+- [Master Gas Fitter (LP)](https://passyourvirginiacontractorexam.com/master-gas-fitter/#faq)
+- [NASCLA Commercial General Building Contractor](https://passyourvirginiacontractorexam.com/nascla-commercial-general-building/#faq)
+- [Commercial Building Contractor (CBC)](https://passyourvirginiacontractorexam.com/commercial-building/#faq)
+- [Commercial Improvement Contractor (CIC)](https://passyourvirginiacontractorexam.com/commercial-improvement/#faq)
+- [Residential Building Contractor (RBC)](https://passyourvirginiacontractorexam.com/residential-building/#faq)
+- [Home Improvement Contractor (HIC)](https://passyourvirginiacontractorexam.com/home-improvement/#faq)
+- [Concrete Contractor](https://passyourvirginiacontractorexam.com/concrete/#faq)
+- [Masonry Contractor](https://passyourvirginiacontractorexam.com/masonry/#faq)
+- [Roofing Contractor](https://passyourvirginiacontractorexam.com/roofing/#faq)
+- [Floor and Floor Covering Contractor](https://passyourvirginiacontractorexam.com/flooring/#faq)
+- [Painting and Wall Covering Contractor](https://passyourvirginiacontractorexam.com/painting/#faq)
+- [Tile, Marble, Ceramic and Terrazzo Contractor](https://passyourvirginiacontractorexam.com/tile/#faq)
+- [Swimming Pool Construction Contractor](https://passyourvirginiacontractorexam.com/swimming-pool/#faq)
+- [Refrigeration Contractor](https://passyourvirginiacontractorexam.com/refrigeration/#faq)
+- [Fire Alarm Systems Contractor](https://passyourvirginiacontractorexam.com/fire-alarm/#faq)
+- [Framing Contractor](https://passyourvirginiacontractorexam.com/framing/#faq)
+- [Finish Carpentry Contractor](https://passyourvirginiacontractorexam.com/finish-carpentry/#faq)
+- [Insulation and Weather Stripping Contractor](https://passyourvirginiacontractorexam.com/insulation/#faq)
+- [Marine Facility Contractor](https://passyourvirginiacontractorexam.com/marine-facility/#faq)
+- [Alternative Energy Systems Contractor](https://passyourvirginiacontractorexam.com/alternative-energy/#faq)
+- [Asphalt Paving and Sealcoating Contractor](https://passyourvirginiacontractorexam.com/asphalt-paving/#faq)
+- [Billboard Sign Contractor](https://passyourvirginiacontractorexam.com/billboard-sign/#faq)
+- [Farm Improvement Contractor](https://passyourvirginiacontractorexam.com/farm-improvement/#faq)
+- [Landscape Service Contractor](https://passyourvirginiacontractorexam.com/landscape-service/#faq)
+- [Steel Erection Contractor](https://passyourvirginiacontractorexam.com/steel-erection/#faq)
+- [Underground Utility and Excavating Contractor](https://passyourvirginiacontractorexam.com/underground-utility/#faq)
+- [Vessel Contractor](https://passyourvirginiacontractorexam.com/vessel/#faq)
+- [Code Books and Code Courses](https://passyourvirginiacontractorexam.com/code-books-and-courses/#faq)
 
 Ready to study?
 Find your license, then choose a package.
 
 Exam prep for 60 Virginia licenses, from $19.95. Buy buttons go straight to checkout.
-[Find my license](https://passthevirginiacontractorexam.com/#contractor)
+[Find my license](https://passyourvirginiacontractorexam.com/#contractor)
 
 ## Sources
 
@@ -194,6 +194,6 @@ Licensing facts checked against these pages; last updated October 19, 2026. Rule
 
 ---
 
-Source: https://passthevirginiacontractorexam.com/faq/  
-Publisher: Pass the Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
+Source: https://passyourvirginiacontractorexam.com/faq/  
+Publisher: Pass Your Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
 Prices change; the product page and checkout show the current price.

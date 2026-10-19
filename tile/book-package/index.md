@@ -1,12 +1,12 @@
 ---
 title: Tile, Marble, Ceramic and Terrazzo Contractor Book Package
-url: https://passthevirginiacontractorexam.com/tile/book-package/
+url: https://passyourvirginiacontractorexam.com/tile/book-package/
 updated: 2026-10-19
-site: Pass the Virginia Contractor Exam
+site: Pass Your Virginia Contractor Exam
 description: Book Package for the Virginia Tile, Marble, Ceramic and Terrazzo Contractor exam: the reference books the exam is written to, new and unmarked. $545.
 ---
 
-[All licenses](https://passthevirginiacontractorexam.com/) /[Contractor license classes](https://passthevirginiacontractorexam.com/#contractor) /[Tile, Marble, Ceramic and Terrazzo Contractor](https://passthevirginiacontractorexam.com/tile/) /Book Package
+[All licenses](https://passyourvirginiacontractorexam.com/) /[Contractor license classes](https://passyourvirginiacontractorexam.com/#contractor) /[Tile, Marble, Ceramic and Terrazzo Contractor](https://passyourvirginiacontractorexam.com/tile/) /Book Package
 
 Tile, Marble, Ceramic and Terrazzo Contractor · Book Package
 
@@ -53,10 +53,10 @@ The Tile, Marble, Ceramic and Terrazzo Contractor exam is the technical portion 
 
 ## Other Tile, Marble, Ceramic and Terrazzo Contractor options
 
-[**Online Exam Prep Course** Virginia Tile, Marble, Ceramic and Terrazzo Contractor - Onl… $295](https://passthevirginiacontractorexam.com/tile/online-course/) · [**Highlighted and Tabbed Books** Virginia Tile, Marble, Ceramic and Terrazzo Contractor - Hig… $795](https://passthevirginiacontractorexam.com/tile/highlighted-tabbed/) · [**Live Virtual Training** Virginia Tile, Marble, Ceramic and Terrazzo Contractor Exam … $495](https://passthevirginiacontractorexam.com/tile/live-training/) · [**Books and Courses Rental** Virginia Tile, Marble, Ceramic and Terrazzo Contractor - Boo… $1,385](https://passthevirginiacontractorexam.com/tile/rental-package/) · [**Ultimate Rental Package** Virginia Tile, Marble, Ceramic and Terrazzo Contractor Ultim… $1,810](https://passthevirginiacontractorexam.com/tile/ultimate-rental/) · [**The 1 Package (all-inclusive)** The 1 Package: All-Inclusive Virginia Tile, Marble, Ceramic … $2,510](https://passthevirginiacontractorexam.com/tile/the-1-package/) [Compare every Tile, Marble, Ceramic and Terrazzo Contractor package →](https://passthevirginiacontractorexam.com/tile/) [Choose a different license →](https://passthevirginiacontractorexam.com/)
+[**Online Exam Prep Course** Virginia Tile, Marble, Ceramic and Terrazzo Contractor - Onl… $295](https://passyourvirginiacontractorexam.com/tile/online-course/) · [**Highlighted and Tabbed Books** Virginia Tile, Marble, Ceramic and Terrazzo Contractor - Hig… $795](https://passyourvirginiacontractorexam.com/tile/highlighted-tabbed/) · [**Live Virtual Training** Virginia Tile, Marble, Ceramic and Terrazzo Contractor Exam … $495](https://passyourvirginiacontractorexam.com/tile/live-training/) · [**Books and Courses Rental** Virginia Tile, Marble, Ceramic and Terrazzo Contractor - Boo… $1,385](https://passyourvirginiacontractorexam.com/tile/rental-package/) · [**Ultimate Rental Package** Virginia Tile, Marble, Ceramic and Terrazzo Contractor Ultim… $1,810](https://passyourvirginiacontractorexam.com/tile/ultimate-rental/) · [**The 1 Package (all-inclusive)** The 1 Package: All-Inclusive Virginia Tile, Marble, Ceramic … $2,510](https://passyourvirginiacontractorexam.com/tile/the-1-package/) [Compare every Tile, Marble, Ceramic and Terrazzo Contractor package →](https://passyourvirginiacontractorexam.com/tile/) [Choose a different license →](https://passyourvirginiacontractorexam.com/)
 
 ### More contractor license classes
-[NASCLA Commercial General Building Contractor](https://passthevirginiacontractorexam.com/nascla-commercial-general-building/) · [Commercial Building Contractor (CBC)](https://passthevirginiacontractorexam.com/commercial-building/) · [Commercial Improvement Contractor (CIC)](https://passthevirginiacontractorexam.com/commercial-improvement/) · [Residential Building Contractor (RBC)](https://passthevirginiacontractorexam.com/residential-building/) · [Home Improvement Contractor (HIC)](https://passthevirginiacontractorexam.com/home-improvement/) · [Virginia exam FAQ](https://passthevirginiacontractorexam.com/faq/) · [Study tips](https://passthevirginiacontractorexam.com/blog/)
+[NASCLA Commercial General Building Contractor](https://passyourvirginiacontractorexam.com/nascla-commercial-general-building/) · [Commercial Building Contractor (CBC)](https://passyourvirginiacontractorexam.com/commercial-building/) · [Commercial Improvement Contractor (CIC)](https://passyourvirginiacontractorexam.com/commercial-improvement/) · [Residential Building Contractor (RBC)](https://passyourvirginiacontractorexam.com/residential-building/) · [Home Improvement Contractor (HIC)](https://passyourvirginiacontractorexam.com/home-improvement/) · [Virginia exam FAQ](https://passyourvirginiacontractorexam.com/faq/) · [Study tips](https://passyourvirginiacontractorexam.com/blog/)
 
 ## Questions before you buy
 
@@ -94,6 +94,6 @@ Licensing facts checked against these pages; last updated October 19, 2026. Rule
 
 ---
 
-Source: https://passthevirginiacontractorexam.com/tile/book-package/  
-Publisher: Pass the Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
+Source: https://passyourvirginiacontractorexam.com/tile/book-package/  
+Publisher: Pass Your Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
 Prices change; the product page and checkout show the current price.

@@ -1,8 +1,8 @@
 ---
 title: Virginia Contractor Exam Prep for Every License
-url: https://passthevirginiacontractorexam.com/
+url: https://passyourvirginiacontractorexam.com/
 updated: 2026-10-19
-site: Pass the Virginia Contractor Exam
+site: Pass Your Virginia Contractor Exam
 description: Virginia contractor exam prep for 60 licenses: Class A, B and C trade classifications, tradesman licenses and ICC inspector exams. Books, courses and The 1.
 ---
 
@@ -23,86 +23,86 @@ Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 Board for Contractors trade classifications for a Class A, B or C license. The designated employee or qualified individual for the firm passes the exam for the classification.
 
-- [**NASCLA Commercial General Building Contractor**](https://passthevirginiacontractorexam.com/nascla-commercial-general-building/) 7 options from $395
-- [**Commercial Building Contractor (CBC)**](https://passthevirginiacontractorexam.com/commercial-building/) 8 options from $99.99
-- [**Commercial Improvement Contractor (CIC)**](https://passthevirginiacontractorexam.com/commercial-improvement/) 8 options from $79.99
-- [**Residential Building Contractor (RBC)**](https://passthevirginiacontractorexam.com/residential-building/) 7 options from $49.99
-- [**Home Improvement Contractor (HIC)**](https://passthevirginiacontractorexam.com/home-improvement/) 8 options from $99.99
-- [**Concrete Contractor**](https://passthevirginiacontractorexam.com/concrete/) 8 options from $99.99
-- [**Masonry Contractor**](https://passthevirginiacontractorexam.com/masonry/) 8 options from $74.99
-- [**Roofing Contractor**](https://passthevirginiacontractorexam.com/roofing/) 8 options from $89.99
-- [**Floor and Floor Covering Contractor**](https://passthevirginiacontractorexam.com/flooring/) 7 options from $295
-- [**Painting and Wall Covering Contractor**](https://passthevirginiacontractorexam.com/painting/) 7 options from $39.99
-- [**Tile, Marble, Ceramic and Terrazzo Contractor**](https://passthevirginiacontractorexam.com/tile/) 7 options from $295
-- [**Swimming Pool Construction Contractor**](https://passthevirginiacontractorexam.com/swimming-pool/) 8 options from $99.99
-- [**Refrigeration Contractor**](https://passthevirginiacontractorexam.com/refrigeration/) 7 options from $295
-- [**Fire Alarm Systems Contractor**](https://passthevirginiacontractorexam.com/fire-alarm/) 2 options from $545
-- [**Framing Contractor**](https://passthevirginiacontractorexam.com/framing/) 1 option from $595
-- [**Finish Carpentry Contractor**](https://passthevirginiacontractorexam.com/finish-carpentry/) 2 options from $145
-- [**Insulation and Weather Stripping Contractor**](https://passthevirginiacontractorexam.com/insulation/) 1 option from $1,495
-- [**Marine Facility Contractor**](https://passthevirginiacontractorexam.com/marine-facility/) 2 options from $795
-- [**Alternative Energy Systems Contractor**](https://passthevirginiacontractorexam.com/alternative-energy/) 1 option from $545
-- [**Asphalt Paving and Sealcoating Contractor**](https://passthevirginiacontractorexam.com/asphalt-paving/) 2 options from $795
-- [**Billboard Sign Contractor**](https://passthevirginiacontractorexam.com/billboard-sign/) 1 option from $195
-- [**Farm Improvement Contractor**](https://passthevirginiacontractorexam.com/farm-improvement/) 1 option from $1,545
-- [**Landscape Service Contractor**](https://passthevirginiacontractorexam.com/landscape-service/) 1 option from $695
-- [**Steel Erection Contractor**](https://passthevirginiacontractorexam.com/steel-erection/) 1 option from $695
-- [**Underground Utility and Excavating Contractor**](https://passthevirginiacontractorexam.com/underground-utility/) 1 option from $1,195
-- [**Vessel Contractor**](https://passthevirginiacontractorexam.com/vessel/) 1 option from $1,895
+- [**NASCLA Commercial General Building Contractor**](https://passyourvirginiacontractorexam.com/nascla-commercial-general-building/) 7 options from $395
+- [**Commercial Building Contractor (CBC)**](https://passyourvirginiacontractorexam.com/commercial-building/) 8 options from $99.99
+- [**Commercial Improvement Contractor (CIC)**](https://passyourvirginiacontractorexam.com/commercial-improvement/) 8 options from $79.99
+- [**Residential Building Contractor (RBC)**](https://passyourvirginiacontractorexam.com/residential-building/) 7 options from $49.99
+- [**Home Improvement Contractor (HIC)**](https://passyourvirginiacontractorexam.com/home-improvement/) 8 options from $99.99
+- [**Concrete Contractor**](https://passyourvirginiacontractorexam.com/concrete/) 8 options from $99.99
+- [**Masonry Contractor**](https://passyourvirginiacontractorexam.com/masonry/) 8 options from $74.99
+- [**Roofing Contractor**](https://passyourvirginiacontractorexam.com/roofing/) 8 options from $89.99
+- [**Floor and Floor Covering Contractor**](https://passyourvirginiacontractorexam.com/flooring/) 7 options from $295
+- [**Painting and Wall Covering Contractor**](https://passyourvirginiacontractorexam.com/painting/) 7 options from $39.99
+- [**Tile, Marble, Ceramic and Terrazzo Contractor**](https://passyourvirginiacontractorexam.com/tile/) 7 options from $295
+- [**Swimming Pool Construction Contractor**](https://passyourvirginiacontractorexam.com/swimming-pool/) 8 options from $99.99
+- [**Refrigeration Contractor**](https://passyourvirginiacontractorexam.com/refrigeration/) 7 options from $295
+- [**Fire Alarm Systems Contractor**](https://passyourvirginiacontractorexam.com/fire-alarm/) 2 options from $545
+- [**Framing Contractor**](https://passyourvirginiacontractorexam.com/framing/) 1 option from $595
+- [**Finish Carpentry Contractor**](https://passyourvirginiacontractorexam.com/finish-carpentry/) 2 options from $145
+- [**Insulation and Weather Stripping Contractor**](https://passyourvirginiacontractorexam.com/insulation/) 1 option from $1,495
+- [**Marine Facility Contractor**](https://passyourvirginiacontractorexam.com/marine-facility/) 2 options from $795
+- [**Alternative Energy Systems Contractor**](https://passyourvirginiacontractorexam.com/alternative-energy/) 1 option from $545
+- [**Asphalt Paving and Sealcoating Contractor**](https://passyourvirginiacontractorexam.com/asphalt-paving/) 2 options from $795
+- [**Billboard Sign Contractor**](https://passyourvirginiacontractorexam.com/billboard-sign/) 1 option from $195
+- [**Farm Improvement Contractor**](https://passyourvirginiacontractorexam.com/farm-improvement/) 1 option from $1,545
+- [**Landscape Service Contractor**](https://passyourvirginiacontractorexam.com/landscape-service/) 1 option from $695
+- [**Steel Erection Contractor**](https://passyourvirginiacontractorexam.com/steel-erection/) 1 option from $695
+- [**Underground Utility and Excavating Contractor**](https://passyourvirginiacontractorexam.com/underground-utility/) 1 option from $1,195
+- [**Vessel Contractor**](https://passyourvirginiacontractorexam.com/vessel/) 1 option from $1,895
 
 ## Business and law, pre-license and paperwork
 
 The business and law exam, the 8-hour pre-license course, and help with the application and the company filing.
 
-- [**8-Hour Pre-License Education**](https://passthevirginiacontractorexam.com/pre-license-education/) 1 option from $89
-- [**Class A/B Business and Law**](https://passthevirginiacontractorexam.com/business-and-law/) 11 options from $19.95
-- [**Application and Business Filing Services**](https://passthevirginiacontractorexam.com/licensing-services/) 3 options from $295
+- [**8-Hour Pre-License Education**](https://passyourvirginiacontractorexam.com/pre-license-education/) 1 option from $89
+- [**Class A/B Business and Law**](https://passyourvirginiacontractorexam.com/business-and-law/) 11 options from $19.95
+- [**Application and Business Filing Services**](https://passyourvirginiacontractorexam.com/licensing-services/) 3 options from $295
 
 ## Tradesman licenses
 
 Journeyman and master licenses for electricians, plumbers, HVAC technicians and gas fitters, issued through the Board for Contractors tradesman program.
 
-- [**NASCLA Electrical Contractor**](https://passthevirginiacontractorexam.com/electrical-contractor-nascla/) 9 options from $295
-- [**Journeyman Electrician**](https://passthevirginiacontractorexam.com/journeyman-electrician/) 33 options from $39.99
-- [**Master Electrician**](https://passthevirginiacontractorexam.com/master-electrician/) 24 options from $39.99
-- [**Residential Plumber Tradesman**](https://passthevirginiacontractorexam.com/residential-plumber/) 2 options from $195
-- [**Journeyman Plumber**](https://passthevirginiacontractorexam.com/journeyman-plumber/) 12 options from $29.99
-- [**Master Plumber**](https://passthevirginiacontractorexam.com/master-plumber/) 7 options from $29.99
-- [**Residential HVAC Tradesman**](https://passthevirginiacontractorexam.com/residential-hvac/) 2 options from $745
-- [**Journeyman HVAC**](https://passthevirginiacontractorexam.com/journeyman-hvac/) 3 options from $495
-- [**Master HVAC**](https://passthevirginiacontractorexam.com/master-hvac/) 5 options from $65
-- [**Journeyman Natural Gas Fitter**](https://passthevirginiacontractorexam.com/journeyman-natural-gas-fitter/) 5 options from $295
-- [**Master Natural Gas Fitter**](https://passthevirginiacontractorexam.com/master-natural-gas-fitter/) 7 options from $79.99
-- [**Journeyman Gas Fitter (LP)**](https://passthevirginiacontractorexam.com/journeyman-gas-fitter/) 7 options from $39.99
-- [**Master Gas Fitter (LP)**](https://passthevirginiacontractorexam.com/master-gas-fitter/) 8 options from $39.99
+- [**NASCLA Electrical Contractor**](https://passyourvirginiacontractorexam.com/electrical-contractor-nascla/) 9 options from $295
+- [**Journeyman Electrician**](https://passyourvirginiacontractorexam.com/journeyman-electrician/) 33 options from $39.99
+- [**Master Electrician**](https://passyourvirginiacontractorexam.com/master-electrician/) 24 options from $39.99
+- [**Residential Plumber Tradesman**](https://passyourvirginiacontractorexam.com/residential-plumber/) 2 options from $195
+- [**Journeyman Plumber**](https://passyourvirginiacontractorexam.com/journeyman-plumber/) 12 options from $29.99
+- [**Master Plumber**](https://passyourvirginiacontractorexam.com/master-plumber/) 7 options from $29.99
+- [**Residential HVAC Tradesman**](https://passyourvirginiacontractorexam.com/residential-hvac/) 2 options from $745
+- [**Journeyman HVAC**](https://passyourvirginiacontractorexam.com/journeyman-hvac/) 3 options from $495
+- [**Master HVAC**](https://passyourvirginiacontractorexam.com/master-hvac/) 5 options from $65
+- [**Journeyman Natural Gas Fitter**](https://passyourvirginiacontractorexam.com/journeyman-natural-gas-fitter/) 5 options from $295
+- [**Master Natural Gas Fitter**](https://passyourvirginiacontractorexam.com/master-natural-gas-fitter/) 7 options from $79.99
+- [**Journeyman Gas Fitter (LP)**](https://passyourvirginiacontractorexam.com/journeyman-gas-fitter/) 7 options from $39.99
+- [**Master Gas Fitter (LP)**](https://passyourvirginiacontractorexam.com/master-gas-fitter/) 8 options from $39.99
 
 ## Building officials: inspectors and plans examiners
 
 ICC certification exams for code officials. ICC exams are national, so a few Ohio and West Virginia editions are listed with the Virginia ones.
 
-- [**Residential Energy Inspector / Plans Examiner**](https://passthevirginiacontractorexam.com/residential-energy-inspector/) 6 options from $129
-- [**Commercial Energy Inspector**](https://passthevirginiacontractorexam.com/commercial-energy-inspector/) 2 options from $245
-- [**Commercial Energy Plans Examiner**](https://passthevirginiacontractorexam.com/commercial-energy-plans-examiner/) 1 option from $540
-- [**Building Plans Examiner (B3)**](https://passthevirginiacontractorexam.com/building-plans-examiner/) 6 options from $295
-- [**Residential Plans Examiner (R3)**](https://passthevirginiacontractorexam.com/residential-plans-examiner/) 5 options from $199
-- [**Electrical Plans Examiner (E3)**](https://passthevirginiacontractorexam.com/electrical-plans-examiner/) 7 options from $225
-- [**Mechanical Plans Examiner (M3)**](https://passthevirginiacontractorexam.com/mechanical-plans-examiner/) 5 options from $295
-- [**Plumbing Plans Examiner (P3)**](https://passthevirginiacontractorexam.com/plumbing-plans-examiner/) 6 options from $295
-- [**Fire Plans Examiner**](https://passthevirginiacontractorexam.com/fire-plans-examiner/) 1 option from $945
-- [**Fire Inspector II**](https://passthevirginiacontractorexam.com/fire-inspector/) 1 option from $595
-- [**Commercial Building Inspector (B2)**](https://passthevirginiacontractorexam.com/commercial-building-inspector/) 6 options from $295
-- [**Residential Building Inspector (B1)**](https://passthevirginiacontractorexam.com/residential-building-inspector/) 4 options from $199
-- [**Commercial Electrical Inspector (E2)**](https://passthevirginiacontractorexam.com/commercial-electrical-inspector/) 7 options from $225
-- [**Residential Electrical Inspector (E1)**](https://passthevirginiacontractorexam.com/residential-electrical-inspector/) 3 options from $295
-- [**Commercial Mechanical Inspector (M2)**](https://passthevirginiacontractorexam.com/commercial-mechanical-inspector/) 7 options from $295
-- [**Commercial Plumbing Inspector (P2)**](https://passthevirginiacontractorexam.com/commercial-plumbing-inspector/) 5 options from $295
-- [**Residential Plumbing Inspector (P1)**](https://passthevirginiacontractorexam.com/residential-plumbing-inspector/) 7 options from $199
+- [**Residential Energy Inspector / Plans Examiner**](https://passyourvirginiacontractorexam.com/residential-energy-inspector/) 6 options from $129
+- [**Commercial Energy Inspector**](https://passyourvirginiacontractorexam.com/commercial-energy-inspector/) 2 options from $245
+- [**Commercial Energy Plans Examiner**](https://passyourvirginiacontractorexam.com/commercial-energy-plans-examiner/) 1 option from $540
+- [**Building Plans Examiner (B3)**](https://passyourvirginiacontractorexam.com/building-plans-examiner/) 6 options from $295
+- [**Residential Plans Examiner (R3)**](https://passyourvirginiacontractorexam.com/residential-plans-examiner/) 5 options from $199
+- [**Electrical Plans Examiner (E3)**](https://passyourvirginiacontractorexam.com/electrical-plans-examiner/) 7 options from $225
+- [**Mechanical Plans Examiner (M3)**](https://passyourvirginiacontractorexam.com/mechanical-plans-examiner/) 5 options from $295
+- [**Plumbing Plans Examiner (P3)**](https://passyourvirginiacontractorexam.com/plumbing-plans-examiner/) 6 options from $295
+- [**Fire Plans Examiner**](https://passyourvirginiacontractorexam.com/fire-plans-examiner/) 1 option from $945
+- [**Fire Inspector II**](https://passyourvirginiacontractorexam.com/fire-inspector/) 1 option from $595
+- [**Commercial Building Inspector (B2)**](https://passyourvirginiacontractorexam.com/commercial-building-inspector/) 6 options from $295
+- [**Residential Building Inspector (B1)**](https://passyourvirginiacontractorexam.com/residential-building-inspector/) 4 options from $199
+- [**Commercial Electrical Inspector (E2)**](https://passyourvirginiacontractorexam.com/commercial-electrical-inspector/) 7 options from $225
+- [**Residential Electrical Inspector (E1)**](https://passyourvirginiacontractorexam.com/residential-electrical-inspector/) 3 options from $295
+- [**Commercial Mechanical Inspector (M2)**](https://passyourvirginiacontractorexam.com/commercial-mechanical-inspector/) 7 options from $295
+- [**Commercial Plumbing Inspector (P2)**](https://passyourvirginiacontractorexam.com/commercial-plumbing-inspector/) 5 options from $295
+- [**Residential Plumbing Inspector (P1)**](https://passyourvirginiacontractorexam.com/residential-plumbing-inspector/) 7 options from $199
 
 ## Code books and code courses
 
 Reference books and short courses on the codes the exams are written to.
 
-- [**Code Books and Code Courses**](https://passthevirginiacontractorexam.com/code-books-and-courses/) 6 options from $19.99
+- [**Code Books and Code Courses**](https://passyourvirginiacontractorexam.com/code-books-and-courses/) 6 options from $19.99
 
 ## How do Virginia contractor license classes work?
 
@@ -213,6 +213,6 @@ Find my license
 
 ---
 
-Source: https://passthevirginiacontractorexam.com/  
-Publisher: Pass the Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
+Source: https://passyourvirginiacontractorexam.com/  
+Publisher: Pass Your Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
 Prices change; the product page and checkout show the current price.

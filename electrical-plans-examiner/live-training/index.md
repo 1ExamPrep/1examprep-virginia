@@ -1,12 +1,12 @@
 ---
 title: Electrical Plans Examiner (E3) Live Virtual Training
-url: https://passthevirginiacontractorexam.com/electrical-plans-examiner/live-training/
+url: https://passyourvirginiacontractorexam.com/electrical-plans-examiner/live-training/
 updated: 2026-10-19
-site: Pass the Virginia Contractor Exam
+site: Pass Your Virginia Contractor Exam
 description: Live Virtual Training for the Virginia Electrical Plans Examiner (E3) exam: live virtual classes with an instructor plus self-study material. $495. One-click.
 ---
 
-[All licenses](https://passthevirginiacontractorexam.com/) /[Building officials](https://passthevirginiacontractorexam.com/#officials) /[Electrical Plans Examiner (E3)](https://passthevirginiacontractorexam.com/electrical-plans-examiner/) /Live Virtual Training
+[All licenses](https://passyourvirginiacontractorexam.com/) /[Building officials](https://passyourvirginiacontractorexam.com/#officials) /[Electrical Plans Examiner (E3)](https://passyourvirginiacontractorexam.com/electrical-plans-examiner/) /Live Virtual Training
 
 Electrical Plans Examiner (E3) · Live Virtual Training
 
@@ -50,10 +50,10 @@ The Electrical Plans Examiner (E3) exam is a code official certification. It is 
 
 ## Other Electrical Plans Examiner (E3) options
 
-[**Online Exam Prep Course** Virginia Electrical Plans Examiner - (ICC - E3) - Online Exa… $295](https://passthevirginiacontractorexam.com/electrical-plans-examiner/online-course/) · [**Book Package** Virginia Electrical Plans Examiner - (ICC - E3) Exam Book Pa… $225](https://passthevirginiacontractorexam.com/electrical-plans-examiner/book-package/) · [**Highlighted and Tabbed Books** Virginia Electrical Plans Examiner - (ICC - E3) Highlighted … $425](https://passthevirginiacontractorexam.com/electrical-plans-examiner/highlighted-tabbed/) · [**Books and Courses Rental** Virginia Electrical Plans Examiner - (ICC - E3) - Books & Co… $720](https://passthevirginiacontractorexam.com/electrical-plans-examiner/rental-package/) · [**Highlighted and Tabbed Books (Ohio edition)** Ohio Electrical Plans Examiner - (ICC - E3) Highlighted & Ta… $425](https://passthevirginiacontractorexam.com/electrical-plans-examiner/highlighted-tabbed-ohio/) · [**Books and Courses Rental (West Virginia edition)** West Virginia Electrical Plans Examiner - (ICC - E3) - Books… $720](https://passthevirginiacontractorexam.com/electrical-plans-examiner/rental-package-west-virginia/) [Compare every Electrical Plans Examiner (E3) package →](https://passthevirginiacontractorexam.com/electrical-plans-examiner/) [Choose a different license →](https://passthevirginiacontractorexam.com/)
+[**Online Exam Prep Course** Virginia Electrical Plans Examiner - (ICC - E3) - Online Exa… $295](https://passyourvirginiacontractorexam.com/electrical-plans-examiner/online-course/) · [**Book Package** Virginia Electrical Plans Examiner - (ICC - E3) Exam Book Pa… $225](https://passyourvirginiacontractorexam.com/electrical-plans-examiner/book-package/) · [**Highlighted and Tabbed Books** Virginia Electrical Plans Examiner - (ICC - E3) Highlighted … $425](https://passyourvirginiacontractorexam.com/electrical-plans-examiner/highlighted-tabbed/) · [**Books and Courses Rental** Virginia Electrical Plans Examiner - (ICC - E3) - Books & Co… $720](https://passyourvirginiacontractorexam.com/electrical-plans-examiner/rental-package/) · [**Highlighted and Tabbed Books (Ohio edition)** Ohio Electrical Plans Examiner - (ICC - E3) Highlighted & Ta… $425](https://passyourvirginiacontractorexam.com/electrical-plans-examiner/highlighted-tabbed-ohio/) · [**Books and Courses Rental (West Virginia edition)** West Virginia Electrical Plans Examiner - (ICC - E3) - Books… $720](https://passyourvirginiacontractorexam.com/electrical-plans-examiner/rental-package-west-virginia/) [Compare every Electrical Plans Examiner (E3) package →](https://passyourvirginiacontractorexam.com/electrical-plans-examiner/) [Choose a different license →](https://passyourvirginiacontractorexam.com/)
 
 ### More building officials
-[Residential Energy Inspector / Plans Examiner](https://passthevirginiacontractorexam.com/residential-energy-inspector/) · [Commercial Energy Inspector](https://passthevirginiacontractorexam.com/commercial-energy-inspector/) · [Commercial Energy Plans Examiner](https://passthevirginiacontractorexam.com/commercial-energy-plans-examiner/) · [Building Plans Examiner (B3)](https://passthevirginiacontractorexam.com/building-plans-examiner/) · [Residential Plans Examiner (R3)](https://passthevirginiacontractorexam.com/residential-plans-examiner/) · [Virginia exam FAQ](https://passthevirginiacontractorexam.com/faq/) · [Study tips](https://passthevirginiacontractorexam.com/blog/)
+[Residential Energy Inspector / Plans Examiner](https://passyourvirginiacontractorexam.com/residential-energy-inspector/) · [Commercial Energy Inspector](https://passyourvirginiacontractorexam.com/commercial-energy-inspector/) · [Commercial Energy Plans Examiner](https://passyourvirginiacontractorexam.com/commercial-energy-plans-examiner/) · [Building Plans Examiner (B3)](https://passyourvirginiacontractorexam.com/building-plans-examiner/) · [Residential Plans Examiner (R3)](https://passyourvirginiacontractorexam.com/residential-plans-examiner/) · [Virginia exam FAQ](https://passyourvirginiacontractorexam.com/faq/) · [Study tips](https://passyourvirginiacontractorexam.com/blog/)
 
 ## Questions before you buy
 
@@ -90,6 +90,6 @@ Licensing facts checked against these pages; last updated October 19, 2026. Rule
 
 ---
 
-Source: https://passthevirginiacontractorexam.com/electrical-plans-examiner/live-training/  
-Publisher: Pass the Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
+Source: https://passyourvirginiacontractorexam.com/electrical-plans-examiner/live-training/  
+Publisher: Pass Your Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
 Prices change; the product page and checkout show the current price.

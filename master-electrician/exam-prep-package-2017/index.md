@@ -1,12 +1,12 @@
 ---
 title: Virginia Master Electrician Exam Prep Package (2017)
-url: https://passthevirginiacontractorexam.com/master-electrician/exam-prep-package-2017/
+url: https://passyourvirginiacontractorexam.com/master-electrician/exam-prep-package-2017/
 updated: 2026-10-19
-site: Pass the Virginia Contractor Exam
+site: Pass Your Virginia Contractor Exam
 description: Exam Prep Package for the Virginia Master Electrician exam: an exam prep package for an earlier code cycle. $350. One-click checkout.
 ---
 
-[All licenses](https://passthevirginiacontractorexam.com/) /[Tradesman licenses](https://passthevirginiacontractorexam.com/#trades) /[Master Electrician](https://passthevirginiacontractorexam.com/master-electrician/) /Exam Prep Package
+[All licenses](https://passyourvirginiacontractorexam.com/) /[Tradesman licenses](https://passyourvirginiacontractorexam.com/#trades) /[Master Electrician](https://passyourvirginiacontractorexam.com/master-electrician/) /Exam Prep Package
 
 Master Electrician · Exam Prep Package
 
@@ -37,7 +37,7 @@ Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 ## About this Master Electrician package
 
-Virginia 2017 Master Electrician Exam Prep PackageThe Virginia 2017 Master Electrician Exam Prep Package from Pass the Virginia Contractor Exam is developed in accordance with the Virginia Department of Professional and Occupational Regulation (DPOR) and the Board for Contractors’ requirements for the Master Electrician license. Based on the 2017 National Electrical Code (NEC), this prep package focuses on code application, service calculations, branch circuits, grounding and bonding, transformers, motors, and overcurrent protection.
+Virginia 2017 Master Electrician Exam Prep PackageThe Virginia 2017 Master Electrician Exam Prep Package from Pass Your Virginia Contractor Exam is developed in accordance with the Virginia Department of Professional and Occupational Regulation (DPOR) and the Board for Contractors’ requirements for the Master Electrician license. Based on the 2017 National Electrical Code (NEC), this prep package focuses on code application, service calculations, branch circuits, grounding and bonding, transformers, motors, and overcurrent protection.
 
 ## How does the Master Electrician exam work?
 
@@ -50,10 +50,10 @@ The Master Electrician exam is a tradesman exam: one person is licensed, and a c
 
 ## Other Master Electrician options
 
-[**Online Exam Prep Course** Virginia Master Electrician - Online Exam Prep Course $250](https://passthevirginiacontractorexam.com/master-electrician/online-course/) · [**Pre-Printed Tabs** Virginia Master Electrician Exam; Pre-Printed Tabs $39.99](https://passthevirginiacontractorexam.com/master-electrician/tabs/) · [**Study Guide and Flash Cards** 2026 Virginia Master Electrician Exam Prep and Study Guide +… $99.95](https://passthevirginiacontractorexam.com/master-electrician/study-guide-flash-cards-2026/) · [**Study Guide** Virginia 2023 Master Electrician Exam Prep and Study Guide: … $59.95](https://passthevirginiacontractorexam.com/master-electrician/study-guide-2023/) · [**Study Guide** Virginia 2026 Master Electrician Exam Prep and Study Guide: … $59.95](https://passthevirginiacontractorexam.com/master-electrician/study-guide-2026/) · [**Book Package** Virginia Master Electrician Book Package $399](https://passthevirginiacontractorexam.com/master-electrician/book-package/) · [**Study Guide + NEC with Tabs** 2023 Virginia Master Electrician Study Guide & National Elec… $249.95](https://passthevirginiacontractorexam.com/master-electrician/study-guide-nec-tabs-2023/) · [**Study Guide + NEC with Tabs** 2026 Virginia Master Electrician Study Guide & National Elec… $249.95](https://passthevirginiacontractorexam.com/master-electrician/study-guide-nec-tabs-2026/) [Compare every Master Electrician package →](https://passthevirginiacontractorexam.com/master-electrician/) [Choose a different license →](https://passthevirginiacontractorexam.com/)
+[**Online Exam Prep Course** Virginia Master Electrician - Online Exam Prep Course $250](https://passyourvirginiacontractorexam.com/master-electrician/online-course/) · [**Pre-Printed Tabs** Virginia Master Electrician Exam; Pre-Printed Tabs $39.99](https://passyourvirginiacontractorexam.com/master-electrician/tabs/) · [**Study Guide and Flash Cards** 2026 Virginia Master Electrician Exam Prep and Study Guide +… $99.95](https://passyourvirginiacontractorexam.com/master-electrician/study-guide-flash-cards-2026/) · [**Study Guide** Virginia 2023 Master Electrician Exam Prep and Study Guide: … $59.95](https://passyourvirginiacontractorexam.com/master-electrician/study-guide-2023/) · [**Study Guide** Virginia 2026 Master Electrician Exam Prep and Study Guide: … $59.95](https://passyourvirginiacontractorexam.com/master-electrician/study-guide-2026/) · [**Book Package** Virginia Master Electrician Book Package $399](https://passyourvirginiacontractorexam.com/master-electrician/book-package/) · [**Study Guide + NEC with Tabs** 2023 Virginia Master Electrician Study Guide & National Elec… $249.95](https://passyourvirginiacontractorexam.com/master-electrician/study-guide-nec-tabs-2023/) · [**Study Guide + NEC with Tabs** 2026 Virginia Master Electrician Study Guide & National Elec… $249.95](https://passyourvirginiacontractorexam.com/master-electrician/study-guide-nec-tabs-2026/) [Compare every Master Electrician package →](https://passyourvirginiacontractorexam.com/master-electrician/) [Choose a different license →](https://passyourvirginiacontractorexam.com/)
 
 ### More tradesman licenses
-[NASCLA Electrical Contractor](https://passthevirginiacontractorexam.com/electrical-contractor-nascla/) · [Journeyman Electrician](https://passthevirginiacontractorexam.com/journeyman-electrician/) · [Residential Plumber Tradesman](https://passthevirginiacontractorexam.com/residential-plumber/) · [Journeyman Plumber](https://passthevirginiacontractorexam.com/journeyman-plumber/) · [Master Plumber](https://passthevirginiacontractorexam.com/master-plumber/) · [Virginia exam FAQ](https://passthevirginiacontractorexam.com/faq/) · [Study tips](https://passthevirginiacontractorexam.com/blog/)
+[NASCLA Electrical Contractor](https://passyourvirginiacontractorexam.com/electrical-contractor-nascla/) · [Journeyman Electrician](https://passyourvirginiacontractorexam.com/journeyman-electrician/) · [Residential Plumber Tradesman](https://passyourvirginiacontractorexam.com/residential-plumber/) · [Journeyman Plumber](https://passyourvirginiacontractorexam.com/journeyman-plumber/) · [Master Plumber](https://passyourvirginiacontractorexam.com/master-plumber/) · [Virginia exam FAQ](https://passyourvirginiacontractorexam.com/faq/) · [Study tips](https://passyourvirginiacontractorexam.com/blog/)
 
 ## Questions before you buy
 
@@ -90,6 +90,6 @@ Licensing facts checked against these pages; last updated October 19, 2026. Rule
 
 ---
 
-Source: https://passthevirginiacontractorexam.com/master-electrician/exam-prep-package-2017/  
-Publisher: Pass the Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
+Source: https://passyourvirginiacontractorexam.com/master-electrician/exam-prep-package-2017/  
+Publisher: Pass Your Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
 Prices change; the product page and checkout show the current price.

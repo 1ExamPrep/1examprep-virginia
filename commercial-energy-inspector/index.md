@@ -1,12 +1,12 @@
 ---
 title: Virginia Commercial Energy Inspector Exam Prep
-url: https://passthevirginiacontractorexam.com/commercial-energy-inspector/
+url: https://passyourvirginiacontractorexam.com/commercial-energy-inspector/
 updated: 2026-10-19
-site: Pass the Virginia Contractor Exam
+site: Pass Your Virginia Contractor Exam
 description: Commercial Energy Inspector exam prep for Virginia: 2 options from $245 to $540, including books and courses rental, highlighted and tabbed books. One-click.
 ---
 
-[All licenses](https://passthevirginiacontractorexam.com/) /[Building officials: inspectors and plans examiners](https://passthevirginiacontractorexam.com/#officials) /Commercial Energy Inspector
+[All licenses](https://passyourvirginiacontractorexam.com/) /[Building officials: inspectors and plans examiners](https://passyourvirginiacontractorexam.com/#officials) /Commercial Energy Inspector
 
 # Commercial Energy Inspector exam prep
 
@@ -28,25 +28,25 @@ Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Det
 
 Highlighted and Tabbed Books (Ohio edition)
 
-### [Ohio Commercial Energy Inspector (ICC - 77) Highlighted & Tabbed Book Package](https://passthevirginiacontractorexam.com/commercial-energy-inspector/highlighted-tabbed-ohio/)
+### [Ohio Commercial Energy Inspector (ICC - 77) Highlighted & Tabbed Book Package](https://passyourvirginiacontractorexam.com/commercial-energy-inspector/highlighted-tabbed-ohio/)
 
 $245 (was $445) Save 45%
-[Buy now](https://1examprep.com/cart/46106603683897:1) · [Details](https://passthevirginiacontractorexam.com/commercial-energy-inspector/highlighted-tabbed-ohio/)
+[Buy now](https://1examprep.com/cart/46106603683897:1) · [Details](https://passyourvirginiacontractorexam.com/commercial-energy-inspector/highlighted-tabbed-ohio/)
 
 Books and Courses Rental (West Virginia edition)
 
-### [West Virginia Commercial Energy Inspector (ICC - 77) - Books & Courses Rental Package](https://passthevirginiacontractorexam.com/commercial-energy-inspector/rental-package-west-virginia/)
+### [West Virginia Commercial Energy Inspector (ICC - 77) - Books & Courses Rental Package](https://passyourvirginiacontractorexam.com/commercial-energy-inspector/rental-package-west-virginia/)
 
 $540 (was $840) Save 36%
-[Buy now](https://1examprep.com/cart/46050253144121:1) · [Details](https://passthevirginiacontractorexam.com/commercial-energy-inspector/rental-package-west-virginia/)
+[Buy now](https://1examprep.com/cart/46050253144121:1) · [Details](https://passyourvirginiacontractorexam.com/commercial-energy-inspector/rental-package-west-virginia/)
 
 ## How do the Commercial Energy Inspector options compare?
 
 Prices are the starting price for each option; some offer add-ons at checkout.
 
 Option | What you get | Price
-[Highlighted and Tabbed Books](https://passthevirginiacontractorexam.com/commercial-energy-inspector/highlighted-tabbed-ohio/) (Ohio edition) | the reference books already highlighted and permanently tabbed, ready for the exam room | $245
-[Books and Courses Rental](https://passthevirginiacontractorexam.com/commercial-energy-inspector/rental-package-west-virginia/) (West Virginia edition) | the reference books on rental plus the online course, returned after your exam | $540
+[Highlighted and Tabbed Books](https://passyourvirginiacontractorexam.com/commercial-energy-inspector/highlighted-tabbed-ohio/) (Ohio edition) | the reference books already highlighted and permanently tabbed, ready for the exam room | $245
+[Books and Courses Rental](https://passyourvirginiacontractorexam.com/commercial-energy-inspector/rental-package-west-virginia/) (West Virginia edition) | the reference books on rental plus the online course, returned after your exam | $540
 
 ## How does the Commercial Energy Inspector exam work?
 
@@ -95,27 +95,27 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 
 ### More in Building officials
 
-- [Residential Energy Inspector / Plans Examiner](https://passthevirginiacontractorexam.com/residential-energy-inspector/)
-- [Commercial Energy Plans Examiner](https://passthevirginiacontractorexam.com/commercial-energy-plans-examiner/)
-- [Building Plans Examiner (B3)](https://passthevirginiacontractorexam.com/building-plans-examiner/)
-- [Residential Plans Examiner (R3)](https://passthevirginiacontractorexam.com/residential-plans-examiner/)
-- [Electrical Plans Examiner (E3)](https://passthevirginiacontractorexam.com/electrical-plans-examiner/)
-- [Mechanical Plans Examiner (M3)](https://passthevirginiacontractorexam.com/mechanical-plans-examiner/)
-- [Plumbing Plans Examiner (P3)](https://passthevirginiacontractorexam.com/plumbing-plans-examiner/)
-- [Fire Plans Examiner](https://passthevirginiacontractorexam.com/fire-plans-examiner/)
+- [Residential Energy Inspector / Plans Examiner](https://passyourvirginiacontractorexam.com/residential-energy-inspector/)
+- [Commercial Energy Plans Examiner](https://passyourvirginiacontractorexam.com/commercial-energy-plans-examiner/)
+- [Building Plans Examiner (B3)](https://passyourvirginiacontractorexam.com/building-plans-examiner/)
+- [Residential Plans Examiner (R3)](https://passyourvirginiacontractorexam.com/residential-plans-examiner/)
+- [Electrical Plans Examiner (E3)](https://passyourvirginiacontractorexam.com/electrical-plans-examiner/)
+- [Mechanical Plans Examiner (M3)](https://passyourvirginiacontractorexam.com/mechanical-plans-examiner/)
+- [Plumbing Plans Examiner (P3)](https://passyourvirginiacontractorexam.com/plumbing-plans-examiner/)
+- [Fire Plans Examiner](https://passyourvirginiacontractorexam.com/fire-plans-examiner/)
 
 ### Other license groups
 
-- [Contractor license classes](https://passthevirginiacontractorexam.com/#contractor)
-- [Business and law, pre-license and paperwork](https://passthevirginiacontractorexam.com/#business)
-- [Tradesman licenses](https://passthevirginiacontractorexam.com/#trades)
-- [Code books and code courses](https://passthevirginiacontractorexam.com/#codes)
+- [Contractor license classes](https://passyourvirginiacontractorexam.com/#contractor)
+- [Business and law, pre-license and paperwork](https://passyourvirginiacontractorexam.com/#business)
+- [Tradesman licenses](https://passyourvirginiacontractorexam.com/#trades)
+- [Code books and code courses](https://passyourvirginiacontractorexam.com/#codes)
 
 ### Also on this site
 
-- [Virginia exam FAQ](https://passthevirginiacontractorexam.com/faq/)
-- [Study tips and licensing news](https://passthevirginiacontractorexam.com/blog/)
-- [Class A, B and C limits](https://passthevirginiacontractorexam.com/#classes)
+- [Virginia exam FAQ](https://passyourvirginiacontractorexam.com/faq/)
+- [Study tips and licensing news](https://passyourvirginiacontractorexam.com/blog/)
+- [Class A, B and C limits](https://passyourvirginiacontractorexam.com/#classes)
 
 ## Sources
 
@@ -126,6 +126,6 @@ Licensing facts checked against these pages; last updated October 19, 2026. Rule
 
 ---
 
-Source: https://passthevirginiacontractorexam.com/commercial-energy-inspector/  
-Publisher: Pass the Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
+Source: https://passyourvirginiacontractorexam.com/commercial-energy-inspector/  
+Publisher: Pass Your Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
 Prices change; the product page and checkout show the current price.

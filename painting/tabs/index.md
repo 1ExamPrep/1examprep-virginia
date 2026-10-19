@@ -1,12 +1,12 @@
 ---
 title: Painting and Wall Covering Contractor Pre-Printed Tabs
-url: https://passthevirginiacontractorexam.com/painting/tabs/
+url: https://passyourvirginiacontractorexam.com/painting/tabs/
 updated: 2026-10-19
-site: Pass the Virginia Contractor Exam
+site: Pass Your Virginia Contractor Exam
 description: Pre-Printed Tabs for the Virginia Painting and Wall Covering Contractor exam: pre-printed permanent tabs for the reference books, allowed in the exam room.
 ---
 
-[All licenses](https://passthevirginiacontractorexam.com/) /[Contractor license classes](https://passthevirginiacontractorexam.com/#contractor) /[Painting and Wall Covering Contractor](https://passthevirginiacontractorexam.com/painting/) /Pre-Printed Tabs
+[All licenses](https://passyourvirginiacontractorexam.com/) /[Contractor license classes](https://passyourvirginiacontractorexam.com/#contractor) /[Painting and Wall Covering Contractor](https://passyourvirginiacontractorexam.com/painting/) /Pre-Printed Tabs
 
 Painting and Wall Covering Contractor · Pre-Printed Tabs
 
@@ -37,7 +37,7 @@ Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 ## About this Painting and Wall Covering Contractor package
 
-VIRGINIA PAINTING AND WALL COVERING CONTRACTING EXAM; PRE-PRINTED TABS The Virginia Painting and Wall Covering Contracting Exam Pre-Printed Tabs set from Pass the Virginia Contractor Exam is designed to help candidates efficiently navigate their reference materials during the Virginia Department of Professional and Occupational Regulation (DPOR) contractor licensing exam. These durable, color-coded tabs correspond to key sections of the Painting and Decorating Contractors of America (PDCA) standards, safety guidelines, and code references used in the PSI open-book test.
+VIRGINIA PAINTING AND WALL COVERING CONTRACTING EXAM; PRE-PRINTED TABS The Virginia Painting and Wall Covering Contracting Exam Pre-Printed Tabs set from Pass Your Virginia Contractor Exam is designed to help candidates efficiently navigate their reference materials during the Virginia Department of Professional and Occupational Regulation (DPOR) contractor licensing exam. These durable, color-coded tabs correspond to key sections of the Painting and Decorating Contractors of America (PDCA) standards, safety guidelines, and code references used in the PSI open-book test.
 
 ## How does the Painting and Wall Covering Contractor exam work?
 
@@ -50,10 +50,10 @@ The Painting and Wall Covering Contractor exam is the technical portion of the l
 
 ## Other Painting and Wall Covering Contractor options
 
-[**Online Exam Prep Course** Virginia Painting and Wall Covering Contractor - Online Exam… $295](https://passthevirginiacontractorexam.com/painting/online-course/) · [**Book Package** Virginia Painting and Wall Covering Contractor Complete Book… $345](https://passthevirginiacontractorexam.com/painting/book-package/) · [**Highlighted and Tabbed Books** Virginia Painting and Wall Covering Contractor - Highlighted… $595](https://passthevirginiacontractorexam.com/painting/highlighted-tabbed/) · [**Books and Courses Rental** Virginia Painting and Wallcovering Contractor - Book & Cours… $1,185](https://passthevirginiacontractorexam.com/painting/rental-package/) · [**Ultimate Rental Package** Virginia Painting and Wallcovering Contractor Ultimate Exam … $1,610](https://passthevirginiacontractorexam.com/painting/ultimate-rental/) · [**The 1 Package (all-inclusive)** The 1 Package: All-Inclusive Virginia Painting and Wallcover… $2,795](https://passthevirginiacontractorexam.com/painting/the-1-package/) [Compare every Painting and Wall Covering Contractor package →](https://passthevirginiacontractorexam.com/painting/) [Choose a different license →](https://passthevirginiacontractorexam.com/)
+[**Online Exam Prep Course** Virginia Painting and Wall Covering Contractor - Online Exam… $295](https://passyourvirginiacontractorexam.com/painting/online-course/) · [**Book Package** Virginia Painting and Wall Covering Contractor Complete Book… $345](https://passyourvirginiacontractorexam.com/painting/book-package/) · [**Highlighted and Tabbed Books** Virginia Painting and Wall Covering Contractor - Highlighted… $595](https://passyourvirginiacontractorexam.com/painting/highlighted-tabbed/) · [**Books and Courses Rental** Virginia Painting and Wallcovering Contractor - Book & Cours… $1,185](https://passyourvirginiacontractorexam.com/painting/rental-package/) · [**Ultimate Rental Package** Virginia Painting and Wallcovering Contractor Ultimate Exam … $1,610](https://passyourvirginiacontractorexam.com/painting/ultimate-rental/) · [**The 1 Package (all-inclusive)** The 1 Package: All-Inclusive Virginia Painting and Wallcover… $2,795](https://passyourvirginiacontractorexam.com/painting/the-1-package/) [Compare every Painting and Wall Covering Contractor package →](https://passyourvirginiacontractorexam.com/painting/) [Choose a different license →](https://passyourvirginiacontractorexam.com/)
 
 ### More contractor license classes
-[NASCLA Commercial General Building Contractor](https://passthevirginiacontractorexam.com/nascla-commercial-general-building/) · [Commercial Building Contractor (CBC)](https://passthevirginiacontractorexam.com/commercial-building/) · [Commercial Improvement Contractor (CIC)](https://passthevirginiacontractorexam.com/commercial-improvement/) · [Residential Building Contractor (RBC)](https://passthevirginiacontractorexam.com/residential-building/) · [Home Improvement Contractor (HIC)](https://passthevirginiacontractorexam.com/home-improvement/) · [Virginia exam FAQ](https://passthevirginiacontractorexam.com/faq/) · [Study tips](https://passthevirginiacontractorexam.com/blog/)
+[NASCLA Commercial General Building Contractor](https://passyourvirginiacontractorexam.com/nascla-commercial-general-building/) · [Commercial Building Contractor (CBC)](https://passyourvirginiacontractorexam.com/commercial-building/) · [Commercial Improvement Contractor (CIC)](https://passyourvirginiacontractorexam.com/commercial-improvement/) · [Residential Building Contractor (RBC)](https://passyourvirginiacontractorexam.com/residential-building/) · [Home Improvement Contractor (HIC)](https://passyourvirginiacontractorexam.com/home-improvement/) · [Virginia exam FAQ](https://passyourvirginiacontractorexam.com/faq/) · [Study tips](https://passyourvirginiacontractorexam.com/blog/)
 
 ## Questions before you buy
 
@@ -91,6 +91,6 @@ Licensing facts checked against these pages; last updated October 19, 2026. Rule
 
 ---
 
-Source: https://passthevirginiacontractorexam.com/painting/tabs/  
-Publisher: Pass the Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
+Source: https://passyourvirginiacontractorexam.com/painting/tabs/  
+Publisher: Pass Your Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
 Prices change; the product page and checkout show the current price.

@@ -1,12 +1,12 @@
 ---
 title: Virginia Journeyman HVAC Live Virtual Training
-url: https://passthevirginiacontractorexam.com/journeyman-hvac/live-training/
+url: https://passyourvirginiacontractorexam.com/journeyman-hvac/live-training/
 updated: 2026-10-19
-site: Pass the Virginia Contractor Exam
+site: Pass Your Virginia Contractor Exam
 description: Live Virtual Training for the Virginia Journeyman HVAC exam: live virtual classes with an instructor plus self-study material. $495. One-click checkout.
 ---
 
-[All licenses](https://passthevirginiacontractorexam.com/) /[Tradesman licenses](https://passthevirginiacontractorexam.com/#trades) /[Journeyman HVAC](https://passthevirginiacontractorexam.com/journeyman-hvac/) /Live Virtual Training
+[All licenses](https://passyourvirginiacontractorexam.com/) /[Tradesman licenses](https://passyourvirginiacontractorexam.com/#trades) /[Journeyman HVAC](https://passyourvirginiacontractorexam.com/journeyman-hvac/) /Live Virtual Training
 
 Journeyman HVAC · Live Virtual Training
 
@@ -50,10 +50,10 @@ The Journeyman HVAC exam is a tradesman exam: one person is licensed, and a cont
 
 ## Other Journeyman HVAC options
 
-[**Highlighted and Tabbed Books** Virginia Journeyman HVAC Exam Complete Highlighted & Tabbed … $1,095](https://passthevirginiacontractorexam.com/journeyman-hvac/highlighted-tabbed/) · [**Books and Courses Rental** Virginia Journeyman HVAC - Book & Courses Rental Package $1,685](https://passthevirginiacontractorexam.com/journeyman-hvac/rental-package/) [Compare every Journeyman HVAC package →](https://passthevirginiacontractorexam.com/journeyman-hvac/) [Choose a different license →](https://passthevirginiacontractorexam.com/)
+[**Highlighted and Tabbed Books** Virginia Journeyman HVAC Exam Complete Highlighted & Tabbed … $1,095](https://passyourvirginiacontractorexam.com/journeyman-hvac/highlighted-tabbed/) · [**Books and Courses Rental** Virginia Journeyman HVAC - Book & Courses Rental Package $1,685](https://passyourvirginiacontractorexam.com/journeyman-hvac/rental-package/) [Compare every Journeyman HVAC package →](https://passyourvirginiacontractorexam.com/journeyman-hvac/) [Choose a different license →](https://passyourvirginiacontractorexam.com/)
 
 ### More tradesman licenses
-[NASCLA Electrical Contractor](https://passthevirginiacontractorexam.com/electrical-contractor-nascla/) · [Journeyman Electrician](https://passthevirginiacontractorexam.com/journeyman-electrician/) · [Master Electrician](https://passthevirginiacontractorexam.com/master-electrician/) · [Residential Plumber Tradesman](https://passthevirginiacontractorexam.com/residential-plumber/) · [Journeyman Plumber](https://passthevirginiacontractorexam.com/journeyman-plumber/) · [Virginia exam FAQ](https://passthevirginiacontractorexam.com/faq/) · [Study tips](https://passthevirginiacontractorexam.com/blog/)
+[NASCLA Electrical Contractor](https://passyourvirginiacontractorexam.com/electrical-contractor-nascla/) · [Journeyman Electrician](https://passyourvirginiacontractorexam.com/journeyman-electrician/) · [Master Electrician](https://passyourvirginiacontractorexam.com/master-electrician/) · [Residential Plumber Tradesman](https://passyourvirginiacontractorexam.com/residential-plumber/) · [Journeyman Plumber](https://passyourvirginiacontractorexam.com/journeyman-plumber/) · [Virginia exam FAQ](https://passyourvirginiacontractorexam.com/faq/) · [Study tips](https://passyourvirginiacontractorexam.com/blog/)
 
 ## Questions before you buy
 
@@ -90,6 +90,6 @@ Licensing facts checked against these pages; last updated October 19, 2026. Rule
 
 ---
 
-Source: https://passthevirginiacontractorexam.com/journeyman-hvac/live-training/  
-Publisher: Pass the Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
+Source: https://passyourvirginiacontractorexam.com/journeyman-hvac/live-training/  
+Publisher: Pass Your Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
 Prices change; the product page and checkout show the current price.

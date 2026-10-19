@@ -1,12 +1,12 @@
 ---
 title: Commercial Electrical Inspector (E2) Live Virtual Training
-url: https://passthevirginiacontractorexam.com/commercial-electrical-inspector/live-training/
+url: https://passyourvirginiacontractorexam.com/commercial-electrical-inspector/live-training/
 updated: 2026-10-19
-site: Pass the Virginia Contractor Exam
+site: Pass Your Virginia Contractor Exam
 description: Live Virtual Training for the Virginia Commercial Electrical Inspector (E2) exam: live virtual classes with an instructor plus self-study material. $595.
 ---
 
-[All licenses](https://passthevirginiacontractorexam.com/) /[Building officials](https://passthevirginiacontractorexam.com/#officials) /[Commercial Electrical Inspector (E2)](https://passthevirginiacontractorexam.com/commercial-electrical-inspector/) /Live Virtual Training
+[All licenses](https://passyourvirginiacontractorexam.com/) /[Building officials](https://passyourvirginiacontractorexam.com/#officials) /[Commercial Electrical Inspector (E2)](https://passyourvirginiacontractorexam.com/commercial-electrical-inspector/) /Live Virtual Training
 
 Commercial Electrical Inspector (E2) · Live Virtual Training
 
@@ -50,10 +50,10 @@ The Commercial Electrical Inspector (E2) exam is a code official certification. 
 
 ## Other Commercial Electrical Inspector (E2) options
 
-[**Online Exam Prep Course** Virginia Commercial Electrical Inspector - (ICC - E2) - Onli… $295](https://passthevirginiacontractorexam.com/commercial-electrical-inspector/online-course/) · [**Book Package** Virginia Commercial Electrical Inspector - (ICC - E2) Exam B… $225](https://passthevirginiacontractorexam.com/commercial-electrical-inspector/book-package/) · [**Highlighted and Tabbed Books** Virginia Commercial Electrical Inspector - (ICC - E2) Highli… $425](https://passthevirginiacontractorexam.com/commercial-electrical-inspector/highlighted-tabbed/) · [**Books and Courses Rental** Virginia Commercial Electrical Inspector - (ICC - E2) - Book… $720](https://passthevirginiacontractorexam.com/commercial-electrical-inspector/rental-package/) · [**Highlighted and Tabbed Books (Ohio edition)** Ohio Commercial Electrical Inspector - (ICC - E2) Highlighte… $425](https://passthevirginiacontractorexam.com/commercial-electrical-inspector/highlighted-tabbed-ohio/) · [**Books and Courses Rental (West Virginia edition)** West Virginia Commercial Electrical Inspector - (ICC - E2) -… $720](https://passthevirginiacontractorexam.com/commercial-electrical-inspector/rental-package-west-virginia/) [Compare every Commercial Electrical Inspector (E2) package →](https://passthevirginiacontractorexam.com/commercial-electrical-inspector/) [Choose a different license →](https://passthevirginiacontractorexam.com/)
+[**Online Exam Prep Course** Virginia Commercial Electrical Inspector - (ICC - E2) - Onli… $295](https://passyourvirginiacontractorexam.com/commercial-electrical-inspector/online-course/) · [**Book Package** Virginia Commercial Electrical Inspector - (ICC - E2) Exam B… $225](https://passyourvirginiacontractorexam.com/commercial-electrical-inspector/book-package/) · [**Highlighted and Tabbed Books** Virginia Commercial Electrical Inspector - (ICC - E2) Highli… $425](https://passyourvirginiacontractorexam.com/commercial-electrical-inspector/highlighted-tabbed/) · [**Books and Courses Rental** Virginia Commercial Electrical Inspector - (ICC - E2) - Book… $720](https://passyourvirginiacontractorexam.com/commercial-electrical-inspector/rental-package/) · [**Highlighted and Tabbed Books (Ohio edition)** Ohio Commercial Electrical Inspector - (ICC - E2) Highlighte… $425](https://passyourvirginiacontractorexam.com/commercial-electrical-inspector/highlighted-tabbed-ohio/) · [**Books and Courses Rental (West Virginia edition)** West Virginia Commercial Electrical Inspector - (ICC - E2) -… $720](https://passyourvirginiacontractorexam.com/commercial-electrical-inspector/rental-package-west-virginia/) [Compare every Commercial Electrical Inspector (E2) package →](https://passyourvirginiacontractorexam.com/commercial-electrical-inspector/) [Choose a different license →](https://passyourvirginiacontractorexam.com/)
 
 ### More building officials
-[Residential Energy Inspector / Plans Examiner](https://passthevirginiacontractorexam.com/residential-energy-inspector/) · [Commercial Energy Inspector](https://passthevirginiacontractorexam.com/commercial-energy-inspector/) · [Commercial Energy Plans Examiner](https://passthevirginiacontractorexam.com/commercial-energy-plans-examiner/) · [Building Plans Examiner (B3)](https://passthevirginiacontractorexam.com/building-plans-examiner/) · [Residential Plans Examiner (R3)](https://passthevirginiacontractorexam.com/residential-plans-examiner/) · [Virginia exam FAQ](https://passthevirginiacontractorexam.com/faq/) · [Study tips](https://passthevirginiacontractorexam.com/blog/)
+[Residential Energy Inspector / Plans Examiner](https://passyourvirginiacontractorexam.com/residential-energy-inspector/) · [Commercial Energy Inspector](https://passyourvirginiacontractorexam.com/commercial-energy-inspector/) · [Commercial Energy Plans Examiner](https://passyourvirginiacontractorexam.com/commercial-energy-plans-examiner/) · [Building Plans Examiner (B3)](https://passyourvirginiacontractorexam.com/building-plans-examiner/) · [Residential Plans Examiner (R3)](https://passyourvirginiacontractorexam.com/residential-plans-examiner/) · [Virginia exam FAQ](https://passyourvirginiacontractorexam.com/faq/) · [Study tips](https://passyourvirginiacontractorexam.com/blog/)
 
 ## Questions before you buy
 
@@ -90,6 +90,6 @@ Licensing facts checked against these pages; last updated October 19, 2026. Rule
 
 ---
 
-Source: https://passthevirginiacontractorexam.com/commercial-electrical-inspector/live-training/  
-Publisher: Pass the Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
+Source: https://passyourvirginiacontractorexam.com/commercial-electrical-inspector/live-training/  
+Publisher: Pass Your Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
 Prices change; the product page and checkout show the current price.

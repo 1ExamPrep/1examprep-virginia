@@ -1,12 +1,12 @@
 ---
 title: Plumbing Plans Examiner: Highlighted and Tabbed Books
-url: https://passthevirginiacontractorexam.com/plumbing-plans-examiner/highlighted-tabbed-ohio-2/
+url: https://passyourvirginiacontractorexam.com/plumbing-plans-examiner/highlighted-tabbed-ohio-2/
 updated: 2026-10-19
-site: Pass the Virginia Contractor Exam
+site: Pass Your Virginia Contractor Exam
 description: Highlighted and Tabbed Books for the Virginia Plumbing Plans Examiner (P3) exam: the reference books already highlighted and permanently tabbed, ready for.
 ---
 
-[All licenses](https://passthevirginiacontractorexam.com/) /[Building officials](https://passthevirginiacontractorexam.com/#officials) /[Plumbing Plans Examiner (P3)](https://passthevirginiacontractorexam.com/plumbing-plans-examiner/) /Highlighted and Tabbed Books
+[All licenses](https://passyourvirginiacontractorexam.com/) /[Building officials](https://passyourvirginiacontractorexam.com/#officials) /[Plumbing Plans Examiner (P3)](https://passyourvirginiacontractorexam.com/plumbing-plans-examiner/) /Highlighted and Tabbed Books
 
 Plumbing Plans Examiner (P3) · Highlighted and Tabbed Books (Ohio edition)
 
@@ -50,10 +50,10 @@ The Plumbing Plans Examiner (P3) exam is a code official certification. It is ta
 
 ## Other Plumbing Plans Examiner (P3) options
 
-[**Online Exam Prep Course** Virginia Plumbing Plans Examiner (ICC - P3) - Online Exam Pr… $295](https://passthevirginiacontractorexam.com/plumbing-plans-examiner/online-course/) · [**Book Package** Virginia Plumbing Plans Examiner (ICC - P3) Exam Book Packag… $395](https://passthevirginiacontractorexam.com/plumbing-plans-examiner/book-package/) · [**Highlighted and Tabbed Books** Virginia Plumbing Plans Examiner (ICC - P3) Highlighted & Ta… $645](https://passthevirginiacontractorexam.com/plumbing-plans-examiner/highlighted-tabbed/) · [**Books and Courses Rental** Virginia Plumbing Plans Examiner (ICC - P3) - Books & Course… $940](https://passthevirginiacontractorexam.com/plumbing-plans-examiner/rental-package/) · [**Highlighted and Tabbed Books (Ohio edition)** Cleveland Ohio Plumbing Plans Examiner (ICC - P3) Highlighte… $645](https://passthevirginiacontractorexam.com/plumbing-plans-examiner/highlighted-tabbed-ohio/) [Compare every Plumbing Plans Examiner (P3) package →](https://passthevirginiacontractorexam.com/plumbing-plans-examiner/) [Choose a different license →](https://passthevirginiacontractorexam.com/)
+[**Online Exam Prep Course** Virginia Plumbing Plans Examiner (ICC - P3) - Online Exam Pr… $295](https://passyourvirginiacontractorexam.com/plumbing-plans-examiner/online-course/) · [**Book Package** Virginia Plumbing Plans Examiner (ICC - P3) Exam Book Packag… $395](https://passyourvirginiacontractorexam.com/plumbing-plans-examiner/book-package/) · [**Highlighted and Tabbed Books** Virginia Plumbing Plans Examiner (ICC - P3) Highlighted & Ta… $645](https://passyourvirginiacontractorexam.com/plumbing-plans-examiner/highlighted-tabbed/) · [**Books and Courses Rental** Virginia Plumbing Plans Examiner (ICC - P3) - Books & Course… $940](https://passyourvirginiacontractorexam.com/plumbing-plans-examiner/rental-package/) · [**Highlighted and Tabbed Books (Ohio edition)** Cleveland Ohio Plumbing Plans Examiner (ICC - P3) Highlighte… $645](https://passyourvirginiacontractorexam.com/plumbing-plans-examiner/highlighted-tabbed-ohio/) [Compare every Plumbing Plans Examiner (P3) package →](https://passyourvirginiacontractorexam.com/plumbing-plans-examiner/) [Choose a different license →](https://passyourvirginiacontractorexam.com/)
 
 ### More building officials
-[Residential Energy Inspector / Plans Examiner](https://passthevirginiacontractorexam.com/residential-energy-inspector/) · [Commercial Energy Inspector](https://passthevirginiacontractorexam.com/commercial-energy-inspector/) · [Commercial Energy Plans Examiner](https://passthevirginiacontractorexam.com/commercial-energy-plans-examiner/) · [Building Plans Examiner (B3)](https://passthevirginiacontractorexam.com/building-plans-examiner/) · [Residential Plans Examiner (R3)](https://passthevirginiacontractorexam.com/residential-plans-examiner/) · [Virginia exam FAQ](https://passthevirginiacontractorexam.com/faq/) · [Study tips](https://passthevirginiacontractorexam.com/blog/)
+[Residential Energy Inspector / Plans Examiner](https://passyourvirginiacontractorexam.com/residential-energy-inspector/) · [Commercial Energy Inspector](https://passyourvirginiacontractorexam.com/commercial-energy-inspector/) · [Commercial Energy Plans Examiner](https://passyourvirginiacontractorexam.com/commercial-energy-plans-examiner/) · [Building Plans Examiner (B3)](https://passyourvirginiacontractorexam.com/building-plans-examiner/) · [Residential Plans Examiner (R3)](https://passyourvirginiacontractorexam.com/residential-plans-examiner/) · [Virginia exam FAQ](https://passyourvirginiacontractorexam.com/faq/) · [Study tips](https://passyourvirginiacontractorexam.com/blog/)
 
 ## Questions before you buy
 
@@ -90,6 +90,6 @@ Licensing facts checked against these pages; last updated October 19, 2026. Rule
 
 ---
 
-Source: https://passthevirginiacontractorexam.com/plumbing-plans-examiner/highlighted-tabbed-ohio-2/  
-Publisher: Pass the Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
+Source: https://passyourvirginiacontractorexam.com/plumbing-plans-examiner/highlighted-tabbed-ohio-2/  
+Publisher: Pass Your Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
 Prices change; the product page and checkout show the current price.

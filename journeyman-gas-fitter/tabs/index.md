@@ -1,12 +1,12 @@
 ---
 title: Virginia Journeyman Gas Fitter (LP) Pre-Printed Tabs
-url: https://passthevirginiacontractorexam.com/journeyman-gas-fitter/tabs/
+url: https://passyourvirginiacontractorexam.com/journeyman-gas-fitter/tabs/
 updated: 2026-10-19
-site: Pass the Virginia Contractor Exam
+site: Pass Your Virginia Contractor Exam
 description: Pre-Printed Tabs for the Virginia Journeyman Gas Fitter (LP) exam: pre-printed permanent tabs for the reference books, allowed in the exam room. $39.99.
 ---
 
-[All licenses](https://passthevirginiacontractorexam.com/) /[Tradesman licenses](https://passthevirginiacontractorexam.com/#trades) /[Journeyman Gas Fitter (LP)](https://passthevirginiacontractorexam.com/journeyman-gas-fitter/) /Pre-Printed Tabs
+[All licenses](https://passyourvirginiacontractorexam.com/) /[Tradesman licenses](https://passyourvirginiacontractorexam.com/#trades) /[Journeyman Gas Fitter (LP)](https://passyourvirginiacontractorexam.com/journeyman-gas-fitter/) /Pre-Printed Tabs
 
 Journeyman Gas Fitter (LP) · Pre-Printed Tabs
 
@@ -37,7 +37,7 @@ Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 ## About this Journeyman Gas Fitter (LP) package
 
-VIRGINIA JOURNEYMAN GASFITTER EXAM; PRE-PRINTED TABS The Virginia Journeyman Gasfitter Exam Pre-Printed Tabs set from Pass the Virginia Contractor Exam is designed to assist candidates taking the Virginia Department of Professional and Occupational Regulation (DPOR) gasfitter licensing exam. These durable, color-coded tabs correspond to key sections of the International Fuel Gas Code (IFGC) and other approved references, allowing for faster navigation during the PSI open-book examination.
+VIRGINIA JOURNEYMAN GASFITTER EXAM; PRE-PRINTED TABS The Virginia Journeyman Gasfitter Exam Pre-Printed Tabs set from Pass Your Virginia Contractor Exam is designed to assist candidates taking the Virginia Department of Professional and Occupational Regulation (DPOR) gasfitter licensing exam. These durable, color-coded tabs correspond to key sections of the International Fuel Gas Code (IFGC) and other approved references, allowing for faster navigation during the PSI open-book examination.
 
 ## How does the Journeyman Gas Fitter (LP) exam work?
 
@@ -50,10 +50,10 @@ The Journeyman Gas Fitter (LP) exam is a tradesman exam: one person is licensed,
 
 ## Other Journeyman Gas Fitter (LP) options
 
-[**Online Exam Prep Course** Virginia Journeyman Gasfitter Contractor - Online Exam Prep $295](https://passthevirginiacontractorexam.com/journeyman-gas-fitter/online-course/) · [**Book Package** Virginia Journeyman Gasfitter Contractor Book Package $445](https://passthevirginiacontractorexam.com/journeyman-gas-fitter/book-package/) · [**Highlighted and Tabbed Books** Virginia Journeyman Gasfitter Contractor - Highlighted and T… $645](https://passthevirginiacontractorexam.com/journeyman-gas-fitter/highlighted-tabbed/) · [**Live Virtual Training** Virginia Journeyman Gasfitter Contractor Exam Prep - Live Vi… $495](https://passthevirginiacontractorexam.com/journeyman-gas-fitter/live-training/) · [**Books and Courses Rental** Virginia Journeyman Gasfitter Contractor - Books & Courses R… $1,235](https://passthevirginiacontractorexam.com/journeyman-gas-fitter/rental-package/) · [**Ultimate Rental Package** Virginia Journeyman Gasfitter Contractor - Ultimate Exam Pre… $1,660](https://passthevirginiacontractorexam.com/journeyman-gas-fitter/ultimate-rental/) [Compare every Journeyman Gas Fitter (LP) package →](https://passthevirginiacontractorexam.com/journeyman-gas-fitter/) [Choose a different license →](https://passthevirginiacontractorexam.com/)
+[**Online Exam Prep Course** Virginia Journeyman Gasfitter Contractor - Online Exam Prep $295](https://passyourvirginiacontractorexam.com/journeyman-gas-fitter/online-course/) · [**Book Package** Virginia Journeyman Gasfitter Contractor Book Package $445](https://passyourvirginiacontractorexam.com/journeyman-gas-fitter/book-package/) · [**Highlighted and Tabbed Books** Virginia Journeyman Gasfitter Contractor - Highlighted and T… $645](https://passyourvirginiacontractorexam.com/journeyman-gas-fitter/highlighted-tabbed/) · [**Live Virtual Training** Virginia Journeyman Gasfitter Contractor Exam Prep - Live Vi… $495](https://passyourvirginiacontractorexam.com/journeyman-gas-fitter/live-training/) · [**Books and Courses Rental** Virginia Journeyman Gasfitter Contractor - Books & Courses R… $1,235](https://passyourvirginiacontractorexam.com/journeyman-gas-fitter/rental-package/) · [**Ultimate Rental Package** Virginia Journeyman Gasfitter Contractor - Ultimate Exam Pre… $1,660](https://passyourvirginiacontractorexam.com/journeyman-gas-fitter/ultimate-rental/) [Compare every Journeyman Gas Fitter (LP) package →](https://passyourvirginiacontractorexam.com/journeyman-gas-fitter/) [Choose a different license →](https://passyourvirginiacontractorexam.com/)
 
 ### More tradesman licenses
-[NASCLA Electrical Contractor](https://passthevirginiacontractorexam.com/electrical-contractor-nascla/) · [Journeyman Electrician](https://passthevirginiacontractorexam.com/journeyman-electrician/) · [Master Electrician](https://passthevirginiacontractorexam.com/master-electrician/) · [Residential Plumber Tradesman](https://passthevirginiacontractorexam.com/residential-plumber/) · [Journeyman Plumber](https://passthevirginiacontractorexam.com/journeyman-plumber/) · [Virginia exam FAQ](https://passthevirginiacontractorexam.com/faq/) · [Study tips](https://passthevirginiacontractorexam.com/blog/)
+[NASCLA Electrical Contractor](https://passyourvirginiacontractorexam.com/electrical-contractor-nascla/) · [Journeyman Electrician](https://passyourvirginiacontractorexam.com/journeyman-electrician/) · [Master Electrician](https://passyourvirginiacontractorexam.com/master-electrician/) · [Residential Plumber Tradesman](https://passyourvirginiacontractorexam.com/residential-plumber/) · [Journeyman Plumber](https://passyourvirginiacontractorexam.com/journeyman-plumber/) · [Virginia exam FAQ](https://passyourvirginiacontractorexam.com/faq/) · [Study tips](https://passyourvirginiacontractorexam.com/blog/)
 
 ## Questions before you buy
 
@@ -90,6 +90,6 @@ Licensing facts checked against these pages; last updated October 19, 2026. Rule
 
 ---
 
-Source: https://passthevirginiacontractorexam.com/journeyman-gas-fitter/tabs/  
-Publisher: Pass the Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
+Source: https://passyourvirginiacontractorexam.com/journeyman-gas-fitter/tabs/  
+Publisher: Pass Your Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
 Prices change; the product page and checkout show the current price.

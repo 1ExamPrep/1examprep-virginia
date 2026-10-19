@@ -1,12 +1,12 @@
 ---
 title: Virginia Contractor Exam Blog: Study Tips and Rules
-url: https://passthevirginiacontractorexam.com/blog/
+url: https://passyourvirginiacontractorexam.com/blog/
 updated: 2026-10-19
-site: Pass the Virginia Contractor Exam
-description: Study plans, Virginia licensing rules and exam strategy for contractor, tradesman and code official exams, from Pass the Virginia Contractor Exam.
+site: Pass Your Virginia Contractor Exam
+description: Study plans, Virginia licensing rules and exam strategy for contractor, tradesman and code official exams, from Pass Your Virginia Contractor Exam.
 ---
 
-[Home](https://passthevirginiacontractorexam.com/) /Blog
+[Home](https://passyourvirginiacontractorexam.com/) /Blog
 
 # The Virginia contractor exam blog
 
@@ -21,7 +21,7 @@ Study plans, Virginia licensing rules and exam strategy for the contractor, trad
 
 Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
-Most people who fail a licensing exam do not fail on knowledge. They run out of time in the references, misread an exception, or bring the wrong edition. New posts land here first and in the [RSS feed](https://passthevirginiacontractorexam.com/blog/feed.xml). When a post is about one license, it links straight to that license page so you can act on it.
+Most people who fail a licensing exam do not fail on knowledge. They run out of time in the references, misread an exception, or bring the wrong edition. New posts land here first and in the [RSS feed](https://passyourvirginiacontractorexam.com/blog/feed.xml). When a post is about one license, it links straight to that license page so you can act on it.
 
 No posts yet. The first one is on its way.
 
@@ -29,7 +29,7 @@ No posts yet. The first one is on its way.
 
 Three things trip up most Virginia candidates, and none of them is a lack of trade knowledge. The first is the clock. The contractor and tradesman exams are open book, and the people who run out of time are the ones who look up answers they should already know roughly where to find. Tab your references, read the table of contents until you can place any topic in its chapter, and drill the index with a timer.
 
-The second is the business side. Most Class A and B firms sit the business and law portion as well as the trade exam, and contract law, lien rules and the Virginia regulations catch people who only studied their trade. The third is the edition. Your PSI candidate bulletin names the reference books your test is written to, and the books you bring must match it. The posts here link to the matching [license pages](https://passthevirginiacontractorexam.com/#contractor), where every package ships from our fulfillment center, 1 Exam Prep.
+The second is the business side. Most Class A and B firms sit the business and law portion as well as the trade exam, and contract law, lien rules and the Virginia regulations catch people who only studied their trade. The third is the edition. Your PSI candidate bulletin names the reference books your test is written to, and the books you bring must match it. The posts here link to the matching [license pages](https://passyourvirginiacontractorexam.com/#contractor), where every package ships from our fulfillment center, 1 Exam Prep.
 
 ## What does this blog cover?
 
@@ -69,7 +69,7 @@ Ready to study?
 Find your license, then choose a package.
 
 Exam prep for 60 Virginia contractor, tradesman and inspector licenses. Buy buttons go straight to checkout.
-[Find my license](https://passthevirginiacontractorexam.com/#contractor)
+[Find my license](https://passyourvirginiacontractorexam.com/#contractor)
 
 ## Sources
 
@@ -83,6 +83,6 @@ Licensing facts checked against these pages; last updated October 19, 2026. Rule
 
 ---
 
-Source: https://passthevirginiacontractorexam.com/blog/  
-Publisher: Pass the Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
+Source: https://passyourvirginiacontractorexam.com/blog/  
+Publisher: Pass Your Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
 Prices change; the product page and checkout show the current price.

@@ -1,12 +1,12 @@
 ---
 title: Virginia Residential Plumbing Inspector (P1) Exam Prep
-url: https://passthevirginiacontractorexam.com/residential-plumbing-inspector/
+url: https://passyourvirginiacontractorexam.com/residential-plumbing-inspector/
 updated: 2026-10-19
-site: Pass the Virginia Contractor Exam
+site: Pass Your Virginia Contractor Exam
 description: Residential Plumbing Inspector (P1) exam prep for Virginia: 7 options from $199 to $640, including book package, books and courses rental, highlighted and.
 ---
 
-[All licenses](https://passthevirginiacontractorexam.com/) /[Building officials: inspectors and plans examiners](https://passthevirginiacontractorexam.com/#officials) /Residential Plumbing Inspector (P1)
+[All licenses](https://passyourvirginiacontractorexam.com/) /[Building officials: inspectors and plans examiners](https://passyourvirginiacontractorexam.com/#officials) /Residential Plumbing Inspector (P1)
 
 # Residential Plumbing Inspector (P1) exam prep
 
@@ -28,65 +28,65 @@ Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Det
 
 Online Exam Prep Course
 
-### [Virginia Residential Plumbing Inspector (ICC - P1) - Online Exam Prep](https://passthevirginiacontractorexam.com/residential-plumbing-inspector/online-course/)
+### [Virginia Residential Plumbing Inspector (ICC - P1) - Online Exam Prep](https://passyourvirginiacontractorexam.com/residential-plumbing-inspector/online-course/)
 
 $295 (was $395) Save 25%
-[Buy now](https://1examprep.com/cart/46094742519865:1) · [Details](https://passthevirginiacontractorexam.com/residential-plumbing-inspector/online-course/)
+[Buy now](https://1examprep.com/cart/46094742519865:1) · [Details](https://passyourvirginiacontractorexam.com/residential-plumbing-inspector/online-course/)
 
 Book Package
 
-### [Virginia Residential Plumbing Inspector (ICC - P1) Exam Book Package](https://passthevirginiacontractorexam.com/residential-plumbing-inspector/book-package/)
+### [Virginia Residential Plumbing Inspector (ICC - P1) Exam Book Package](https://passyourvirginiacontractorexam.com/residential-plumbing-inspector/book-package/)
 
 $199 (was $299) Save 33%  to $345
-[Buy now](https://1examprep.com/cart/50711438360633:1) · [Details](https://passthevirginiacontractorexam.com/residential-plumbing-inspector/book-package/)
+[Buy now](https://1examprep.com/cart/50711438360633:1) · [Details](https://passyourvirginiacontractorexam.com/residential-plumbing-inspector/book-package/)
 
 Highlighted and Tabbed Books
 
-### [Virginia Residential Plumbing Inspector (ICC - P1) Highlighted & Tabbed Book Package](https://passthevirginiacontractorexam.com/residential-plumbing-inspector/highlighted-tabbed/)
+### [Virginia Residential Plumbing Inspector (ICC - P1) Highlighted & Tabbed Book Package](https://passyourvirginiacontractorexam.com/residential-plumbing-inspector/highlighted-tabbed/)
 
 $345 (was $545) Save 37%  to $640
-[Buy now](https://1examprep.com/cart/50711291658297:1) · [Details](https://passthevirginiacontractorexam.com/residential-plumbing-inspector/highlighted-tabbed/)
+[Buy now](https://1examprep.com/cart/50711291658297:1) · [Details](https://passyourvirginiacontractorexam.com/residential-plumbing-inspector/highlighted-tabbed/)
 
 Highlighted and Tabbed Books
 
-### [Virginia Residential Plumbing Inspector (ICC - P1) Highlighted & Tabbed Book Package](https://passthevirginiacontractorexam.com/residential-plumbing-inspector/highlighted-tabbed-2/)
+### [Virginia Residential Plumbing Inspector (ICC - P1) Highlighted & Tabbed Book Package](https://passyourvirginiacontractorexam.com/residential-plumbing-inspector/highlighted-tabbed-2/)
 
 $345 (was $545) Save 37%
-[Buy now](https://1examprep.com/cart/46044229697593:1) · [Details](https://passthevirginiacontractorexam.com/residential-plumbing-inspector/highlighted-tabbed-2/)
+[Buy now](https://1examprep.com/cart/46044229697593:1) · [Details](https://passyourvirginiacontractorexam.com/residential-plumbing-inspector/highlighted-tabbed-2/)
 
 Books and Courses Rental
 
-### [Virginia Residential Plumbing Inspector (ICC - P1) - Books & Courses Rental Package](https://passthevirginiacontractorexam.com/residential-plumbing-inspector/rental-package/)
+### [Virginia Residential Plumbing Inspector (ICC - P1) - Books & Courses Rental Package](https://passyourvirginiacontractorexam.com/residential-plumbing-inspector/rental-package/)
 
 $640 (was $1,590) Save 60%  to $1,090
-[Buy now](https://1examprep.com/cart/50711322492985:1) · [Details](https://passthevirginiacontractorexam.com/residential-plumbing-inspector/rental-package/)
+[Buy now](https://1examprep.com/cart/50711322492985:1) · [Details](https://passyourvirginiacontractorexam.com/residential-plumbing-inspector/rental-package/)
 
 Books and Courses Rental
 
-### [Virginia Residential Plumbing Inspector (ICC - P1) - Books & Courses Rental Package](https://passthevirginiacontractorexam.com/residential-plumbing-inspector/rental-package-2/)
+### [Virginia Residential Plumbing Inspector (ICC - P1) - Books & Courses Rental Package](https://passyourvirginiacontractorexam.com/residential-plumbing-inspector/rental-package-2/)
 
 $640 (was $940) Save 32%
-[Buy now](https://1examprep.com/cart/46044443443257:1) · [Details](https://passthevirginiacontractorexam.com/residential-plumbing-inspector/rental-package-2/)
+[Buy now](https://1examprep.com/cart/46044443443257:1) · [Details](https://passyourvirginiacontractorexam.com/residential-plumbing-inspector/rental-package-2/)
 
 Books and Courses Rental (West Virginia edition)
 
-### [West Virginia Residential Plumbing Inspector (ICC - P1) - Books & Courses Rental Package](https://passthevirginiacontractorexam.com/residential-plumbing-inspector/rental-package-west-virginia/)
+### [West Virginia Residential Plumbing Inspector (ICC - P1) - Books & Courses Rental Package](https://passyourvirginiacontractorexam.com/residential-plumbing-inspector/rental-package-west-virginia/)
 
 $640 (was $940) Save 32%
-[Buy now](https://1examprep.com/cart/46049528086585:1) · [Details](https://passthevirginiacontractorexam.com/residential-plumbing-inspector/rental-package-west-virginia/)
+[Buy now](https://1examprep.com/cart/46049528086585:1) · [Details](https://passyourvirginiacontractorexam.com/residential-plumbing-inspector/rental-package-west-virginia/)
 
 ## How do the Residential Plumbing Inspector (P1) options compare?
 
 Prices are the starting price for each option; some offer add-ons at checkout.
 
 Option | What you get | Price
-[Online Exam Prep Course](https://passthevirginiacontractorexam.com/residential-plumbing-inspector/online-course/) | an online course with practice exams you can take on a phone or laptop | $295
-[Book Package](https://passthevirginiacontractorexam.com/residential-plumbing-inspector/book-package/) | the reference books the exam is written to, new and unmarked | $199
-[Highlighted and Tabbed Books](https://passthevirginiacontractorexam.com/residential-plumbing-inspector/highlighted-tabbed/) | the reference books already highlighted and permanently tabbed, ready for the exam room | $345
-[Highlighted and Tabbed Books](https://passthevirginiacontractorexam.com/residential-plumbing-inspector/highlighted-tabbed-2/) | the reference books already highlighted and permanently tabbed, ready for the exam room | $345
-[Books and Courses Rental](https://passthevirginiacontractorexam.com/residential-plumbing-inspector/rental-package/) | the reference books on rental plus the online course, returned after your exam | $640
-[Books and Courses Rental](https://passthevirginiacontractorexam.com/residential-plumbing-inspector/rental-package-2/) | the reference books on rental plus the online course, returned after your exam | $640
-[Books and Courses Rental](https://passthevirginiacontractorexam.com/residential-plumbing-inspector/rental-package-west-virginia/) (West Virginia edition) | the reference books on rental plus the online course, returned after your exam | $640
+[Online Exam Prep Course](https://passyourvirginiacontractorexam.com/residential-plumbing-inspector/online-course/) | an online course with practice exams you can take on a phone or laptop | $295
+[Book Package](https://passyourvirginiacontractorexam.com/residential-plumbing-inspector/book-package/) | the reference books the exam is written to, new and unmarked | $199
+[Highlighted and Tabbed Books](https://passyourvirginiacontractorexam.com/residential-plumbing-inspector/highlighted-tabbed/) | the reference books already highlighted and permanently tabbed, ready for the exam room | $345
+[Highlighted and Tabbed Books](https://passyourvirginiacontractorexam.com/residential-plumbing-inspector/highlighted-tabbed-2/) | the reference books already highlighted and permanently tabbed, ready for the exam room | $345
+[Books and Courses Rental](https://passyourvirginiacontractorexam.com/residential-plumbing-inspector/rental-package/) | the reference books on rental plus the online course, returned after your exam | $640
+[Books and Courses Rental](https://passyourvirginiacontractorexam.com/residential-plumbing-inspector/rental-package-2/) | the reference books on rental plus the online course, returned after your exam | $640
+[Books and Courses Rental](https://passyourvirginiacontractorexam.com/residential-plumbing-inspector/rental-package-west-virginia/) (West Virginia edition) | the reference books on rental plus the online course, returned after your exam | $640
 
 ## How does the Residential Plumbing Inspector (P1) exam work?
 
@@ -135,27 +135,27 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 
 ### More in Building officials
 
-- [Residential Energy Inspector / Plans Examiner](https://passthevirginiacontractorexam.com/residential-energy-inspector/)
-- [Commercial Energy Inspector](https://passthevirginiacontractorexam.com/commercial-energy-inspector/)
-- [Commercial Energy Plans Examiner](https://passthevirginiacontractorexam.com/commercial-energy-plans-examiner/)
-- [Building Plans Examiner (B3)](https://passthevirginiacontractorexam.com/building-plans-examiner/)
-- [Residential Plans Examiner (R3)](https://passthevirginiacontractorexam.com/residential-plans-examiner/)
-- [Electrical Plans Examiner (E3)](https://passthevirginiacontractorexam.com/electrical-plans-examiner/)
-- [Mechanical Plans Examiner (M3)](https://passthevirginiacontractorexam.com/mechanical-plans-examiner/)
-- [Plumbing Plans Examiner (P3)](https://passthevirginiacontractorexam.com/plumbing-plans-examiner/)
+- [Residential Energy Inspector / Plans Examiner](https://passyourvirginiacontractorexam.com/residential-energy-inspector/)
+- [Commercial Energy Inspector](https://passyourvirginiacontractorexam.com/commercial-energy-inspector/)
+- [Commercial Energy Plans Examiner](https://passyourvirginiacontractorexam.com/commercial-energy-plans-examiner/)
+- [Building Plans Examiner (B3)](https://passyourvirginiacontractorexam.com/building-plans-examiner/)
+- [Residential Plans Examiner (R3)](https://passyourvirginiacontractorexam.com/residential-plans-examiner/)
+- [Electrical Plans Examiner (E3)](https://passyourvirginiacontractorexam.com/electrical-plans-examiner/)
+- [Mechanical Plans Examiner (M3)](https://passyourvirginiacontractorexam.com/mechanical-plans-examiner/)
+- [Plumbing Plans Examiner (P3)](https://passyourvirginiacontractorexam.com/plumbing-plans-examiner/)
 
 ### Other license groups
 
-- [Contractor license classes](https://passthevirginiacontractorexam.com/#contractor)
-- [Business and law, pre-license and paperwork](https://passthevirginiacontractorexam.com/#business)
-- [Tradesman licenses](https://passthevirginiacontractorexam.com/#trades)
-- [Code books and code courses](https://passthevirginiacontractorexam.com/#codes)
+- [Contractor license classes](https://passyourvirginiacontractorexam.com/#contractor)
+- [Business and law, pre-license and paperwork](https://passyourvirginiacontractorexam.com/#business)
+- [Tradesman licenses](https://passyourvirginiacontractorexam.com/#trades)
+- [Code books and code courses](https://passyourvirginiacontractorexam.com/#codes)
 
 ### Also on this site
 
-- [Virginia exam FAQ](https://passthevirginiacontractorexam.com/faq/)
-- [Study tips and licensing news](https://passthevirginiacontractorexam.com/blog/)
-- [Class A, B and C limits](https://passthevirginiacontractorexam.com/#classes)
+- [Virginia exam FAQ](https://passyourvirginiacontractorexam.com/faq/)
+- [Study tips and licensing news](https://passyourvirginiacontractorexam.com/blog/)
+- [Class A, B and C limits](https://passyourvirginiacontractorexam.com/#classes)
 
 ## Sources
 
@@ -166,6 +166,6 @@ Licensing facts checked against these pages; last updated October 19, 2026. Rule
 
 ---
 
-Source: https://passthevirginiacontractorexam.com/residential-plumbing-inspector/  
-Publisher: Pass the Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
+Source: https://passyourvirginiacontractorexam.com/residential-plumbing-inspector/  
+Publisher: Pass Your Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
 Prices change; the product page and checkout show the current price.

@@ -1,12 +1,12 @@
 ---
 title: Residential Building Contractor: Ultimate Rental Package
-url: https://passthevirginiacontractorexam.com/residential-building/ultimate-rental/
+url: https://passyourvirginiacontractorexam.com/residential-building/ultimate-rental/
 updated: 2026-10-19
-site: Pass the Virginia Contractor Exam
+site: Pass Your Virginia Contractor Exam
 description: Ultimate Rental Package for the Virginia Residential Building Contractor (RBC) exam: highlighted and tabbed rental books, the online course and live.
 ---
 
-[All licenses](https://passthevirginiacontractorexam.com/) /[Contractor license classes](https://passthevirginiacontractorexam.com/#contractor) /[Residential Building Contractor (RBC)](https://passthevirginiacontractorexam.com/residential-building/) /Ultimate Rental Package
+[All licenses](https://passyourvirginiacontractorexam.com/) /[Contractor license classes](https://passyourvirginiacontractorexam.com/#contractor) /[Residential Building Contractor (RBC)](https://passyourvirginiacontractorexam.com/residential-building/) /Ultimate Rental Package
 
 Residential Building Contractor (RBC) · Ultimate Rental Package
 
@@ -50,10 +50,10 @@ The Residential Building Contractor (RBC) exam is the technical portion of the l
 
 ## Other Residential Building Contractor (RBC) options
 
-[**Online Exam Prep Course** Virginia Residential Building Contractor - Online Exam Prep … $295](https://passthevirginiacontractorexam.com/residential-building/online-course/) · [**Pre-Printed Tabs** Virginia Residential Building Contractor Exam; Pre-Printed T… $49.99](https://passthevirginiacontractorexam.com/residential-building/tabs/) · [**Book Package** Virginia Residential Building Contractor Book Package $545](https://passthevirginiacontractorexam.com/residential-building/book-package/) · [**Highlighted and Tabbed Books** Virginia Residential Building Contractor - Highlighted and T… $895](https://passthevirginiacontractorexam.com/residential-building/highlighted-tabbed/) · [**Live Virtual Training** Virginia Residential Building Contractor Exam Prep - Live Vi… $595](https://passthevirginiacontractorexam.com/residential-building/live-training/) · [**The 1 Package (all-inclusive)** The 1 Package: All-Inclusive Virginia Residential Building C… $2,610](https://passthevirginiacontractorexam.com/residential-building/the-1-package/) [Compare every Residential Building Contractor (RBC) package →](https://passthevirginiacontractorexam.com/residential-building/) [Choose a different license →](https://passthevirginiacontractorexam.com/)
+[**Online Exam Prep Course** Virginia Residential Building Contractor - Online Exam Prep … $295](https://passyourvirginiacontractorexam.com/residential-building/online-course/) · [**Pre-Printed Tabs** Virginia Residential Building Contractor Exam; Pre-Printed T… $49.99](https://passyourvirginiacontractorexam.com/residential-building/tabs/) · [**Book Package** Virginia Residential Building Contractor Book Package $545](https://passyourvirginiacontractorexam.com/residential-building/book-package/) · [**Highlighted and Tabbed Books** Virginia Residential Building Contractor - Highlighted and T… $895](https://passyourvirginiacontractorexam.com/residential-building/highlighted-tabbed/) · [**Live Virtual Training** Virginia Residential Building Contractor Exam Prep - Live Vi… $595](https://passyourvirginiacontractorexam.com/residential-building/live-training/) · [**The 1 Package (all-inclusive)** The 1 Package: All-Inclusive Virginia Residential Building C… $2,610](https://passyourvirginiacontractorexam.com/residential-building/the-1-package/) [Compare every Residential Building Contractor (RBC) package →](https://passyourvirginiacontractorexam.com/residential-building/) [Choose a different license →](https://passyourvirginiacontractorexam.com/)
 
 ### More contractor license classes
-[NASCLA Commercial General Building Contractor](https://passthevirginiacontractorexam.com/nascla-commercial-general-building/) · [Commercial Building Contractor (CBC)](https://passthevirginiacontractorexam.com/commercial-building/) · [Commercial Improvement Contractor (CIC)](https://passthevirginiacontractorexam.com/commercial-improvement/) · [Home Improvement Contractor (HIC)](https://passthevirginiacontractorexam.com/home-improvement/) · [Concrete Contractor](https://passthevirginiacontractorexam.com/concrete/) · [Virginia exam FAQ](https://passthevirginiacontractorexam.com/faq/) · [Study tips](https://passthevirginiacontractorexam.com/blog/)
+[NASCLA Commercial General Building Contractor](https://passyourvirginiacontractorexam.com/nascla-commercial-general-building/) · [Commercial Building Contractor (CBC)](https://passyourvirginiacontractorexam.com/commercial-building/) · [Commercial Improvement Contractor (CIC)](https://passyourvirginiacontractorexam.com/commercial-improvement/) · [Home Improvement Contractor (HIC)](https://passyourvirginiacontractorexam.com/home-improvement/) · [Concrete Contractor](https://passyourvirginiacontractorexam.com/concrete/) · [Virginia exam FAQ](https://passyourvirginiacontractorexam.com/faq/) · [Study tips](https://passyourvirginiacontractorexam.com/blog/)
 
 ## Questions before you buy
 
@@ -95,6 +95,6 @@ Licensing facts checked against these pages; last updated October 19, 2026. Rule
 
 ---
 
-Source: https://passthevirginiacontractorexam.com/residential-building/ultimate-rental/  
-Publisher: Pass the Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
+Source: https://passyourvirginiacontractorexam.com/residential-building/ultimate-rental/  
+Publisher: Pass Your Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
 Prices change; the product page and checkout show the current price.
