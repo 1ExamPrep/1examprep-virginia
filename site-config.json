@@ -53,5 +53,7 @@
   "_launched_help": "Date the site went live (YYYY-MM-DD); used as datePublished in the page schema.",
   "design": 5,
   "_design_help": "Which look the site uses: 0 = original, 1 Code Book, 2 Blueprint, 3 Hi-Vis, 4 Commonwealth, 5 Blue Ridge. Compare them at /designs/, or add ?design=N to any page.",
-  "logoNav": "shared/logo-nav.png"
+  "logoNav": "shared/logo-nav.png",
+  "licenseList": 1,
+  "_licenseList_help": "Style of the license lists on the home page: 1 tiles, 2 price list, 3 price-first cards, 4 table, 5 chips. Preview with ?list=N on the home page."
 }

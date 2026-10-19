@@ -221,7 +221,9 @@ def assets_head(rel):
               'if(d==="%s")return;var a=document.getElementById("dCss"),b=document.getElementById("dFont");if(a)a.remove();if(b)b.remove();var t=T[d];if(!t)return;'
               'document.write(\'<link rel="stylesheet" href="\'+t+\'"><link rel="stylesheet" href="%sshared/themes/\'+d+\'.css">\');})();</script>'
               % (json.dumps({k: v["fonts"] for k, v in THEMES.items()}), DESIGN, DESIGN, rel))
-    return base + static + loader
+    ls = str(CFG.get("licenseList", 1) or 1)
+    lsw = ('\n<script>(function(){var d="%s",m=location.search.match(/[?&]list=(\\d)/);try{if(m)sessionStorage.setItem("vaList",m[1]);d=sessionStorage.getItem("vaList")||d;}catch(e){}document.documentElement.setAttribute("data-list",d);})();</script>' % ls)
+    return base + static + loader + lsw
 
 # ---------- copy helpers ----------
 def scope(c):
@@ -305,7 +307,8 @@ def home_main():
     for g, gname, gblurb in vaclass.GROUPS:
         cl = classes_in(g)
         if not cl: continue
-        items = "".join('<li><a class="va-lic" href="%s/"><b>%s</b><span>%s, from %s</span></a></li>' % (c["slug"], esc(c["name"]), plural(len(c["products"]), "option"), money(c["lo"])) for c in cl)
+        items = '<li class="va-lh" aria-hidden="true"><span>License</span><span>Options</span><span>Starting price</span></li>' + "".join(
+            '<li><a class="va-lic" href="%s/"><b>%s</b><span class="va-n">%s</span><span class="va-p"><small>from</small> %s</span></a></li>' % (c["slug"], esc(c["name"]), plural(len(c["products"]), "option"), money(c["lo"])) for c in cl)
         secs.append('<section id="%s" class="va-group" aria-labelledby="h-%s"><div class="wrap"><h2 id="h-%s">%s</h2><p class="sub-h">%s</p><ul class="va-lics">%s</ul></div></section>' % (g, g, g, esc(gname), esc(gblurb), items))
     classes_tbl = ('<section id="classes" class="center" aria-labelledby="h-classes"><div class="wrap"><h2 id="h-classes">How do Virginia contractor license classes work?</h2>'
                    '<p class="sub-h">The class decides how large a job your firm may take. The trade classification on the license decides what kind of work it may do, and each classification has its own exam.</p>'
