@@ -14,7 +14,7 @@ Commercial Building Contractor (CBC) · Ultimate Rental Package
 
 The Virginia Commercial Building Technical Contractor Ultimate Exam Prep Rental Package is highlighted and tabbed rental books, the online course and live training for the Commercial Building Contractor (CBC) exam (Virginia), at $2,710, 13% off the $3,110 list price. Books ship from our fulfillment center; online parts arrive by email. Call (877) 775-9400 with questions first.
 
-$2,710 (was $3,110) Save 13% [Buy now, go to checkout](https://1examprep.com/cart/44449241169977:1)
+$2,710 (was $3,110) Save 13% [Buy now, go to checkout](https://1examprep.com/cart/44449241169977:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com)
 
 - Secure checkout, fulfilled by 1 Exam Prep
 - Books ship from our fulfillment center; online parts arrive by email

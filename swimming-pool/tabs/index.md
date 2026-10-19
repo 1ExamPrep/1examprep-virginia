@@ -14,7 +14,7 @@ Swimming Pool Construction Contractor · Pre-Printed Tabs
 
 The Virginia Swimming Pool Contracting Exam; Pre-Printed Tabs is pre-printed permanent tabs for the reference books, allowed in the exam room for the Swimming Pool Construction Contractor exam (Virginia), at $99.99, 10% off the $111.50 list price. Books ship from our fulfillment center, 1 Exam Prep. Call (877) 775-9400 with questions first.
 
-$99.99 (was $111.50) Save 10% [Buy now, go to checkout](https://1examprep.com/cart/41290844831801:1)
+$99.99 (was $111.50) Save 10% [Buy now, go to checkout](https://1examprep.com/cart/41290844831801:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com)
 
 - Secure checkout, fulfilled by 1 Exam Prep
 - Books ship from our fulfillment center, 1 Exam Prep

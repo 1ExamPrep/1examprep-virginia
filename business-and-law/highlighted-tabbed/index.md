@@ -14,7 +14,7 @@ Class A/B Business and Law · Highlighted and Tabbed Books
 
 The Virginia Class A/B Business Exam Book Package - Highlighted and Tabbed is the reference books already highlighted and permanently tabbed, ready for the exam room for the Class A/B Business and Law exam (Virginia), at $249, 10% off the $277 list price. Books ship from our fulfillment center, 1 Exam Prep.
 
-$249 (was $277) Save 10% [Buy now, go to checkout](https://1examprep.com/cart/41258350772281:1)
+$249 (was $277) Save 10% [Buy now, go to checkout](https://1examprep.com/cart/41258350772281:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com)
 
 - Secure checkout, fulfilled by 1 Exam Prep
 - Books ship from our fulfillment center, 1 Exam Prep

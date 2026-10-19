@@ -129,7 +129,7 @@ def head_extra(path, title, desc, image, rel, noindex=False, extra_ld=(), page_t
     if image: h.append('<meta name="twitter:image" content="%s">' % esc(image))
     if CFG.get("social", {}).get("twitter"): h.append('<meta name="twitter:site" content="@%s">' % CFG["social"]["twitter"].rstrip("/").split("/")[-1])
     h.append('<meta name="theme-color" content="#1b1f3b">')
-    h.append('<script>window.SITE=%s;</script>' % json.dumps({"brand": BRAND, "storeUrl": STORE, "fulfillment": FUL["name"]}))
+    h.append('<script>window.SITE=%s;</script>' % json.dumps({"brand": BRAND, "storeUrl": STORE, "fulfillment": FUL["name"], "cartTag": CART_TAG}))
     if not LOGO_NAV: h.append('<style>.nav .brand{font-size:1.05rem;line-height:1.05;max-width:46vw}@media (max-width:720px){.nav .brand{font-size:.9rem}}</style>')
     h.append('<link rel="icon" href="%sshared/%s">' % (rel, "favicon.png\" type=\"image/png\" sizes=\"64x64" if HAS_PNG_ICONS else "favicon.svg\" type=\"image/svg+xml"))
     h.append('<link rel="apple-touch-icon" href="%sshared/apple-touch-icon.png">' % rel); h.append('<link rel="manifest" href="%smanifest.webmanifest">' % rel)
@@ -173,7 +173,9 @@ def sources_html(group, extra=()):
     items = list(vacopy.SOURCES.get(group, vacopy.SOURCES["contractor"])) + list(extra)
     return ('<section class="wrap sources" aria-labelledby="h-sources"><h2 id="h-sources">Sources</h2><ul>%s</ul><p class="upd">Licensing facts checked against these pages; last updated <time datetime="%s">%s</time>. Rules change, so confirm with the board before you apply.</p></section>'
             % ("".join('<li><a href="%s" rel="noopener" target="_blank">%s</a></li>' % (esc(u), esc(n)) for n, u in items), TODAY, nice_day(TODAY)))
-def cart(vid): return "%s/cart/%s:1" % (STORE, vid)
+SITE_HOST = re.sub(r"^www\.", "", (SITE or "").split("//")[-1].strip("/"))
+CART_TAG = ("?attributes%%5BSite%%5D=%s&ref=%s" % (SITE_HOST, SITE_HOST)) if SITE_HOST else ""  # tags the Shopify order with this site so the dashboard counts it here
+def cart(vid): return "%s/cart/%s:1%s" % (STORE, vid, CART_TAG)
 def region_note(p): return "" if p["region"] == "Virginia" else (" (%s edition)" % p["region"] if p["region"] != "Nationwide" else " (any state)")
 
 def card_html(p, rel):

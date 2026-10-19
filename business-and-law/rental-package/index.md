@@ -14,7 +14,7 @@ Class A/B Business and Law · Books and Courses Rental
 
 The Virginia Commercial Building Technical Contractor - Book Rental Package (Class A/B Business and Trade) is the reference books on rental plus the online course, returned after your exam for the Class A/B Business and Law exam (Virginia), at $1,999, 17% off the $2,399 list price. Call (877) 775-9400 with questions first.
 
-$1,999 (was $2,399) Save 17% [Buy now, go to checkout](https://1examprep.com/cart/41255397589049:1)
+$1,999 (was $2,399) Save 17% [Buy now, go to checkout](https://1examprep.com/cart/41255397589049:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com)
 
 - Secure checkout, fulfilled by 1 Exam Prep
 - Books ship from our fulfillment center; online parts arrive by email

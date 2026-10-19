@@ -14,7 +14,7 @@ Mechanical Plans Examiner (M3) · Books and Courses Rental
 
 The Virginia Mechanical Plans Examiner (ICC - M3) - Books & Courses Rental Package is the reference books on rental plus the online course, returned after your exam for the Mechanical Plans Examiner (M3) exam (Virginia), at $840, 26% off the $1,140 list price. Books ship from our fulfillment center; online parts arrive by email.
 
-$840 (was $1,140) Save 26% [Buy now, go to checkout](https://1examprep.com/cart/50698065281081:1)
+$840 (was $1,140) Save 26% [Buy now, go to checkout](https://1examprep.com/cart/50698065281081:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com)
 
 - Secure checkout, fulfilled by 1 Exam Prep
 - Books ship from our fulfillment center; online parts arrive by email

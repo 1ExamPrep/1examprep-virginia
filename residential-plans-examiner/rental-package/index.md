@@ -14,7 +14,7 @@ Residential Plans Examiner (R3) · Books and Courses Rental
 
 The Virginia Residential Plans Examiner (ICC - R3) - Books & Courses Rental Package is the reference books on rental plus the online course, returned after your exam for the Residential Plans Examiner (R3) exam (Virginia), at $640, 32% off the $940 list price. Books ship from our fulfillment center; online parts arrive by email.
 
-$640 (was $940) Save 32% [Buy now, go to checkout](https://1examprep.com/cart/50711175659577:1)
+$640 (was $940) Save 32% [Buy now, go to checkout](https://1examprep.com/cart/50711175659577:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com)
 
 - Secure checkout, fulfilled by 1 Exam Prep
 - Books ship from our fulfillment center; online parts arrive by email

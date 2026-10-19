@@ -31,42 +31,42 @@ Online Exam Prep Course
 ### [Virginia Commercial Building Inspector (ICC - B2) - Online Exam Prep](https://passyourvirginiacontractorexam.com/commercial-building-inspector/online-course/)
 
 $295 (was $395) Save 25%
-[Buy now](https://1examprep.com/cart/46095964766265:1) · [Details](https://passyourvirginiacontractorexam.com/commercial-building-inspector/online-course/)
+[Buy now](https://1examprep.com/cart/46095964766265:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/commercial-building-inspector/online-course/)
 
 Book Package
 
 ### [Virginia Commercial Building Inspector (ICC - B2) Exam Book Package](https://passyourvirginiacontractorexam.com/commercial-building-inspector/book-package/)
 
 $695 (was $795) Save 13%  to $995
-[Buy now](https://1examprep.com/cart/46473869000761:1) · [Details](https://passyourvirginiacontractorexam.com/commercial-building-inspector/book-package/)
+[Buy now](https://1examprep.com/cart/46473869000761:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/commercial-building-inspector/book-package/)
 
 Highlighted and Tabbed Books
 
 ### [Virginia Commercial Building Inspector (ICC - B2) Highlighted & Tabbed Book Package](https://passyourvirginiacontractorexam.com/commercial-building-inspector/highlighted-tabbed/)
 
 $995 (was $1,195) Save 17%  to $1,290
-[Buy now](https://1examprep.com/cart/46473874604089:1) · [Details](https://passyourvirginiacontractorexam.com/commercial-building-inspector/highlighted-tabbed/)
+[Buy now](https://1examprep.com/cart/46473874604089:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/commercial-building-inspector/highlighted-tabbed/)
 
 Books and Courses Rental
 
 ### [Virginia Commercial Building Inspector (ICC - B2) - Books & Courses Rental Package](https://passyourvirginiacontractorexam.com/commercial-building-inspector/rental-package/)
 
 $1,290 (was $1,590) Save 19%  to $1,740
-[Buy now](https://1examprep.com/cart/50697805037625:1) · [Details](https://passyourvirginiacontractorexam.com/commercial-building-inspector/rental-package/)
+[Buy now](https://1examprep.com/cart/50697805037625:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/commercial-building-inspector/rental-package/)
 
 Highlighted and Tabbed Books (Ohio edition)
 
 ### [Ohio Commercial Building Inspector (ICC - B2) Highlighted & Tabbed Book Package](https://passyourvirginiacontractorexam.com/commercial-building-inspector/highlighted-tabbed-ohio/)
 
 $995 (was $1,195) Save 17%
-[Buy now](https://1examprep.com/cart/46108765454393:1) · [Details](https://passyourvirginiacontractorexam.com/commercial-building-inspector/highlighted-tabbed-ohio/)
+[Buy now](https://1examprep.com/cart/46108765454393:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/commercial-building-inspector/highlighted-tabbed-ohio/)
 
 Books and Courses Rental (West Virginia edition)
 
 ### [West Virginia Commercial Building Inspector (ICC - B2) - Books & Courses Rental Package](https://passyourvirginiacontractorexam.com/commercial-building-inspector/rental-package-west-virginia/)
 
 $1,290 (was $1,590) Save 19%
-[Buy now](https://1examprep.com/cart/46051842785337:1) · [Details](https://passyourvirginiacontractorexam.com/commercial-building-inspector/rental-package-west-virginia/)
+[Buy now](https://1examprep.com/cart/46051842785337:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/commercial-building-inspector/rental-package-west-virginia/)
 
 ## How do the Commercial Building Inspector (B2) options compare?
 

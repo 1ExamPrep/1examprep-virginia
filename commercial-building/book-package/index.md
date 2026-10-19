@@ -14,7 +14,7 @@ Commercial Building Contractor (CBC) · Book Package
 
 The Virginia Commercial Building Technical Contractor Book Package is the reference books the exam is written to, new and unmarked for the Commercial Building Contractor (CBC) exam (Virginia), at $1,145, 8% off the $1,245 list price. Books ship from our fulfillment center, 1 Exam Prep. Buy now goes straight to secure checkout at 1 Exam Prep.
 
-$1,145 (was $1,245) Save 8% [Buy now, go to checkout](https://1examprep.com/cart/46481036148793:1)
+$1,145 (was $1,245) Save 8% [Buy now, go to checkout](https://1examprep.com/cart/46481036148793:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com)
 
 - Secure checkout, fulfilled by 1 Exam Prep
 - Books ship from our fulfillment center, 1 Exam Prep

@@ -14,7 +14,7 @@ Class A/B Business and Law · Licensing Service
 
 The Virginia Class A/B Business and Law Contractor Exam Complete Pass Package is help preparing and filing the license application for the Class A/B Business and Law exam (Virginia), at $425.99, 15% off the $499 list price. The service starts after purchase; we contact you for the details. Call (877) 775-9400 with questions first.
 
-$425.99 (was $499) Save 15% [Buy now, go to checkout](https://1examprep.com/cart/45417336635449:1)
+$425.99 (was $499) Save 15% [Buy now, go to checkout](https://1examprep.com/cart/45417336635449:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com)
 
 - Secure checkout, fulfilled by 1 Exam Prep
 - The service starts after purchase; we contact you for the details

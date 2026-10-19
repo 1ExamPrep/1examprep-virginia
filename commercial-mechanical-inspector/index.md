@@ -31,49 +31,49 @@ Online Exam Prep Course
 ### [Virginia Commercial Mechanical Inspector (ICC - M2) - Online Exam Prep](https://passyourvirginiacontractorexam.com/commercial-mechanical-inspector/online-course/)
 
 $295 (was $395) Save 25%
-[Buy now](https://1examprep.com/cart/46094235697209:1) · [Details](https://passyourvirginiacontractorexam.com/commercial-mechanical-inspector/online-course/)
+[Buy now](https://1examprep.com/cart/46094235697209:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/commercial-mechanical-inspector/online-course/)
 
 Book Package
 
 ### [Virginia Commercial Mechanical Inspector (ICC - M2) Exam Book Package](https://passyourvirginiacontractorexam.com/commercial-mechanical-inspector/book-package/)
 
 $345 (was $445) Save 22%  to $545
-[Buy now](https://1examprep.com/cart/46474247831609:1) · [Details](https://passyourvirginiacontractorexam.com/commercial-mechanical-inspector/book-package/)
+[Buy now](https://1examprep.com/cart/46474247831609:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/commercial-mechanical-inspector/book-package/)
 
 Highlighted and Tabbed Books
 
 ### [Virginia Commercial Mechanical Inspector (ICC - M2) Highlighted & Tabbed Book Package](https://passyourvirginiacontractorexam.com/commercial-mechanical-inspector/highlighted-tabbed/)
 
 $545 (was $745) Save 27%  to $840
-[Buy now](https://1examprep.com/cart/46474304520249:1) · [Details](https://passyourvirginiacontractorexam.com/commercial-mechanical-inspector/highlighted-tabbed/)
+[Buy now](https://1examprep.com/cart/46474304520249:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/commercial-mechanical-inspector/highlighted-tabbed/)
 
 Books and Courses Rental
 
 ### [Virginia Commercial Mechanical Inspector (ICC - M2) - Books & Courses Rental Package](https://passyourvirginiacontractorexam.com/commercial-mechanical-inspector/rental-package/)
 
 $840 (was $1,140) Save 26%  to $1,290
-[Buy now](https://1examprep.com/cart/50697867329593:1) · [Details](https://passyourvirginiacontractorexam.com/commercial-mechanical-inspector/rental-package/)
+[Buy now](https://1examprep.com/cart/50697867329593:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/commercial-mechanical-inspector/rental-package/)
 
 Online Exam Prep Course (Ohio edition)
 
 ### [Ohio Commercial Mechanical Inspector (ICC - M2) - Online Exam Prep](https://passyourvirginiacontractorexam.com/commercial-mechanical-inspector/online-course-ohio/)
 
 $295 (was $395) Save 25%
-[Buy now](https://1examprep.com/cart/46094580219961:1) · [Details](https://passyourvirginiacontractorexam.com/commercial-mechanical-inspector/online-course-ohio/)
+[Buy now](https://1examprep.com/cart/46094580219961:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/commercial-mechanical-inspector/online-course-ohio/)
 
 Highlighted and Tabbed Books (Ohio edition)
 
 ### [Ohio Commercial Mechanical Inspector (ICC - M2) Highlighted & Tabbed Book Package](https://passyourvirginiacontractorexam.com/commercial-mechanical-inspector/highlighted-tabbed-ohio/)
 
 $545 (was $745) Save 27%
-[Buy now](https://1examprep.com/cart/46106402160697:1) · [Details](https://passyourvirginiacontractorexam.com/commercial-mechanical-inspector/highlighted-tabbed-ohio/)
+[Buy now](https://1examprep.com/cart/46106402160697:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/commercial-mechanical-inspector/highlighted-tabbed-ohio/)
 
 Books and Courses Rental (West Virginia edition)
 
 ### [West Virginia Commercial Mechanical Inspector (ICC - M2) - Books & Courses Rental Package](https://passyourvirginiacontractorexam.com/commercial-mechanical-inspector/rental-package-west-virginia/)
 
 $840 (was $1,140) Save 26%
-[Buy now](https://1examprep.com/cart/46048520339513:1) · [Details](https://passyourvirginiacontractorexam.com/commercial-mechanical-inspector/rental-package-west-virginia/)
+[Buy now](https://1examprep.com/cart/46048520339513:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/commercial-mechanical-inspector/rental-package-west-virginia/)
 
 ## How do the Commercial Mechanical Inspector (M2) options compare?
 

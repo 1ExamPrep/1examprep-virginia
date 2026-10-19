@@ -14,7 +14,7 @@ Class A/B Business and Law · Online Practice Exams (any state)
 
 The NASCLA Contractors Guide to Business, Law and Project Management Basic Edition - Online Practice Questions is timed practice questions online, with explanations for the Class A/B Business and Law exam (Nationwide), at $79.99, 19% off the $99 list price. Online access arrives by email after purchase. Call (877) 775-9400 with questions first.
 
-$79.99 (was $99) Save 19% [Buy now, go to checkout](https://1examprep.com/cart/18797394198585:1)
+$79.99 (was $99) Save 19% [Buy now, go to checkout](https://1examprep.com/cart/18797394198585:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com)
 
 - Secure checkout, fulfilled by 1 Exam Prep
 - Online access arrives by email after purchase

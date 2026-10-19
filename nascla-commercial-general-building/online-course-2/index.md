@@ -14,7 +14,7 @@ NASCLA Commercial General Building Contractor · Online Exam Prep Course
 
 The Virginia NASCLA Commercial General Building Contractor - Online Exam Prep Course is an online course with practice exams you can take on a phone or laptop for the NASCLA Commercial General Building Contractor exam (Virginia), at $395, 10% off the $440 list price. Online access arrives by email after purchase.
 
-$395 (was $440) Save 10% [Buy now, go to checkout](https://1examprep.com/cart/45333236252729:1)
+$395 (was $440) Save 10% [Buy now, go to checkout](https://1examprep.com/cart/45333236252729:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com)
 
 - Secure checkout, fulfilled by 1 Exam Prep
 - Online access arrives by email after purchase

@@ -14,7 +14,7 @@ Residential Plumbing Inspector (P1) · Books and Courses Rental
 
 The Virginia Residential Plumbing Inspector (ICC - P1) - Books & Courses Rental Package is the reference books on rental plus the online course, returned after your exam for the Residential Plumbing Inspector (P1) exam (Virginia), at $640, 60% off the $1,590 list price. Books ship from our fulfillment center; online parts arrive by email.
 
-$640 (was $1,590) Save 60% [Buy now, go to checkout](https://1examprep.com/cart/50711322492985:1)
+$640 (was $1,590) Save 60% [Buy now, go to checkout](https://1examprep.com/cart/50711322492985:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com)
 
 - Secure checkout, fulfilled by 1 Exam Prep
 - Books ship from our fulfillment center; online parts arrive by email

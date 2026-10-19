@@ -14,7 +14,7 @@ Residential Energy Inspector / Plans Examiner · Books and Courses Rental (West 
 
 The Books and Courses Rental is the reference books on rental plus the online course, returned after your exam for the Residential Energy Inspector / Plans Examiner exam (West Virginia, with the same ICC exam Virginia uses), at $540. Books ship from our fulfillment center; online parts arrive by email.
 
-$540 (was $840) Save 36% [Buy now, go to checkout](https://1examprep.com/cart/46051701391417:1)
+$540 (was $840) Save 36% [Buy now, go to checkout](https://1examprep.com/cart/46051701391417:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com)
 
 - Secure checkout, fulfilled by 1 Exam Prep
 - Books ship from our fulfillment center; online parts arrive by email

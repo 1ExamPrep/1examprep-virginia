@@ -14,7 +14,7 @@ Painting and Wall Covering Contractor · Pre-Printed Tabs
 
 The Virginia Painting and Wall Covering Contracting Exam; Pre-Printed Tabs is pre-printed permanent tabs for the reference books, allowed in the exam room for the Painting and Wall Covering Contractor exam (Virginia), at $39.99, 10% off the $44.50 list price. Books ship from our fulfillment center, 1 Exam Prep. Call (877) 775-9400 with questions first.
 
-$39.99 (was $44.50) Save 10% [Buy now, go to checkout](https://1examprep.com/cart/41290049912889:1)
+$39.99 (was $44.50) Save 10% [Buy now, go to checkout](https://1examprep.com/cart/41290049912889:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com)
 
 - Secure checkout, fulfilled by 1 Exam Prep
 - Books ship from our fulfillment center, 1 Exam Prep

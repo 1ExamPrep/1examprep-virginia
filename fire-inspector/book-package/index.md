@@ -14,7 +14,7 @@ Fire Inspector II · Book Package
 
 The Virginia ICC Fire Inspector II - 67 Exam Book Package is the reference books the exam is written to, new and unmarked for the Fire Inspector II exam (Virginia), at $595, 14% off the $695 list price. Books ship from our fulfillment center, 1 Exam Prep. Call (877) 775-9400 with questions first.
 
-$595 (was $695) Save 14% [Buy now, go to checkout](https://1examprep.com/cart/46042373455929:1)
+$595 (was $695) Save 14% [Buy now, go to checkout](https://1examprep.com/cart/46042373455929:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com)
 
 - Secure checkout, fulfilled by 1 Exam Prep
 - Books ship from our fulfillment center, 1 Exam Prep

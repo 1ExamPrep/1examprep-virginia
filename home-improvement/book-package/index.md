@@ -14,7 +14,7 @@ Home Improvement Contractor (HIC) · Book Package
 
 The Virginia Home Improvement Contractor Exam Complete Book Package is the reference books the exam is written to, new and unmarked for the Home Improvement Contractor (HIC) exam (Virginia), at $1,195, 8% off the $1,295 list price. Books ship from our fulfillment center, 1 Exam Prep. Call (877) 775-9400 with questions first.
 
-$1,195 (was $1,295) Save 8% [Buy now, go to checkout](https://1examprep.com/cart/50633736650809:1)
+$1,195 (was $1,295) Save 8% [Buy now, go to checkout](https://1examprep.com/cart/50633736650809:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com)
 
 - Secure checkout, fulfilled by 1 Exam Prep
 - Books ship from our fulfillment center, 1 Exam Prep

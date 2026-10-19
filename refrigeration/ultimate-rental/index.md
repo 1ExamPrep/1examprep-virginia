@@ -14,7 +14,7 @@ Refrigeration Contractor · Ultimate Rental Package
 
 The Virginia Refrigeration Contractor Ultimate Exam Prep Rental Package is highlighted and tabbed rental books, the online course and live training for the Refrigeration Contractor exam (Virginia), at $1,710, 19% off the $2,110 list price. Books ship from our fulfillment center; online parts arrive by email. Call (877) 775-9400 with questions first.
 
-$1,710 (was $2,110) Save 19% [Buy now, go to checkout](https://1examprep.com/cart/44449227472953:1)
+$1,710 (was $2,110) Save 19% [Buy now, go to checkout](https://1examprep.com/cart/44449227472953:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com)
 
 - Secure checkout, fulfilled by 1 Exam Prep
 - Books ship from our fulfillment center; online parts arrive by email

@@ -14,7 +14,7 @@ Commercial Plumbing Inspector (P2) · Highlighted and Tabbed Books
 
 The Virginia Commercial Plumbing Inspector (ICC - P2) Highlighted & Tabbed Book Package is the reference books already highlighted and permanently tabbed, ready for the exam room for the Commercial Plumbing Inspector (P2) exam (Virginia), at $645, 24% off the $845 list price. Books ship from our fulfillment center, 1 Exam Prep.
 
-$645 (was $845) Save 24% [Buy now, go to checkout](https://1examprep.com/cart/50697885646905:1)
+$645 (was $845) Save 24% [Buy now, go to checkout](https://1examprep.com/cart/50697885646905:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com)
 
 - Secure checkout, fulfilled by 1 Exam Prep
 - Books ship from our fulfillment center, 1 Exam Prep

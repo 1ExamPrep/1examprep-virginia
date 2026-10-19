@@ -14,7 +14,7 @@ Class A/B Business and Law · Books and Courses Rental
 
 The Virginia Home Improvement Contractor Exam - Book Rental Package (Class A/B Business and Trade) is the reference books on rental plus the online course, returned after your exam for the Class A/B Business and Law exam (Virginia), at $2,385, 11% off the $2,685 list price. Call (877) 775-9400 with questions first.
 
-$2,385 (was $2,685) Save 11% [Buy now, go to checkout](https://1examprep.com/cart/41258303127609:1)
+$2,385 (was $2,685) Save 11% [Buy now, go to checkout](https://1examprep.com/cart/41258303127609:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com)
 
 - Secure checkout, fulfilled by 1 Exam Prep
 - Books ship from our fulfillment center; online parts arrive by email

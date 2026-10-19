@@ -3,7 +3,7 @@
   "use strict";
   var P=window.PRODUCT||{}, STORE=(window.SITE||{}).storeUrl||"https://1examprep.com";
   function money(v){v=Number(v);return "$"+(v%1?v.toFixed(2):String(v)).replace(/\B(?=(\d{3})+(?!\d))/g,",");}
-  function cartUrl(id){return STORE+"/cart/"+id+":1";}
+  function cartUrl(id){return STORE+"/cart/"+id+":1"+((window.SITE||{}).cartTag||"");}
   var form=document.getElementById("variants"), now=document.getElementById("pNow"), was=document.getElementById("pWas"), save=document.getElementById("pSave");
   function apply(){
     var r=form&&form.querySelector('input[name="v"]:checked'); if(!r) return;

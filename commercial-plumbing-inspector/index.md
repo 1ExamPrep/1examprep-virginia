@@ -31,35 +31,35 @@ Online Exam Prep Course
 ### [Virginia Commercial Plumbing Inspector (ICC - P2) Online Exam Prep](https://passyourvirginiacontractorexam.com/commercial-plumbing-inspector/online-course/)
 
 $295 (was $395) Save 25%
-[Buy now](https://1examprep.com/cart/46042388529209:1) · [Details](https://passyourvirginiacontractorexam.com/commercial-plumbing-inspector/online-course/)
+[Buy now](https://1examprep.com/cart/46042388529209:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/commercial-plumbing-inspector/online-course/)
 
 Book Package
 
 ### [Virginia Commercial Plumbing Inspector (ICC - P2) Exam Book Package](https://passyourvirginiacontractorexam.com/commercial-plumbing-inspector/book-package/)
 
 $395 (was $495) Save 20%  to $645
-[Buy now](https://1examprep.com/cart/46474327785529:1) · [Details](https://passyourvirginiacontractorexam.com/commercial-plumbing-inspector/book-package/)
+[Buy now](https://1examprep.com/cart/46474327785529:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/commercial-plumbing-inspector/book-package/)
 
 Highlighted and Tabbed Books
 
 ### [Virginia Commercial Plumbing Inspector (ICC - P2) Highlighted & Tabbed Book Package](https://passyourvirginiacontractorexam.com/commercial-plumbing-inspector/highlighted-tabbed/)
 
 $645 (was $845) Save 24%  to $940
-[Buy now](https://1examprep.com/cart/50697885646905:1) · [Details](https://passyourvirginiacontractorexam.com/commercial-plumbing-inspector/highlighted-tabbed/)
+[Buy now](https://1examprep.com/cart/50697885646905:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/commercial-plumbing-inspector/highlighted-tabbed/)
 
 Books and Courses Rental
 
 ### [Virginia Commercial Plumbing Inspector (ICC - P2) - Books & Courses Rental Package](https://passyourvirginiacontractorexam.com/commercial-plumbing-inspector/rental-package/)
 
 $940 (was $1,240) Save 24%  to $1,390
-[Buy now](https://1examprep.com/cart/50697891905593:1) · [Details](https://passyourvirginiacontractorexam.com/commercial-plumbing-inspector/rental-package/)
+[Buy now](https://1examprep.com/cart/50697891905593:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/commercial-plumbing-inspector/rental-package/)
 
 Books and Courses Rental (West Virginia edition)
 
 ### [West Virginia Commercial Plumbing Inspector (ICC - P2) - Books & Courses Rental Package](https://passyourvirginiacontractorexam.com/commercial-plumbing-inspector/rental-package-west-virginia/)
 
 $940 (was $1,240) Save 24%
-[Buy now](https://1examprep.com/cart/46050041626681:1) · [Details](https://passyourvirginiacontractorexam.com/commercial-plumbing-inspector/rental-package-west-virginia/)
+[Buy now](https://1examprep.com/cart/46050041626681:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/commercial-plumbing-inspector/rental-package-west-virginia/)
 
 ## How do the Commercial Plumbing Inspector (P2) options compare?
 

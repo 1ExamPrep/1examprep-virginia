@@ -14,7 +14,7 @@ Building Plans Examiner (B3) · Books and Courses Rental (West Virginia edition)
 
 The West Virginia Building Plans Examiner (ICC - B3) - Books & Courses Rental Package is the reference books on rental plus the online course, returned after your exam for the Building Plans Examiner (B3) exam (West Virginia, with the same ICC exam Virginia uses), at $1,290, 19% off the $1,590 list price.
 
-$1,290 (was $1,590) Save 19% [Buy now, go to checkout](https://1examprep.com/cart/46051992469561:1)
+$1,290 (was $1,590) Save 19% [Buy now, go to checkout](https://1examprep.com/cart/46051992469561:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com)
 
 - Secure checkout, fulfilled by 1 Exam Prep
 - Books ship from our fulfillment center; online parts arrive by email

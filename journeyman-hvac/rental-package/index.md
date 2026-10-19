@@ -14,7 +14,7 @@ Journeyman HVAC · Books and Courses Rental
 
 The Virginia Journeyman HVAC - Book & Courses Rental Package is the reference books on rental plus the online course, returned after your exam for the Journeyman HVAC exam (Virginia), at $1,685, 15% off the $1,985 list price. Books ship from our fulfillment center; online parts arrive by email. Call (877) 775-9400 with questions first.
 
-$1,685 (was $1,985) Save 15% [Buy now, go to checkout](https://1examprep.com/cart/44760453251129:1)
+$1,685 (was $1,985) Save 15% [Buy now, go to checkout](https://1examprep.com/cart/44760453251129:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com)
 
 - Secure checkout, fulfilled by 1 Exam Prep
 - Books ship from our fulfillment center; online parts arrive by email

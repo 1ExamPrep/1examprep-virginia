@@ -14,7 +14,7 @@ Swimming Pool Construction Contractor · Live Virtual Training
 
 The Virginia Swimming Pool Construction Contractor Exam Prep - Live Virtual + Self Study Training is live virtual classes with an instructor plus self-study material for the Swimming Pool Construction Contractor exam (Virginia), at $595, 25% off the $795 list price. Books ship from our fulfillment center; online parts arrive by email.
 
-$595 (was $795) Save 25% [Buy now, go to checkout](https://1examprep.com/cart/45852082667577:1)
+$595 (was $795) Save 25% [Buy now, go to checkout](https://1examprep.com/cart/45852082667577:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com)
 
 - Secure checkout, fulfilled by 1 Exam Prep
 - Books ship from our fulfillment center; online parts arrive by email

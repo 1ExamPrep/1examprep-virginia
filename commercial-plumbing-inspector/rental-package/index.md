@@ -14,7 +14,7 @@ Commercial Plumbing Inspector (P2) · Books and Courses Rental
 
 The Virginia Commercial Plumbing Inspector (ICC - P2) - Books & Courses Rental Package is the reference books on rental plus the online course, returned after your exam for the Commercial Plumbing Inspector (P2) exam (Virginia), at $940, 24% off the $1,240 list price. Books ship from our fulfillment center; online parts arrive by email.
 
-$940 (was $1,240) Save 24% [Buy now, go to checkout](https://1examprep.com/cart/50697891905593:1)
+$940 (was $1,240) Save 24% [Buy now, go to checkout](https://1examprep.com/cart/50697891905593:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com)
 
 - Secure checkout, fulfilled by 1 Exam Prep
 - Books ship from our fulfillment center; online parts arrive by email

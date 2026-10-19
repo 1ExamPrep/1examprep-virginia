@@ -14,7 +14,7 @@ Residential Building Inspector (B1) · Highlighted and Tabbed Books
 
 The Virginia Residential Building Inspector (ICC - B1) Highlighted & Tabbed Book Package is the reference books already highlighted and permanently tabbed, ready for the exam room for the Residential Building Inspector (B1) exam (Virginia), at $345, 37% off the $545 list price. Books ship from our fulfillment center, 1 Exam Prep.
 
-$345 (was $545) Save 37% [Buy now, go to checkout](https://1examprep.com/cart/50710396502073:1)
+$345 (was $545) Save 37% [Buy now, go to checkout](https://1examprep.com/cart/50710396502073:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com)
 
 - Secure checkout, fulfilled by 1 Exam Prep
 - Books ship from our fulfillment center, 1 Exam Prep

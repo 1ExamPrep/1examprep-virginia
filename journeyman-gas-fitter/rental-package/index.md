@@ -14,7 +14,7 @@ Journeyman Gas Fitter (LP) · Books and Courses Rental
 
 The Virginia Journeyman Gasfitter Contractor - Books & Courses Rental Package is the reference books on rental plus the online course, returned after your exam for the Journeyman Gas Fitter (LP) exam (Virginia), at $1,235, 20% off the $1,535 list price. Books ship from our fulfillment center; online parts arrive by email.
 
-$1,235 (was $1,535) Save 20% [Buy now, go to checkout](https://1examprep.com/cart/50697998630969:1)
+$1,235 (was $1,535) Save 20% [Buy now, go to checkout](https://1examprep.com/cart/50697998630969:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com)
 
 - Secure checkout, fulfilled by 1 Exam Prep
 - Books ship from our fulfillment center; online parts arrive by email

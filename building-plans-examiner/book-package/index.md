@@ -14,7 +14,7 @@ Building Plans Examiner (B3) · Book Package
 
 The Virginia Building Plans Examiner (ICC - B3) Exam Book Package is the reference books the exam is written to, new and unmarked for the Building Plans Examiner (B3) exam (Virginia), at $695, 13% off the $795 list price. Books ship from our fulfillment center, 1 Exam Prep. Call (877) 775-9400 with questions first.
 
-$695 (was $795) Save 13% [Buy now, go to checkout](https://1examprep.com/cart/46473788424249:1)
+$695 (was $795) Save 13% [Buy now, go to checkout](https://1examprep.com/cart/46473788424249:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com)
 
 - Secure checkout, fulfilled by 1 Exam Prep
 - Books ship from our fulfillment center, 1 Exam Prep

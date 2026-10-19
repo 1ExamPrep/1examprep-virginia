@@ -14,7 +14,7 @@ Residential Plans Examiner (R3) · Highlighted and Tabbed Books
 
 The Virginia Residential Plans Examiner (ICC - R3) Highlighted & Tabbed Book Package is the reference books already highlighted and permanently tabbed, ready for the exam room for the Residential Plans Examiner (R3) exam (Virginia), at $345, 37% off the $545 list price. Books ship from our fulfillment center, 1 Exam Prep.
 
-$345 (was $545) Save 37% [Buy now, go to checkout](https://1examprep.com/cart/50711163666489:1)
+$345 (was $545) Save 37% [Buy now, go to checkout](https://1examprep.com/cart/50711163666489:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com)
 
 - Secure checkout, fulfilled by 1 Exam Prep
 - Books ship from our fulfillment center, 1 Exam Prep

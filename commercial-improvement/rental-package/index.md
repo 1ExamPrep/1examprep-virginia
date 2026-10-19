@@ -14,7 +14,7 @@ Commercial Improvement Contractor (CIC) · Books and Courses Rental
 
 The Virginia Commercial Improvement Contracting - Book Rental Package (Trade Only) is the reference books on rental plus the online course, returned after your exam for the Commercial Improvement Contractor (CIC) exam (Virginia), at $1,499, 17% off the $1,799 list price. Books ship from our fulfillment center; online parts arrive by email.
 
-$1,499 (was $1,799) Save 17% [Buy now, go to checkout](https://1examprep.com/cart/41258347200569:1)
+$1,499 (was $1,799) Save 17% [Buy now, go to checkout](https://1examprep.com/cart/41258347200569:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com)
 
 - Secure checkout, fulfilled by 1 Exam Prep
 - Books ship from our fulfillment center; online parts arrive by email

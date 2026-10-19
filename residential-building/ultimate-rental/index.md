@@ -14,7 +14,7 @@ Residential Building Contractor (RBC) · Ultimate Rental Package
 
 The Virginia Residential Building Contractor Ultimate Exam Prep Rental Package is highlighted and tabbed rental books, the online course and live training for the Residential Building Contractor (RBC) exam (Virginia), at $1,910, 17% off the $2,310 list price. Books ship from our fulfillment center; online parts arrive by email. Call (877) 775-9400 with questions first.
 
-$1,910 (was $2,310) Save 17% [Buy now, go to checkout](https://1examprep.com/cart/44449224491065:1)
+$1,910 (was $2,310) Save 17% [Buy now, go to checkout](https://1examprep.com/cart/44449224491065:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com)
 
 - Secure checkout, fulfilled by 1 Exam Prep
 - Books ship from our fulfillment center; online parts arrive by email

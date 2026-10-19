@@ -14,7 +14,7 @@ Code Books and Code Courses · Code Book
 
 The Virginia Uniform Statewide Building Code, 2018 - Part 1 Virginia Construction Code [Binder] is the printed code book for the Code Books and Code Courses exam (Virginia), at $19.99, 10% off the $22.25 list price. Books ship from our fulfillment center, 1 Exam Prep. Buy now goes straight to secure checkout at 1 Exam Prep.
 
-$19.99 (was $22.25) Save 10% [Buy now, go to checkout](https://1examprep.com/cart/41226618011705:1)
+$19.99 (was $22.25) Save 10% [Buy now, go to checkout](https://1examprep.com/cart/41226618011705:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com)
 
 - Secure checkout, fulfilled by 1 Exam Prep
 - Books ship from our fulfillment center, 1 Exam Prep

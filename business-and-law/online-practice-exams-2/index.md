@@ -14,7 +14,7 @@ Class A/B Business and Law · Online Practice Exams
 
 The Virginia Class A/B Business Exam - Online Practice Questions is timed practice questions online, with explanations for the Class A/B Business and Law exam (Virginia), at $79.99, 38% off the $129.99 list price. Online access arrives by email after purchase. Buy now goes straight to secure checkout at 1 Exam Prep.
 
-$79.99 (was $129.99) Save 38% [Buy now, go to checkout](https://1examprep.com/cart/40039188693049:1)
+$79.99 (was $129.99) Save 38% [Buy now, go to checkout](https://1examprep.com/cart/40039188693049:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com)
 
 - Secure checkout, fulfilled by 1 Exam Prep
 - Online access arrives by email after purchase

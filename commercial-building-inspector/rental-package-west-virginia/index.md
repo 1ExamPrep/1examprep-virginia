@@ -14,7 +14,7 @@ Commercial Building Inspector (B2) · Books and Courses Rental (West Virginia ed
 
 The West Virginia Commercial Building Inspector (ICC - B2) - Books & Courses Rental Package is the reference books on rental plus the online course, returned after your exam for the Commercial Building Inspector (B2) exam (West Virginia, with the same ICC exam Virginia uses), at $1,290, 19% off the $1,590 list price.
 
-$1,290 (was $1,590) Save 19% [Buy now, go to checkout](https://1examprep.com/cart/46051842785337:1)
+$1,290 (was $1,590) Save 19% [Buy now, go to checkout](https://1examprep.com/cart/46051842785337:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com)
 
 - Secure checkout, fulfilled by 1 Exam Prep
 - Books ship from our fulfillment center; online parts arrive by email

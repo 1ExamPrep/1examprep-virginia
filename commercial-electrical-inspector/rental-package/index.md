@@ -14,7 +14,7 @@ Commercial Electrical Inspector (E2) · Books and Courses Rental
 
 The Virginia Commercial Electrical Inspector - (ICC - E2) - Books & Courses Rental Package is the reference books on rental plus the online course, returned after your exam for the Commercial Electrical Inspector (E2) exam (Virginia), at $720, 22% off the $920 list price. Books ship from our fulfillment center; online parts arrive by email.
 
-$720 (was $920) Save 22% [Buy now, go to checkout](https://1examprep.com/cart/46348846792761:1)
+$720 (was $920) Save 22% [Buy now, go to checkout](https://1examprep.com/cart/46348846792761:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com)
 
 - Secure checkout, fulfilled by 1 Exam Prep
 - Books ship from our fulfillment center; online parts arrive by email

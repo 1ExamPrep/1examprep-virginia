@@ -14,7 +14,7 @@ Journeyman Natural Gas Fitter · Books and Courses Rental
 
 The Virginia Journeyman Natural Gasfitter - Book Rental Package is the reference books on rental plus the online course, returned after your exam for the Journeyman Natural Gas Fitter exam (Virginia), at $1,235, 20% off the $1,535 list price. Books ship from our fulfillment center; online parts arrive by email. Call (877) 775-9400 with questions first.
 
-$1,235 (was $1,535) Save 20% [Buy now, go to checkout](https://1examprep.com/cart/44449181401145:1)
+$1,235 (was $1,535) Save 20% [Buy now, go to checkout](https://1examprep.com/cart/44449181401145:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com)
 
 - Secure checkout, fulfilled by 1 Exam Prep
 - Books ship from our fulfillment center; online parts arrive by email

@@ -31,7 +31,7 @@ Book Package
 ### [Virginia ICC Fire Inspector II - 67 Exam Book Package](https://passyourvirginiacontractorexam.com/fire-inspector/book-package/)
 
 $595 (was $695) Save 14%
-[Buy now](https://1examprep.com/cart/46042373455929:1) · [Details](https://passyourvirginiacontractorexam.com/fire-inspector/book-package/)
+[Buy now](https://1examprep.com/cart/46042373455929:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/fire-inspector/book-package/)
 
 ## How do the Fire Inspector II options compare?
 

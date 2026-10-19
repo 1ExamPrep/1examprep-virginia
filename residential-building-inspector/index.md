@@ -31,28 +31,28 @@ Online Exam Prep Course
 ### [Virginia Residential Building Inspector (ICC - B1) - Online Exam Prep](https://passyourvirginiacontractorexam.com/residential-building-inspector/online-course/)
 
 $295 (was $395) Save 25%
-[Buy now](https://1examprep.com/cart/46095630663737:1) · [Details](https://passyourvirginiacontractorexam.com/residential-building-inspector/online-course/)
+[Buy now](https://1examprep.com/cart/46095630663737:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/residential-building-inspector/online-course/)
 
 Book Package
 
 ### [Virginia Residential Building Inspector (ICC - B1) Exam Book Package](https://passyourvirginiacontractorexam.com/residential-building-inspector/book-package/)
 
 $199 (was $299) Save 33%  to $345
-[Buy now](https://1examprep.com/cart/50710380118073:1) · [Details](https://passyourvirginiacontractorexam.com/residential-building-inspector/book-package/)
+[Buy now](https://1examprep.com/cart/50710380118073:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/residential-building-inspector/book-package/)
 
 Highlighted and Tabbed Books
 
 ### [Virginia Residential Building Inspector (ICC - B1) Highlighted & Tabbed Book Package](https://passyourvirginiacontractorexam.com/residential-building-inspector/highlighted-tabbed/)
 
 $345 (was $545) Save 37%  to $640
-[Buy now](https://1examprep.com/cart/50710396502073:1) · [Details](https://passyourvirginiacontractorexam.com/residential-building-inspector/highlighted-tabbed/)
+[Buy now](https://1examprep.com/cart/50710396502073:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/residential-building-inspector/highlighted-tabbed/)
 
 Books and Courses Rental
 
 ### [Virginia Residential Building Inspector (ICC - B1) - Books & Courses Rental Package](https://passyourvirginiacontractorexam.com/residential-building-inspector/rental-package/)
 
 $640 (was $940) Save 32%  to $1,090
-[Buy now](https://1examprep.com/cart/50710424682553:1) · [Details](https://passyourvirginiacontractorexam.com/residential-building-inspector/rental-package/)
+[Buy now](https://1examprep.com/cart/50710424682553:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/residential-building-inspector/rental-package/)
 
 ## How do the Residential Building Inspector (B1) options compare?
 

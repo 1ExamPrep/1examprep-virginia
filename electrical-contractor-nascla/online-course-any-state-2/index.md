@@ -14,7 +14,7 @@ NASCLA Electrical Contractor · Online Exam Prep Course (any state)
 
 The NASCLA Residential Electrical - Online Exam Prep Course is an online course with practice exams you can take on a phone or laptop for the NASCLA Electrical Contractor exam (Nationwide), at $350, 10% off the $389 list price. Online access arrives by email after purchase. Call (877) 775-9400 with questions first.
 
-$350 (was $389) Save 10% [Buy now, go to checkout](https://1examprep.com/cart/41314834153529:1)
+$350 (was $389) Save 10% [Buy now, go to checkout](https://1examprep.com/cart/41314834153529:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com)
 
 - Secure checkout, fulfilled by 1 Exam Prep
 - Online access arrives by email after purchase

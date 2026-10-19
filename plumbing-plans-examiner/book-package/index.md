@@ -14,7 +14,7 @@ Plumbing Plans Examiner (P3) · Book Package
 
 The Virginia Plumbing Plans Examiner (ICC - P3) Exam Book Package is the reference books the exam is written to, new and unmarked for the Plumbing Plans Examiner (P3) exam (Virginia), at $395, 20% off the $495 list price. Books ship from our fulfillment center, 1 Exam Prep. Call (877) 775-9400 with questions first.
 
-$395 (was $495) Save 20% [Buy now, go to checkout](https://1examprep.com/cart/50710002794553:1)
+$395 (was $495) Save 20% [Buy now, go to checkout](https://1examprep.com/cart/50710002794553:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com)
 
 - Secure checkout, fulfilled by 1 Exam Prep
 - Books ship from our fulfillment center, 1 Exam Prep

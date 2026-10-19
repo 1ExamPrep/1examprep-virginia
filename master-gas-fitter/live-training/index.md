@@ -14,7 +14,7 @@ Master Gas Fitter (LP) · Live Virtual Training
 
 The Virginia Master Gasfitter Contractor Exam Prep - Live Virtual + Self Study Training is live virtual classes with an instructor plus self-study material for the Master Gas Fitter (LP) exam (Virginia), at $495, 29% off the $695 list price. Books ship from our fulfillment center; online parts arrive by email.
 
-$495 (was $695) Save 29% [Buy now, go to checkout](https://1examprep.com/cart/45846486581305:1)
+$495 (was $695) Save 29% [Buy now, go to checkout](https://1examprep.com/cart/45846486581305:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com)
 
 - Secure checkout, fulfilled by 1 Exam Prep
 - Books ship from our fulfillment center; online parts arrive by email

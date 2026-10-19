@@ -14,7 +14,7 @@ Residential Building Inspector (B1) · Books and Courses Rental
 
 The Virginia Residential Building Inspector (ICC - B1) - Books & Courses Rental Package is the reference books on rental plus the online course, returned after your exam for the Residential Building Inspector (B1) exam (Virginia), at $640, 32% off the $940 list price. Books ship from our fulfillment center; online parts arrive by email.
 
-$640 (was $940) Save 32% [Buy now, go to checkout](https://1examprep.com/cart/50710424682553:1)
+$640 (was $940) Save 32% [Buy now, go to checkout](https://1examprep.com/cart/50710424682553:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com)
 
 - Secure checkout, fulfilled by 1 Exam Prep
 - Books ship from our fulfillment center; online parts arrive by email

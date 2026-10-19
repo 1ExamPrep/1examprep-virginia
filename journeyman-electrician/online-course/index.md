@@ -14,7 +14,7 @@ Journeyman Electrician · Online Exam Prep Course
 
 The Virginia Journeyman Electrician - Online Exam Prep Course is an online course with practice exams you can take on a phone or laptop for the Journeyman Electrician exam (Virginia), at $250, 10% off the $279 list price. Online access arrives by email after purchase. Buy now goes straight to secure checkout at 1 Exam Prep.
 
-$250 (was $279) Save 10% [Buy now, go to checkout](https://1examprep.com/cart/41286686277689:1)
+$250 (was $279) Save 10% [Buy now, go to checkout](https://1examprep.com/cart/41286686277689:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com)
 
 - Secure checkout, fulfilled by 1 Exam Prep
 - Online access arrives by email after purchase

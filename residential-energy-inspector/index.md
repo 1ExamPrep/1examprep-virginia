@@ -31,42 +31,42 @@ Online Exam Prep Course
 ### [Virginia Residential Energy Inspector / Plans Examiner (ICC - 79) - Online Exam Prep](https://passyourvirginiacontractorexam.com/residential-energy-inspector/online-course/)
 
 $295 (was $395) Save 25%  to $495
-[Buy now](https://1examprep.com/cart/46314811850809:1) · [Details](https://passyourvirginiacontractorexam.com/residential-energy-inspector/online-course/)
+[Buy now](https://1examprep.com/cart/46314811850809:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/residential-energy-inspector/online-course/)
 
 Book Package
 
 ### [Virginia Residential Energy Inspector / Plans Examiner (ICC - 79) Exam Book Package](https://passyourvirginiacontractorexam.com/residential-energy-inspector/book-package/)
 
 $129 (was $229) Save 44%  to $245
-[Buy now](https://1examprep.com/cart/50710826385465:1) · [Details](https://passyourvirginiacontractorexam.com/residential-energy-inspector/book-package/)
+[Buy now](https://1examprep.com/cart/50710826385465:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/residential-energy-inspector/book-package/)
 
 Highlighted and Tabbed Books
 
 ### [Virginia Residential Energy Inspector / Plans Examiner (ICC - 79) Highlighted & Tabbed Book Package](https://passyourvirginiacontractorexam.com/residential-energy-inspector/highlighted-tabbed/)
 
 $245 (was $445) Save 45%  to $540
-[Buy now](https://1examprep.com/cart/50710837362745:1) · [Details](https://passyourvirginiacontractorexam.com/residential-energy-inspector/highlighted-tabbed/)
+[Buy now](https://1examprep.com/cart/50710837362745:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/residential-energy-inspector/highlighted-tabbed/)
 
 Live Virtual Training
 
 ### [Virginia Residential Energy Inspector / Plans Examiner (ICC - 79) Exam Prep - Live Virtual + Self Study Training](https://passyourvirginiacontractorexam.com/residential-energy-inspector/live-training/)
 
 $495 (was $695) Save 29%
-[Buy now](https://1examprep.com/cart/46278765838393:1) · [Details](https://passyourvirginiacontractorexam.com/residential-energy-inspector/live-training/)
+[Buy now](https://1examprep.com/cart/46278765838393:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/residential-energy-inspector/live-training/)
 
 Books and Courses Rental
 
 ### [Virginia Residential Energy Inspector / Plans Examiner (ICC - 79) - Books & Courses Rental Package](https://passyourvirginiacontractorexam.com/residential-energy-inspector/rental-package/)
 
 $540 (was $840) Save 36%  to $1,190
-[Buy now](https://1examprep.com/cart/46314815193145:1) · [Details](https://passyourvirginiacontractorexam.com/residential-energy-inspector/rental-package/)
+[Buy now](https://1examprep.com/cart/46314815193145:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/residential-energy-inspector/rental-package/)
 
 Books and Courses Rental (West Virginia edition)
 
 ### [West Virginia Residential Energy Inspector / Plans Examiner (ICC - 79) - Books & Courses Rental Package](https://passyourvirginiacontractorexam.com/residential-energy-inspector/rental-package-west-virginia/)
 
 $540 (was $840) Save 36%
-[Buy now](https://1examprep.com/cart/46051701391417:1) · [Details](https://passyourvirginiacontractorexam.com/residential-energy-inspector/rental-package-west-virginia/)
+[Buy now](https://1examprep.com/cart/46051701391417:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/residential-energy-inspector/rental-package-west-virginia/)
 
 ## How do the Residential Energy Inspector / Plans Examiner options compare?
 

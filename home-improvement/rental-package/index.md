@@ -14,7 +14,7 @@ Home Improvement Contractor (HIC) · Books and Courses Rental
 
 The Virginia Home Improvement Contracting - Book Rental Package (Trade Only) is the reference books on rental plus the online course, returned after your exam for the Home Improvement Contractor (HIC) exam (Virginia), at $1,649, 15% off the $1,949 list price. Books ship from our fulfillment center; online parts arrive by email.
 
-$1,649 (was $1,949) Save 15% [Buy now, go to checkout](https://1examprep.com/cart/41258307584057:1)
+$1,649 (was $1,949) Save 15% [Buy now, go to checkout](https://1examprep.com/cart/41258307584057:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com)
 
 - Secure checkout, fulfilled by 1 Exam Prep
 - Books ship from our fulfillment center; online parts arrive by email
