@@ -1,0 +1,26 @@
+/* Design 5: Blue Ridge. Layered ridges, forest green, slate. */
+:root{--bg:#eef3f2;--fg:#1f3035;--muted:#4f6468;--ink:#2a3f45;--accent:#2f7d5b;--accent-hover:#286b4e;--on-accent:#fff;--card:#fff;--line:#cfdcd9;--radius:18px;--radius-btn:999px;
+--font-display:"Bricolage Grotesque",sans-serif;--font-body:"Figtree",sans-serif}
+.nav{background:rgba(238,243,242,.94)}
+.nav .brand{font-family:var(--font-display);font-weight:800}.nav .brand span{color:var(--accent)}
+.hero{position:relative;padding:4.5rem 0 11rem;background:linear-gradient(#dfeaf0,#eef3f2)}
+.hero::after{content:"";position:absolute;left:0;right:0;bottom:0;height:150px;pointer-events:none;background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1440 150' preserveAspectRatio='none'%3E%3Cpath d='M0 90 L120 60 L230 85 L360 35 L470 70 L600 30 L730 75 L860 40 L980 80 L1110 45 L1240 70 L1440 40 V150 H0Z' fill='%23a9c1bf'/%3E%3Cpath d='M0 115 L150 80 L290 110 L420 70 L560 105 L700 75 L840 110 L990 72 L1130 108 L1290 80 L1440 100 V150 H0Z' fill='%235e7c78'/%3E%3Cpath d='M0 140 L180 112 L340 135 L520 105 L700 132 L880 108 L1060 136 L1240 112 L1440 130 V150 H0Z' fill='%232a3f45'/%3E%3C/svg%3E") bottom/100% 100% no-repeat}
+.hero--class{padding-bottom:9rem}
+.hero h1{font-family:var(--font-display);text-transform:none;font-weight:800;letter-spacing:-.025em;font-size:clamp(2.5rem,6.6vw,5.4rem);line-height:1;color:var(--ink)}
+.g{background:#fff;color:var(--fg);box-shadow:0 1px 0 var(--line)}
+.g b{font-family:var(--font-display);color:var(--accent)}
+.gauge{position:relative;z-index:1}
+h2,.pdp-h1{font-family:var(--font-display);text-transform:none;font-weight:800;letter-spacing:-.02em;color:var(--ink)}
+h2{font-size:clamp(1.9rem,4.2vw,3.2rem);line-height:1.05}
+.takeaways{border-left:none;background:#fff;border:1px solid var(--line)}
+.takeaways h2{color:var(--accent)}
+.sg{box-shadow:none;border:1px solid var(--line)}
+.pc-tier{color:#5e7c78}
+.va-group:nth-of-type(odd){background:#fff}.va-group:nth-of-type(even){background:transparent}
+.compare{border:1px solid var(--line)}.compare th{color:var(--accent)}
+.final{background:var(--ink)}.final h2 em{color:#a8d5bd;font-style:normal}
+.big b{color:var(--accent);font-family:var(--font-display)}
+.buybox,.g-main{box-shadow:none;border:1px solid var(--line)}
+.stickybar{background:var(--ink)}
+.hero{border-radius:0;margin:0}
+.g span{color:var(--muted)}.va-find{margin-inline:auto}

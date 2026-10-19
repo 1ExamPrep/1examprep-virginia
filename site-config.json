@@ -50,5 +50,7 @@
   "siteKey": "",
   "_siteKey_help": "The site's tracker key from the dashboard (Settings → Tracker), e.g. sk_…",
   "launched": "2026-10-19",
-  "_launched_help": "Date the site went live (YYYY-MM-DD); used as datePublished in the page schema."
+  "_launched_help": "Date the site went live (YYYY-MM-DD); used as datePublished in the page schema.",
+  "design": 0,
+  "_design_help": "Which look the site uses: 0 = original, 1 Code Book, 2 Blueprint, 3 Hi-Vis, 4 Commonwealth, 5 Blue Ridge. Compare them at /designs/, or add ?design=N to any page."
 }

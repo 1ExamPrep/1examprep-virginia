@@ -4,6 +4,7 @@
 User-agent: *
 Allow: /
 Disallow: /search/
+Disallow: /designs/
 Disallow: /store/
 Disallow: /admin/
 Disallow: /*?q=

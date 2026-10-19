@@ -1,0 +1,30 @@
+/* Design 3: Hi-Vis. Asphalt, safety yellow, hazard stripes, signage. */
+:root{--bg:#efefeb;--fg:#26292c;--muted:#575c61;--ink:#34383c;--accent:#ffc72c;--accent-hover:#ffd457;--on-accent:#26292c;--card:#fff;--line:#c9c9c2;--radius:6px;--radius-btn:6px;
+--font-display:"Anton",Impact,sans-serif;--font-body:"Public Sans",sans-serif;--stripe:repeating-linear-gradient(-45deg,#ffc72c 0 18px,#34383c 18px 36px)}
+.nav{background:#34383c;border-bottom:10px solid transparent;border-image:var(--stripe) 10}
+.nav .brand,.nav-links a,.nav-phone{color:#f4f4f0}.nav .brand span{color:var(--accent)}
+.nav-search{background:transparent;color:#fff;box-shadow:inset 0 0 0 2px rgba(255,255,255,.4)}
+.nav-phone:hover{background:rgba(255,255,255,.1)}
+.hero{background:#34383c;color:#fff;padding:4.5rem 0 4rem}
+.hero h1{font-family:var(--font-display);font-weight:400;letter-spacing:.01em;font-size:clamp(2.8rem,8vw,6.2rem);line-height:.95;color:var(--accent)}
+.hero .lead{color:#d6d6cf}.hero .crumb,.hero .crumb a{color:#b8b8b0!important}
+.g{background:#fff;color:var(--fg);border:4px solid var(--accent)}
+.g b{font-family:var(--font-display);font-weight:400;color:var(--fg)}
+h2,.pdp-h1{font-family:var(--font-display);font-weight:400;letter-spacing:.01em}
+.pdp-h1{text-transform:uppercase;line-height:1.05}
+.btn{font-weight:800}
+.btn-buy{box-shadow:inset 0 -4px 0 rgba(0,0,0,.18)}
+.sg{box-shadow:none;border:3px solid var(--ink);border-radius:6px}
+.pc-tier{color:#b26b00;font-weight:800}
+.pc-name{font-family:var(--font-body);font-weight:800;font-size:1.05rem}
+.va-list li a b{font-weight:800}
+.takeaways{border:3px solid var(--ink);border-left:12px solid var(--accent)}
+.compare{border:3px solid var(--ink);border-radius:6px}.compare th{background:var(--ink);color:#fff}
+#classes,.guide{background:#fff}
+.site-footer{border-top:10px solid transparent;border-image:var(--stripe) 10}
+.final{background:#34383c}.final h2{color:var(--accent)}.final h2 em{color:#fff;font-style:normal}
+.big b{color:var(--ink);font-family:var(--font-display);font-weight:400;background:var(--accent);display:inline-block;padding:.1em .35em;border-radius:6px}
+.buybox{border:3px solid var(--ink);box-shadow:none}.g-main{box-shadow:none;border:3px solid var(--ink)}
+.stickybar{background:#34383c}
+.hero{border-radius:0;margin:0}
+.g span{color:var(--muted)}.va-find{margin-inline:auto}.hero--class .btn{margin-inline:auto}

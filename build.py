@@ -182,7 +182,7 @@ def render(path_parts, title, desc, main, og_image=None, extra_ld=(), page_type=
     rel = "../" * len(path_parts); path = "/".join(path_parts) + ("/" if path_parts else "")
     url = absurl(path) if SITE else None
     out = (tpl.replace("{{MAIN}}", main).replace("{{STICKY}}", sticky)
-           .replace("{{ASSETS_HEAD}}", '<link rel="stylesheet" href="%sshared/base.css">\n<link rel="stylesheet" href="%sshared/store.css">\n<link rel="stylesheet" href="%sshared/va.css">' % (rel, rel, rel))
+           .replace("{{ASSETS_HEAD}}", assets_head(rel))
            .replace("{{ASSETS_SEARCH}}", '<script src="%sshared/site-index.js" defer></script>\n<script src="%sshared/search.js" defer></script>\n<script src="%sshared/track.js" defer></script>\n<script src="%sshared/va.js" defer></script>' % (rel, rel, rel, rel))
            .replace("{{HEAD_EXTRA}}", head_extra(path, title, desc, og_image, rel, False, extra_ld, page_type))
            .replace("{{NAV_TOOLS}}", nav_tools(cta or '<a class="btn btn-buy" href="%s#contractor">Find my license</a>' % (rel or "./")))
@@ -202,6 +202,20 @@ for _f, _ts in [("Online courses and practice", ["online-practice-exams", "onlin
                 ("Live training and rentals", ["live-training", "rental-package", "ultimate-rental"]),
                 ("All-inclusive and licensing services", ["licensing-service", "the-1-package"])]:
     for _t in _ts: FAMILY[_t] = _f
+
+THEMES = json.load(open(os.path.join(ROOT, "shared", "themes", "themes.json"), encoding="utf-8"))
+DESIGN = str(CFG.get("design", 0) or 0)
+def assets_head(rel):
+    """Stylesheets, then the chosen design. Any page can preview another design with ?design=1..5 (0 = original);
+    the choice is kept for the browser session so you can click around the site in it."""
+    base = '<link rel="stylesheet" href="%sshared/base.css">\n<link rel="stylesheet" href="%sshared/store.css">\n<link rel="stylesheet" href="%sshared/va.css">' % (rel, rel, rel)
+    t = THEMES.get(DESIGN)
+    static = ('\n<link rel="stylesheet" id="dFont" href="%s">\n<link rel="stylesheet" id="dCss" href="%sshared/themes/%s.css">' % (t["fonts"], rel, DESIGN)) if t else ""
+    loader = ('\n<script>(function(){var T=%s,d="%s",m=location.search.match(/[?&]design=(\\d)/);try{if(m)sessionStorage.setItem("vaDesign",m[1]);d=sessionStorage.getItem("vaDesign")||d;}catch(e){}'
+              'if(d==="%s")return;var a=document.getElementById("dCss"),b=document.getElementById("dFont");if(a)a.remove();if(b)b.remove();var t=T[d];if(!t)return;'
+              'document.write(\'<link rel="stylesheet" href="\'+t+\'"><link rel="stylesheet" href="%sshared/themes/\'+d+\'.css">\');})();</script>'
+              % (json.dumps({k: v["fonts"] for k, v in THEMES.items()}), DESIGN, DESIGN, rel))
+    return base + static + loader
 
 # ---------- copy helpers ----------
 def scope(c):
@@ -260,7 +274,7 @@ def choose_text(c):
 
 # ---------- remove previously generated folders ----------
 manifest = os.path.join(ROOT, "generated-pages.txt")
-KEEP = {"shared", "store", "content", "tools", "brand", ".git", ".github"}
+KEEP = {"shared", "store", "content", "tools", "brand", "designs", ".git", ".github"}
 if os.path.exists(manifest):
     for line in open(manifest):
         top = line.strip().split("/")[0]
@@ -444,7 +458,7 @@ def product_page(c, p):
     out = (ptpl.replace("{{TITLE}}", esc(short_t)).replace("{{DESC}}", esc(desc))
            .replace("{{CANONICAL}}", ('<link rel="canonical" href="%s">\n' % absurl(path)) if SITE else "")
            .replace("{{OGIMAGE}}", '<meta property="og:image" content="%s">\n' % esc(imgs[0]))
-           .replace("{{ASSETS_HEAD}}", '<link rel="stylesheet" href="%sshared/base.css">\n<link rel="stylesheet" href="%sshared/store.css">\n<link rel="stylesheet" href="%sshared/va.css">' % (rel, rel, rel))
+           .replace("{{ASSETS_HEAD}}", assets_head(rel))
            .replace("{{ASSETS_PRODUCT}}", '<script src="%sshared/product.js"></script>' % rel)
            .replace("{{ASSETS_SEARCH}}", '<script src="%sshared/site-index.js" defer></script>\n<script src="%sshared/search.js" defer></script>\n<script src="%sshared/track.js" defer></script>' % (rel, rel, rel)).replace("{{HEAD_EXTRA}}", extra)
            .replace("{{NAV_TOOLS}}", nav_tools('<a class="btn btn-buy" href="%s" rel="noopener">Buy now</a>' % cart(v0["id"])))
@@ -520,7 +534,7 @@ def blog_common(out, rel, path, title, desc, image, lds, route, noindex=False, p
             .replace("{{CANONICAL}}", ('<link rel="canonical" href="%s">\n' % absurl(path)) if SITE else "")
             .replace("{{OGIMAGE}}", ('<meta property="og:image" content="%s">\n' % esc(image)) if image else "")
             .replace("{{HEAD_EXTRA}}", head_extra(path, title, desc, image, rel, noindex, lds, page_type))
-            .replace("{{ASSETS_HEAD}}", '<link rel="stylesheet" href="%sshared/base.css">\n<link rel="stylesheet" href="%sshared/store.css">\n<link rel="stylesheet" href="%sshared/va.css">' % (rel, rel, rel))
+            .replace("{{ASSETS_HEAD}}", assets_head(rel))
             .replace("{{ASSETS_SEARCH}}", '<script src="%sshared/site-index.js" defer></script>\n<script src="%sshared/search.js" defer></script>\n<script src="%sshared/track.js" defer></script>' % (rel, rel, rel))
             .replace("{{NAV_TOOLS}}", nav_tools('<a class="btn btn-buy" href="%s#contractor">Find my license</a>' % rel)).replace("{{FOOTER}}", footer(rel))
             .replace("{{ROUTE}}", json.dumps(route)).replace("{{REL}}", rel).replace("{{HOME}}", rel))
@@ -628,7 +642,7 @@ lds = [crumbs_ld([("Home", ""), ("FAQ", "faq/")]), faq_ld(gen_pairs[:80])]
 fout = (ftpl.replace("{{TITLE}}", esc(ftitle)).replace("{{DESC}}", esc(fdesc)).replace("{{BRAND}}", esc(BRAND))
         .replace("{{CANONICAL}}", ('<link rel="canonical" href="%s">\n' % absurl("faq/")) if SITE else "").replace("{{OGIMAGE}}", ('<meta property="og:image" content="%s">\n' % esc(CFG.get("logo"))) if CFG.get("logo") else "")
         .replace("{{HEAD_EXTRA}}", head_extra("faq/", ftitle, fdesc, CFG.get("logo"), "../", False, lds))
-        .replace("{{ASSETS_HEAD}}", '<link rel="stylesheet" href="../shared/base.css">\n<link rel="stylesheet" href="../shared/store.css">\n<link rel="stylesheet" href="../shared/va.css">')
+        .replace("{{ASSETS_HEAD}}", assets_head("../"))
         .replace("{{ASSETS_SEARCH}}", '<script src="../shared/site-index.js" defer></script>\n<script src="../shared/search.js" defer></script>\n<script src="../shared/track.js" defer></script>')
         .replace("{{NAV_TOOLS}}", nav_tools('<a class="btn btn-buy" href="../#contractor">Find my license</a>')).replace("{{FOOTER}}", footer("../"))
         .replace("{{ROUTE}}", json.dumps({"depth": 1, "faq": True})).replace("{{REL}}", "../").replace("{{HOME}}", "../")
@@ -677,10 +691,26 @@ if not HAS_PNG_ICONS:
 open(os.path.join(ROOT, "manifest.webmanifest"), "w").write(json.dumps({"name": BRAND, "short_name": "VA Contractor", "start_url": "./", "display": "browser", "background_color": "#f7f6f2", "theme_color": "#1b1f3b",
     "icons": ([{"src": "shared/logo-mark.png", "sizes": "512x512", "type": "image/png"}] if HAS_PNG_ICONS else []) + [{"src": "shared/apple-touch-icon.png", "sizes": "180x180", "type": "image/png"}] + ([] if HAS_PNG_ICONS else [{"src": "shared/favicon.svg", "sizes": "any", "type": "image/svg+xml"}])}, indent=1))
 
+
+# ---------- /designs/: compare the five designs (noindex) ----------
+dd = os.path.join(ROOT, "designs"); os.makedirs(dd, exist_ok=True)
+cards = []
+for k in ["0"] + sorted(THEMES):
+    t = THEMES.get(k, {"name": "Original", "about": "The template look: navy, orange and Archivo Black."})
+    shots = "".join('<a href="../%s?design=%s"><img src="%s-%s.png" alt="%s design, %s page" loading="lazy"></a>' % (u, k, k, pg, esc(t["name"]), lab) for pg, u, lab in (("home", "", "home"), ("class", "home-improvement/", "license"), ("product", "home-improvement/highlighted-tabbed/", "product")) if os.path.exists(os.path.join(dd, "%s-%s.png" % (k, pg))))
+    cards.append('<section class="dz"><div class="dz-head"><h2>%s. %s%s</h2><p>%s</p><p class="dz-links"><a class="btn btn-buy" href="../?design=%s">Browse the site in this design</a><a href="../home-improvement/?design=%s">License page</a><a href="../home-improvement/highlighted-tabbed/?design=%s">Product page</a></p></div><div class="dz-shots">%s</div></section>'
+                 % (k, esc(t["name"]), " (live now)" if k == DESIGN else "", esc(t["about"]), k, k, k, shots))
+gal = """<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Design options | %s</title><meta name="robots" content="noindex, nofollow">
+<link rel="stylesheet" href="../shared/base.css"><link rel="stylesheet" href="../shared/store.css"><style>body{background:#eceef1}.dz{padding:2.5rem 0;border-bottom:1px solid #d5d8de}.dz-head{width:min(1180px,100%% - 2rem);margin:0 auto}.dz h2{font-size:1.8rem;text-transform:none;letter-spacing:-.01em}.dz p{color:#555;margin:.4rem 0}.dz-links{display:flex;gap:1rem;align-items:center;flex-wrap:wrap;margin-top:1rem!important}.dz-links a:not(.btn){color:#1b1f3b}
+.dz-shots{width:min(1180px,100%% - 2rem);margin:1.4rem auto 0;display:grid;grid-template-columns:repeat(3,1fr);gap:1rem;align-items:start}.dz-shots img{width:100%%;height:520px;object-fit:cover;object-position:top;border-radius:8px;box-shadow:0 10px 30px -18px rgba(0,0,0,.5);background:#fff}@media(max-width:800px){.dz-shots{grid-template-columns:1fr}.dz-shots img{height:360px}}
+header.top{padding:2.5rem 0 0;width:min(1180px,100%% - 2rem);margin:0 auto}header.top h1{font-size:2.4rem;text-transform:none}</style></head>
+<body><header class="top"><h1>Pick a design</h1><p>The same pages in six looks. Click any screenshot to browse the real site in that design; the choice sticks while you click around. To make one permanent, set "design" in site-config.json to its number and push. <a href="../?design=0">Back to the original</a>.</p></header>%s</body></html>""" % (esc(BRAND), "".join(cards))
+open(os.path.join(dd, "index.html"), "w", encoding="utf-8").write(gal)
+
 # ---------- robots.txt, llms.txt, agents.md ----------
 bots = ["GPTBot", "ChatGPT-User", "OAI-SearchBot", "ClaudeBot", "Claude-User", "anthropic-ai", "PerplexityBot", "Google-Extended", "Applebot-Extended", "Bingbot", "CCBot", "Amazonbot", "meta-externalagent"]
 rb = ("# robots.txt for %s (%s)\n# Search engines and AI assistants are both welcome. Internal search, raw data and the admin page are held back.\n\n" % (BRAND, (SITE or "/").rstrip("/"))
-      + "User-agent: *\nAllow: /\nDisallow: /search/\nDisallow: /store/\nDisallow: /admin/\nDisallow: /*?q=\n\n# Named so the allow is explicit for AI crawlers.\n" + "".join("User-agent: %s\nAllow: /\n\n" % b for b in bots))
+      + "User-agent: *\nAllow: /\nDisallow: /search/\nDisallow: /designs/\nDisallow: /store/\nDisallow: /admin/\nDisallow: /*?q=\n\n# Named so the allow is explicit for AI crawlers.\n" + "".join("User-agent: %s\nAllow: /\n\n" % b for b in bots))
 if SITE: rb += "Sitemap: %ssitemap.xml\n# Blog: %sblog/ (RSS at %sblog/feed.xml). FAQ: %sfaq/\n# Guides for AI assistants: %sllms.txt and %sagents.md\n" % (SITE, SITE, SITE, SITE, SITE, SITE)
 open(os.path.join(ROOT, "robots.txt"), "w").write(rb)
 llm = ["# %s" % BRAND, "", "> Exam prep for %d Virginia licenses: Board for Contractors trade classifications (Class A, B and C), the business and law exam, tradesman licenses (electrician, plumber, HVAC, gas fitter) and ICC inspector and plans examiner certifications. %d products: online courses, reference book packages, highlighted and tabbed books, rentals, live virtual training and The 1 Package. Buy buttons go straight to checkout; orders are fulfilled by %s. Phone %s, email %s." % (n_cls, n_prod, FUL["name"], CFG["phone"], CFG["email"]), "",
