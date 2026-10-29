@@ -27,8 +27,9 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
 
 Book Package
+[Virginia Steel Erection Contractor Exam Complete Book Package](https://passyourvirginiacontractorexam.com/steel-erection/book-package/)
 
-### [Virginia Steel Erection Contractor Exam Complete Book Package](https://passyourvirginiacontractorexam.com/steel-erection/book-package/)
+The reference books the exam is written to, new and unmarked.
 
 $695 (was $795) Save 13%
 [Buy now](https://1examprep.com/cart/44447312314425:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/steel-erection/book-package/)

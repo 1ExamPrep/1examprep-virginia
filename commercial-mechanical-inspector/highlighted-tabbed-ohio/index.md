@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Commercial Mechanical Inspector (M2) exam (Ohio edition)
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Highlighted and Tabbed Books costs $545 and is written for the Commercial Mechanical Inspector (M2) exam (Ohio edition). Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Commercial Mechanical Inspector (M2) package
 
 Ohio Commercial Mechanical Inspector (ICC - M2) Highlighted & Tabbed Book Package The Ohio Commercial Mechanical Inspector (ICC - M2) Highlighted & Tabbed Book Package is designed for candidates preparing for the ICC Commercial Mechanical Inspector exam using the 2021 code references. This package includes the International Mechanical Code, 2021 and the International Fuel Gas Code, 2021, prepared as a highlighted and tabbed book package to support faster code navigation during study and exam preparation.

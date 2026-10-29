@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Residential Plumber Tradesman exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Highlighted and Tabbed Books costs $345 and is written for the Residential Plumber Tradesman exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Residential Plumber Tradesman package
 
 Virginia Residential Plumber Tradesman Highlighted & Tabbed Book Package Prepare for the Virginia Residential Plumber Tradesman examination with a professionally highlighted and tabbed reference package designed to support faster study, more organized code review, and efficient open-book navigation. The Virginia Residential Plumber Tradesman Highlighted & Tabbed Book Package includes the two core references used for exam preparation: the Virginia Board for Contractors, Individual License and Certification Regulations and the International Plumbing Code, 2021.

@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the NASCLA Electrical Contractor exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Books and Courses Rental costs $2,580 and is written for the NASCLA Electrical Contractor exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this NASCLA Electrical Contractor package
 
 Virginia NASCLA Master Electrical Contractor - Books & Courses Rental Package Prepare for the NASCLA Accredited Trade Examination for Electrical Contractors and the Virginia contractor licensing process with a comprehensive rental package that combines highlighted and tabbed reference books with structured course access.

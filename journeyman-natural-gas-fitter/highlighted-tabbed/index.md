@@ -36,6 +36,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Books ship from our fulfillment center, 1 Exam Prep
 - Options from $645 to $940, chosen above before checkout
 
+The Highlighted and Tabbed Books costs $645 to $940 with the options above and is written for the Journeyman Natural Gas Fitter exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 **Options at checkout:** Highlighted & Tabbed Book Package; Highlighted & Tabbed Book Package + Online Courses [+$295]. Pick one above and the price updates.
 
 ## About this Journeyman Natural Gas Fitter package

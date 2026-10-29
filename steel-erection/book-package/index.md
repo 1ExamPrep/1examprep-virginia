@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Steel Erection Contractor exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Book Package costs $695 and is written for the Steel Erection Contractor exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Steel Erection Contractor package
 
 Virginia Steel Erection Contractor Exam Complete Book Package Prepare for the Virginia Steel Erection Contractor examination with a complete reference package focused on structural steel erection, rigging, welding, reinforcing steel, steel decking, joists, girders, and construction safety. The Virginia Steel Erection Contractor Exam Complete Book Package brings together the principal technical references candidates can use while preparing for Virginia's Steel Erection Contracting (STL) specialty examination.

@@ -36,6 +36,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Books ship from our fulfillment center; online parts arrive by email
 - Options from $540 to $1,190, chosen above before checkout
 
+The Books and Courses Rental costs $540 to $1,190 with the options above and is written for the Residential Energy Inspector / Plans Examiner exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 **Options at checkout:** Book & Course Rental - Self Study; Book & Course Rental - Self Study + Live & Recorded Classes [+$200]; Book & Course Rental - Self Study + Live & Recorded Classes + State Application [+$650]. Pick one above and the price updates.
 
 ## About this Residential Energy Inspector / Plans Examiner package

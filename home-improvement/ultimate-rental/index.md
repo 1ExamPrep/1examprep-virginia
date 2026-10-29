@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Home Improvement Contractor (HIC) exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Ultimate Rental Package costs $2,810 and is written for the Home Improvement Contractor (HIC) exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Home Improvement Contractor (HIC) package
 
 Virginia Home Improvement Contractor Exam Ultimate Exam Prep Rental Package Prepare for the Virginia Home Improvement Contractor Exam with an Ultimate Exam Prep Rental Package that combines a comprehensive reference-book collection, 1 year of course access, and Application Service in one organized preparation package. This option is designed for candidates who want access to the listed Virginia Home Improvement Contractor technical references along with structured exam preparation and application support.

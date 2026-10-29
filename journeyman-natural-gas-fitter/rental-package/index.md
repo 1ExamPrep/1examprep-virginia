@@ -36,6 +36,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Books ship from our fulfillment center; online parts arrive by email
 - Options from $1,235 to $1,885, chosen above before checkout
 
+The Books and Courses Rental costs $1,235 to $1,885 with the options above and is written for the Journeyman Natural Gas Fitter exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 **Options at checkout:** Books & Courses Rental - Self Study; Books & Courses Self Study + Live & Recorded Classes [+$200]; Books & Courses Self Study + Live & Recorded Classes + State Application [+$650]. Pick one above and the price updates.
 
 ## About this Journeyman Natural Gas Fitter package

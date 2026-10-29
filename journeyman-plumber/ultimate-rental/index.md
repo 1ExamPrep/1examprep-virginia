@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Journeyman Plumber exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Ultimate Rental Package costs $895 and is written for the Journeyman Plumber exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Journeyman Plumber package
 
 VIRGINIA JOURNEYMAN PLUMBER ULTIMATE EXAM PREP RENTAL PACKAGEThe Virginia Journeyman Plumber Ultimate Exam Prep Rental Package from Pass Your Virginia Contractor Exam provides PSI-approved reference materials and online learning tools for candidates seeking journeyman-level plumbing licensure through the Virginia Board for Contractors. This package aligns with DPOR and PSI exam specifications, covering plumbing systems, piping installation, venting, drainage, fixture requirements, and the International Plumbing Code as adopted in Virginia.

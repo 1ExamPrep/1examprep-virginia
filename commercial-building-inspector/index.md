@@ -27,43 +27,49 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
 
 Online Exam Prep Course
+[Virginia Commercial Building Inspector (ICC - B2) - Online Exam Prep](https://passyourvirginiacontractorexam.com/commercial-building-inspector/online-course/)
 
-### [Virginia Commercial Building Inspector (ICC - B2) - Online Exam Prep](https://passyourvirginiacontractorexam.com/commercial-building-inspector/online-course/)
+An online course with practice exams you can take on a phone or laptop.
 
 $295 (was $395) Save 25%
 [Buy now](https://1examprep.com/cart/46095964766265:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/commercial-building-inspector/online-course/)
 
 Book Package
+[Virginia Commercial Building Inspector (ICC - B2) Exam Book Package](https://passyourvirginiacontractorexam.com/commercial-building-inspector/book-package/)
 
-### [Virginia Commercial Building Inspector (ICC - B2) Exam Book Package](https://passyourvirginiacontractorexam.com/commercial-building-inspector/book-package/)
+The reference books the exam is written to, new and unmarked.
 
 $695 (was $795) Save 13%  to $995
 [Buy now](https://1examprep.com/cart/46473869000761:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/commercial-building-inspector/book-package/)
 
 Highlighted and Tabbed Books
+[Virginia Commercial Building Inspector (ICC - B2) Highlighted & Tabbed Book Package](https://passyourvirginiacontractorexam.com/commercial-building-inspector/highlighted-tabbed/)
 
-### [Virginia Commercial Building Inspector (ICC - B2) Highlighted & Tabbed Book Package](https://passyourvirginiacontractorexam.com/commercial-building-inspector/highlighted-tabbed/)
+The reference books already highlighted and permanently tabbed, ready for the exam room.
 
 $995 (was $1,195) Save 17%  to $1,290
 [Buy now](https://1examprep.com/cart/46473874604089:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/commercial-building-inspector/highlighted-tabbed/)
 
 Books and Courses Rental
+[Virginia Commercial Building Inspector (ICC - B2) - Books & Courses Rental Package](https://passyourvirginiacontractorexam.com/commercial-building-inspector/rental-package/)
 
-### [Virginia Commercial Building Inspector (ICC - B2) - Books & Courses Rental Package](https://passyourvirginiacontractorexam.com/commercial-building-inspector/rental-package/)
+The reference books on rental plus the online course, returned after your exam.
 
 $1,290 (was $1,590) Save 19%  to $1,740
 [Buy now](https://1examprep.com/cart/50697805037625:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/commercial-building-inspector/rental-package/)
 
 Highlighted and Tabbed Books (Ohio edition)
+[Ohio Commercial Building Inspector (ICC - B2) Highlighted & Tabbed Book Package](https://passyourvirginiacontractorexam.com/commercial-building-inspector/highlighted-tabbed-ohio/)
 
-### [Ohio Commercial Building Inspector (ICC - B2) Highlighted & Tabbed Book Package](https://passyourvirginiacontractorexam.com/commercial-building-inspector/highlighted-tabbed-ohio/)
+The reference books already highlighted and permanently tabbed, ready for the exam room.
 
 $995 (was $1,195) Save 17%
 [Buy now](https://1examprep.com/cart/46108765454393:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/commercial-building-inspector/highlighted-tabbed-ohio/)
 
 Books and Courses Rental (West Virginia edition)
+[West Virginia Commercial Building Inspector (ICC - B2) - Books & Courses Rental Package](https://passyourvirginiacontractorexam.com/commercial-building-inspector/rental-package-west-virginia/)
 
-### [West Virginia Commercial Building Inspector (ICC - B2) - Books & Courses Rental Package](https://passyourvirginiacontractorexam.com/commercial-building-inspector/rental-package-west-virginia/)
+The reference books on rental plus the online course, returned after your exam.
 
 $1,290 (was $1,590) Save 19%
 [Buy now](https://1examprep.com/cart/46051842785337:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/commercial-building-inspector/rental-package-west-virginia/)

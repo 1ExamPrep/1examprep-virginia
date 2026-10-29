@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Mechanical Plans Examiner (M3) exam (West Virginia edition)
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Books and Courses Rental costs $840 and is written for the Mechanical Plans Examiner (M3) exam (West Virginia edition). Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Mechanical Plans Examiner (M3) package
 
 West Virginia Mechanical Plans Examiner (ICC - M3) - Books & Courses Rental Package The West Virginia Mechanical Plans Examiner (ICC - M3) Books & Courses Rental Package is designed for students preparing for the ICC Mechanical Plans Examiner certification exam using the 2021 International Mechanical Code and the 2021 International Fuel Gas Code.

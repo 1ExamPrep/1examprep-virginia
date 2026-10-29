@@ -27,22 +27,25 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
 
 Book Package
+[Virginia Residential Electrical Inspector - (ICC - E1) Exam Book Package](https://passyourvirginiacontractorexam.com/residential-electrical-inspector/book-package/)
 
-### [Virginia Residential Electrical Inspector - (ICC - E1) Exam Book Package](https://passyourvirginiacontractorexam.com/residential-electrical-inspector/book-package/)
+The reference books the exam is written to, new and unmarked.
 
 $295 (was $395) Save 25%  to $395
 [Buy now](https://1examprep.com/cart/50710765076537:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/residential-electrical-inspector/book-package/)
 
 Highlighted and Tabbed Books
+[Virginia Residential Electrical Inspector - (ICC - E1)- Highlighted & Tabbed Book Package](https://passyourvirginiacontractorexam.com/residential-electrical-inspector/highlighted-tabbed/)
 
-### [Virginia Residential Electrical Inspector - (ICC - E1)- Highlighted & Tabbed Book Package](https://passyourvirginiacontractorexam.com/residential-electrical-inspector/highlighted-tabbed/)
+The reference books already highlighted and permanently tabbed, ready for the exam room.
 
 $395 (was $595) Save 34%
 [Buy now](https://1examprep.com/cart/45973139095609:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/residential-electrical-inspector/highlighted-tabbed/)
 
 Highlighted and Tabbed Books (Ohio edition)
+[Ohio Residential Electrical Inspector - (ICC - E1) Highlighted & Tabbed Book Package](https://passyourvirginiacontractorexam.com/residential-electrical-inspector/highlighted-tabbed-ohio/)
 
-### [Ohio Residential Electrical Inspector - (ICC - E1) Highlighted & Tabbed Book Package](https://passyourvirginiacontractorexam.com/residential-electrical-inspector/highlighted-tabbed-ohio/)
+The reference books already highlighted and permanently tabbed, ready for the exam room.
 
 $395 (was $595) Save 34%
 [Buy now](https://1examprep.com/cart/46110437081145:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/residential-electrical-inspector/highlighted-tabbed-ohio/)

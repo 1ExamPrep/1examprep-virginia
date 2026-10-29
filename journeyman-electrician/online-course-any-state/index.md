@@ -36,6 +36,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Online access arrives by email after purchase
 - Options from $395 to $595, chosen above before checkout
 
+The Online Exam Prep Course costs $395 to $595 with the options above and is written for the Journeyman Electrician exam (any state). Online access arrives by email after purchase, and Buy now takes you straight to checkout.
+
 **Options at checkout:** Online Self Study Course; Online Self Study Course + Live & Recorded Classes [+$200]. Pick one above and the price updates.
 
 ## About this Journeyman Electrician package

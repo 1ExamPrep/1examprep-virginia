@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Code Books and Code Courses exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Code Book costs $19.99 and is written for the Code Books and Code Courses exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Code Books and Code Courses package
 
 VIRGINIA UNIFORM STATEWIDE BUILDING CODE, 2018 - PART 1 VIRGINIA CONSTRUCTION CODE [BINDER]The Virginia Uniform Statewide Building Code, 2018 - Part 1 Virginia Construction Code [Binder] is an official publication referenced by the Virginia Department of Housing and Community Development (DHCD) and aligns with the 2015 International Building Code (IBC) with Virginia amendments. This code establishes statewide standards for building safety, structural integrity, accessibility, fire protection, and energy efficiency.

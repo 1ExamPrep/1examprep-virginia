@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Commercial Building Inspector (B2) exam (West Virginia edition)
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Books and Courses Rental costs $1,290 and is written for the Commercial Building Inspector (B2) exam (West Virginia edition). Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Commercial Building Inspector (B2) package
 
 West Virginia Commercial Building Inspector (ICC - B2) - Books & Courses Rental Package The West Virginia Commercial Building Inspector (ICC - B2) Books & Courses Rental Package is designed for students preparing for the ICC Commercial Building Inspector certification exam using ACI 318-19: Building Code Requirements for Structural Concrete and Commentary, the International Building Code, 2021, and the 2021 ICC Concrete Manual. This package gives students rental access to the listed references and structured course support for focused commercial building inspection exam preparation.

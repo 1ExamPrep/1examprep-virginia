@@ -27,8 +27,9 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
 
 Book Package
+[Virginia Billboard Sign Contractor Exam Book Package](https://passyourvirginiacontractorexam.com/billboard-sign/book-package/)
 
-### [Virginia Billboard Sign Contractor Exam Book Package](https://passyourvirginiacontractorexam.com/billboard-sign/book-package/)
+The reference books the exam is written to, new and unmarked.
 
 $195 (was $295) Save 34%
 [Buy now](https://1examprep.com/cart/45281848197177:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/billboard-sign/book-package/)

@@ -27,57 +27,65 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
 
 Online Exam Prep Course
+[Virginia Commercial Improvement Contracting - Online Exam Prep Course](https://passyourvirginiacontractorexam.com/commercial-improvement/online-course/)
 
-### [Virginia Commercial Improvement Contracting - Online Exam Prep Course](https://passyourvirginiacontractorexam.com/commercial-improvement/online-course/)
+An online course with practice exams you can take on a phone or laptop.
 
 $295 (was $395) Save 25%  to $595
 [Buy now](https://1examprep.com/cart/32414464333:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/commercial-improvement/online-course/)
 
 Pre-Printed Tabs
+[Virginia Commercial Improvement Contracting Exam; Pre-Printed Tabs](https://passyourvirginiacontractorexam.com/commercial-improvement/tabs/)
 
-### [Virginia Commercial Improvement Contracting Exam; Pre-Printed Tabs](https://passyourvirginiacontractorexam.com/commercial-improvement/tabs/)
+Pre-printed permanent tabs for the reference books, allowed in the exam room.
 
 $79.99 (was $88.99) Save 10%
 [Buy now](https://1examprep.com/cart/41289964126265:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/commercial-improvement/tabs/)
 
 Book Package
+[Virginia Commercial Improvement Contracting Book Package](https://passyourvirginiacontractorexam.com/commercial-improvement/book-package/)
 
-### [Virginia Commercial Improvement Contracting Book Package](https://passyourvirginiacontractorexam.com/commercial-improvement/book-package/)
+The reference books the exam is written to, new and unmarked.
 
 $1,095 (was $1,195) Save 8%  to $1,399
 [Buy now](https://1examprep.com/cart/46392909267001:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/commercial-improvement/book-package/)
 
 Highlighted and Tabbed Books
+[Virginia Commercial Improvement Contracting Book Package - Highlighted and Tabbed](https://passyourvirginiacontractorexam.com/commercial-improvement/highlighted-tabbed/)
 
-### [Virginia Commercial Improvement Contracting Book Package - Highlighted and Tabbed](https://passyourvirginiacontractorexam.com/commercial-improvement/highlighted-tabbed/)
+The reference books already highlighted and permanently tabbed, ready for the exam room.
 
 $1,399 (was $1,599) Save 13%  to $1,694
 [Buy now](https://1examprep.com/cart/46392902811705:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/commercial-improvement/highlighted-tabbed/)
 
 Live Virtual Training
+[Virginia Commercial Improvement Contracting Exam Prep - Live Virtual + Self Study Training](https://passyourvirginiacontractorexam.com/commercial-improvement/live-training/)
 
-### [Virginia Commercial Improvement Contracting Exam Prep - Live Virtual + Self Study Training](https://passyourvirginiacontractorexam.com/commercial-improvement/live-training/)
+Live virtual classes with an instructor plus self-study material.
 
 $595 (was $795) Save 25%
 [Buy now](https://1examprep.com/cart/45845497348153:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/commercial-improvement/live-training/)
 
 Books and Courses Rental
+[Virginia Commercial Improvement Contracting - Book Rental Package (Trade Only)](https://passyourvirginiacontractorexam.com/commercial-improvement/rental-package/)
 
-### [Virginia Commercial Improvement Contracting - Book Rental Package (Trade Only)](https://passyourvirginiacontractorexam.com/commercial-improvement/rental-package/)
+The reference books on rental plus the online course, returned after your exam.
 
 $1,499 (was $1,799) Save 17%  to $2,249
 [Buy now](https://1examprep.com/cart/41258347200569:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/commercial-improvement/rental-package/)
 
 Ultimate Rental Package
+[Virginia Commercial Improvement Contracting Ultimate Exam Prep Rental Package](https://passyourvirginiacontractorexam.com/commercial-improvement/ultimate-rental/)
 
-### [Virginia Commercial Improvement Contracting Ultimate Exam Prep Rental Package](https://passyourvirginiacontractorexam.com/commercial-improvement/ultimate-rental/)
+Highlighted and tabbed rental books, the online course and live training.
 
 $2,395 (was $2,795) Save 14%
 [Buy now](https://1examprep.com/cart/44449240678457:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/commercial-improvement/ultimate-rental/)
 
 The 1 Package (all-inclusive)
+[The 1 Package: All-Inclusive Virginia Commercial Improvement Contractor Exam, Licensing & Business Setup Solution](https://passyourvirginiacontractorexam.com/commercial-improvement/the-1-package/)
 
-### [The 1 Package: All-Inclusive Virginia Commercial Improvement Contractor Exam, Licensing & Business Setup Solution](https://passyourvirginiacontractorexam.com/commercial-improvement/the-1-package/)
+Everything: exam prep, books, licensing paperwork and business setup.
 
 $3,795 (was $4,395) Save 14%
 [Buy now](https://1examprep.com/cart/44449261944889:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/commercial-improvement/the-1-package/)

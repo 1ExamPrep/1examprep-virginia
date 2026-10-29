@@ -36,6 +36,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Books ship from our fulfillment center, 1 Exam Prep
 - Options from $129 to $245, chosen above before checkout
 
+The Book Package costs $129 to $245 with the options above and is written for the Residential Energy Inspector / Plans Examiner exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 **Options at checkout:** Book Package; Highlighted & Tabbed Book Package [+$116]. Pick one above and the price updates.
 
 ## About this Residential Energy Inspector / Plans Examiner package

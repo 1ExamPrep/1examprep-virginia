@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Fire Alarm Systems Contractor exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Highlighted and Tabbed Books costs $795 and is written for the Fire Alarm Systems Contractor exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Fire Alarm Systems Contractor package
 
 Virginia Fire Alarm Systems Contractor Exam Highlighted & Tabbed Book Package Prepare for the Virginia Fire Alarm Systems Contractor examination with a professionally organized reference package built around the books listed for the Fire Alarm Systems Contracting specialty examination. The Virginia Fire Alarm Systems Contractor Exam Complete Highlighted & Tabbed Book Package includes the key code references candidates need for studying and navigating the open-book exam.

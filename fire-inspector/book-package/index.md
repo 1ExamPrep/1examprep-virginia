@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Fire Inspector II exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Book Package costs $595 and is written for the Fire Inspector II exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Fire Inspector II package
 
 Virginia ICC Fire Inspector II - 67 Exam Book Package Prepare for the ICC Fire Inspector II - 67 examination with a focused book package built around the 2021 code cycle. This package includes the International Building Code, 2021, International Fire Code, 2021, and Fire Inspection and Code Enforcement IFSTA - 9th Edition to support study of fire inspections, means of egress, occupancy classification, fire protection systems, emergency planning, regulated materials, construction types, fire safety, and code-enforcement responsibilities.

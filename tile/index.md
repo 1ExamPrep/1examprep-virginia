@@ -27,50 +27,57 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
 
 Online Exam Prep Course
+[Virginia Tile, Marble, Ceramic and Terrazzo Contractor - Online Exam Prep Course](https://passyourvirginiacontractorexam.com/tile/online-course/)
 
-### [Virginia Tile, Marble, Ceramic and Terrazzo Contractor - Online Exam Prep Course](https://passyourvirginiacontractorexam.com/tile/online-course/)
+An online course with practice exams you can take on a phone or laptop.
 
 $295 (was $395) Save 25%  to $495
 [Buy now](https://1examprep.com/cart/45892329963577:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/tile/online-course/)
 
 Book Package
+[Virginia Tile, Marble, Ceramic and Terrazzo Contractor Complete Book Package](https://passyourvirginiacontractorexam.com/tile/book-package/)
 
-### [Virginia Tile, Marble, Ceramic and Terrazzo Contractor Complete Book Package](https://passyourvirginiacontractorexam.com/tile/book-package/)
+The reference books the exam is written to, new and unmarked.
 
 $545 (was $645) Save 16%  to $795
 [Buy now](https://1examprep.com/cart/50697055862841:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/tile/book-package/)
 
 Highlighted and Tabbed Books
+[Virginia Tile, Marble, Ceramic and Terrazzo Contractor - Highlighted and Tabbed Book Package](https://passyourvirginiacontractorexam.com/tile/highlighted-tabbed/)
 
-### [Virginia Tile, Marble, Ceramic and Terrazzo Contractor - Highlighted and Tabbed Book Package](https://passyourvirginiacontractorexam.com/tile/highlighted-tabbed/)
+The reference books already highlighted and permanently tabbed, ready for the exam room.
 
 $795 (was $995) Save 20%  to $1,090
 [Buy now](https://1examprep.com/cart/50697158819897:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/tile/highlighted-tabbed/)
 
 Live Virtual Training
+[Virginia Tile, Marble, Ceramic and Terrazzo Contractor Exam Prep - Live Virtual + Self Study Training](https://passyourvirginiacontractorexam.com/tile/live-training/)
 
-### [Virginia Tile, Marble, Ceramic and Terrazzo Contractor Exam Prep - Live Virtual + Self Study Training](https://passyourvirginiacontractorexam.com/tile/live-training/)
+Live virtual classes with an instructor plus self-study material.
 
 $495 (was $695) Save 29%
 [Buy now](https://1examprep.com/cart/45845606826041:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/tile/live-training/)
 
 Books and Courses Rental
+[Virginia Tile, Marble, Ceramic and Terrazzo Contractor - Book & Course Rental Package](https://passyourvirginiacontractorexam.com/tile/rental-package/)
 
-### [Virginia Tile, Marble, Ceramic and Terrazzo Contractor - Book & Course Rental Package](https://passyourvirginiacontractorexam.com/tile/rental-package/)
+The reference books on rental plus the online course, returned after your exam.
 
 $1,385 (was $1,685) Save 18%  to $2,035
 [Buy now](https://1examprep.com/cart/45892330618937:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/tile/rental-package/)
 
 Ultimate Rental Package
+[Virginia Tile, Marble, Ceramic and Terrazzo Contractor Ultimate Exam Prep Rental Package](https://passyourvirginiacontractorexam.com/tile/ultimate-rental/)
 
-### [Virginia Tile, Marble, Ceramic and Terrazzo Contractor Ultimate Exam Prep Rental Package](https://passyourvirginiacontractorexam.com/tile/ultimate-rental/)
+Highlighted and tabbed rental books, the online course and live training.
 
 $1,810 (was $2,210) Save 18%
 [Buy now](https://1examprep.com/cart/44449202929721:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/tile/ultimate-rental/)
 
 The 1 Package (all-inclusive)
+[The 1 Package: All-Inclusive Virginia Tile, Marble, Ceramic and Terrazzo Contractor Exam, Licensing & Business Setup Solution](https://passyourvirginiacontractorexam.com/tile/the-1-package/)
 
-### [The 1 Package: All-Inclusive Virginia Tile, Marble, Ceramic and Terrazzo Contractor Exam, Licensing & Business Setup Solution](https://passyourvirginiacontractorexam.com/tile/the-1-package/)
+Everything: exam prep, books, licensing paperwork and business setup.
 
 $2,510 (was $3,010) Save 17%
 [Buy now](https://1examprep.com/cart/44449241399353:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/tile/the-1-package/)

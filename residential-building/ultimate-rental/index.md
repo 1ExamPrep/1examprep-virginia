@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Residential Building Contractor (RBC) exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Ultimate Rental Package costs $1,910 and is written for the Residential Building Contractor (RBC) exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Residential Building Contractor (RBC) package
 
 Virginia Residential Building Contractor Ultimate Exam Prep Rental Package Prepare for the Virginia Residential Building Contractor licensing process with a comprehensive Ultimate Exam Prep Rental Package that combines residential construction references, Virginia contractor business and law materials, structured exam preparation, and licensing application support.

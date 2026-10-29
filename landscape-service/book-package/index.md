@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Landscape Service Contractor exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Book Package costs $695 and is written for the Landscape Service Contractor exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Landscape Service Contractor package
 
 Virginia Landscaping Service Contracting Exam Complete Book Package Prepare for the Virginia Landscaping Service Contracting Exam with a complete collection of technical reference books covering landscape construction, excavation, grading, soils, drainage, retaining walls, construction equipment, and jobsite safety. This package is designed for candidates pursuing the Virginia Landscape Service Contracting specialty (LSC) who want the listed references together in one organized exam-preparation package.

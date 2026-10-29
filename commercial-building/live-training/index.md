@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Commercial Building Contractor (CBC) exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Live Virtual Training costs $595 and is written for the Commercial Building Contractor (CBC) exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Commercial Building Contractor (CBC) package
 
 Virginia Commercial Building Technical Contractor Exam Prep - Live Virtual + Self Study Training Prepare for the Virginia Commercial Building Technical Contractor examination with a combined Live Virtual + Self Study Training program designed around the technical knowledge, construction topics, exam references, and open-book navigation skills associated with the Virginia Commercial Building Contractor (CBC) classification. The Virginia CBC classification covers a wide range of commercial construction work, making thorough preparation especially important.

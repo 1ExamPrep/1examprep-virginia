@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Building Plans Examiner (B3) exam
 - Online access arrives by email after purchase
 
+The Online Exam Prep Course costs $295 and is written for the Building Plans Examiner (B3) exam. Online access arrives by email after purchase, and Buy now takes you straight to checkout.
+
 ## About this Building Plans Examiner (B3) package
 
 Virginia Building Plans Examiner (ICC - B3) - Online Exam Prep The Virginia Building Plans Examiner (ICC - B3) Online Exam Prep course is designed for students preparing for the ICC Building Plans Examiner B3 certification exam using the 2021 International Building Code, ACI 318-19: Building Code Requirements for Structural Concrete and Commentary, and the 2021 ICC Concrete Manual.

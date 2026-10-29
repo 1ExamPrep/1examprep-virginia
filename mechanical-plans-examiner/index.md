@@ -27,36 +27,41 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
 
 Online Exam Prep Course
+[Virginia Mechanical Plans Examiner (ICC - M3) Online Exam Prep](https://passyourvirginiacontractorexam.com/mechanical-plans-examiner/online-course/)
 
-### [Virginia Mechanical Plans Examiner (ICC - M3) Online Exam Prep](https://passyourvirginiacontractorexam.com/mechanical-plans-examiner/online-course/)
+An online course with practice exams you can take on a phone or laptop.
 
 $295 (was $395) Save 25%
 [Buy now](https://1examprep.com/cart/46042338820153:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/mechanical-plans-examiner/online-course/)
 
 Book Package
+[Virginia Mechanical Plans Examiner (ICC - M3) Exam Book Package](https://passyourvirginiacontractorexam.com/mechanical-plans-examiner/book-package/)
 
-### [Virginia Mechanical Plans Examiner (ICC - M3) Exam Book Package](https://passyourvirginiacontractorexam.com/mechanical-plans-examiner/book-package/)
+The reference books the exam is written to, new and unmarked.
 
 $345 (was $445) Save 22%  to $545
 [Buy now](https://1examprep.com/cart/50698059317305:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/mechanical-plans-examiner/book-package/)
 
 Highlighted and Tabbed Books
+[Virginia Mechanical Plans Examiner (ICC - M3) Highlighted & Tabbed Book Package](https://passyourvirginiacontractorexam.com/mechanical-plans-examiner/highlighted-tabbed/)
 
-### [Virginia Mechanical Plans Examiner (ICC - M3) Highlighted & Tabbed Book Package](https://passyourvirginiacontractorexam.com/mechanical-plans-examiner/highlighted-tabbed/)
+The reference books already highlighted and permanently tabbed, ready for the exam room.
 
 $545 (was $745) Save 27%  to $840
 [Buy now](https://1examprep.com/cart/50698053517369:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/mechanical-plans-examiner/highlighted-tabbed/)
 
 Books and Courses Rental
+[Virginia Mechanical Plans Examiner (ICC - M3) - Books & Courses Rental Package](https://passyourvirginiacontractorexam.com/mechanical-plans-examiner/rental-package/)
 
-### [Virginia Mechanical Plans Examiner (ICC - M3) - Books & Courses Rental Package](https://passyourvirginiacontractorexam.com/mechanical-plans-examiner/rental-package/)
+The reference books on rental plus the online course, returned after your exam.
 
 $840 (was $1,140) Save 26%  to $1,290
 [Buy now](https://1examprep.com/cart/50698065281081:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/mechanical-plans-examiner/rental-package/)
 
 Books and Courses Rental (West Virginia edition)
+[West Virginia Mechanical Plans Examiner (ICC - M3) - Books & Courses Rental Package](https://passyourvirginiacontractorexam.com/mechanical-plans-examiner/rental-package-west-virginia/)
 
-### [West Virginia Mechanical Plans Examiner (ICC - M3) - Books & Courses Rental Package](https://passyourvirginiacontractorexam.com/mechanical-plans-examiner/rental-package-west-virginia/)
+The reference books on rental plus the online course, returned after your exam.
 
 $840 (was $1,140) Save 26%
 [Buy now](https://1examprep.com/cart/46049136771129:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/mechanical-plans-examiner/rental-package-west-virginia/)

@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Concrete Contractor exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The The 1 Package (all-inclusive) costs $3,510 and is written for the Concrete Contractor exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Concrete Contractor package
 
 The 1 Package: All-Inclusive New Virginia Concrete Contractor Exam, Licensing & Business Setup Solution Prepare for the Virginia Concrete Contractor licensing process and establish the business foundation needed to operate professionally with The 1 Package: All-Inclusive New Virginia Concrete Contractor Exam, Licensing & Business Setup Solution.

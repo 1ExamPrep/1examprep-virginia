@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Residential Electrical Inspector (E1) exam (Ohio edition)
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Highlighted and Tabbed Books costs $395 and is written for the Residential Electrical Inspector (E1) exam (Ohio edition). Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Residential Electrical Inspector (E1) package
 
 Ohio Residential Electrical Inspector - (ICC - E1) Highlighted & Tabbed Book Package The Ohio Residential Electrical Inspector - (ICC - E1) Highlighted & Tabbed Book Package is designed for candidates preparing for the ICC Residential Electrical Inspector certification exam using the 2021 International Residential Code. This package includes the primary residential code reference and a practical electrical quick-reference book, prepared in a highlighted and tabbed format to support organized study, faster navigation, and more efficient open-book exam preparation.

@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the NASCLA Commercial General Building Contractor exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Ultimate Rental Package costs $4,109 and is written for the NASCLA Commercial General Building Contractor exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this NASCLA Commercial General Building Contractor package
 
 Virginia NASCLA Commercial General Building Contractor Ultimate Exam Prep Rental Package Prepare for the Virginia NASCLA Commercial General Building Contractor licensing pathway with a comprehensive Ultimate Exam Prep Rental Package that combines Virginia-specific contractor references, the listed NASCLA commercial construction books, highlighted and tabbed rental materials, structured online exam preparation, and Application Service in one organized solution.

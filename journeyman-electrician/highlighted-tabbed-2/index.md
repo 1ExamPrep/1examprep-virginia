@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Journeyman Electrician exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Highlighted and Tabbed Books costs $1,145 and is written for the Journeyman Electrician exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Journeyman Electrician package
 
 Virginia NASCLA Journeyman Electrician - Highlighted and Tabbed Book Package Prepare for the Virginia NASCLA Journeyman Electrician examination with a professionally organized reference library designed for open-book study and efficient navigation. The Virginia NASCLA Journeyman Electrician - Highlighted and Tabbed Book Package brings together the electrical code, workplace safety standards, electrical theory resources, fire alarm reference, and practical field materials candidates can use while preparing for the NASCLA Accredited Examination for Journeyman Electricians.

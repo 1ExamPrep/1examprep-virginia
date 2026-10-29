@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Master HVAC exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Live Virtual Training costs $495 and is written for the Master HVAC exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Master HVAC package
 
 Virginia Master HVAC Exam Prep - Live Virtual + Self Study Training Prepare for the Virginia Master HVAC examination with a combination of live virtual instruction and self-study training designed around the technical knowledge, Virginia regulations, and reference-navigation skills needed for Master-level HVAC preparation. This training option gives candidates the structure of scheduled instruction along with the flexibility to continue reviewing important HVAC subjects between live sessions.

@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Journeyman Plumber exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Live Virtual Training costs $495 and is written for the Journeyman Plumber exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Journeyman Plumber package
 
 Prepare with confidence and pass your Virginia Journeyman Plumber Exam with our comprehensive Live Virtual + Self Study Training Program—designed specifically around the references used on the Virginia licensing exam and built to help you succeed in Virginia’s open-book testing environment. This complete training system combines live instructor-led virtual classes with full self-paced online training, giving you the flexibility to learn live, review recordings on your own schedule, and access your training materials anytime, day or night.

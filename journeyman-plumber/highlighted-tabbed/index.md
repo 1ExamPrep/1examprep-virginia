@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Journeyman Plumber exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Highlighted and Tabbed Books costs $225 and is written for the Journeyman Plumber exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Journeyman Plumber package
 
 VIRGINIA JOURNEYMAN PLUMBER BOOK PACKAGE - HIGHLIGHTED AND TABBED The Virginia Journeyman Plumber Book Package - Highlighted and Tabbed from Pass Your Virginia Contractor Exam provides all reference materials required by the Virginia Department of Professional and Occupational Regulation (DPOR) for the journeyman plumber licensing examination. Each book is expertly highlighted and tabbed to align with PSI’s open-book exam format, enabling quick and accurate code navigation.

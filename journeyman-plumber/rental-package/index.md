@@ -36,6 +36,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Books ship from our fulfillment center; online parts arrive by email
 - Options from $325 to $525, chosen above before checkout
 
+The Books and Courses Rental costs $325 to $525 with the options above and is written for the Journeyman Plumber exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 **Options at checkout:** Books & Courses Rental - Self Study; Books & Courses Self Study + Live & Recorded Classes [+$200]. Pick one above and the price updates.
 
 ## About this Journeyman Plumber package

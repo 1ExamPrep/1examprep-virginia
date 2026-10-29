@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Journeyman Electrician exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Study Package with NEC Course costs $499.95 and is written for the Journeyman Electrician exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Journeyman Electrician package
 
 2023 Virginia Journeyman Electrician Exam Prep Study Package Includes Instructor-Led NEC Course (Based on the 2023 NEC) Prepare for the Virginia Journeyman Electrician examination with a comprehensive study package built around the 2023 National Electrical Code. This Virginia Journeyman Electrician Exam Prep Study Package combines the NFPA 70 National Electrical Code, 2023 Edition, NEC tabs, flash cards, a Master Electrician Study Guide, a Calculations Study Guide, an online instructor-led NEC course, simulated practice exams, an NEC overview, and live and recorded instructional videos.

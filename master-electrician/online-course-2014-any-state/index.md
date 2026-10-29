@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Master Electrician exam (any state)
 - Online access arrives by email after purchase
 
+The Online Exam Prep Course costs $129.95 and is written for the Master Electrician exam (any state). Online access arrives by email after purchase, and Buy now takes you straight to checkout.
+
 ## About this Master Electrician package
 
 Ray Holder's 2014 Master Electrician Exam Questions Tests; Online CourseThis online course provides exam-style practice questions and test simulations based on the 2014 National Electrical Code for candidates preparing for the master electrician licensing exam, covering services, feeders, branch circuits, grounding and bonding, wiring methods, conductor and overcurrent protection sizing, load calculations, motors, transformers, and essential electrical safety requirements to strengthen code proficiency and exam readiness.

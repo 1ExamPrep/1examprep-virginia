@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Residential Plumbing Inspector (P1) exam
 - Online access arrives by email after purchase
 
+The Online Exam Prep Course costs $295 and is written for the Residential Plumbing Inspector (P1) exam. Online access arrives by email after purchase, and Buy now takes you straight to checkout.
+
 ## About this Residential Plumbing Inspector (P1) package
 
 Virginia Residential Plumbing Inspector (ICC - P1) - Online Exam Prep The Virginia Residential Plumbing Inspector (ICC - P1) Online Exam Prep course is designed for students preparing for the ICC Residential Plumbing Inspector P1 certification exam using the 2021 International Residential Code. This course is built for residential plumbing inspectors, code officials, permit office staff, plumbing professionals, contractors, construction personnel, and students who want a structured way to prepare for the ICC P1 exam. The ICC P1 exam focuses on residential plumbing inspection duties.

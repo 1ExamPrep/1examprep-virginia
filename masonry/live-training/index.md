@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Masonry Contractor exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Live Virtual Training costs $495 and is written for the Masonry Contractor exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Masonry Contractor package
 
 Virginia Masonry Contractor Exam Prep - Live Virtual + Self Study Training Prepare for the Virginia Masonry Contractor examination with a combination of live virtual instruction and self-study training built around the knowledge areas and technical references associated with the Virginia Masonry Contracting specialty, commonly identified as BRK. This training option gives candidates a structured way to review masonry trade topics, work with important reference materials, and develop the book-navigation skills needed for an open-book contractor examination.

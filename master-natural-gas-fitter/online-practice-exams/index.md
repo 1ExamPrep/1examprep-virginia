@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Master Natural Gas Fitter exam
 - Online access arrives by email after purchase
 
+The Online Practice Exams costs $79.99 and is written for the Master Natural Gas Fitter exam. Online access arrives by email after purchase, and Buy now takes you straight to checkout.
+
 ## About this Master Natural Gas Fitter package
 
 Virginia Master Natural Gasfitter - Online Practice Questions Prepare for the Virginia Master Natural Gasfitter examination with online practice questions from 1 Exam Prep. Designed for experienced natural gas fitting professionals, gas service technicians, and individuals pursuing master-level licensure in Virginia, this study resource helps strengthen your understanding of natural gas systems, piping, fuel gas regulations, appliance connections, testing procedures, and workplace safety.

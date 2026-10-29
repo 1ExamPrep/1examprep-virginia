@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Journeyman Gas Fitter (LP) exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Ultimate Rental Package costs $1,660 and is written for the Journeyman Gas Fitter (LP) exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Journeyman Gas Fitter (LP) package
 
 Virginia Journeyman Gasfitter Contractor - Ultimate Exam Prep Rental Package Prepare for the Virginia Journeyman Gasfitter examination with an Ultimate exam preparation package that combines rental reference books, a full year of course access, application service, and exam-focused book preparation. This package is designed for candidates who want a more complete study structure while working toward Virginia journeyman gas fitter licensure.

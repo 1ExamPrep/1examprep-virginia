@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Residential Plumbing Inspector (P1) exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Books and Courses Rental costs $640 and is written for the Residential Plumbing Inspector (P1) exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Residential Plumbing Inspector (P1) package
 
 Virginia Residential Plumbing Inspector (ICC - P1) - Books & Courses Rental Package The Virginia Residential Plumbing Inspector (ICC - P1) - Books & Courses Rental Package is designed for candidates preparing for the ICC P1 Residential Plumbing Inspector exam using the 2021 International Residential Code. This package combines rental access to the listed code book with course access, giving candidates a structured way to study residential plumbing inspection requirements, build code navigation skills, and prepare for the open book exam format.

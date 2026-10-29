@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Farm Improvement Contractor exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Highlighted and Tabbed Books costs $1,545 and is written for the Farm Improvement Contractor exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Farm Improvement Contractor package
 
 Virginia Farm Improvement Contracting Exam Complete Pre-Highlighted and Tabbed Book Package Prepare for the Virginia Farm Improvement Contracting examination with a complete set of technical references organized for efficient study and open-book exam navigation.

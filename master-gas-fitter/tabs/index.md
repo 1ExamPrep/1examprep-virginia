@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Master Gas Fitter (LP) exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Pre-Printed Tabs costs $39.99 and is written for the Master Gas Fitter (LP) exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Master Gas Fitter (LP) package
 
 VIRGINIA JOURNEYMAN GASFITTER EXAM; PRE-PRINTED TABS The Virginia Journeyman Gasfitter Exam Pre-Printed Tabs set from Pass Your Virginia Contractor Exam is designed to assist candidates taking the Virginia Department of Professional and Occupational Regulation (DPOR) gasfitter licensing exam. These durable, color-coded tabs correspond to key sections of the International Fuel Gas Code (IFGC) and other approved references, allowing for faster navigation during the PSI open-book examination.

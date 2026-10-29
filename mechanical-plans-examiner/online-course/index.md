@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Mechanical Plans Examiner (M3) exam
 - Online access arrives by email after purchase
 
+The Online Exam Prep Course costs $295 and is written for the Mechanical Plans Examiner (M3) exam. Online access arrives by email after purchase, and Buy now takes you straight to checkout.
+
 ## About this Mechanical Plans Examiner (M3) package
 
 Virginia Mechanical Plans Examiner (ICC - M3) Online Exam Prep Prepare for the ICC Mechanical Plans Examiner M3 examination with an online exam prep course designed around the mechanical and fuel gas code knowledge used in professional plan review. This course is well suited for Virginia code official candidates, mechanical inspectors, plans examiners, building department personnel, HVAC professionals, contractors, designers, and other construction professionals who want a structured way to prepare for the M3 certification exam.

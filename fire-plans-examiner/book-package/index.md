@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Fire Plans Examiner exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Book Package costs $945 and is written for the Fire Plans Examiner exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Fire Plans Examiner package
 
 Virginia Fire Plans Examiner - (ICC - F3) Exam Book Package Prepare for the ICC Fire Plans Examiner F3 examination with a focused book package built around the 2021 code cycle and the principal fire protection standards used for plan review. This package includes the International Building Code, 2021, International Fire Code, 2021, NFPA 13: Installation of Sprinkler Systems, 2019, and the 2019 NFPA 72 National Fire Alarm and Signaling Code.

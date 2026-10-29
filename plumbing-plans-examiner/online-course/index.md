@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Plumbing Plans Examiner (P3) exam
 - Online access arrives by email after purchase
 
+The Online Exam Prep Course costs $295 and is written for the Plumbing Plans Examiner (P3) exam. Online access arrives by email after purchase, and Buy now takes you straight to checkout.
+
 ## About this Plumbing Plans Examiner (P3) package
 
 Virginia Plumbing Plans Examiner (ICC - P3) - Online Exam Prep The Virginia Plumbing Plans Examiner (ICC - P3) Online Exam Prep course is designed for students preparing for the ICC Plumbing Plans Examiner P3 certification exam using the 2021 International Plumbing Code, the 2021 International Fuel Gas Code, and the ICC A117.1-2017 Standard for Accessible and Usable Buildings and Facilities.

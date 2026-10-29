@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Marine Facility Contractor exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Highlighted and Tabbed Books costs $1,195 and is written for the Marine Facility Contractor exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Marine Facility Contractor package
 
 Virginia Marine Facility Contractor Exam Complete Pre-Highlighted & Tabbed Book Package Prepare for the Virginia Marine Facility Contractor Exam with a complete pre-highlighted and tabbed reference package built around the technical books associated with marine facility construction, structural concrete, reinforcing steel, construction equipment, and jobsite safety. This package is designed for candidates pursuing the Virginia Marine Facility Contracting specialty (MCC) who want an organized set of references for study and open-book exam preparation.

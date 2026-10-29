@@ -36,6 +36,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Books ship from our fulfillment center, 1 Exam Prep
 - Options from $995 to $1,495, chosen above before checkout
 
+The Book Package costs $995 to $1,495 with the options above and is written for the Roofing Contractor exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 **Options at checkout:** Book Package; Highlighted & Tabbed Book Package [+$500]. Pick one above and the price updates.
 
 ## About this Roofing Contractor package

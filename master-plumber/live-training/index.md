@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Master Plumber exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Live Virtual Training costs $495 and is written for the Master Plumber exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Master Plumber package
 
 Virginia Master Plumber Exam Prep - Live Virtual + Self Study Training Prepare for the Virginia Master Plumber examination with a combination of live virtual instruction and self-study training designed around the technical plumbing knowledge, Virginia regulations, and reference-navigation skills needed for Master-level preparation. This training option gives candidates the structure of scheduled instruction while allowing additional time between classes to review difficult subjects, practice code navigation, and strengthen their understanding of plumbing systems.

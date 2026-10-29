@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Underground Utility and Excavating Contractor exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Book Package costs $1,195 and is written for the Underground Utility and Excavating Contractor exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Underground Utility and Excavating Contractor package
 
 Virginia Underground Utility and Excavating Book Package Prepare for the Virginia Underground Utility and Excavating Contracting examination with a comprehensive technical book package covering excavation, underground utility damage prevention, stormwater systems, ductile iron pipe, PVC pipe, plumbing, electrical installations, paving, construction equipment, and OSHA safety.

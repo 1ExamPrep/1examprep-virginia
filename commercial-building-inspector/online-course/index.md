@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Commercial Building Inspector (B2) exam
 - Online access arrives by email after purchase
 
+The Online Exam Prep Course costs $295 and is written for the Commercial Building Inspector (B2) exam. Online access arrives by email after purchase, and Buy now takes you straight to checkout.
+
 ## About this Commercial Building Inspector (B2) package
 
 Virginia Commercial Building Inspector (ICC - B2) - Online Exam Prep The Virginia Commercial Building Inspector (ICC - B2) Online Exam Prep course is designed for students preparing for the ICC Commercial Building Inspector B2 certification exam using the 2021 International Building Code, ACI 318-19: Building Code Requirements for Structural Concrete and Commentary, and the 2021 ICC Concrete Manual.

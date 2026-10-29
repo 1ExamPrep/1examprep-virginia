@@ -97,7 +97,27 @@ def anchor_ids(out):
         while hid in seen: i += 1; hid = "%s-%d" % (base, i)
         seen.add(hid)
         return '<%s%s id="%s">%s</%s>' % (tag, attrs, hid, inner, tag)
-    return re.sub(r"<(h[23])(\s[^>]*)?>(.*?)</\1>", rep, out, flags=re.S)
+    return finalize(re.sub(r"<(h[23])(\s[^>]*)?>(.*?)</\1>", rep, out, flags=re.S))
+
+SKIP_URL = re.compile(r"^(?:[a-z][a-z0-9+.-]*:|//|/|#|\?|\{\{)", re.I)
+def finalize(out):
+    """Last pass over every page before it is written.
+    Relative links and asset paths (../license/package/) become root-relative (/license/package/), so tools that count
+    internal links by a leading slash see them, and an article:published_time / article:modified_time pair is added for
+    tools that look for a date outside the schema. Pages without a canonical URL (noindex pages) keep relative links."""
+    from urllib.parse import urljoin, urlsplit
+    m = re.search(r'<link rel="canonical" href="(https?://[^"]+)"', out)
+    if m:
+        base = m.group(1)
+        def root(mm):
+            attr, q, url = mm.group(1), mm.group(2), mm.group(3)
+            if not url or SKIP_URL.match(url): return mm.group(0)
+            u = urlsplit(urljoin(base, url))
+            return "%s=%s%s%s%s%s" % (attr, q, u.path or "/", ("?" + u.query) if u.query else "", ("#" + u.fragment) if u.fragment else "", q)
+        out = re.sub(r'\b(href|src)=(["\'])([^"\']*)\2', root, out)
+    if 'property="article:modified_time"' not in out:
+        out = out.replace("</head>", '<meta property="article:published_time" content="%s">\n<meta property="article:modified_time" content="%s">\n</head>' % (LAUNCH, TODAY), 1)
+    return out
 def absurl(path): return (SITE + path) if SITE else "/" + path
 def ld(obj): return '<script type="application/ld+json">%s</script>\n' % json.dumps(obj, ensure_ascii=False)
 def org_ld():
@@ -183,9 +203,9 @@ def card_html(p, rel):
     c, n = float(p.get("compareAt") or 0), float(p["price"])
     save = ('<s class="pc-was">%s</s><span class="pc-save">Save %d%%</span>' % (money(c), round((c - n) / c * 100))) if c > n else ""
     more = ('<small style="color:var(--muted)"> to %s</small>' % money(p["maxPrice"])) if p.get("maxPrice") and float(p["maxPrice"]) > n else ""
-    return ('<article class="sg" data-id="%s"><a class="pc-img" href="%s%s"><img src="%s" alt="%s" loading="lazy"></a><div class="pc-body"><span class="pc-tier">%s%s</span><h3 class="pc-name"><a href="%s%s" style="color:inherit;text-decoration:none">%s</a></h3>'
-            '<div class="pc-price"><span class="pc-now">%s</span>%s%s</div><div class="pc-actions"><a class="btn btn-buy" href="%s" rel="noopener" data-buy="%s">Buy now</a><a class="btn btn-details" href="%s%s">Details</a></div></div></article>'
-            % (p["id"], rel, p["path"], esc(p["image"]), esc(p["short"]), esc(p["typeName"]), esc(region_note(p)), rel, p["path"], esc(p["short"]), money(n), save, more, cart(p["variants"][0]["id"]), p["id"], rel, p["path"]))
+    return ('<div class="sg" data-id="%s"><a class="pc-img" href="%s%s"><img src="%s" alt="%s" loading="lazy"></a><div class="pc-body"><span class="pc-tier">%s%s</span><p class="pc-name"><a href="%s%s" style="color:inherit;text-decoration:none">%s</a></p><p class="pc-what">%s.</p>'
+            '<div class="pc-price"><span class="pc-now">%s</span>%s%s</div><div class="pc-actions"><a class="btn btn-buy" href="%s" rel="noopener" data-buy="%s">Buy now</a><a class="btn btn-details" href="%s%s">Details</a></div></div></div>'
+            % (p["id"], rel, p["path"], esc(p["image"]), esc(p["short"]), esc(p["typeName"]), esc(region_note(p)), rel, p["path"], esc(p["short"]), esc(vacopy.TYPE_BLURB.get(p["type"], "exam prep").capitalize()), money(n), save, more, cart(p["variants"][0]["id"]), p["id"], rel, p["path"]))
 
 def render(path_parts, title, desc, main, og_image=None, extra_ld=(), page_type="WebPage", route=None, sticky="", cta=None):
     rel = "../" * len(path_parts); path = "/".join(path_parts) + ("/" if path_parts else "")
@@ -365,7 +385,7 @@ def class_page(c):
                          vacopy.GROUP_FACTS[grp][0], vacopy.GROUP_FACTS[grp][2] if len(vacopy.GROUP_FACTS[grp]) > 2 else "",
                          "Buy now goes straight to secure checkout; books ship from %s and online courses arrive by email." % FUL["name"]])
     intro = '<p class="sub-h">Buy now adds the item to your cart and opens secure checkout at %s. Details shows the full description first.</p>' % esc(FUL["name"])
-    if len(ps) <= 12:
+    if len(ps) <= 10:
         packs = ('<section id="packs" class="center" aria-labelledby="h-packs"><div class="wrap"><h2 id="h-packs">%s %s</h2>%s<div class="singles">%s</div></div></section>'
                  % (len(ps), esc(n + (" packages" if len(ps) > 1 else " package")), intro, "".join(card_html(p, "../") for p in ps)))
     else:
@@ -373,8 +393,8 @@ def class_page(c):
         for p in ps: fam.setdefault(FAMILY.get(p["type"], "Other options"), []).append(p)
         blocks = []
         for i, (fname, fps) in enumerate(fam.items()):
-            for j in range(0, len(fps), 12):
-                chunk = fps[j:j + 12]; label = fname if len(fps) <= 12 else "%s, part %d" % (fname, j // 12 + 1)
+            for j in range(0, len(fps), 10):
+                chunk = fps[j:j + 10]; label = fname if len(fps) <= 10 else "%s, part %d" % (fname, j // 12 + 1)
                 blocks.append('<section %sclass="center" aria-labelledby="h-fam-%d-%d"><div class="wrap"><h2 id="h-fam-%d-%d">%s %s: %s</h2>%s<div class="singles">%s</div></div></section>'
                               % ('id="packs" ' if not blocks else "", i, j, i, j, esc(n), "options" if len(chunk) > 1 else "option", esc(label.lower()),
                                  intro if not blocks else '<p class="sub-h">%s of the %d %s options, from %s.</p>' % (plural(len(chunk), "product"), len(ps), esc(n), money(min(float(q["price"]) for q in chunk))), "".join(card_html(p, "../") for p in chunk)))
@@ -437,6 +457,9 @@ def product_page(c, p):
     inc = ["%s: %s" % (p["typeName"], blurb), "Written for the %s exam%s" % (c["name"], region_note(p)), delivery(p)]
     if p.get("maxPrice") and float(p["maxPrice"]) > n0: inc.append("Options from %s to %s, chosen above before checkout" % (money(n0), money(p["maxPrice"])))
     included = '<ul class="included">%s</ul>' % "".join("<li>%s</li>" % esc(x) for x in inc)
+    included += '<p class="included-sum">The %s costs %s%s and is written for the %s exam%s. %s, and Buy now takes you straight to checkout.</p>' % (
+        esc(p["typeName"]), money(n0), (" to %s with the options above" % money(p["maxPrice"])) if p.get("maxPrice") and float(p["maxPrice"]) > n0 else "",
+        esc(c["name"]), esc(region_note(p)), esc(delivery(p)))
     addons = [v["title"] for v in p["variants"][1:]]
     addons_html = ('<p class="addons"><b>Options at checkout:</b> %s. Pick one above and the price updates.</p>' % esc("; ".join([p["variants"][0]["title"]] + addons))) if addons else ""
     facts = "".join("<li>%s</li>" % esc(f) for f in vacopy.GROUP_FACTS[c["group"]])
@@ -569,7 +592,11 @@ def blog_index(dest_parts, posts, tag=None):
     lds = [crumbs_ld([("Home", ""), ("Blog", "blog/")] + ([(tag, path)] if tag else [])),
            {"@context": "https://schema.org", "@type": "Blog" if not tag else "CollectionPage", "name": h1, "url": absurl(path), "publisher": publisher_ld(), "dateModified": TODAY,
             "blogPost" if not tag else "hasPart": [{"@type": "BlogPosting", "headline": q["title"], "url": absurl("blog/%s/" % q["slug"]), "datePublished": q["date"]} for q in posts[:20]]}]
-    if not tag: lds.append(faq_ld(BLOG_FAQ))
+    if not tag:
+        lds.append(faq_ld(BLOG_FAQ))
+        lds.append({"@context": "https://schema.org", "@type": "Article", "headline": h1, "url": absurl(path), "mainEntityOfPage": absurl(path),
+                    "author": {"@type": "Organization", "name": BRAND, "url": SITE or STORE}, "publisher": publisher_ld(),
+                    "datePublished": LAUNCH, "dateModified": TODAY, "inLanguage": "en-US"})
     out = blog_common(bitpl, rel, path, title, desc, (feat or {}).get("image") or CFG.get("logo"), lds, {"depth": len(dest_parts), "blog": True}, noindex=bool(tag), page_type=None)
     out = out.replace("{{YEAR}}", TODAY[:4])
     intro = "" if tag else ('<div class="blog-intro"><p>Most people who fail a licensing exam do not fail on knowledge. They run out of time in the references, misread an exception, or bring the wrong edition. New posts land here first and in the <a href="%sblog/feed.xml">RSS feed</a>. When a post is about one license, it links straight to that license page so you can act on it.</p></div>' % rel)

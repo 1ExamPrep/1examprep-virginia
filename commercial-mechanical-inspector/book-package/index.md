@@ -36,6 +36,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Books ship from our fulfillment center, 1 Exam Prep
 - Options from $345 to $545, chosen above before checkout
 
+The Book Package costs $345 to $545 with the options above and is written for the Commercial Mechanical Inspector (M2) exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 **Options at checkout:** Book Package; Highlighted & Tabbed Book Package [+$200]. Pick one above and the price updates.
 
 ## About this Commercial Mechanical Inspector (M2) package

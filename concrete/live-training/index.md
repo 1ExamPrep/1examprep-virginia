@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Concrete Contractor exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Live Virtual Training costs $595 and is written for the Concrete Contractor exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Concrete Contractor package
 
 New Virginia Concrete Contractor Exam Prep - Live Virtual + Self Study Training Prepare for the Virginia Concrete Contracting examination with a flexible training program that combines live virtual instruction with self-study preparation. The New Virginia Concrete Contractor Exam Prep - Live Virtual + Self Study Training is designed for candidates who want guided trade-focused review while maintaining the flexibility to study independently between live sessions. Virginia Concrete Contracting is identified by the Virginia Board for Contractors as the CEM specialty.

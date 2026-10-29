@@ -27,43 +27,49 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
 
 Online Exam Prep Course
+[Virginia Residential Energy Inspector / Plans Examiner (ICC - 79) - Online Exam Prep](https://passyourvirginiacontractorexam.com/residential-energy-inspector/online-course/)
 
-### [Virginia Residential Energy Inspector / Plans Examiner (ICC - 79) - Online Exam Prep](https://passyourvirginiacontractorexam.com/residential-energy-inspector/online-course/)
+An online course with practice exams you can take on a phone or laptop.
 
 $295 (was $395) Save 25%  to $495
 [Buy now](https://1examprep.com/cart/46314811850809:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/residential-energy-inspector/online-course/)
 
 Book Package
+[Virginia Residential Energy Inspector / Plans Examiner (ICC - 79) Exam Book Package](https://passyourvirginiacontractorexam.com/residential-energy-inspector/book-package/)
 
-### [Virginia Residential Energy Inspector / Plans Examiner (ICC - 79) Exam Book Package](https://passyourvirginiacontractorexam.com/residential-energy-inspector/book-package/)
+The reference books the exam is written to, new and unmarked.
 
 $129 (was $229) Save 44%  to $245
 [Buy now](https://1examprep.com/cart/50710826385465:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/residential-energy-inspector/book-package/)
 
 Highlighted and Tabbed Books
+[Virginia Residential Energy Inspector / Plans Examiner (ICC - 79) Highlighted & Tabbed Book Package](https://passyourvirginiacontractorexam.com/residential-energy-inspector/highlighted-tabbed/)
 
-### [Virginia Residential Energy Inspector / Plans Examiner (ICC - 79) Highlighted & Tabbed Book Package](https://passyourvirginiacontractorexam.com/residential-energy-inspector/highlighted-tabbed/)
+The reference books already highlighted and permanently tabbed, ready for the exam room.
 
 $245 (was $445) Save 45%  to $540
 [Buy now](https://1examprep.com/cart/50710837362745:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/residential-energy-inspector/highlighted-tabbed/)
 
 Live Virtual Training
+[Virginia Residential Energy Inspector / Plans Examiner (ICC - 79) Exam Prep - Live Virtual + Self Study Training](https://passyourvirginiacontractorexam.com/residential-energy-inspector/live-training/)
 
-### [Virginia Residential Energy Inspector / Plans Examiner (ICC - 79) Exam Prep - Live Virtual + Self Study Training](https://passyourvirginiacontractorexam.com/residential-energy-inspector/live-training/)
+Live virtual classes with an instructor plus self-study material.
 
 $495 (was $695) Save 29%
 [Buy now](https://1examprep.com/cart/46278765838393:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/residential-energy-inspector/live-training/)
 
 Books and Courses Rental
+[Virginia Residential Energy Inspector / Plans Examiner (ICC - 79) - Books & Courses Rental Package](https://passyourvirginiacontractorexam.com/residential-energy-inspector/rental-package/)
 
-### [Virginia Residential Energy Inspector / Plans Examiner (ICC - 79) - Books & Courses Rental Package](https://passyourvirginiacontractorexam.com/residential-energy-inspector/rental-package/)
+The reference books on rental plus the online course, returned after your exam.
 
 $540 (was $840) Save 36%  to $1,190
 [Buy now](https://1examprep.com/cart/46314815193145:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/residential-energy-inspector/rental-package/)
 
 Books and Courses Rental (West Virginia edition)
+[West Virginia Residential Energy Inspector / Plans Examiner (ICC - 79) - Books & Courses Rental Package](https://passyourvirginiacontractorexam.com/residential-energy-inspector/rental-package-west-virginia/)
 
-### [West Virginia Residential Energy Inspector / Plans Examiner (ICC - 79) - Books & Courses Rental Package](https://passyourvirginiacontractorexam.com/residential-energy-inspector/rental-package-west-virginia/)
+The reference books on rental plus the online course, returned after your exam.
 
 $540 (was $840) Save 36%
 [Buy now](https://1examprep.com/cart/46051701391417:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/residential-energy-inspector/rental-package-west-virginia/)

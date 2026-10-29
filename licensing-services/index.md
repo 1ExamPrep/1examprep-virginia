@@ -27,22 +27,25 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
 
 Licensing Service
+[Virginia Corporation or LLC Filing Registration Formation Setup](https://passyourvirginiacontractorexam.com/licensing-services/licensing-service-3/)
 
-### [Virginia Corporation or LLC Filing Registration Formation Setup](https://passyourvirginiacontractorexam.com/licensing-services/licensing-service-3/)
+Help preparing and filing the license application.
 
 $295 (was $395) Save 25%
 [Buy now](https://1examprep.com/cart/45082272038969:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/licensing-services/licensing-service-3/)
 
 Licensing Service
+[Virginia Contractor License Application Service](https://passyourvirginiacontractorexam.com/licensing-services/licensing-service-2/)
 
-### [Virginia Contractor License Application Service](https://passyourvirginiacontractorexam.com/licensing-services/licensing-service-2/)
+Help preparing and filing the license application.
 
 $495 (was $695) Save 29%
 [Buy now](https://1examprep.com/cart/36974898774073:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/licensing-services/licensing-service-2/)
 
 Licensing Service
+[Ultimate Virginia State Application and Business Filing Package](https://passyourvirginiacontractorexam.com/licensing-services/licensing-service/)
 
-### [Ultimate Virginia State Application and Business Filing Package](https://passyourvirginiacontractorexam.com/licensing-services/licensing-service/)
+Help preparing and filing the license application.
 
 $995 (was $1,295) Save 23%
 [Buy now](https://1examprep.com/cart/44447241535545:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/licensing-services/licensing-service/)

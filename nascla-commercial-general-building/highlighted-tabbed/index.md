@@ -36,6 +36,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Books ship from our fulfillment center, 1 Exam Prep
 - Options from $3,094 to $3,559, chosen above before checkout
 
+The Highlighted and Tabbed Books costs $3,094 to $3,559 with the options above and is written for the NASCLA Commercial General Building Contractor exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 **Options at checkout:** Highlighted & Tabbed Book Package; Highlighted & Tabbed Book Package + Online Course [+$395]; Highlighted & Tabbed Books + Online Course + Flash Cards [+$465]. Pick one above and the price updates.
 
 ## About this NASCLA Commercial General Building Contractor package

@@ -36,6 +36,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Books ship from our fulfillment center, 1 Exam Prep
 - Options from $59.95 to $144.95, chosen above before checkout
 
+The Study Guide costs $59.95 to $144.95 with the options above and is written for the Journeyman Electrician exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 **Options at checkout:** Study Guide; Study Guide + Flash Cards [+$40]; Study Guide + Online Course [+$50]; Study Guide + Online Course + Flash Cards [+$85]. Pick one above and the price updates.
 
 ## About this Journeyman Electrician package

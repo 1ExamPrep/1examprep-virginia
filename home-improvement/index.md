@@ -27,57 +27,65 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
 
 Online Exam Prep Course
+[Virginia Home Improvement Contractor - Online Exam Prep Course](https://passyourvirginiacontractorexam.com/home-improvement/online-course/)
 
-### [Virginia Home Improvement Contractor - Online Exam Prep Course](https://passyourvirginiacontractorexam.com/home-improvement/online-course/)
+An online course with practice exams you can take on a phone or laptop.
 
 $295 (was $395) Save 25%  to $595
 [Buy now](https://1examprep.com/cart/32413448461:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/home-improvement/online-course/)
 
 Pre-Printed Tabs
+[Virginia Home Improvement Contractor Exam; Pre-Printed Tabs](https://passyourvirginiacontractorexam.com/home-improvement/tabs/)
 
-### [Virginia Home Improvement Contractor Exam; Pre-Printed Tabs](https://passyourvirginiacontractorexam.com/home-improvement/tabs/)
+Pre-printed permanent tabs for the reference books, allowed in the exam room.
 
 $99.99 (was $111.50) Save 10%
 [Buy now](https://1examprep.com/cart/40748071419961:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/home-improvement/tabs/)
 
 Book Package
+[Virginia Home Improvement Contractor Exam Complete Book Package](https://passyourvirginiacontractorexam.com/home-improvement/book-package/)
 
-### [Virginia Home Improvement Contractor Exam Complete Book Package](https://passyourvirginiacontractorexam.com/home-improvement/book-package/)
+The reference books the exam is written to, new and unmarked.
 
 $1,195 (was $1,295) Save 8%  to $1,795
 [Buy now](https://1examprep.com/cart/50633736650809:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/home-improvement/book-package/)
 
 Highlighted and Tabbed Books
+[Virginia Home Improvement Contractor Exam - Highlighted and Tabbed Book Package](https://passyourvirginiacontractorexam.com/home-improvement/highlighted-tabbed/)
 
-### [Virginia Home Improvement Contractor Exam - Highlighted and Tabbed Book Package](https://passyourvirginiacontractorexam.com/home-improvement/highlighted-tabbed/)
+The reference books already highlighted and permanently tabbed, ready for the exam room.
 
 $1,795 (was $1,995) Save 10%  to $2,090
 [Buy now](https://1examprep.com/cart/50633779642425:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/home-improvement/highlighted-tabbed/)
 
 Live Virtual Training
+[Virginia Home Improvement Contractor Exam Prep - Live Virtual + Self Study Training](https://passyourvirginiacontractorexam.com/home-improvement/live-training/)
 
-### [Virginia Home Improvement Contractor Exam Prep - Live Virtual + Self Study Training](https://passyourvirginiacontractorexam.com/home-improvement/live-training/)
+Live virtual classes with an instructor plus self-study material.
 
 $595 (was $795) Save 25%
 [Buy now](https://1examprep.com/cart/45845502099513:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/home-improvement/live-training/)
 
 Books and Courses Rental
+[Virginia Home Improvement Contracting - Book Rental Package (Trade Only)](https://passyourvirginiacontractorexam.com/home-improvement/rental-package/)
 
-### [Virginia Home Improvement Contracting - Book Rental Package (Trade Only)](https://passyourvirginiacontractorexam.com/home-improvement/rental-package/)
+The reference books on rental plus the online course, returned after your exam.
 
 $1,649 (was $1,949) Save 15%  to $1,949
 [Buy now](https://1examprep.com/cart/41258307584057:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/home-improvement/rental-package/)
 
 Ultimate Rental Package
+[Virginia Home Improvement Contractor Exam Ultimate Exam Prep Rental Package](https://passyourvirginiacontractorexam.com/home-improvement/ultimate-rental/)
 
-### [Virginia Home Improvement Contractor Exam Ultimate Exam Prep Rental Package](https://passyourvirginiacontractorexam.com/home-improvement/ultimate-rental/)
+Highlighted and tabbed rental books, the online course and live training.
 
 $2,810 (was $3,210) Save 12%
 [Buy now](https://1examprep.com/cart/44449236811833:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/home-improvement/ultimate-rental/)
 
 The 1 Package (all-inclusive)
+[The 1 Package: All-Inclusive Virginia Home Improvement Contractor Exam, Licensing & Business Setup Solution](https://passyourvirginiacontractorexam.com/home-improvement/the-1-package/)
 
-### [The 1 Package: All-Inclusive Virginia Home Improvement Contractor Exam, Licensing & Business Setup Solution](https://passyourvirginiacontractorexam.com/home-improvement/the-1-package/)
+Everything: exam prep, books, licensing paperwork and business setup.
 
 $3,510 (was $4,010) Save 12%
 [Buy now](https://1examprep.com/cart/44449257259065:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/home-improvement/the-1-package/)

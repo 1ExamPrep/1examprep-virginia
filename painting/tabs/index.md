@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Painting and Wall Covering Contractor exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Pre-Printed Tabs costs $39.99 and is written for the Painting and Wall Covering Contractor exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Painting and Wall Covering Contractor package
 
 VIRGINIA PAINTING AND WALL COVERING CONTRACTING EXAM; PRE-PRINTED TABS The Virginia Painting and Wall Covering Contracting Exam Pre-Printed Tabs set from Pass Your Virginia Contractor Exam is designed to help candidates efficiently navigate their reference materials during the Virginia Department of Professional and Occupational Regulation (DPOR) contractor licensing exam. These durable, color-coded tabs correspond to key sections of the Painting and Decorating Contractors of America (PDCA) standards, safety guidelines, and code references used in the PSI open-book test.

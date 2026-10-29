@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Journeyman Gas Fitter (LP) exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Live Virtual Training costs $495 and is written for the Journeyman Gas Fitter (LP) exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Journeyman Gas Fitter (LP) package
 
 Virginia Journeyman Gasfitter Contractor Exam Prep - Live Virtual + Self Study Training Prepare for the Virginia Journeyman Gasfitter examination with a training program that combines Live Virtual instruction with flexible Self Study preparation. This format is designed for experienced gas fitters, plumbing and mechanical professionals, apprentices advancing toward journeyman-level licensing, and other candidates who want structured preparation for the Virginia Journeyman Gasfitter exam.

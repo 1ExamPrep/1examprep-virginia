@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Class A/B Business and Law exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Highlighted and Tabbed Books costs $249 and is written for the Class A/B Business and Law exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Class A/B Business and Law package
 
 VIRGINIA CLASS A/B BUSINESS EXAM BOOK PACKAGE - HIGHLIGHTED AND TABBED The Virginia Class A/B Business Exam Book Package – Highlighted and Tabbed from Pass Your Virginia Contractor Exam is designed to prepare contractors for the Virginia Board for Contractors Business Examination administered by PSI. This package includes the NASCLA Contractor’s Guide to Business, Law and Project Management – Virginia Edition, professionally highlighted and tabbed for rapid navigation during open-book testing.

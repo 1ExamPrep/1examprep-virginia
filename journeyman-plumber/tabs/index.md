@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Journeyman Plumber exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Pre-Printed Tabs costs $29.99 and is written for the Journeyman Plumber exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Journeyman Plumber package
 
 VIRGINIA JOURNEYMAN PLUMBER EXAM; PRE-PRINTED TABS The Virginia Journeyman Plumber Exam Pre-Printed Tabs set from Pass Your Virginia Contractor Exam is created to help candidates organize and quickly access key information during the Virginia Department of Professional and Occupational Regulation (DPOR) journeyman plumber licensing examination. These durable, color-coded tabs correspond to essential sections of the International Plumbing Code (IPC) and other approved PSI exam references.

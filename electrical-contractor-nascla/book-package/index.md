@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the NASCLA Electrical Contractor exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Book Package costs $1,340 and is written for the NASCLA Electrical Contractor exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this NASCLA Electrical Contractor package
 
 Virginia NASCLA Master Electrical Contractor Exam Book Package Prepare for the NASCLA Accredited Trade Examination for Electrical Contractors with a reference-book package built around the electrical code, safety standards, electrical theory, project management, energy efficiency, and calculation resources associated with the examination. The Virginia NASCLA Master Electrical Contractor Exam Book Package is designed for experienced electrical professionals preparing for the NASCLA Electrical Contractor/Master Electrician examination accepted by the Virginia Board for Contractors.

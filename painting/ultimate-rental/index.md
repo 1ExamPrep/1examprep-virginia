@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Painting and Wall Covering Contractor exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Ultimate Rental Package costs $1,610 and is written for the Painting and Wall Covering Contractor exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Painting and Wall Covering Contractor package
 
 Virginia Painting and Wallcovering Contractor Ultimate Exam Prep Rental Package Prepare for the Virginia Painting and Wallcovering Contractor licensing process with an all-in-one Ultimate Exam Prep Rental Package designed to support trade exam preparation, contractor business and law study, reference-book navigation, and the licensing application process. This package combines the primary painting and wallcovering reference books, Virginia contractor business and code references, online exam preparation, and Application Service in one comprehensive preparation option.

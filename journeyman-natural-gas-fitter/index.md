@@ -27,36 +27,41 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
 
 Online Exam Prep Course
+[Virginia Journeyman Natural Gasfitter- Online Exam Prep](https://passyourvirginiacontractorexam.com/journeyman-natural-gas-fitter/online-course/)
 
-### [Virginia Journeyman Natural Gasfitter- Online Exam Prep](https://passyourvirginiacontractorexam.com/journeyman-natural-gas-fitter/online-course/)
+An online course with practice exams you can take on a phone or laptop.
 
 $295 (was $395) Save 25%  to $495
 [Buy now](https://1examprep.com/cart/50615398072377:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/journeyman-natural-gas-fitter/online-course/)
 
 Highlighted and Tabbed Books
+[Virginia Journeyman Natural Gasfitter Exam Complete Highlighted & Tabbed Book Package](https://passyourvirginiacontractorexam.com/journeyman-natural-gas-fitter/highlighted-tabbed/)
 
-### [Virginia Journeyman Natural Gasfitter Exam Complete Highlighted & Tabbed Book Package](https://passyourvirginiacontractorexam.com/journeyman-natural-gas-fitter/highlighted-tabbed/)
+The reference books already highlighted and permanently tabbed, ready for the exam room.
 
 $645 (was $845) Save 24%  to $940
 [Buy now](https://1examprep.com/cart/50615029432377:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/journeyman-natural-gas-fitter/highlighted-tabbed/)
 
 Live Virtual Training
+[Virginia Journeyman Natural Gasfitter Exam Prep - Live Virtual + Self Study Training](https://passyourvirginiacontractorexam.com/journeyman-natural-gas-fitter/live-training/)
 
-### [Virginia Journeyman Natural Gasfitter Exam Prep - Live Virtual + Self Study Training](https://passyourvirginiacontractorexam.com/journeyman-natural-gas-fitter/live-training/)
+Live virtual classes with an instructor plus self-study material.
 
 $495 (was $695) Save 29%
 [Buy now](https://1examprep.com/cart/45846441918521:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/journeyman-natural-gas-fitter/live-training/)
 
 Books and Courses Rental
+[Virginia Journeyman Natural Gasfitter - Book Rental Package](https://passyourvirginiacontractorexam.com/journeyman-natural-gas-fitter/rental-package/)
 
-### [Virginia Journeyman Natural Gasfitter - Book Rental Package](https://passyourvirginiacontractorexam.com/journeyman-natural-gas-fitter/rental-package/)
+The reference books on rental plus the online course, returned after your exam.
 
 $1,235 (was $1,535) Save 20%  to $1,885
 [Buy now](https://1examprep.com/cart/44449181401145:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/journeyman-natural-gas-fitter/rental-package/)
 
 Ultimate Rental Package
+[Virginia Journeyman Natural Gasfitter Ultimate Exam Prep Rental Package](https://passyourvirginiacontractorexam.com/journeyman-natural-gas-fitter/ultimate-rental/)
 
-### [Virginia Journeyman Natural Gasfitter Ultimate Exam Prep Rental Package](https://passyourvirginiacontractorexam.com/journeyman-natural-gas-fitter/ultimate-rental/)
+Highlighted and tabbed rental books, the online course and live training.
 
 $1,660 (was $1,960) Save 15%
 [Buy now](https://1examprep.com/cart/44449236058169:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/journeyman-natural-gas-fitter/ultimate-rental/)

@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Commercial Energy Inspector exam (Ohio edition)
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Highlighted and Tabbed Books costs $245 and is written for the Commercial Energy Inspector exam (Ohio edition). Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Commercial Energy Inspector package
 
 Ohio Commercial Energy Inspector (ICC - 77) Highlighted & Tabbed Book Package The Ohio Commercial Energy Inspector (ICC - 77) Highlighted & Tabbed Book Package is designed for candidates preparing for the ICC Commercial Energy Inspector certification exam using the 2021 International Energy Conservation Code. This package includes the primary commercial energy code reference prepared in a highlighted and tabbed format to support organized study, faster code navigation, and more focused open-book exam preparation.

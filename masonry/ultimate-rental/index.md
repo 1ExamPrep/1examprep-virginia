@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Masonry Contractor exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Ultimate Rental Package costs $1,810 and is written for the Masonry Contractor exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Masonry Contractor package
 
 Virginia Masonry Contractor - Ultimate Exam Prep Rental Package Prepare for the Virginia Masonry Contractor examination with an Ultimate Exam Prep Rental Package that combines rental reference books, structured course access, and Application Service in one comprehensive preparation option.

@@ -27,22 +27,25 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
 
 Highlighted and Tabbed Books
+[Virginia Journeyman HVAC Exam Complete Highlighted & Tabbed Book Package](https://passyourvirginiacontractorexam.com/journeyman-hvac/highlighted-tabbed/)
 
-### [Virginia Journeyman HVAC Exam Complete Highlighted & Tabbed Book Package](https://passyourvirginiacontractorexam.com/journeyman-hvac/highlighted-tabbed/)
+The reference books already highlighted and permanently tabbed, ready for the exam room.
 
 $1,095 (was $1,295) Save 15%  to $1,390
 [Buy now](https://1examprep.com/cart/50614543220793:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/journeyman-hvac/highlighted-tabbed/)
 
 Live Virtual Training
+[Virginia Journeyman HVAC Exam Prep - Live Virtual + Self Study Training](https://passyourvirginiacontractorexam.com/journeyman-hvac/live-training/)
 
-### [Virginia Journeyman HVAC Exam Prep - Live Virtual + Self Study Training](https://passyourvirginiacontractorexam.com/journeyman-hvac/live-training/)
+Live virtual classes with an instructor plus self-study material.
 
 $495 (was $695) Save 29%
 [Buy now](https://1examprep.com/cart/45851617624121:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/journeyman-hvac/live-training/)
 
 Books and Courses Rental
+[Virginia Journeyman HVAC - Book & Courses Rental Package](https://passyourvirginiacontractorexam.com/journeyman-hvac/rental-package/)
 
-### [Virginia Journeyman HVAC - Book & Courses Rental Package](https://passyourvirginiacontractorexam.com/journeyman-hvac/rental-package/)
+The reference books on rental plus the online course, returned after your exam.
 
 $1,685 (was $1,985) Save 15%  to $2,335
 [Buy now](https://1examprep.com/cart/44760453251129:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/journeyman-hvac/rental-package/)

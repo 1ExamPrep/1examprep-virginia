@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Home Improvement Contractor (HIC) exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The The 1 Package (all-inclusive) costs $3,510 and is written for the Home Improvement Contractor (HIC) exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Home Improvement Contractor (HIC) package
 
 The 1 Package: All-Inclusive Virginia Home Improvement Contractor Exam, Licensing & Business Setup Solution Prepare for your Virginia Home Improvement Contractor licensing goals with The 1 Package, an all-inclusive solution combining exam preparation, rental reference books, licensing application support, and business setup services. This package is designed for customers who want a coordinated path that brings together technical exam preparation and the business-side steps involved in establishing a contracting operation.

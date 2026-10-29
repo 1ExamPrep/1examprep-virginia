@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Class A/B Business and Law exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Pre-Printed Tabs costs $19.95 and is written for the Class A/B Business and Law exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Class A/B Business and Law package
 
 Virginia NASCLA Contractors Guide to Business, Law and Project Management, Virginia 10th Edition; Pre-Printed Tabs The NASCLA Contractors Guide to Business, Law and Project Management – Virginia 10th Edition is the official reference for the National Association of State Contractors Licensing Agencies (NASCLA) and meets the requirements for the Virginia Board for Contractors (administered by PSI Services) licensing exam.

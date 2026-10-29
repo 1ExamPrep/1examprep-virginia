@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Journeyman Plumber exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Book Package costs $149 and is written for the Journeyman Plumber exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Journeyman Plumber package
 
 VIRGINIA JOURNEYMAN PLUMBER BOOK PACKAGE The Virginia Journeyman Plumber Book Package from Pass Your Virginia Contractor Exam provides all the reference materials required by the Virginia Department of Professional and Occupational Regulation (DPOR) for the journeyman plumber licensing examination. This package includes the International Plumbing Code (IPC) and related resources used for the PSI open-book test. It covers essential plumbing topics such as pipe sizing, drainage systems, venting, fixtures, water distribution, and safety compliance.

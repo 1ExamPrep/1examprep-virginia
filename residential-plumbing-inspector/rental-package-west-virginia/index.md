@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Residential Plumbing Inspector (P1) exam (West Virginia edition)
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Books and Courses Rental costs $640 and is written for the Residential Plumbing Inspector (P1) exam (West Virginia edition). Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Residential Plumbing Inspector (P1) package
 
 West Virginia Residential Plumbing Inspector (ICC - P1) - Books & Courses Rental Package The West Virginia Residential Plumbing Inspector (ICC - P1) Books & Courses Rental Package is designed for students preparing for the ICC Residential Plumbing Inspector certification exam using the 2021 International Residential Code. This package gives students rental access to the required code book and structured course support for residential plumbing inspection exam preparation.

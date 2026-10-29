@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Journeyman HVAC exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Live Virtual Training costs $495 and is written for the Journeyman HVAC exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Journeyman HVAC package
 
 Virginia Journeyman HVAC Exam Prep - Live Virtual + Self Study Training Prepare for the Virginia Journeyman HVAC examination with a flexible training program that combines live virtual instruction with self-study exam preparation. This format gives candidates the opportunity to learn important HVAC concepts with instructor-led guidance while also working independently through the technical references, code requirements, and practice-oriented material associated with the Virginia Journeyman HVAC exam.

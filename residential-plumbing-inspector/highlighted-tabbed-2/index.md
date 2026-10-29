@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Residential Plumbing Inspector (P1) exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Highlighted and Tabbed Books costs $345 and is written for the Residential Plumbing Inspector (P1) exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Residential Plumbing Inspector (P1) package
 
 Virginia Residential Plumbing Inspector (ICC - P1) Highlighted & Tabbed Book Package The Virginia Residential Plumbing Inspector (ICC - P1) Highlighted & Tabbed Book Package is designed for candidates preparing for the ICC P1 Residential Plumbing Inspector exam using the 2021 International Residential Code. This package gives you the primary code reference in a study-friendly format, with highlighting and tabs intended to support faster code navigation, more organized studying, and better familiarity with the residential plumbing provisions used on the exam.

@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Concrete Contractor exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Ultimate Rental Package costs $2,810 and is written for the Concrete Contractor exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Concrete Contractor package
 
 New Virginia Concrete Contractor Ultimate Exam Prep Rental Package Prepare for the Virginia Concrete Contractor licensing process with a comprehensive package that combines technical reference books, organized exam preparation, extended course access, and contractor application support. The New Virginia Concrete Contractor Ultimate Exam Prep Rental Package is designed for candidates pursuing the Virginia Concrete Contracting specialty, commonly identified as CEM.

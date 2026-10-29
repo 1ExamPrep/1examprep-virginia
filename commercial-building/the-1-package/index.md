@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Commercial Building Contractor (CBC) exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The The 1 Package (all-inclusive) costs $3,410 and is written for the Commercial Building Contractor (CBC) exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Commercial Building Contractor (CBC) package
 
 The 1 Package: All-Inclusive Virginia Commercial Building Technical Contractor Exam, Licensing & Business Setup Solution Prepare for the Virginia Commercial Building Contractor licensing process while building the business foundation needed to operate professionally with The 1 Package: All-Inclusive Virginia Commercial Building Technical Contractor Exam, Licensing & Business Setup Solution.

@@ -36,6 +36,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Books ship from our fulfillment center, 1 Exam Prep
 - Options from $2,244 to $3,094, chosen above before checkout
 
+The Book Package costs $2,244 to $3,094 with the options above and is written for the NASCLA Commercial General Building Contractor exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 **Options at checkout:** Complete NASCLA Book Set; Highlighted & Tabbed Book Package [+$850]. Pick one above and the price updates.
 
 ## About this NASCLA Commercial General Building Contractor package

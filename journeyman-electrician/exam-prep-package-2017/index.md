@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Journeyman Electrician exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Exam Prep Package costs $350 and is written for the Journeyman Electrician exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Journeyman Electrician package
 
 VIRGINIA 2017 JOURNEYMAN ELECTRICIAN EXAM PREP PACKAGEThe Virginia 2017 Journeyman Electrician Exam Prep Package by Pass Your Virginia Contractor Exam is designed to prepare candidates for the Virginia Board for Contractors (DPOR) journeyman electrician licensing examination. This package provides comprehensive coverage of the 2017 National Electrical Code (NEC), which is the primary reference for the exam. It includes study materials, code highlighting guides, and practice questions reflecting PSI test vendor standards.

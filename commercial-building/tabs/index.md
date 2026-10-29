@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Commercial Building Contractor (CBC) exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Pre-Printed Tabs costs $99.99 and is written for the Commercial Building Contractor (CBC) exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Commercial Building Contractor (CBC) package
 
 Virginia Commercial Building Technical Contractor Exam; Pre-Printed Tabs The Virginia Commercial Building Technical Contractor Exam Pre-Printed Tabs by Pass Your Virginia Contractor Exam are designed for use with the official reference books approved by the Virginia Department of Professional and Occupational Regulation (DPOR) for the Commercial Building (BLD) classification.

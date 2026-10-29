@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Journeyman Electrician exam
 - Online access arrives by email after purchase
 
+The Online Exam Prep Course costs $250 and is written for the Journeyman Electrician exam. Online access arrives by email after purchase, and Buy now takes you straight to checkout.
+
 ## About this Journeyman Electrician package
 
 VIRGINIA JOURNEYMAN ELECTRICIAN - ONLINE EXAM PREP COURSE The Virginia Journeyman Electrician Online Exam Prep Course from Pass Your Virginia Contractor Exam provides comprehensive preparation for the Virginia Board for Contractors Journeyman Electrician Examination administered by PSI. This course covers core content areas from the 2020 National Electrical Code (NEC), including wiring methods, overcurrent protection, grounding and bonding, load calculations, motors, transformers, and safety practices. Students also review sections of the Virginia Administrative Code relevant to electrical licensing.

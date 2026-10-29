@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Painting and Wall Covering Contractor exam
 - Online access arrives by email after purchase
 
+The Online Exam Prep Course costs $295 and is written for the Painting and Wall Covering Contractor exam. Online access arrives by email after purchase, and Buy now takes you straight to checkout.
+
 ## About this Painting and Wall Covering Contractor package
 
 Virginia Painting and Wall Covering Contractor - Online Exam Prep Course Prepare for the Virginia Painting and Wall Covering Contractor examination with an online exam prep course built around the subjects and reference materials used for the Virginia PTC specialty exam. This course is designed to help contractor candidates organize their study time, strengthen trade knowledge, practice exam-style questions, and become more comfortable navigating the books used for the open-book examination. Virginia identifies Painting and Wallcovering Contracting by the specialty abbreviation PTC.

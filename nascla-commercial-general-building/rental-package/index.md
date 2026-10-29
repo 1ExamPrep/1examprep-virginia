@@ -36,6 +36,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Books ship from our fulfillment center; online parts arrive by email
 - Options from $3,684 to $4,434, chosen above before checkout
 
+The Books and Courses Rental costs $3,684 to $4,434 with the options above and is written for the NASCLA Commercial General Building Contractor exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 **Options at checkout:** Book & Course Rental - Self Study; Book & Course Rental - Self Study + Live & Recorded Classes [+$300]; Book & Course Rental - Self Study + Live & Recorded Classes + State Application [+$750]. Pick one above and the price updates.
 
 ## About this NASCLA Commercial General Building Contractor package

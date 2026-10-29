@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Plumbing Plans Examiner (P3) exam (Ohio edition)
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Highlighted and Tabbed Books costs $645 and is written for the Plumbing Plans Examiner (P3) exam (Ohio edition). Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Plumbing Plans Examiner (P3) package
 
 Ohio Plumbing Plans Examiner (ICC - P3) Highlighted & Tabbed Book Package The Ohio Plumbing Plans Examiner (ICC - P3) Highlighted & Tabbed Book Package is designed for candidates preparing for the ICC Plumbing Plans Examiner certification exam using the 2021 code references. This package includes the plumbing, fuel gas, and accessibility references needed for P3 exam preparation, prepared in a highlighted and tabbed format to support organized study, faster navigation, and more efficient open-book exam preparation.

@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Residential Building Contractor (RBC) exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The The 1 Package (all-inclusive) costs $2,610 and is written for the Residential Building Contractor (RBC) exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Residential Building Contractor (RBC) package
 
 The 1 Package: All-Inclusive Virginia Residential Building Contractor Exam, Licensing & Business Setup Solution The 1 Package is an all-inclusive preparation, licensing, and business setup solution for professionals working toward a Virginia Residential Building Contractor license. This comprehensive package combines residential construction exam preparation, contractor business and law study, rental reference books, 1 year of course access, Application Service, business formation, EIN filing, and contractor compliance guidance into one coordinated solution.

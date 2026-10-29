@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Swimming Pool Construction Contractor exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Pre-Printed Tabs costs $99.99 and is written for the Swimming Pool Construction Contractor exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Swimming Pool Construction Contractor package
 
 VIRGINIA SWIMMING POOL CONTRACTING EXAM; PRE-PRINTED TABS The Virginia Swimming Pool Contracting Exam Pre-Printed Tabs set from Pass Your Virginia Contractor Exam is designed to help candidates efficiently navigate their reference materials during the Virginia Department of Professional and Occupational Regulation (DPOR) swimming pool contractor examination. These color-coded, durable tabs correspond to key sections of the International Swimming Pool and Spa Code (ISPSC), OSHA safety standards, and related construction references used in the PSI open-book test.

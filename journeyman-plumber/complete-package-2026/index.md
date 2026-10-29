@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Journeyman Plumber exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Complete Package costs $344.99 and is written for the Journeyman Plumber exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Journeyman Plumber package
 
 Prepare with total confidence and pass your 2026 Virginia Journeyman Plumber Exam with this all-in-one Complete Books, Tabs & Course Package—built specifically around the 2024 International Plumbing Code (IPC) and aligned with Virginia licensing requirements. This system is designed to simplify complex topics, reinforce key concepts, and give you the exact tools needed to master both the technical material and the open-book exam format.

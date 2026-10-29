@@ -36,6 +36,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Books ship from our fulfillment center; online parts arrive by email
 - Options from $1,685 to $2,335, chosen above before checkout
 
+The Books and Courses Rental costs $1,685 to $2,335 with the options above and is written for the Master HVAC exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 **Options at checkout:** Books & Courses Rental - Self Study; Books & Courses Rental - Self Study + Live & Recorded Classes [+$200]; Books & Courses Rental - Self Study + Live & Recorded Classes + State Application [+$650]. Pick one above and the price updates.
 
 ## About this Master HVAC package

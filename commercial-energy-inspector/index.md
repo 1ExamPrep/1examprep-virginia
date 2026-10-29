@@ -27,15 +27,17 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
 
 Highlighted and Tabbed Books (Ohio edition)
+[Ohio Commercial Energy Inspector (ICC - 77) Highlighted & Tabbed Book Package](https://passyourvirginiacontractorexam.com/commercial-energy-inspector/highlighted-tabbed-ohio/)
 
-### [Ohio Commercial Energy Inspector (ICC - 77) Highlighted & Tabbed Book Package](https://passyourvirginiacontractorexam.com/commercial-energy-inspector/highlighted-tabbed-ohio/)
+The reference books already highlighted and permanently tabbed, ready for the exam room.
 
 $245 (was $445) Save 45%
 [Buy now](https://1examprep.com/cart/46106603683897:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/commercial-energy-inspector/highlighted-tabbed-ohio/)
 
 Books and Courses Rental (West Virginia edition)
+[West Virginia Commercial Energy Inspector (ICC - 77) - Books & Courses Rental Package](https://passyourvirginiacontractorexam.com/commercial-energy-inspector/rental-package-west-virginia/)
 
-### [West Virginia Commercial Energy Inspector (ICC - 77) - Books & Courses Rental Package](https://passyourvirginiacontractorexam.com/commercial-energy-inspector/rental-package-west-virginia/)
+The reference books on rental plus the online course, returned after your exam.
 
 $540 (was $840) Save 36%
 [Buy now](https://1examprep.com/cart/46050253144121:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/commercial-energy-inspector/rental-package-west-virginia/)

@@ -27,57 +27,65 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
 
 Online Exam Prep Course
+[Virginia Master Gasfitter Contractor - Online Exam Prep Course](https://passyourvirginiacontractorexam.com/master-gas-fitter/online-course/)
 
-### [Virginia Master Gasfitter Contractor - Online Exam Prep Course](https://passyourvirginiacontractorexam.com/master-gas-fitter/online-course/)
+An online course with practice exams you can take on a phone or laptop.
 
 $295 (was $395) Save 25%  to $495
 [Buy now](https://1examprep.com/cart/41361130586169:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/master-gas-fitter/online-course/)
 
 Pre-Printed Tabs
+[Virginia Master Gasfitter Exam; Pre-Printed Tabs](https://passyourvirginiacontractorexam.com/master-gas-fitter/tabs/)
 
-### [Virginia Master Gasfitter Exam; Pre-Printed Tabs](https://passyourvirginiacontractorexam.com/master-gas-fitter/tabs/)
+Pre-printed permanent tabs for the reference books, allowed in the exam room.
 
 $39.99 (was $44.50) Save 10%
 [Buy now](https://1examprep.com/cart/41366224764985:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/master-gas-fitter/tabs/)
 
 Book Package
+[Virginia Master Gasfitter Contractor Book Package](https://passyourvirginiacontractorexam.com/master-gas-fitter/book-package/)
 
-### [Virginia Master Gasfitter Contractor Book Package](https://passyourvirginiacontractorexam.com/master-gas-fitter/book-package/)
+The reference books the exam is written to, new and unmarked.
 
 $445 (was $545) Save 18%  to $645
 [Buy now](https://1examprep.com/cart/50659639722041:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/master-gas-fitter/book-package/)
 
 Highlighted and Tabbed Books
+[Virginia Master Gasfitter Contractor - Highlighted and Tabbed Book Package](https://passyourvirginiacontractorexam.com/master-gas-fitter/highlighted-tabbed/)
 
-### [Virginia Master Gasfitter Contractor - Highlighted and Tabbed Book Package](https://passyourvirginiacontractorexam.com/master-gas-fitter/highlighted-tabbed/)
+The reference books already highlighted and permanently tabbed, ready for the exam room.
 
 $645 (was $845) Save 24%  to $940
 [Buy now](https://1examprep.com/cart/50659472638009:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/master-gas-fitter/highlighted-tabbed/)
 
 Live Virtual Training
+[Virginia Master Gasfitter Contractor Exam Prep - Live Virtual + Self Study Training](https://passyourvirginiacontractorexam.com/master-gas-fitter/live-training/)
 
-### [Virginia Master Gasfitter Contractor Exam Prep - Live Virtual + Self Study Training](https://passyourvirginiacontractorexam.com/master-gas-fitter/live-training/)
+Live virtual classes with an instructor plus self-study material.
 
 $495 (was $695) Save 29%
 [Buy now](https://1examprep.com/cart/45846486581305:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/master-gas-fitter/live-training/)
 
 Books and Courses Rental
+[Virginia Master Gasfitter Contractor - Book & Course Rental Package](https://passyourvirginiacontractorexam.com/master-gas-fitter/rental-package/)
 
-### [Virginia Master Gasfitter Contractor - Book & Course Rental Package](https://passyourvirginiacontractorexam.com/master-gas-fitter/rental-package/)
+The reference books on rental plus the online course, returned after your exam.
 
 $1,235 (was $1,535) Save 20%  to $1,885
 [Buy now](https://1examprep.com/cart/44449149845561:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/master-gas-fitter/rental-package/)
 
 Ultimate Rental Package
+[Virginia Master Gasfitter Contractor Ultimate Exam Prep Rental Package](https://passyourvirginiacontractorexam.com/master-gas-fitter/ultimate-rental/)
 
-### [Virginia Master Gasfitter Contractor Ultimate Exam Prep Rental Package](https://passyourvirginiacontractorexam.com/master-gas-fitter/ultimate-rental/)
+Highlighted and tabbed rental books, the online course and live training.
 
 $1,660 (was $2,060) Save 19%
 [Buy now](https://1examprep.com/cart/44449232748601:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/master-gas-fitter/ultimate-rental/)
 
 The 1 Package (all-inclusive)
+[The 1 Package: All-Inclusive Virginia Master Gasfitter Contractor Exam, Licensing & Business Setup Solution](https://passyourvirginiacontractorexam.com/master-gas-fitter/the-1-package/)
 
-### [The 1 Package: All-Inclusive Virginia Master Gasfitter Contractor Exam, Licensing & Business Setup Solution](https://passyourvirginiacontractorexam.com/master-gas-fitter/the-1-package/)
+Everything: exam prep, books, licensing paperwork and business setup.
 
 $2,597 (was $3,495) Save 26%
 [Buy now](https://1examprep.com/cart/44449256702009:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/master-gas-fitter/the-1-package/)

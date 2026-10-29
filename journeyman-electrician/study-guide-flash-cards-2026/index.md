@@ -36,6 +36,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Books ship from our fulfillment center, 1 Exam Prep
 - Options from $99.95 to $309.95, chosen above before checkout
 
+The Study Guide and Flash Cards costs $99.95 to $309.95 with the options above and is written for the Journeyman Electrician exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 **Options at checkout:** Flash Card Combo; Flash Card Combo + Online Course [$50]; Flash Card Combo + Online Course + NEC Book [$210]. Pick one above and the price updates.
 
 ## About this Journeyman Electrician package

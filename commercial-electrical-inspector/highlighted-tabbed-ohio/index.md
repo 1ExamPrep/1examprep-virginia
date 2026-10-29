@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Commercial Electrical Inspector (E2) exam (Ohio edition)
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Highlighted and Tabbed Books costs $425 and is written for the Commercial Electrical Inspector (E2) exam (Ohio edition). Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Commercial Electrical Inspector (E2) package
 
 Ohio Commercial Electrical Inspector - (ICC - E2) Highlighted & Tabbed Book Package The Ohio Commercial Electrical Inspector - (ICC - E2) Highlighted & Tabbed Book Package is designed for candidates preparing for the ICC Commercial Electrical Inspector certification exam using the 2020 National Electrical Code. This package includes the primary electrical code reference and a practical electrical quick-reference book, prepared to support organized study, faster navigation, and more efficient open-book exam preparation.

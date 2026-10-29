@@ -36,6 +36,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Online access arrives by email after purchase
 - Options from $395 to $695, chosen above before checkout
 
+The Online Exam Prep Course costs $395 to $695 with the options above and is written for the NASCLA Commercial General Building Contractor exam (any state). Online access arrives by email after purchase, and Buy now takes you straight to checkout.
+
 **Options at checkout:** Online Self-Study Exam Prep; Add Instructor-Led Virtual Classes [+$300]. Pick one above and the price updates.
 
 ## About this NASCLA Commercial General Building Contractor package

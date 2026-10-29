@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Class A/B Business and Law exam
 - Online access arrives by email after purchase
 
+The Online Exam Prep Course costs $195 and is written for the Class A/B Business and Law exam. Online access arrives by email after purchase, and Buy now takes you straight to checkout.
+
 ## About this Class A/B Business and Law package
 
 Virginia Class A/B Business - Online Exam Prep Course Prepare for the Virginia Class A or Class B contractor business examination with an online exam prep course designed to help candidates study the business, law, financial, project-management, and Virginia regulatory topics required for contractor licensing. The Virginia Class A/B Business - Online Exam Prep Course from Pass Your Virginia Contractor Exam provides a structured study system for the Designated Employee who must complete the applicable business examination requirements for a Class A or Class B contractor license.

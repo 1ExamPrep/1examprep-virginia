@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Master Natural Gas Fitter exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The The 1 Package (all-inclusive) costs $2,795 and is written for the Master Natural Gas Fitter exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Master Natural Gas Fitter package
 
 The 1 Package: All-Inclusive Virginia Master Natural Gasfitter Exam, Licensing & Business Setup Solution Prepare for the Virginia Master Natural Gasfitter exam, complete the individual licensing process, and establish your contracting business with one coordinated package. The 1 Package combines exam preparation, essential reference books, licensing application support, business formation, federal tax identification filing, and contractor compliance guidance in an all-inclusive solution.

@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Alternative Energy Systems Contractor exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Book Package costs $545 and is written for the Alternative Energy Systems Contractor exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Alternative Energy Systems Contractor package
 
 Virginia Alternative Energy Systems Contractor Exam Complete Book Package Prepare for the Virginia Alternative Energy Systems Contractor examination with a focused collection of technical references covering photovoltaic systems, electrical principles, workplace safety, rooftop solar installations, wind energy, and electrical reference information. The Virginia Alternative Energy Systems Contractor Exam Complete Book Package brings together six books and reference materials selected to support study across the major knowledge areas associated with alternative energy system contracting.

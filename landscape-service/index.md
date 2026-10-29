@@ -27,8 +27,9 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
 
 Book Package
+[Virginia Landscaping Service Contracting Exam Complete Book Package](https://passyourvirginiacontractorexam.com/landscape-service/book-package/)
 
-### [Virginia Landscaping Service Contracting Exam Complete Book Package](https://passyourvirginiacontractorexam.com/landscape-service/book-package/)
+The reference books the exam is written to, new and unmarked.
 
 $695 (was $795) Save 13%
 [Buy now](https://1examprep.com/cart/44378914095161:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/landscape-service/book-package/)

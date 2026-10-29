@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Master Electrician exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Highlighted and Tabbed Books costs $499 and is written for the Master Electrician exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Master Electrician package
 
 VIRGINIA MASTER ELECTRICIAN BOOK PACKAGE - HIGHLIGHTED AND TABBED The Virginia Master Electrician Book Package - Highlighted and Tabbed from Pass Your Virginia Contractor Exam provides all reference materials approved by the Virginia Department of Professional and Occupational Regulation (DPOR) for the master electrician licensing examination. Each book is expertly highlighted and tabbed to align with PSI’s open-book exam format, allowing for quick and efficient code navigation.

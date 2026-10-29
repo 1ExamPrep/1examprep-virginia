@@ -36,6 +36,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Books ship from our fulfillment center, 1 Exam Prep
 - Options from $249.95 to $339.95, chosen above before checkout
 
+The Study Guide + NEC with Tabs costs $249.95 to $339.95 with the options above and is written for the Master Electrician exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 **Options at checkout:** Study Guide + NEC & Tabs Combo; Study Guide + NEC & Tabs + Flash Cards [+$40]; Study Guide + NEC & Tabs + Flash Cards + Online Course [$90]. Pick one above and the price updates.
 
 ## About this Master Electrician package

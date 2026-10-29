@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Master Electrician exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Pre-Printed Tabs costs $39.99 and is written for the Master Electrician exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Master Electrician package
 
 VIRGINIA MASTER ELECTRICIAN EXAM; PRE-PRINTED TABS The Virginia Master Electrician Exam Pre-Printed Tabs set from Pass Your Virginia Contractor Exam is designed to assist candidates in efficiently navigating their reference materials during the Virginia Department of Professional and Occupational Regulation (DPOR) master electrician licensing examination. These durable, color-coded tabs correspond to major sections of the National Electrical Code (NEC) and additional PSI-approved references.

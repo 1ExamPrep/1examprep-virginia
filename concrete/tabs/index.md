@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Concrete Contractor exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Pre-Printed Tabs costs $99.99 and is written for the Concrete Contractor exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Concrete Contractor package
 
 VIRGINIA CONCRETE CONTRACTING EXAM; PRE-PRINTED TABS The Virginia Concrete Contracting Exam Pre-Printed Tabs set from Pass Your Virginia Contractor Exam is designed to assist candidates in preparing for the Virginia Department of Professional and Occupational Regulation (DPOR) concrete contractor licensing examination. These durable, color-coded tabs correspond to critical sections within the Concrete Manual and related construction references used for the PSI open-book test.

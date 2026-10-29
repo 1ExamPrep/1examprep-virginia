@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the NASCLA Electrical Contractor exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Live Virtual Training costs $595 and is written for the NASCLA Electrical Contractor exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this NASCLA Electrical Contractor package
 
 Virginia NASCLA Master Electrical Contractor Exam Prep - Live Virtual + Self Study Training Prepare for the NASCLA Accredited Trade Examination for Electrical Contractors with a flexible training program that combines live virtual instruction with structured self-study preparation.

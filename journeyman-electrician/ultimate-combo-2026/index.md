@@ -36,6 +36,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Books ship from our fulfillment center; online parts arrive by email
 - Options from $399.95 to $499.95, chosen above before checkout
 
+The Ultimate Combo costs $399.95 to $499.95 with the options above and is written for the Journeyman Electrician exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 **Options at checkout:** Ultimate Electrician Package; Ultimate Electrician Package + NEC Instructor Led Videos [+$100]. Pick one above and the price updates.
 
 ## About this Journeyman Electrician package

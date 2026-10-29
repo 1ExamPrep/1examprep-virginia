@@ -27,8 +27,9 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
 
 Highlighted and Tabbed Books
+[Virginia Insulation and Weather Stripping Contractor Exam Complete Pre-Highlighted & Tabbed Book Package](https://passyourvirginiacontractorexam.com/insulation/highlighted-tabbed/)
 
-### [Virginia Insulation and Weather Stripping Contractor Exam Complete Pre-Highlighted & Tabbed Book Package](https://passyourvirginiacontractorexam.com/insulation/highlighted-tabbed/)
+The reference books already highlighted and permanently tabbed, ready for the exam room.
 
 $1,495 (was $1,695) Save 12%
 [Buy now](https://1examprep.com/cart/44379223654457:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/insulation/highlighted-tabbed/)

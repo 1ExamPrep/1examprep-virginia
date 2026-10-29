@@ -27,15 +27,17 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
 
 Book Package
+[Virginia Residential HVAC Tradesman Book Package](https://passyourvirginiacontractorexam.com/residential-hvac/book-package/)
 
-### [Virginia Residential HVAC Tradesman Book Package](https://passyourvirginiacontractorexam.com/residential-hvac/book-package/)
+The reference books the exam is written to, new and unmarked.
 
 $745 (was $845) Save 12%  to $1,495
 [Buy now](https://1examprep.com/cart/50675695419449:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/residential-hvac/book-package/)
 
 Highlighted and Tabbed Books
+[Virginia Residential HVAC Tradesman Highlighted & Tabbed Book Package](https://passyourvirginiacontractorexam.com/residential-hvac/highlighted-tabbed/)
 
-### [Virginia Residential HVAC Tradesman Highlighted & Tabbed Book Package](https://passyourvirginiacontractorexam.com/residential-hvac/highlighted-tabbed/)
+The reference books already highlighted and permanently tabbed, ready for the exam room.
 
 $1,495 (was $1,695) Save 12%  to $1,790
 [Buy now](https://1examprep.com/cart/50675758694457:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/residential-hvac/highlighted-tabbed/)

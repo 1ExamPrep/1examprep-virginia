@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the NASCLA Electrical Contractor exam
 - Online access arrives by email after purchase
 
+The Online Exam Prep Course costs $295 and is written for the NASCLA Electrical Contractor exam. Online access arrives by email after purchase, and Buy now takes you straight to checkout.
+
 ## About this NASCLA Electrical Contractor package
 
 Virginia NASCLA Master Electrical Contractor - Online Exam Prep Prepare for the NASCLA Accredited Trade Examination for Electrical Contractors with an online exam prep program focused on electrical theory, National Electrical Code navigation, wiring and protection, electrical equipment, workplace safety, project management, and practical reference-book skills.

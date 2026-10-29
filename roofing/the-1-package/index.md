@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Roofing Contractor exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The The 1 Package (all-inclusive) costs $3,210 and is written for the Roofing Contractor exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Roofing Contractor package
 
 The 1 Package: All-Inclusive Virginia Roofing Contractor Exam, Licensing & Business Setup Solution Prepare for the Virginia Roofing Contractor licensing process and establish your contracting business with an all-inclusive package designed to bring exam preparation, licensing support, reference materials, and business setup services together in one coordinated solution.

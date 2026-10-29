@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Home Improvement Contractor (HIC) exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Live Virtual Training costs $595 and is written for the Home Improvement Contractor (HIC) exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Home Improvement Contractor (HIC) package
 
 Virginia Home Improvement Contractor Exam Prep - Live Virtual + Self Study Training Prepare for the Virginia Home Improvement Contractor Exam with a structured combination of Live Virtual Training and Self Study Training designed to help candidates organize the technical subjects and reference materials associated with home improvement contracting. The Virginia Home Improvement Contractor examination covers a broad range of residential construction topics.

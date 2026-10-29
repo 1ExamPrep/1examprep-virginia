@@ -27,57 +27,65 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
 
 Online Exam Prep Course
+[Virginia Commercial Building Technical Contractor - Online Exam Prep Course](https://passyourvirginiacontractorexam.com/commercial-building/online-course/)
 
-### [Virginia Commercial Building Technical Contractor - Online Exam Prep Course](https://passyourvirginiacontractorexam.com/commercial-building/online-course/)
+An online course with practice exams you can take on a phone or laptop.
 
 $295 (was $395) Save 25%  to $595
 [Buy now](https://1examprep.com/cart/32232857101:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/commercial-building/online-course/)
 
 Pre-Printed Tabs
+[Virginia Commercial Building Technical Contractor Exam; Pre-Printed Tabs](https://passyourvirginiacontractorexam.com/commercial-building/tabs/)
 
-### [Virginia Commercial Building Technical Contractor Exam; Pre-Printed Tabs](https://passyourvirginiacontractorexam.com/commercial-building/tabs/)
+Pre-printed permanent tabs for the reference books, allowed in the exam room.
 
 $99.99 (was $111.50) Save 10%
 [Buy now](https://1examprep.com/cart/19804548825145:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/commercial-building/tabs/)
 
 Book Package
+[Virginia Commercial Building Technical Contractor Book Package](https://passyourvirginiacontractorexam.com/commercial-building/book-package/)
 
-### [Virginia Commercial Building Technical Contractor Book Package](https://passyourvirginiacontractorexam.com/commercial-building/book-package/)
+The reference books the exam is written to, new and unmarked.
 
 $1,145 (was $1,245) Save 8%  to $1,695
 [Buy now](https://1examprep.com/cart/46481036148793:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/commercial-building/book-package/)
 
 Highlighted and Tabbed Books
+[Virginia Commercial Building Technical Contractor Book Package - Highlighted and Tabbed](https://passyourvirginiacontractorexam.com/commercial-building/highlighted-tabbed/)
 
-### [Virginia Commercial Building Technical Contractor Book Package - Highlighted and Tabbed](https://passyourvirginiacontractorexam.com/commercial-building/highlighted-tabbed/)
+The reference books already highlighted and permanently tabbed, ready for the exam room.
 
 $1,695 (was $1,895) Save 11%  to $1,990
 [Buy now](https://1examprep.com/cart/46481153949753:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/commercial-building/highlighted-tabbed/)
 
 Live Virtual Training
+[Virginia Commercial Building Technical Contractor Exam Prep - Live Virtual + Self Study Training](https://passyourvirginiacontractorexam.com/commercial-building/live-training/)
 
-### [Virginia Commercial Building Technical Contractor Exam Prep - Live Virtual + Self Study Training](https://passyourvirginiacontractorexam.com/commercial-building/live-training/)
+Live virtual classes with an instructor plus self-study material.
 
 $595 (was $795) Save 25%
 [Buy now](https://1examprep.com/cart/45845495873593:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/commercial-building/live-training/)
 
 Books and Courses Rental
+[Virginia Commercial Building Technical Contractor - Book Rental Package (Trade Only)](https://passyourvirginiacontractorexam.com/commercial-building/rental-package/)
 
-### [Virginia Commercial Building Technical Contractor - Book Rental Package (Trade Only)](https://passyourvirginiacontractorexam.com/commercial-building/rental-package/)
+The reference books on rental plus the online course, returned after your exam.
 
 $2,285  to $3,035
 [Buy now](https://1examprep.com/cart/41255401783353:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/commercial-building/rental-package/)
 
 Ultimate Rental Package
+[Virginia Commercial Building Technical Contractor Ultimate Exam Prep Rental Package](https://passyourvirginiacontractorexam.com/commercial-building/ultimate-rental/)
 
-### [Virginia Commercial Building Technical Contractor Ultimate Exam Prep Rental Package](https://passyourvirginiacontractorexam.com/commercial-building/ultimate-rental/)
+Highlighted and tabbed rental books, the online course and live training.
 
 $2,710 (was $3,110) Save 13%
 [Buy now](https://1examprep.com/cart/44449241169977:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/commercial-building/ultimate-rental/)
 
 The 1 Package (all-inclusive)
+[The 1 Package: All-Inclusive Virginia Commercial Building Technical Contractor Exam, Licensing & Business Setup Solution](https://passyourvirginiacontractorexam.com/commercial-building/the-1-package/)
 
-### [The 1 Package: All-Inclusive Virginia Commercial Building Technical Contractor Exam, Licensing & Business Setup Solution](https://passyourvirginiacontractorexam.com/commercial-building/the-1-package/)
+Everything: exam prep, books, licensing paperwork and business setup.
 
 $3,410 (was $3,910) Save 13%
 [Buy now](https://1examprep.com/cart/44449264205881:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/commercial-building/the-1-package/)

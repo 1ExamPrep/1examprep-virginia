@@ -27,8 +27,9 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
 
 Book Package
+[Virginia Fire Plans Examiner - (ICC - F3) Exam Book Package](https://passyourvirginiacontractorexam.com/fire-plans-examiner/book-package/)
 
-### [Virginia Fire Plans Examiner - (ICC - F3) Exam Book Package](https://passyourvirginiacontractorexam.com/fire-plans-examiner/book-package/)
+The reference books the exam is written to, new and unmarked.
 
 $945 (was $1,045) Save 10%
 [Buy now](https://1examprep.com/cart/46042560856121:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/fire-plans-examiner/book-package/)

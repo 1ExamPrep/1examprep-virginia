@@ -27,8 +27,9 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
 
 Online Exam Prep Course
+[Virginia 8-Hour Pre-License Education Online Course for Contractors](https://passyourvirginiacontractorexam.com/pre-license-education/online-course/)
 
-### [Virginia 8-Hour Pre-License Education Online Course for Contractors](https://passyourvirginiacontractorexam.com/pre-license-education/online-course/)
+An online course with practice exams you can take on a phone or laptop.
 
 $89
 [Buy now](https://1examprep.com/cart/44568533893177:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/pre-license-education/online-course/)

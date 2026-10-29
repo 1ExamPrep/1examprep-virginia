@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Master Electrician exam
 - Online access arrives by email after purchase
 
+The Online Exam Prep Course costs $250 and is written for the Master Electrician exam. Online access arrives by email after purchase, and Buy now takes you straight to checkout.
+
 ## About this Master Electrician package
 
 Virginia Master Electrician - Online Exam Prep CourseThis online course is designed to prepare candidates for the Virginia Master Electrician examination, featuring study modules including recommended highlighting and tabbing locations for permitted reference books, practice questions aligned with the exam format, simulated timed exams, test-taking strategies, instructor support, and 1 year of online access with mobile compatibility.

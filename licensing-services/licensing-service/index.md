@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Application and Business Filing Services exam
 - The service starts after purchase; we contact you for the details
 
+The Licensing Service costs $995 and is written for the Application and Business Filing Services exam. The service starts after purchase; we contact you for the details, and Buy now takes you straight to checkout.
+
 ## About this Application and Business Filing Services package
 
 ULTIMATE VIRGINIA STATE APPLICATION AND BUSINESS FILING PACKAGEThe Ultimate Virginia State Application and Business Filing Package from Pass Your Virginia Contractor Exam provides contractors with all essential tools and guidance to complete the Virginia Board for Contractors licensing and business registration process. This package includes resources for preparing and filing state contractor applications, establishing business entities, securing tax identification numbers, and ensuring compliance with DPOR licensing requirements.

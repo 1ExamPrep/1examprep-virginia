@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Commercial Building Inspector (B2) exam (Ohio edition)
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Highlighted and Tabbed Books costs $995 and is written for the Commercial Building Inspector (B2) exam (Ohio edition). Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Commercial Building Inspector (B2) package
 
 Ohio Commercial Building Inspector (ICC - B2) Highlighted & Tabbed Book Package The Ohio Commercial Building Inspector (ICC - B2) Highlighted & Tabbed Book Package is designed for candidates preparing for the ICC Commercial Building Inspector certification exam using the 2021 code references. This package includes the major building code, structural concrete, and concrete inspection references needed for B2 exam preparation, prepared in a highlighted and tabbed format to support organized study, faster navigation, and more efficient open-book exam preparation.

@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Electrical Plans Examiner (E3) exam (Ohio edition)
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Highlighted and Tabbed Books costs $425 and is written for the Electrical Plans Examiner (E3) exam (Ohio edition). Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Electrical Plans Examiner (E3) package
 
 Ohio Electrical Plans Examiner - (ICC - E3) Highlighted & Tabbed Book Package The Ohio Electrical Plans Examiner - (ICC - E3) Highlighted & Tabbed Book Package is designed for candidates preparing for the ICC Electrical Plans Examiner certification exam using the 2020 National Electrical Code. This package includes the primary electrical code reference and a practical electrical quick-reference book, prepared in a highlighted and tabbed format to support organized study, faster navigation, and more efficient open-book exam preparation.

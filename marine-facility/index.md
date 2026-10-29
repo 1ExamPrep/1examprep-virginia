@@ -27,15 +27,17 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
 
 Book Package
+[Virginia Marine Facility Contractor Exam Complete Book Package](https://passyourvirginiacontractorexam.com/marine-facility/book-package/)
 
-### [Virginia Marine Facility Contractor Exam Complete Book Package](https://passyourvirginiacontractorexam.com/marine-facility/book-package/)
+The reference books the exam is written to, new and unmarked.
 
 $795 (was $895) Save 11%  to $1,195
 [Buy now](https://1examprep.com/cart/50634602709049:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/marine-facility/book-package/)
 
 Highlighted and Tabbed Books
+[Virginia Marine Facility Contractor Exam Complete Pre-Highlighted & Tabbed Book Package](https://passyourvirginiacontractorexam.com/marine-facility/highlighted-tabbed/)
 
-### [Virginia Marine Facility Contractor Exam Complete Pre-Highlighted & Tabbed Book Package](https://passyourvirginiacontractorexam.com/marine-facility/highlighted-tabbed/)
+The reference books already highlighted and permanently tabbed, ready for the exam room.
 
 $1,195 (was $1,395) Save 14%
 [Buy now](https://1examprep.com/cart/44379230437433:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/marine-facility/highlighted-tabbed/)

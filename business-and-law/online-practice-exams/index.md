@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Class A/B Business and Law exam (any state)
 - Online access arrives by email after purchase
 
+The Online Practice Exams costs $79.99 and is written for the Class A/B Business and Law exam (any state). Online access arrives by email after purchase, and Buy now takes you straight to checkout.
+
 ## About this Class A/B Business and Law package
 
 NASCLA CONTRACTORS GUIDE TO BUSINESS, LAW AND PROJECT MANAGEMENT BASIC EDITION - ONLINE PRACTICE QUESTIONSThe NASCLA Contractors Guide to Business, Law and Project Management Basic Edition Online Practice Questions by Pass Your Virginia Contractor Exam is designed for candidates seeking to pass the NASCLA-accredited contractor licensing exam administered by the National Association of State Contractors Licensing Agencies.

@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Commercial Improvement Contractor (CIC) exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Live Virtual Training costs $595 and is written for the Commercial Improvement Contractor (CIC) exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Commercial Improvement Contractor (CIC) package
 
 New Virginia Commercial Improvement Contractor Prepare for the Virginia Commercial Improvement Contracting examination with a focused reference package covering the major construction subjects tested for the Virginia CIC specialty. This collection brings together building codes, construction safety regulations, carpentry, concrete, masonry, and gypsum references that support preparation for the open-book technical examination administered through PSI for the Virginia Board for Contractors. Virginia identifies the specialty as Commercial Improvement Contracting (CIC).

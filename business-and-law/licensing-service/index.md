@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Class A/B Business and Law exam
 - The service starts after purchase; we contact you for the details
 
+The Licensing Service costs $425.99 and is written for the Class A/B Business and Law exam. The service starts after purchase; we contact you for the details, and Buy now takes you straight to checkout.
+
 ## About this Class A/B Business and Law package
 
 Virginia Class A/B Business and Law Contractor Exam Complete Pass Package The Virginia Class A/B Business and Law Contractor Exam Complete Pass Package is designed for contractor candidates preparing for the Virginia Class A or Class B contractor business examination.

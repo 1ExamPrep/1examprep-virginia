@@ -36,6 +36,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Books ship from our fulfillment center; online parts arrive by email
 - Options from $720 to $1,370, chosen above before checkout
 
+The Books and Courses Rental costs $720 to $1,370 with the options above and is written for the Electrical Plans Examiner (E3) exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 **Options at checkout:** Book Rental Package - Self Study; Book Rental Package - Self Study + Live & Recorded Classes [+$200]; Books & Course Self Study + Live Classes + State Application [+$650]. Pick one above and the price updates.
 
 ## About this Electrical Plans Examiner (E3) package

@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Master Gas Fitter (LP) exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The The 1 Package (all-inclusive) costs $2,597 and is written for the Master Gas Fitter (LP) exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Master Gas Fitter (LP) package
 
 THE 1 PACKAGE: ALL-INCLUSIVE VIRGINIA MASTER GASFITTER CONTRACTOR EXAM, LICENSING & BUSINESS SETUP SOLUTION The 1 Package: All-Inclusive Virginia Master Gasfitter Contractor Exam, Licensing & Business Setup Solution from Pass Your Virginia Contractor Exam provides a complete preparation and licensing solution for candidates pursuing the Virginia Board for Contractors Master Gasfitter (GFC) classification.

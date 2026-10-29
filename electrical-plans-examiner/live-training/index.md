@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Electrical Plans Examiner (E3) exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Live Virtual Training costs $495 and is written for the Electrical Plans Examiner (E3) exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Electrical Plans Examiner (E3) package
 
 Virginia Electrical Plans Examiner - (ICC - E3) Exam Prep - Live Virtual + Self Study Training The Virginia Electrical Plans Examiner - (ICC - E3) Exam Prep - Live Virtual + Self Study Training is designed for candidates preparing for the Virginia Electrical Plans Examiner ICC E3 exam using a structured combination of live virtual instruction and self-paced study support.

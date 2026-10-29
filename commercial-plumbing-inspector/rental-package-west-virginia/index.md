@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Commercial Plumbing Inspector (P2) exam (West Virginia edition)
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Books and Courses Rental costs $940 and is written for the Commercial Plumbing Inspector (P2) exam (West Virginia edition). Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Commercial Plumbing Inspector (P2) package
 
 West Virginia Commercial Plumbing Inspector (ICC - P2) - Books & Courses Rental Package The West Virginia Commercial Plumbing Inspector (ICC - P2) Books & Courses Rental Package is designed for students preparing for the ICC Commercial Plumbing Inspector certification exam using the 2021 International Plumbing Code, the 2021 International Fuel Gas Code, and ICC A117.1-2017 Standard for Accessible and Usable Buildings and Facilities. This package gives students rental access to the listed code books and structured course support for focused commercial plumbing inspector exam preparation.

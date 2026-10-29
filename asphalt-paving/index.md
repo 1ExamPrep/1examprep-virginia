@@ -27,15 +27,17 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
 
 Book Package
+[Virginia Asphalt Paving & Sealcoating Contractor Exam Complete Book Package](https://passyourvirginiacontractorexam.com/asphalt-paving/book-package/)
 
-### [Virginia Asphalt Paving & Sealcoating Contractor Exam Complete Book Package](https://passyourvirginiacontractorexam.com/asphalt-paving/book-package/)
+The reference books the exam is written to, new and unmarked.
 
 $795 (was $1,195) Save 33%  to $1,495
 [Buy now](https://1examprep.com/cart/46480990568505:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/asphalt-paving/book-package/)
 
 Highlighted and Tabbed Books
+[Virginia Asphalt Paving & Sealcoating Contractor Exam Complete Highlighted & Tabbed Book Package](https://passyourvirginiacontractorexam.com/asphalt-paving/highlighted-tabbed/)
 
-### [Virginia Asphalt Paving & Sealcoating Contractor Exam Complete Highlighted & Tabbed Book Package](https://passyourvirginiacontractorexam.com/asphalt-paving/highlighted-tabbed/)
+The reference books already highlighted and permanently tabbed, ready for the exam room.
 
 $1,495 (was $1,695) Save 12%
 [Buy now](https://1examprep.com/cart/44447363989561:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/asphalt-paving/highlighted-tabbed/)

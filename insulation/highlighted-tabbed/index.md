@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Insulation and Weather Stripping Contractor exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Highlighted and Tabbed Books costs $1,495 and is written for the Insulation and Weather Stripping Contractor exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Insulation and Weather Stripping Contractor package
 
 Virginia Insulation and Weather Stripping Contractor Exam Complete Pre-Highlighted & Tabbed Book Package Prepare for the Virginia Insulation and Weather Stripping Contractor Exam with a complete set of pre-highlighted and tabbed reference books designed to support organized study and efficient open-book reference navigation. This package brings together the three primary technical references used to prepare for the Virginia Insulation and Weather Stripping Contracting specialty examination.

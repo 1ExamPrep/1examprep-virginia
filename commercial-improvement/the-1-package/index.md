@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Commercial Improvement Contractor (CIC) exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The The 1 Package (all-inclusive) costs $3,795 and is written for the Commercial Improvement Contractor (CIC) exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Commercial Improvement Contractor (CIC) package
 
 The 1 Package: All-Inclusive Virginia Commercial Improvement Contractor Exam, Licensing & Business Setup Solution Take a more organized approach to becoming a Virginia Commercial Improvement Contractor with an all-inclusive solution that brings exam preparation, contractor licensing support, and business setup services together. The 1 Package is designed for candidates pursuing Virginia Commercial Improvement Contracting who want more than reference books alone.

@@ -27,50 +27,57 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
 
 Online Exam Prep Course
+[Virginia NASCLA Commercial General Building Contractor - Online Exam Prep Course](https://passyourvirginiacontractorexam.com/nascla-commercial-general-building/online-course-2/)
 
-### [Virginia NASCLA Commercial General Building Contractor - Online Exam Prep Course](https://passyourvirginiacontractorexam.com/nascla-commercial-general-building/online-course-2/)
+An online course with practice exams you can take on a phone or laptop.
 
 $395 (was $440) Save 10%  to $695
 [Buy now](https://1examprep.com/cart/45333236252729:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/nascla-commercial-general-building/online-course-2/)
 
 Book Package
+[Virginia NASCLA Commercial General Building Contractors Complete Book Set - Book Package](https://passyourvirginiacontractorexam.com/nascla-commercial-general-building/book-package/)
 
-### [Virginia NASCLA Commercial General Building Contractors Complete Book Set - Book Package](https://passyourvirginiacontractorexam.com/nascla-commercial-general-building/book-package/)
+The reference books the exam is written to, new and unmarked.
 
 $2,244 (was $2,344) Save 4%  to $3,094
 [Buy now](https://1examprep.com/cart/46240732348473:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/nascla-commercial-general-building/book-package/)
 
 Highlighted and Tabbed Books
+[Virginia NASCLA Commercial General Building Contractor Exam Complete Book Set - Highlighted & Tabbed](https://passyourvirginiacontractorexam.com/nascla-commercial-general-building/highlighted-tabbed/)
 
-### [Virginia NASCLA Commercial General Building Contractor Exam Complete Book Set - Highlighted & Tabbed](https://passyourvirginiacontractorexam.com/nascla-commercial-general-building/highlighted-tabbed/)
+The reference books already highlighted and permanently tabbed, ready for the exam room.
 
 $3,094 (was $3,295) Save 6%  to $3,559
 [Buy now](https://1examprep.com/cart/46240734543929:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/nascla-commercial-general-building/highlighted-tabbed/)
 
 Books and Courses Rental
+[Virginia NASCLA Commercial General Building Contractor Exam Books & Courses Rental](https://passyourvirginiacontractorexam.com/nascla-commercial-general-building/rental-package/)
 
-### [Virginia NASCLA Commercial General Building Contractor Exam Books & Courses Rental](https://passyourvirginiacontractorexam.com/nascla-commercial-general-building/rental-package/)
+The reference books on rental plus the online course, returned after your exam.
 
 $3,684 (was $3,984) Save 8%  to $4,434
 [Buy now](https://1examprep.com/cart/45333130149945:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/nascla-commercial-general-building/rental-package/)
 
 Ultimate Rental Package
+[Virginia NASCLA Commercial General Building Contractor Ultimate Exam Prep Rental Package](https://passyourvirginiacontractorexam.com/nascla-commercial-general-building/ultimate-rental/)
 
-### [Virginia NASCLA Commercial General Building Contractor Ultimate Exam Prep Rental Package](https://passyourvirginiacontractorexam.com/nascla-commercial-general-building/ultimate-rental/)
+Highlighted and tabbed rental books, the online course and live training.
 
 $4,109 (was $4,595) Save 11%
 [Buy now](https://1examprep.com/cart/45333167505465:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/nascla-commercial-general-building/ultimate-rental/)
 
 The 1 Package (all-inclusive)
+[The 1 Package: All-Inclusive Virginia NASCLA Commercial General Building Contractor Licensing & Business Setup](https://passyourvirginiacontractorexam.com/nascla-commercial-general-building/the-1-package/)
 
-### [The 1 Package: All-Inclusive Virginia NASCLA Commercial General Building Contractor Licensing & Business Setup](https://passyourvirginiacontractorexam.com/nascla-commercial-general-building/the-1-package/)
+Everything: exam prep, books, licensing paperwork and business setup.
 
 $4,674 (was $5,100) Save 8%
 [Buy now](https://1examprep.com/cart/46435820765241:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/nascla-commercial-general-building/the-1-package/)
 
 Online Exam Prep Course (any state)
+[NASCLA Commercial General Building Contractor - Online Exam Prep Course](https://passyourvirginiacontractorexam.com/nascla-commercial-general-building/online-course/)
 
-### [NASCLA Commercial General Building Contractor - Online Exam Prep Course](https://passyourvirginiacontractorexam.com/nascla-commercial-general-building/online-course/)
+An online course with practice exams you can take on a phone or laptop.
 
 $395 (was $440) Save 10%  to $695
 [Buy now](https://1examprep.com/cart/44193376010297:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/nascla-commercial-general-building/online-course/)

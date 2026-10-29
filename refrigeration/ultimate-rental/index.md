@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Refrigeration Contractor exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Ultimate Rental Package costs $1,710 and is written for the Refrigeration Contractor exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Refrigeration Contractor package
 
 Virginia Refrigeration Contractor Ultimate Exam Prep Rental Package Prepare for the Virginia Refrigeration Contractor licensing process with a comprehensive Ultimate Exam Prep Rental Package that combines technical reference books, contractor business and regulatory materials, structured online preparation, and Application Service. This package is designed for candidates who want an organized solution for preparing for the Virginia Refrigeration Contracting specialty examination while also working through applicable contractor business and licensing requirements.

@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Asphalt Paving and Sealcoating Contractor exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Highlighted and Tabbed Books costs $1,495 and is written for the Asphalt Paving and Sealcoating Contractor exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Asphalt Paving and Sealcoating Contractor package
 
 Virginia Asphalt Paving & Sealcoating Contractor Exam Complete Highlighted & Tabbed Book Package Prepare for the Virginia Asphalt Paving and Sealcoating Contractor Exam with a complete highlighted and tabbed trade book package designed to make open-book exam preparation more organized and efficient. This package brings together key references covering asphalt paving, sealcoating, excavation, grading, construction equipment and methods, traffic control, and OSHA construction safety. The Virginia Asphalt Paving and Sealcoating specialty is identified by the abbreviation PAV.

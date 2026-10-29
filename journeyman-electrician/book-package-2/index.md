@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Journeyman Electrician exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Book Package costs $795 and is written for the Journeyman Electrician exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Journeyman Electrician package
 
 Virginia NASCLA Journeyman Electrician Exam Book Package Prepare for the Virginia NASCLA Journeyman Electrician examination with a focused collection of electrical code, safety, theory, fire alarm, and field reference materials. The Virginia NASCLA Journeyman Electrician Exam Book Package brings together essential references for studying National Electrical Code requirements, electrical theory, workplace safety, troubleshooting, wiring methods, equipment, calculations, fire alarm systems, and other knowledge areas associated with journeyman-level electrical work.

@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Commercial Building Contractor (CBC) exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Ultimate Rental Package costs $2,710 and is written for the Commercial Building Contractor (CBC) exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Commercial Building Contractor (CBC) package
 
 Virginia Commercial Building Technical Contractor Ultimate Exam Prep Rental Package Prepare for the Virginia Commercial Building Technical Contractor licensing process with a comprehensive Ultimate package that combines an extensive collection of commercial construction reference books, 1 year of course access, and Application Service. The Virginia Commercial Building Technical Contractor Ultimate Exam Prep Rental Package is designed for candidates pursuing the Virginia Commercial Building Contractor classification, commonly identified as CBC.

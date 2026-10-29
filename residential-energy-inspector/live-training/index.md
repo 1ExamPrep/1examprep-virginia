@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Residential Energy Inspector / Plans Examiner exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Live Virtual Training costs $495 and is written for the Residential Energy Inspector / Plans Examiner exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Residential Energy Inspector / Plans Examiner package
 
 Virginia Residential Energy Inspector / Plans Examiner (ICC - 79) Exam Prep - Live Virtual + Self Study Training The Virginia Residential Energy Inspector / Plans Examiner (ICC - 79) Exam Prep - Live Virtual + Self Study Training is designed for candidates preparing for the Virginia Residential Energy Inspector / Plans Examiner ICC 79 exam using a structured combination of live virtual instruction and self-paced study support.

@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Journeyman Electrician exam
 - Online access arrives by email after purchase
 
+The Online Exam Prep Course costs $295 and is written for the Journeyman Electrician exam. Online access arrives by email after purchase, and Buy now takes you straight to checkout.
+
 ## About this Journeyman Electrician package
 
 Virginia NASCLA Journeyman Electrician - Online Exam Prep Prepare for the Virginia NASCLA Journeyman Electrician examination with a structured online exam prep program focused on electrical knowledge, National Electrical Code navigation, safety, electrical theory, troubleshooting, calculations, wiring methods, equipment, and practical journeyman-level skills. This course is designed for candidates pursuing Virginia Journeyman Electrician licensure and using the NASCLA Accredited Journeyman Electrician examination as an accepted electrical trade-examination pathway.

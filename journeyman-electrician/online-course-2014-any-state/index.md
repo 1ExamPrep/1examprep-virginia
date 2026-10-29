@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Journeyman Electrician exam (any state)
 - Online access arrives by email after purchase
 
+The Online Exam Prep Course costs $129.95 and is written for the Journeyman Electrician exam (any state). Online access arrives by email after purchase, and Buy now takes you straight to checkout.
+
 ## About this Journeyman Electrician package
 
 Ray Holder's 2014 Journeyman's Electrician Licensing Tests; Online CourseThis online course provides practice exams aligned with the 2014 National Electrical Code for journeyman electrician candidates, covering services, feeders, branch circuits, grounding and bonding, wiring methods, conductor and overcurrent protection sizing, load calculations and essential workplace safety requirements to support NEC proficiency and exam preparation. An excellent ONLINE study-aid for the helper, apprentice, or electrician in preparing for the Journeyman Electrical Exam.

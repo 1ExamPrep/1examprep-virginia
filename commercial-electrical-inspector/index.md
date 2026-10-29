@@ -27,50 +27,57 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
 
 Online Exam Prep Course
+[Virginia Commercial Electrical Inspector - (ICC - E2) - Online Exam Prep](https://passyourvirginiacontractorexam.com/commercial-electrical-inspector/online-course/)
 
-### [Virginia Commercial Electrical Inspector - (ICC - E2) - Online Exam Prep](https://passyourvirginiacontractorexam.com/commercial-electrical-inspector/online-course/)
+An online course with practice exams you can take on a phone or laptop.
 
 $295 (was $395) Save 25%  to $495
 [Buy now](https://1examprep.com/cart/46348846563385:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/commercial-electrical-inspector/online-course/)
 
 Book Package
+[Virginia Commercial Electrical Inspector - (ICC - E2) Exam Book Package](https://passyourvirginiacontractorexam.com/commercial-electrical-inspector/book-package/)
 
-### [Virginia Commercial Electrical Inspector - (ICC - E2) Exam Book Package](https://passyourvirginiacontractorexam.com/commercial-electrical-inspector/book-package/)
+The reference books the exam is written to, new and unmarked.
 
 $225 (was $325) Save 31%  to $425
 [Buy now](https://1examprep.com/cart/46473931849785:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/commercial-electrical-inspector/book-package/)
 
 Highlighted and Tabbed Books
+[Virginia Commercial Electrical Inspector - (ICC - E2) Highlighted & Tabbed Book Package](https://passyourvirginiacontractorexam.com/commercial-electrical-inspector/highlighted-tabbed/)
 
-### [Virginia Commercial Electrical Inspector - (ICC - E2) Highlighted & Tabbed Book Package](https://passyourvirginiacontractorexam.com/commercial-electrical-inspector/highlighted-tabbed/)
+The reference books already highlighted and permanently tabbed, ready for the exam room.
 
 $425 (was $625) Save 32%  to $720
 [Buy now](https://1examprep.com/cart/46473947054137:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/commercial-electrical-inspector/highlighted-tabbed/)
 
 Live Virtual Training
+[Virginia Commercial Electrical Inspector - (ICC - E2) Exam Prep - Live Virtual + Self Study Training](https://passyourvirginiacontractorexam.com/commercial-electrical-inspector/live-training/)
 
-### [Virginia Commercial Electrical Inspector - (ICC - E2) Exam Prep - Live Virtual + Self Study Training](https://passyourvirginiacontractorexam.com/commercial-electrical-inspector/live-training/)
+Live virtual classes with an instructor plus self-study material.
 
 $595 (was $795) Save 25%
 [Buy now](https://1examprep.com/cart/46278762135609:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/commercial-electrical-inspector/live-training/)
 
 Books and Courses Rental
+[Virginia Commercial Electrical Inspector - (ICC - E2) - Books & Courses Rental Package](https://passyourvirginiacontractorexam.com/commercial-electrical-inspector/rental-package/)
 
-### [Virginia Commercial Electrical Inspector - (ICC - E2) - Books & Courses Rental Package](https://passyourvirginiacontractorexam.com/commercial-electrical-inspector/rental-package/)
+The reference books on rental plus the online course, returned after your exam.
 
 $720 (was $920) Save 22%  to $1,400
 [Buy now](https://1examprep.com/cart/46348846792761:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/commercial-electrical-inspector/rental-package/)
 
 Highlighted and Tabbed Books (Ohio edition)
+[Ohio Commercial Electrical Inspector - (ICC - E2) Highlighted & Tabbed Book Package](https://passyourvirginiacontractorexam.com/commercial-electrical-inspector/highlighted-tabbed-ohio/)
 
-### [Ohio Commercial Electrical Inspector - (ICC - E2) Highlighted & Tabbed Book Package](https://passyourvirginiacontractorexam.com/commercial-electrical-inspector/highlighted-tabbed-ohio/)
+The reference books already highlighted and permanently tabbed, ready for the exam room.
 
 $425 (was $625) Save 32%
 [Buy now](https://1examprep.com/cart/46109423599673:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/commercial-electrical-inspector/highlighted-tabbed-ohio/)
 
 Books and Courses Rental (West Virginia edition)
+[West Virginia Commercial Electrical Inspector - (ICC - E2) - Books & Courses Rental Package](https://passyourvirginiacontractorexam.com/commercial-electrical-inspector/rental-package-west-virginia/)
 
-### [West Virginia Commercial Electrical Inspector - (ICC - E2) - Books & Courses Rental Package](https://passyourvirginiacontractorexam.com/commercial-electrical-inspector/rental-package-west-virginia/)
+The reference books on rental plus the online course, returned after your exam.
 
 $720 (was $1,020) Save 29%  to $920
 [Buy now](https://1examprep.com/cart/46432955433017:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/commercial-electrical-inspector/rental-package-west-virginia/)

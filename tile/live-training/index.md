@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Tile, Marble, Ceramic and Terrazzo Contractor exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Live Virtual Training costs $495 and is written for the Tile, Marble, Ceramic and Terrazzo Contractor exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Tile, Marble, Ceramic and Terrazzo Contractor package
 
 Virginia Tile, Marble, Ceramic and Terrazzo Contractor Exam Prep - Live Virtual + Self Study Training Prepare for the Virginia Tile, Marble, Ceramic and Terrazzo Contractor examination with a flexible training program that combines Live Virtual instruction with Self Study preparation. This format is designed for contractors, tile setters, terrazzo installers, supervisors, estimators, and Qualified Individuals who want scheduled instructor-led training while maintaining the flexibility to review technical material, practice questions, and exam references independently.

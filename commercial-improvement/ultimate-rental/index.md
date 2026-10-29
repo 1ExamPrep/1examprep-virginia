@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Commercial Improvement Contractor (CIC) exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Ultimate Rental Package costs $2,395 and is written for the Commercial Improvement Contractor (CIC) exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Commercial Improvement Contractor (CIC) package
 
 Virginia Commercial Improvement Contracting Ultimate Exam Prep Rental Package Prepare for the Virginia Commercial Improvement Contracting licensing process with an Ultimate Exam Prep Rental Package that combines a focused construction reference library, professionally organized exam preparation, 1 year of course access, and Application Service. This package is designed for candidates pursuing Virginia's Commercial Improvement Contracting (CIC) specialty who want a structured approach to both technical exam preparation and the contractor application process.

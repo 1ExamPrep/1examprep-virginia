@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Home Improvement Contractor (HIC) exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Pre-Printed Tabs costs $99.99 and is written for the Home Improvement Contractor (HIC) exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Home Improvement Contractor (HIC) package
 
 VIRGINIA HOME IMPROVEMENT CONTRACTOR EXAM; PRE-PRINTED TABS The Virginia Home Improvement Contractor Exam, overseen by the Virginia Department of Professional and Occupational Regulation (DPOR), evaluates knowledge in residential remodeling, repair, and construction compliance. The Pass Your Virginia Contractor Exam Virginia Home Improvement Pre-Printed Tabs set is designed to assist candidates in efficiently navigating required reference books during the PSI-administered contractor licensing exam.

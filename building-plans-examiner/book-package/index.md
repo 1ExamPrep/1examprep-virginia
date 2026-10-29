@@ -36,6 +36,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Books ship from our fulfillment center, 1 Exam Prep
 - Options from $695 to $995, chosen above before checkout
 
+The Book Package costs $695 to $995 with the options above and is written for the Building Plans Examiner (B3) exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 **Options at checkout:** Book Package; Highlighted & Tabbed Book Package [+$300]. Pick one above and the price updates.
 
 ## About this Building Plans Examiner (B3) package

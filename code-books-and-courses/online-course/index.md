@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Code Books and Code Courses exam (any state)
 - Online access arrives by email after purchase
 
+The Online Exam Prep Course costs $395 and is written for the Code Books and Code Courses exam (any state). Online access arrives by email after purchase, and Buy now takes you straight to checkout.
+
 ## About this Code Books and Code Courses package
 
 NATIONAL ELECTRICAL CODE WEBINAR - COMPLETE SERIES [PARTS 1 - 5]The National Electrical Code Webinar – Complete Series [Parts 1–5] offered by Pass Your Virginia Contractor Exam provides comprehensive instruction on the 2023 NFPA 70 National Electrical Code (NEC), the primary standard governing electrical installations and safety across the United States. This online training series covers general requirements, wiring methods, grounding and bonding, overcurrent protection, services, and special occupancies in a structured, five-part format.

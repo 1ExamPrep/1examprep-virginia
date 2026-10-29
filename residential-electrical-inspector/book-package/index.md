@@ -36,6 +36,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Books ship from our fulfillment center, 1 Exam Prep
 - Options from $295 to $395, chosen above before checkout
 
+The Book Package costs $295 to $395 with the options above and is written for the Residential Electrical Inspector (E1) exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 **Options at checkout:** Book Package; Highlighted & Tabbed Book Package [+$100]. Pick one above and the price updates.
 
 ## About this Residential Electrical Inspector (E1) package

@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Application and Business Filing Services exam
 - The service starts after purchase; we contact you for the details
 
+The Licensing Service costs $295 and is written for the Application and Business Filing Services exam. The service starts after purchase; we contact you for the details, and Buy now takes you straight to checkout.
+
 ## About this Application and Business Filing Services package
 
 Virginia Corporation or LLC Filing Registration Formation Setup The Virginia Corporation or LLC Filing Registration Formation Setup service is designed for contractors, business owners, entrepreneurs, tradespeople, and startup operators who want organized help forming a legal business entity in Virginia. This service helps customers set up either a Virginia Limited Liability Company, commonly called an LLC, or a Virginia corporation through the Virginia State Corporation Commission.

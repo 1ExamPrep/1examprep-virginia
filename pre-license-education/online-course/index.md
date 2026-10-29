@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the 8-Hour Pre-License Education exam
 - Online access arrives by email after purchase
 
+The Online Exam Prep Course costs $89 and is written for the 8-Hour Pre-License Education exam. Online access arrives by email after purchase, and Buy now takes you straight to checkout.
+
 ## About this 8-Hour Pre-License Education package
 
 VIRGINIA 8-HOUR PRE-LICENSE EDUCATION ONLINE COURSE FOR CONTRACTORSThe Virginia 8-Hour Pre-License Education Online Course for Contractors from Pass Your Virginia Contractor Exam fulfills the mandatory training requirement established by the Virginia Board for Contractors for initial license applicants. This self-paced online course covers essential topics including business organization, contract law, Virginia lien regulations, workplace safety, tax responsibilities, and the regulations of the Department of Professional and Occupational Regulation (DPOR).

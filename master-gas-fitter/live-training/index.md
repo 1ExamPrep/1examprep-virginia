@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Master Gas Fitter (LP) exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Live Virtual Training costs $495 and is written for the Master Gas Fitter (LP) exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Master Gas Fitter (LP) package
 
 Virginia Master Gasfitter Exam Prep - Live Virtual + Self Study Training Prepare for the Virginia Master Gasfitter examination with a combination of live virtual instruction and self-study training designed around the regulations, fuel gas code requirements, LP-gas standards, and reference-navigation skills associated with the exam. This training option gives candidates a structured way to review technical gas-fitting subjects while also developing the ability to work efficiently with the reference materials used during open-book testing.

@@ -27,8 +27,9 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
 
 Books and Courses Rental (West Virginia edition)
+[West Virginia Commercial Energy Plans Examiner (ICC - 78) - Books & Courses Rental Package](https://passyourvirginiacontractorexam.com/commercial-energy-plans-examiner/rental-package-west-virginia/)
 
-### [West Virginia Commercial Energy Plans Examiner (ICC - 78) - Books & Courses Rental Package](https://passyourvirginiacontractorexam.com/commercial-energy-plans-examiner/rental-package-west-virginia/)
+The reference books on rental plus the online course, returned after your exam.
 
 $540 (was $840) Save 36%
 [Buy now](https://1examprep.com/cart/46051569041465:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/commercial-energy-plans-examiner/rental-package-west-virginia/)

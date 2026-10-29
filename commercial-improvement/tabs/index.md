@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Commercial Improvement Contractor (CIC) exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Pre-Printed Tabs costs $79.99 and is written for the Commercial Improvement Contractor (CIC) exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Commercial Improvement Contractor (CIC) package
 
 VIRGINIA COMMERCIAL IMPROVEMENT CONTRACTING EXAM; PRE-PRINTED TABS The Virginia Commercial Improvement Contracting Exam Pre-Printed Tabs set from Pass Your Virginia Contractor Exam is designed to assist candidates preparing for the Virginia Department of Professional and Occupational Regulation (DPOR) commercial improvement contractor licensing examination. These durable, color-coded tabs correspond to major sections of the International Building Code (IBC), OSHA safety standards, and other PSI-approved reference materials.

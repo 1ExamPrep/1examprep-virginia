@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Master Electrician exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Study Package with NEC Course costs $499.95 and is written for the Master Electrician exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Master Electrician package
 
 2026 Virginia Master Electrician Exam Prep Study Package Includes Instructor Led NEC Course (Based on the 2026 NEC) The 2026 Virginia Master Electrician Exam Prep Study Package Includes Instructor Led NEC Course (Based on the 2026 NEC) is designed for candidates preparing for the Virginia Master Electrician exam using a complete, organized study package built around the National Electrical Code, NEC 70, 2026.

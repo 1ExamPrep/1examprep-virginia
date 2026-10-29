@@ -27,15 +27,17 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
 
 Book Package
+[Virginia Fire Alarm Systems Contractor Exam Complete Book Package](https://passyourvirginiacontractorexam.com/fire-alarm/book-package/)
 
-### [Virginia Fire Alarm Systems Contractor Exam Complete Book Package](https://passyourvirginiacontractorexam.com/fire-alarm/book-package/)
+The reference books the exam is written to, new and unmarked.
 
 $545 (was $645) Save 16%  to $795
 [Buy now](https://1examprep.com/cart/50632989245497:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/fire-alarm/book-package/)
 
 Highlighted and Tabbed Books
+[Virginia Fire Alarm Systems Contractor Exam Highlighted & Tabbed Book Package](https://passyourvirginiacontractorexam.com/fire-alarm/highlighted-tabbed/)
 
-### [Virginia Fire Alarm Systems Contractor Exam Highlighted & Tabbed Book Package](https://passyourvirginiacontractorexam.com/fire-alarm/highlighted-tabbed/)
+The reference books already highlighted and permanently tabbed, ready for the exam room.
 
 $795 (was $995) Save 20%
 [Buy now](https://1examprep.com/cart/44379212087353:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/fire-alarm/highlighted-tabbed/)

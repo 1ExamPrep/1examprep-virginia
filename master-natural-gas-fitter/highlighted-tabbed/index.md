@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Master Natural Gas Fitter exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Highlighted and Tabbed Books costs $645 and is written for the Master Natural Gas Fitter exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Master Natural Gas Fitter package
 
 Virginia Master Natural Gasfitter Contractor Exam Complete Pre-Highlighted & Tabbed Book Package Prepare for the Virginia Master Natural Gasfitter examination with a complete pre-highlighted and tabbed reference book package designed to make open-book exam preparation more organized and efficient. This package brings together the Virginia regulatory and technical code references candidates can use to build familiarity with natural gas systems, piping, sizing, controls, testing, licensing requirements, and related fuel gas topics.

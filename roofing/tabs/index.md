@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Roofing Contractor exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Pre-Printed Tabs costs $89.99 and is written for the Roofing Contractor exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Roofing Contractor package
 
 VIRGINIA ROOFING CONTRACTING EXAM; PRE-PRINTED TABS The Virginia Roofing Contracting Exam Pre-Printed Tabs set from Pass Your Virginia Contractor Exam is designed to help candidates efficiently navigate reference materials during the Virginia Department of Professional and Occupational Regulation (DPOR) roofing contractor licensing examination. These durable, color-coded tabs correspond to key sections of the International Building Code (IBC), OSHA safety standards, and roofing installation references used in the PSI open-book test.

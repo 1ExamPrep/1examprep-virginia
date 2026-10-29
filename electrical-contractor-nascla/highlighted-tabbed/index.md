@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the NASCLA Electrical Contractor exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Highlighted and Tabbed Books costs $1,990 and is written for the NASCLA Electrical Contractor exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this NASCLA Electrical Contractor package
 
 Virginia NASCLA Master Electrical Contractor - Highlighted and Tabbed Book Package Prepare for the NASCLA Accredited Trade Examination for Electrical Contractors with a professionally organized collection of electrical reference books designed to support study, review, and open-book exam navigation.

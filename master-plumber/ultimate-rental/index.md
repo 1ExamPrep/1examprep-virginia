@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Master Plumber exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Ultimate Rental Package costs $1,310 and is written for the Master Plumber exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Master Plumber package
 
 Virginia Master Plumber Ultimate Exam Prep Rental Package Prepare for the Virginia Master Plumber examination with an Ultimate rental package that combines the core plumbing references, broader Virginia contractor resources, structured exam preparation, and Application Service in one comprehensive package. This option is designed for candidates who want access to the books used throughout preparation while also receiving a full year of course access and support with the licensing application process.

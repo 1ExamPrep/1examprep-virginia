@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Commercial Plumbing Inspector (P2) exam
 - Online access arrives by email after purchase
 
+The Online Exam Prep Course costs $295 and is written for the Commercial Plumbing Inspector (P2) exam. Online access arrives by email after purchase, and Buy now takes you straight to checkout.
+
 ## About this Commercial Plumbing Inspector (P2) package
 
 Virginia Commercial Plumbing Inspector (ICC - P2) Online Exam Prep The Virginia Commercial Plumbing Inspector (ICC - P2) Online Exam Prep course is designed for students preparing for the ICC Commercial Plumbing Inspector P2 certification exam and for professionals working toward Virginia commercial plumbing inspection credentials.

@@ -27,57 +27,65 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
 
 Online Exam Prep Course
+[Virginia Masonry Contractor - Online Exam Prep Course](https://passyourvirginiacontractorexam.com/masonry/online-course/)
 
-### [Virginia Masonry Contractor - Online Exam Prep Course](https://passyourvirginiacontractorexam.com/masonry/online-course/)
+An online course with practice exams you can take on a phone or laptop.
 
 $295 (was $395) Save 25%  to $495
 [Buy now](https://1examprep.com/cart/32414230413:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/masonry/online-course/)
 
 Pre-Printed Tabs
+[Virginia Masonry Contracting Exam; Pre-Printed Tabs](https://passyourvirginiacontractorexam.com/masonry/tabs/)
 
-### [Virginia Masonry Contracting Exam; Pre-Printed Tabs](https://passyourvirginiacontractorexam.com/masonry/tabs/)
+Pre-printed permanent tabs for the reference books, allowed in the exam room.
 
 $74.99 (was $83.50) Save 10%
 [Buy now](https://1examprep.com/cart/41290790469689:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/masonry/tabs/)
 
 Book Package
+[Virginia Masonry Contractor Exam Complete Book Package](https://passyourvirginiacontractorexam.com/masonry/book-package/)
 
-### [Virginia Masonry Contractor Exam Complete Book Package](https://passyourvirginiacontractorexam.com/masonry/book-package/)
+The reference books the exam is written to, new and unmarked.
 
 $545 (was $645) Save 16%  to $795
 [Buy now](https://1examprep.com/cart/50659013886009:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/masonry/book-package/)
 
 Highlighted and Tabbed Books
+[Virginia Masonry Contractor Exam - Highlighted and Tabbed Book Package](https://passyourvirginiacontractorexam.com/masonry/highlighted-tabbed/)
 
-### [Virginia Masonry Contractor Exam - Highlighted and Tabbed Book Package](https://passyourvirginiacontractorexam.com/masonry/highlighted-tabbed/)
+The reference books already highlighted and permanently tabbed, ready for the exam room.
 
 $795 (was $995) Save 20%  to $1,090
 [Buy now](https://1examprep.com/cart/50659076276281:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/masonry/highlighted-tabbed/)
 
 Live Virtual Training
+[Virginia Masonry Contractor Exam Prep - Live Virtual + Self Study Training](https://passyourvirginiacontractorexam.com/masonry/live-training/)
 
-### [Virginia Masonry Contractor Exam Prep - Live Virtual + Self Study Training](https://passyourvirginiacontractorexam.com/masonry/live-training/)
+Live virtual classes with an instructor plus self-study material.
 
 $495 (was $695) Save 29%
 [Buy now](https://1examprep.com/cart/45845519499321:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/masonry/live-training/)
 
 Books and Courses Rental
+[Virginia Masonry Contractor - Books & Courses Rental Package](https://passyourvirginiacontractorexam.com/masonry/rental-package/)
 
-### [Virginia Masonry Contractor - Books & Courses Rental Package](https://passyourvirginiacontractorexam.com/masonry/rental-package/)
+The reference books on rental plus the online course, returned after your exam.
 
 $1,385 (was $1,685) Save 18%  to $1,835
 [Buy now](https://1examprep.com/cart/50659259809849:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/masonry/rental-package/)
 
 Ultimate Rental Package
+[Virginia Masonry Contractor - Ultimate Exam Prep Rental Package](https://passyourvirginiacontractorexam.com/masonry/ultimate-rental/)
 
-### [Virginia Masonry Contractor - Ultimate Exam Prep Rental Package](https://passyourvirginiacontractorexam.com/masonry/ultimate-rental/)
+Highlighted and tabbed rental books, the online course and live training.
 
 $1,810 (was $2,210) Save 18%
 [Buy now](https://1examprep.com/cart/46151334985785:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/masonry/ultimate-rental/)
 
 The 1 Package (all-inclusive)
+[The 1 Package: All-Inclusive Virginia Masonry Contractor Exam, Licensing & Business Setup Solution](https://passyourvirginiacontractorexam.com/masonry/the-1-package/)
 
-### [The 1 Package: All-Inclusive Virginia Masonry Contractor Exam, Licensing & Business Setup Solution](https://passyourvirginiacontractorexam.com/masonry/the-1-package/)
+Everything: exam prep, books, licensing paperwork and business setup.
 
 $2,510 (was $3,010) Save 17%
 [Buy now](https://1examprep.com/cart/50659286319161:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/masonry/the-1-package/)

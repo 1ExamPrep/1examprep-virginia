@@ -39,6 +39,23 @@ The second is the business side. Most Class A and B firms sit the business and l
 
 **Virginia licensing.** Class A, B and C limits, the 8-hour pre-license course, tradesman licenses through the Board for Contractors, and DHCD certification for inspectors and plans examiners. Rules change without much notice, so each post carries the date it was last checked and a link to the board's own page.
 
+## What does a six-week study plan for a Virginia license exam look like?
+
+Six weeks at about 90 minutes a day is enough for most Virginia contractor and tradesman candidates who already work in the trade. The plan below assumes an open-book PSI exam, which is how the Board for Contractors tests contractor classifications and tradesman licenses, and it fits a Class A or B candidate who also sits the business and law portion. Adjust the weeks for your own license; the order of the work stays the same.
+
+1. **Week 1: learn the books, not the answers.** Read the table of contents of every reference named in your PSI candidate bulletin until you can name the chapter for any topic without looking. Time yourself finding ten random topics a night and write down how long each one took.
+2. **Week 2: tab and highlight.** Virginia allows highlighting and permanent tabs in your own references, while removable flags and loose notes are not allowed. Tab the chapters and tables you keep returning to, and highlight the exceptions inside them.
+3. **Week 3: the business side.** Class A and B firms usually pass the Virginia and general business portions as well as the trade exam. Spend this week on contracts, lien rules, payroll and the board's regulations, because candidates who only study their trade lose most of their points here.
+4. **Week 4: first full practice exam.** Sit a complete timed exam in one go. Score it, then sort every miss into one of three piles: did not know the rule, could not find it in time, or misread the question. The pile sizes tell you where weeks 5 and 6 go.
+5. **Week 5: fix the biggest pile.** If you ran out of time, drill lookups with your tabs. If you did not know the rule, reread those sections. If you misread, slow down on the words "except", "not" and "minimum".
+6. **Week 6: two more timed exams and rest.** Take a full practice exam early in the week and another three days before the test, then stop. The last two days are for sleep, not new material.
+
+## How do you adjust the plan for other Virginia exams?
+
+Tradesman candidates follow the same six weeks with the trade code in place of the business material in week 3. The exam fee is $100 for a journeyman exam and $125 for a master exam, paid to PSI after the board approves you, so it pays to sit the exam once, ready, rather than twice.
+
+Keep one error log for all six weeks. Write the question, the reference section that answers it and how long it took you, and reread the log every Sunday. Candidates who track their misses this way usually find that most of their lost points come from fewer than ten sections of the books.
+
 ## Questions we get asked most
 
 ### How long should I study for a Virginia contractor exam?

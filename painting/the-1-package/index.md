@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Painting and Wall Covering Contractor exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The The 1 Package (all-inclusive) costs $2,795 and is written for the Painting and Wall Covering Contractor exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Painting and Wall Covering Contractor package
 
 THE 1 PACKAGE: ALL-INCLUSIVE VIRGINIA PAINTING AND WALLCOVERING CONTRACTOR EXAM, LICENSING & BUSINESS SETUP SOLUTION The 1 Package: All-Inclusive Virginia Painting and Wallcovering Contractor Exam, Licensing & Business Setup Solution from Pass Your Virginia Contractor Exam offers a comprehensive preparation and licensing pathway for candidates pursuing the Virginia Board for Contractors Painting and Wallcovering (PTC) classification.

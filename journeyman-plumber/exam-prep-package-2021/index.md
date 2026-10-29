@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Journeyman Plumber exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Exam Prep Package costs $175 and is written for the Journeyman Plumber exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Journeyman Plumber package
 
 Virginia Journeyman Plumber Exam Prep Package [2021 IPC]The Virginia Journeyman Plumber Exam Prep Package from Pass Your Virginia Contractor Exam is designed for candidates preparing for the Virginia Board for Contractors’ Journeyman Plumber licensing examination under the 2021 International Plumbing Code (IPC). This course aligns with state requirements and covers essential plumbing system design, materials, fixtures, drainage, venting, and code compliance. Participants receive comprehensive reference materials, including the 2021 IPC and related trade publications, structured to mirror the PSI testing format.

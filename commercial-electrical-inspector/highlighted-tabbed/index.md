@@ -36,6 +36,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Books ship from our fulfillment center, 1 Exam Prep
 - Options from $425 to $720, chosen above before checkout
 
+The Highlighted and Tabbed Books costs $425 to $720 with the options above and is written for the Commercial Electrical Inspector (E2) exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 **Options at checkout:** Highlighted & Tabbed Book Package; Highlighted & Tabbed Books + Online Course [+$295]. Pick one above and the price updates.
 
 ## About this Commercial Electrical Inspector (E2) package

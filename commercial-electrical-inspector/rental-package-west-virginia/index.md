@@ -36,6 +36,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Books ship from our fulfillment center; online parts arrive by email
 - Options from $720 to $920, chosen above before checkout
 
+The Books and Courses Rental costs $720 to $920 with the options above and is written for the Commercial Electrical Inspector (E2) exam (West Virginia edition). Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 **Options at checkout:** Book Rental Package - Self Study; Book Rental Package - Self Study + Live & Recorded Classes [+$200]. Pick one above and the price updates.
 
 ## About this Commercial Electrical Inspector (E2) package

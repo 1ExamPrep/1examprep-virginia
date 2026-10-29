@@ -27,230 +27,265 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
 
 Online Exam Prep Course
+[Virginia Journeyman Electrician - Online Exam Prep Course](https://passyourvirginiacontractorexam.com/journeyman-electrician/online-course/)
 
-### [Virginia Journeyman Electrician - Online Exam Prep Course](https://passyourvirginiacontractorexam.com/journeyman-electrician/online-course/)
+An online course with practice exams you can take on a phone or laptop.
 
 $250 (was $279) Save 10%
 [Buy now](https://1examprep.com/cart/41286686277689:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/journeyman-electrician/online-course/)
 
 Online Exam Prep Course
+[Virginia NASCLA Journeyman Electrician - Online Exam Prep](https://passyourvirginiacontractorexam.com/journeyman-electrician/online-course-2/)
 
-### [Virginia NASCLA Journeyman Electrician - Online Exam Prep](https://passyourvirginiacontractorexam.com/journeyman-electrician/online-course-2/)
+An online course with practice exams you can take on a phone or laptop.
 
 $295 (was $395) Save 25%
 [Buy now](https://1examprep.com/cart/46444668682297:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/journeyman-electrician/online-course-2/)
 
 Online Exam Prep Course (any state)
+[Ray Holder's 2014 Journeyman's Electrician Licensing Tests; Online Course](https://passyourvirginiacontractorexam.com/journeyman-electrician/online-course-2014-any-state/)
 
-### [Ray Holder's 2014 Journeyman's Electrician Licensing Tests; Online Course](https://passyourvirginiacontractorexam.com/journeyman-electrician/online-course-2014-any-state/)
+An online course with practice exams you can take on a phone or laptop.
 
 $129.95 (was $145) Save 10%
 [Buy now](https://1examprep.com/cart/38957669453:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/journeyman-electrician/online-course-2014-any-state/)
 
 Online Exam Prep Course (any state)
+[NASCLA Journeyman Electrician Exam - Online Exam Prep Course](https://passyourvirginiacontractorexam.com/journeyman-electrician/online-course-any-state/)
 
-### [NASCLA Journeyman Electrician Exam - Online Exam Prep Course](https://passyourvirginiacontractorexam.com/journeyman-electrician/online-course-any-state/)
+An online course with practice exams you can take on a phone or laptop.
 
 $395 (was $495) Save 20%  to $595
 [Buy now](https://1examprep.com/cart/46432396967993:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/journeyman-electrician/online-course-any-state/)
 
-## Journeyman Electrician options: study guides, books and tabs
+## Journeyman Electrician options: study guides, books and tabs, part 1
 
-12 products of the 33 Journeyman Electrician options, from $39.99.
+10 products of the 33 Journeyman Electrician options, from $39.99.
 
 Pre-Printed Tabs
+[Virginia Journeyman Electrician Exam; Pre-Printed Tabs](https://passyourvirginiacontractorexam.com/journeyman-electrician/tabs/)
 
-### [Virginia Journeyman Electrician Exam; Pre-Printed Tabs](https://passyourvirginiacontractorexam.com/journeyman-electrician/tabs/)
+Pre-printed permanent tabs for the reference books, allowed in the exam room.
 
 $39.99 (was $44.50) Save 10%
 [Buy now](https://1examprep.com/cart/41290045227065:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/journeyman-electrician/tabs/)
 
 Study Guide and Flash Cards
+[2026 Virginia Journeyman Electrician Exam Prep and Study Guide + Flash Card Combo: 12 Practice Exams +2 Full Final Exams](https://passyourvirginiacontractorexam.com/journeyman-electrician/study-guide-flash-cards-2026/)
 
-### [2026 Virginia Journeyman Electrician Exam Prep and Study Guide + Flash Card Combo: 12 Practice Exams +2 Full Final Exams](https://passyourvirginiacontractorexam.com/journeyman-electrician/study-guide-flash-cards-2026/)
+The study guide with practice exams plus flash cards.
 
 $99.95 (was $125) Save 20%  to $309.95
 [Buy now](https://1examprep.com/cart/45947357429817:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/journeyman-electrician/study-guide-flash-cards-2026/)
 
 Study Guide
+[Virginia 2023 Journeyman Electrician Exam Prep and Study Guide: 12 Practice Exams + 2 Full Final Exams](https://passyourvirginiacontractorexam.com/journeyman-electrician/study-guide-2023/)
 
-### [Virginia 2023 Journeyman Electrician Exam Prep and Study Guide: 12 Practice Exams + 2 Full Final Exams](https://passyourvirginiacontractorexam.com/journeyman-electrician/study-guide-2023/)
+The printed study guide with practice exams.
 
 $59.95 (was $70) Save 14%  to $144.95
 [Buy now](https://1examprep.com/cart/46226780028985:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/journeyman-electrician/study-guide-2023/)
 
 Study Guide
+[Virginia 2026 Journeyman Electrician Exam Prep and Study Guide: 12 Practice Exams +2 Full Final Exams](https://passyourvirginiacontractorexam.com/journeyman-electrician/study-guide-2026/)
 
-### [Virginia 2026 Journeyman Electrician Exam Prep and Study Guide: 12 Practice Exams +2 Full Final Exams](https://passyourvirginiacontractorexam.com/journeyman-electrician/study-guide-2026/)
+The printed study guide with practice exams.
 
 $59.95 (was $70) Save 14%  to $144.95
 [Buy now](https://1examprep.com/cart/45899861000249:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/journeyman-electrician/study-guide-2026/)
 
 Book Package
+[Virginia Journeyman Electrician Book Package](https://passyourvirginiacontractorexam.com/journeyman-electrician/book-package/)
 
-### [Virginia Journeyman Electrician Book Package](https://passyourvirginiacontractorexam.com/journeyman-electrician/book-package/)
+The reference books the exam is written to, new and unmarked.
 
 $399 (was $444) Save 10%
 [Buy now](https://1examprep.com/cart/41290042933305:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/journeyman-electrician/book-package/)
 
 Book Package
+[Virginia NASCLA Journeyman Electrician Exam Book Package](https://passyourvirginiacontractorexam.com/journeyman-electrician/book-package-2/)
 
-### [Virginia NASCLA Journeyman Electrician Exam Book Package](https://passyourvirginiacontractorexam.com/journeyman-electrician/book-package-2/)
+The reference books the exam is written to, new and unmarked.
 
 $795 (was $895) Save 11%
 [Buy now](https://1examprep.com/cart/46444714098745:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/journeyman-electrician/book-package-2/)
 
 Study Guide + NEC with Tabs
+[2023 Virginia Journeyman Electrician Study Guide & National Electrical Code Combo with Tabs](https://passyourvirginiacontractorexam.com/journeyman-electrician/study-guide-nec-tabs-2023/)
 
-### [2023 Virginia Journeyman Electrician Study Guide & National Electrical Code Combo with Tabs](https://passyourvirginiacontractorexam.com/journeyman-electrician/study-guide-nec-tabs-2023/)
+The study guide, the national electrical code and pre-printed tabs.
 
 $249.95 (was $280) Save 11%  to $339.95
 [Buy now](https://1examprep.com/cart/46206992351289:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/journeyman-electrician/study-guide-nec-tabs-2023/)
 
 Study Guide + NEC with Tabs
+[2026 Virginia Journeyman Electrician Study Guide & National Electrical Code Combo with Tabs](https://passyourvirginiacontractorexam.com/journeyman-electrician/study-guide-nec-tabs-2026/)
 
-### [2026 Virginia Journeyman Electrician Study Guide & National Electrical Code Combo with Tabs](https://passyourvirginiacontractorexam.com/journeyman-electrician/study-guide-nec-tabs-2026/)
+The study guide, the national electrical code and pre-printed tabs.
 
 $249.95 (was $350) Save 29%  to $339.95
 [Buy now](https://1examprep.com/cart/45967743516729:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/journeyman-electrician/study-guide-nec-tabs-2026/)
 
 Study Guide + Calculations + NEC
+[2023 Virginia Journeyman Electrician + Electrician Calculations Study Guides & National Electrical Code Combo](https://passyourvirginiacontractorexam.com/journeyman-electrician/study-guide-calculations-nec-2023/)
 
-### [2023 Virginia Journeyman Electrician + Electrician Calculations Study Guides & National Electrical Code Combo](https://passyourvirginiacontractorexam.com/journeyman-electrician/study-guide-calculations-nec-2023/)
+The study guide, the calculations guide and the national electrical code.
 
 $279.95 (was $315) Save 11%  to $399.95
 [Buy now](https://1examprep.com/cart/46209789657145:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/journeyman-electrician/study-guide-calculations-nec-2023/)
 
 Study Guide + Calculations + NEC
+[2026 Virginia Journeyman Electrician + Electrician Calculations Study Guides & National Electrical Code Combo](https://passyourvirginiacontractorexam.com/journeyman-electrician/study-guide-calculations-nec-2026/)
 
-### [2026 Virginia Journeyman Electrician + Electrician Calculations Study Guides & National Electrical Code Combo](https://passyourvirginiacontractorexam.com/journeyman-electrician/study-guide-calculations-nec-2026/)
+The study guide, the calculations guide and the national electrical code.
 
 $279.95 (was $315) Save 11%  to $399.95
 [Buy now](https://1examprep.com/cart/46207424692281:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/journeyman-electrician/study-guide-calculations-nec-2026/)
 
-Highlighted and Tabbed Books
+## Journeyman Electrician options: study guides, books and tabs, part 1
 
-### [Virginia Journeyman Electrician Book Package - Highlighted and Tabbed](https://passyourvirginiacontractorexam.com/journeyman-electrician/highlighted-tabbed/)
+2 products of the 33 Journeyman Electrician options, from $499.
+
+Highlighted and Tabbed Books
+[Virginia Journeyman Electrician Book Package - Highlighted and Tabbed](https://passyourvirginiacontractorexam.com/journeyman-electrician/highlighted-tabbed/)
+
+The reference books already highlighted and permanently tabbed, ready for the exam room.
 
 $499 (was $555) Save 10%
 [Buy now](https://1examprep.com/cart/41290043260985:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/journeyman-electrician/highlighted-tabbed/)
 
 Highlighted and Tabbed Books
+[Virginia NASCLA Journeyman Electrician - Highlighted and Tabbed Book Package](https://passyourvirginiacontractorexam.com/journeyman-electrician/highlighted-tabbed-2/)
 
-### [Virginia NASCLA Journeyman Electrician - Highlighted and Tabbed Book Package](https://passyourvirginiacontractorexam.com/journeyman-electrician/highlighted-tabbed-2/)
+The reference books already highlighted and permanently tabbed, ready for the exam room.
 
 $1,145 (was $1,345) Save 15%
 [Buy now](https://1examprep.com/cart/46444922142777:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/journeyman-electrician/highlighted-tabbed-2/)
 
 ## Journeyman Electrician options: combos and complete packages, part 1
 
-12 products of the 33 Journeyman Electrician options, from $240.
+10 products of the 33 Journeyman Electrician options, from $240.
 
 Super Combo
+[2023 Virginia Journeyman Electrician + Electrician Calculations Study Guides + Flash Cards & National Electrical Code +Tabs Super Combo](https://passyourvirginiacontractorexam.com/journeyman-electrician/super-combo-2023/)
 
-### [2023 Virginia Journeyman Electrician + Electrician Calculations Study Guides + Flash Cards & National Electrical Code +Tabs Super Combo](https://passyourvirginiacontractorexam.com/journeyman-electrician/super-combo-2023/)
+Study guide, calculations guide, flash cards, the nec and tabs.
 
 $349.95 (was $395) Save 11%  to $399.95
 [Buy now](https://1examprep.com/cart/46213496799289:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/journeyman-electrician/super-combo-2023/)
 
 Super Combo
+[2026 Virginia Journeyman Electrician + Electrician Calculations Study Guides + Flash Cards & National Electrical Code + Tabs Super Combo](https://passyourvirginiacontractorexam.com/journeyman-electrician/super-combo-2026/)
 
-### [2026 Virginia Journeyman Electrician + Electrician Calculations Study Guides + Flash Cards & National Electrical Code + Tabs Super Combo](https://passyourvirginiacontractorexam.com/journeyman-electrician/super-combo-2026/)
+Study guide, calculations guide, flash cards, the nec and tabs.
 
 $349.95 (was $395) Save 11%  to $399.95
 [Buy now](https://1examprep.com/cart/46213831557177:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/journeyman-electrician/super-combo-2026/)
 
 Ultimate Combo
+[2023 Virginia Journeyman Electrician Exam Prep Study Guides & Code Book Ultimate Combo](https://passyourvirginiacontractorexam.com/journeyman-electrician/ultimate-combo-2023/)
 
-### [2023 Virginia Journeyman Electrician Exam Prep Study Guides & Code Book Ultimate Combo](https://passyourvirginiacontractorexam.com/journeyman-electrician/ultimate-combo-2023/)
+The full study set plus the online test kit.
 
 $399.95 (was $495) Save 19%  to $499.95
 [Buy now](https://1examprep.com/cart/46290874204217:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/journeyman-electrician/ultimate-combo-2023/)
 
 Ultimate Combo
+[2026 Virginia Journeyman Electrician Exam Prep Study Guides & Code Book Ultimate Combo](https://passyourvirginiacontractorexam.com/journeyman-electrician/ultimate-combo-2026/)
 
-### [2026 Virginia Journeyman Electrician Exam Prep Study Guides & Code Book Ultimate Combo](https://passyourvirginiacontractorexam.com/journeyman-electrician/ultimate-combo-2026/)
+The full study set plus the online test kit.
 
 $399.95 (was $495) Save 19%  to $499.95
 [Buy now](https://1examprep.com/cart/46454116679737:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/journeyman-electrician/ultimate-combo-2026/)
 
 Study Package with NEC Course
+[2023 Virginia Journeyman Electrician Exam Prep Study Package Includes Instructor Led NEC Course](https://passyourvirginiacontractorexam.com/journeyman-electrician/nec-course-package-2023/)
 
-### [2023 Virginia Journeyman Electrician Exam Prep Study Package Includes Instructor Led NEC Course](https://passyourvirginiacontractorexam.com/journeyman-electrician/nec-course-package-2023/)
+The study package plus an instructor-led nec course.
 
 $499.95 (was $650) Save 23%
 [Buy now](https://1examprep.com/cart/46286164688953:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/journeyman-electrician/nec-course-package-2023/)
 
 Study Package with NEC Course
+[2026 Virginia Journeyman Electrician Exam Prep Study Package Includes Instructor Led NEC Course](https://passyourvirginiacontractorexam.com/journeyman-electrician/nec-course-package-2026/)
 
-### [2026 Virginia Journeyman Electrician Exam Prep Study Package Includes Instructor Led NEC Course](https://passyourvirginiacontractorexam.com/journeyman-electrician/nec-course-package-2026/)
+The study package plus an instructor-led nec course.
 
 $499.95 (was $650) Save 23%
 [Buy now](https://1examprep.com/cart/46295691362361:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/journeyman-electrician/nec-course-package-2026/)
 
 Exam Prep Package
+[Virginia 2020 Journeyman Electrician Exam Prep Package](https://passyourvirginiacontractorexam.com/journeyman-electrician/exam-prep-package-2020/)
 
-### [Virginia 2020 Journeyman Electrician Exam Prep Package](https://passyourvirginiacontractorexam.com/journeyman-electrician/exam-prep-package-2020/)
+An exam prep package for an earlier code cycle.
 
 $240 (was $275) Save 13%  to $770
 [Buy now](https://1examprep.com/cart/31522090680377:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/journeyman-electrician/exam-prep-package-2020/)
 
 Exam Prep Package
+[Virginia 2017 Journeyman Electrician Exam Prep Package](https://passyourvirginiacontractorexam.com/journeyman-electrician/exam-prep-package-2017/)
 
-### [Virginia 2017 Journeyman Electrician Exam Prep Package](https://passyourvirginiacontractorexam.com/journeyman-electrician/exam-prep-package-2017/)
+An exam prep package for an earlier code cycle.
 
 $350 (was $390) Save 10%
 [Buy now](https://1examprep.com/cart/19317989015609:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/journeyman-electrician/exam-prep-package-2017/)
 
 Jump Start Package (any state)
+[2020 Journeyman Electrician Jump Start Package](https://passyourvirginiacontractorexam.com/journeyman-electrician/jump-start-package-2020-any-state-2/)
 
-### [2020 Journeyman Electrician Jump Start Package](https://passyourvirginiacontractorexam.com/journeyman-electrician/jump-start-package-2020-any-state-2/)
+A starter set of books and online practice.
 
 $350 (was $390) Save 10%
 [Buy now](https://1examprep.com/cart/31343909077049:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/journeyman-electrician/jump-start-package-2020-any-state-2/)
 
 Jump Start Package (any state)
+[2023 Journeyman Electrician Jump Start Package](https://passyourvirginiacontractorexam.com/journeyman-electrician/jump-start-package-2023-any-state/)
 
-### [2023 Journeyman Electrician Jump Start Package](https://passyourvirginiacontractorexam.com/journeyman-electrician/jump-start-package-2023-any-state/)
+A starter set of books and online practice.
 
 $350 (was $390) Save 10%
 [Buy now](https://1examprep.com/cart/41165705216057:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/journeyman-electrician/jump-start-package-2023-any-state/)
 
-Jump Start Package (any state)
+## Journeyman Electrician options: combos and complete packages, part 1
 
-### [2025 Journeyman Electrician Jump Start Package](https://passyourvirginiacontractorexam.com/journeyman-electrician/jump-start-package-2025-any-state/)
+5 products of the 33 Journeyman Electrician options, from $350.
+
+Jump Start Package (any state)
+[2025 Journeyman Electrician Jump Start Package](https://passyourvirginiacontractorexam.com/journeyman-electrician/jump-start-package-2025-any-state/)
+
+A starter set of books and online practice.
 
 $350 (was $390) Save 10%
 [Buy now](https://1examprep.com/cart/44070067568697:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/journeyman-electrician/jump-start-package-2025-any-state/)
 
 Jump Start Package (any state)
+[2020 Journeyman Electrician Jump Start Book Package (w/ Spiral-bound NEC)](https://passyourvirginiacontractorexam.com/journeyman-electrician/jump-start-package-2020-any-state/)
 
-### [2020 Journeyman Electrician Jump Start Book Package (w/ Spiral-bound NEC)](https://passyourvirginiacontractorexam.com/journeyman-electrician/jump-start-package-2020-any-state/)
+A starter set of books and online practice.
 
 $360 (was $400) Save 10%
 [Buy now](https://1examprep.com/cart/31518024859705:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/journeyman-electrician/jump-start-package-2020-any-state/)
 
-## Journeyman Electrician options: combos and complete packages, part 2
-
-3 products of the 33 Journeyman Electrician options, from $350.
-
 Complete Package (any state)
+[2020 Complete Journeyman Electrician Package](https://passyourvirginiacontractorexam.com/journeyman-electrician/complete-package-2020-any-state/)
 
-### [2020 Complete Journeyman Electrician Package](https://passyourvirginiacontractorexam.com/journeyman-electrician/complete-package-2020-any-state/)
+The books, tabs and course together.
 
 $350 (was $390) Save 10%
 [Buy now](https://1examprep.com/cart/39303835254841:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/journeyman-electrician/complete-package-2020-any-state/)
 
 Complete Package (any state)
+[2023 Complete Journeyman Electrician Exam Prep Package](https://passyourvirginiacontractorexam.com/journeyman-electrician/complete-package-2023-any-state/)
 
-### [2023 Complete Journeyman Electrician Exam Prep Package](https://passyourvirginiacontractorexam.com/journeyman-electrician/complete-package-2023-any-state/)
+The books, tabs and course together.
 
 $350 (was $490) Save 29%
 [Buy now](https://1examprep.com/cart/41165580369977:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/journeyman-electrician/complete-package-2023-any-state/)
 
 Complete Package (any state)
+[2025 Complete Journeyman Electrician Exam Prep Package](https://passyourvirginiacontractorexam.com/journeyman-electrician/complete-package-2025-any-state/)
 
-### [2025 Complete Journeyman Electrician Exam Prep Package](https://passyourvirginiacontractorexam.com/journeyman-electrician/complete-package-2025-any-state/)
+The books, tabs and course together.
 
 $350 (was $490) Save 29%
 [Buy now](https://1examprep.com/cart/44069982765113:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/journeyman-electrician/complete-package-2025-any-state/)
@@ -260,15 +295,17 @@ $350 (was $490) Save 29%
 2 products of the 33 Journeyman Electrician options, from $1,370.
 
 Books and Courses Rental
+[Virginia NASCLA Journeyman Electrician - Books & Courses Rental Package](https://passyourvirginiacontractorexam.com/journeyman-electrician/rental-package/)
 
-### [Virginia NASCLA Journeyman Electrician - Books & Courses Rental Package](https://passyourvirginiacontractorexam.com/journeyman-electrician/rental-package/)
+The reference books on rental plus the online course, returned after your exam.
 
 $1,370 (was $1,770) Save 23%
 [Buy now](https://1examprep.com/cart/46445035520057:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/journeyman-electrician/rental-package/)
 
 Ultimate Rental Package
+[Virginia NASCLA Journeyman Electrician Ultimate Exam Prep Rental Package](https://passyourvirginiacontractorexam.com/journeyman-electrician/ultimate-rental/)
 
-### [Virginia NASCLA Journeyman Electrician Ultimate Exam Prep Rental Package](https://passyourvirginiacontractorexam.com/journeyman-electrician/ultimate-rental/)
+Highlighted and tabbed rental books, the online course and live training.
 
 $1,795 (was $2,195) Save 18%
 [Buy now](https://1examprep.com/cart/46445131595833:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/journeyman-electrician/ultimate-rental/)

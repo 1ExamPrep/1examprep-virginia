@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Class A/B Business and Law exam
 - Online access arrives by email after purchase
 
+The Online Practice Exams costs $79.99 and is written for the Class A/B Business and Law exam. Online access arrives by email after purchase, and Buy now takes you straight to checkout.
+
 ## About this Class A/B Business and Law package
 
 Virginia Class A/B Business Exam - Online Practice Questions Prepare for the Virginia Class A/B Business Exam with online practice questions designed to help contractor candidates review Virginia contractor business law, licensing responsibilities, business organization, contracts, estimating, bidding, project management, scheduling, insurance, safety responsibilities, employment issues, financial management, tax basics, lien law concepts, Virginia building code administration topics, and contractor compliance before test day.

@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Swimming Pool Construction Contractor exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Ultimate Rental Package costs $2,510 and is written for the Swimming Pool Construction Contractor exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Swimming Pool Construction Contractor package
 
 Virginia Swimming Pool Construction Contractor Ultimate Exam Prep Rental Package Prepare for the Virginia Swimming Pool Construction Contractor licensing process with an Ultimate Exam Prep Rental Package that combines technical reference books, structured exam preparation, 1 year of course access, and Application Service. This package is designed for contractors and Qualified Individuals pursuing the Virginia Swimming Pool Construction Contracting (POL) specialty who want a coordinated approach to examination preparation and the licensing application process.

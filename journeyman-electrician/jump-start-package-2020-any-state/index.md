@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Journeyman Electrician exam (any state)
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Jump Start Package costs $360 and is written for the Journeyman Electrician exam (any state). Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Journeyman Electrician package
 
 2020 Journeyman Electrician Jump Start Book Package (w/ Spiral-bound NEC) If you’re preparing for a journeyman electrician exam, you already know the hard part isn’t just “learning the code.” The real challenge is answering questions quickly, staying accurate under time pressure, and proving you can navigate the National Electrical Code when a scenario gets specific. That’s exactly what the 2020 Journeyman Electrician Jump Start Book Package (w/ Spiral-bound NEC) is built for.

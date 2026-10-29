@@ -86,3 +86,4 @@ html:not([data-list]) .va-lic:hover b,[data-list="1"] .va-lic:hover b{color:var(
 [data-list="5"] .va-p{font-size:.8rem;font-weight:700;color:var(--accent);background:color-mix(in srgb,var(--accent) 12%,transparent);padding:.2rem .6rem;border-radius:999px;white-space:nowrap}
 [data-list="5"] .va-lic:hover{border-color:var(--accent);background:color-mix(in srgb,var(--accent) 6%,var(--card,#fff))}
 .va-p small{font-size:inherit;font-weight:inherit}
+.pc-what{margin:.1rem 0 0;font-size:.85rem;line-height:1.4;color:var(--muted)}.included-sum{margin:.8rem 0 0;color:var(--muted)}

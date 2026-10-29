@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Framing Contractor exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Book Package costs $595 and is written for the Framing Contractor exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Framing Contractor package
 
 Virginia Framing Contractor Exam Complete Book Package Prepare for the Virginia Framing Contractor examination with a complete technical book package built around the core references used for framing, rough carpentry, building-code requirements, residential construction, and OSHA safety. This package is designed for contractors, qualified individuals, framing subcontractors, construction supervisors, carpenters, and experienced tradespeople preparing for Virginia's Framing Contractor specialty examination. Virginia identifies the Framing Contractor specialty with the abbreviation FRM.

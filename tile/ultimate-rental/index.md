@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Tile, Marble, Ceramic and Terrazzo Contractor exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Ultimate Rental Package costs $1,810 and is written for the Tile, Marble, Ceramic and Terrazzo Contractor exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Tile, Marble, Ceramic and Terrazzo Contractor package
 
 Virginia Tile, Marble, Ceramic and Terrazzo Contractor Ultimate Exam Prep Rental Package Prepare for the Virginia Tile, Marble, Ceramic and Terrazzo Contractor licensing process with an Ultimate Exam Prep Rental Package that combines technical reference books, structured exam preparation, 1 year of course access, and Application Service. This package is designed for contractors, tile installers, terrazzo professionals, supervisors, estimators, and Qualified Individuals pursuing Virginia's Tile, Marble, Ceramic and Terrazzo Contracting (TMC) specialty.

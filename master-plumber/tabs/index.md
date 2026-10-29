@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Master Plumber exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Pre-Printed Tabs costs $29.99 and is written for the Master Plumber exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Master Plumber package
 
 VIRGINIA MASTER PLUMBER EXAM; PRE-PRINTED TABS The Virginia Master Plumber Exam Pre-Printed Tabs set from Pass Your Virginia Contractor Exam is designed to help candidates efficiently navigate reference materials during the Virginia Department of Professional and Occupational Regulation (DPOR) master plumber licensing examination. These durable, color-coded tabs correspond to key sections of the International Plumbing Code (IPC) and other approved references used in the PSI open-book test.

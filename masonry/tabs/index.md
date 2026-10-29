@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Masonry Contractor exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Pre-Printed Tabs costs $74.99 and is written for the Masonry Contractor exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Masonry Contractor package
 
 VIRGINIA MASONRY CONTRACTING EXAM; PRE-PRINTED TABS The Virginia Masonry Contracting Exam Pre-Printed Tabs set from Pass Your Virginia Contractor Exam is created to help candidates efficiently organize and reference materials during the Virginia Department of Professional and Occupational Regulation (DPOR) masonry contractor licensing examination. These durable, color-coded tabs correspond to essential sections within masonry and construction code references used in the PSI open-book test. Topics include brick and block installation, mortar types, reinforcement methods, fire resistance, and safety practices.

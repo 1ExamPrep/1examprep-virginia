@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Roofing Contractor exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Ultimate Rental Package costs $2,510 and is written for the Roofing Contractor exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Roofing Contractor package
 
 Virginia Roofing Contractor Ultimate Exam Prep Rental Package Prepare for the Virginia Roofing Contractor licensing process with an Ultimate Exam Prep Rental Package that combines roofing reference books, structured exam preparation, 1 year of course access, and Application Service. This package is designed for roofing professionals who want a comprehensive preparation solution covering the Virginia Roofing Contracting specialty, contractor business material, state building regulations, technical roofing knowledge, and the licensing application process.

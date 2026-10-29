@@ -36,6 +36,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Books ship from our fulfillment center; online parts arrive by email
 - Options from $1,290 to $1,740, chosen above before checkout
 
+The Books and Courses Rental costs $1,290 to $1,740 with the options above and is written for the Building Plans Examiner (B3) exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 **Options at checkout:** Book & Courses Rental - Self Study; Book & Courses Rental - Self Study + State Application [+$450]. Pick one above and the price updates.
 
 ## About this Building Plans Examiner (B3) package

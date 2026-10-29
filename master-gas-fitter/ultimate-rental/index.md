@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Master Gas Fitter (LP) exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Ultimate Rental Package costs $1,660 and is written for the Master Gas Fitter (LP) exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Master Gas Fitter (LP) package
 
 Virginia Master Gasfitter Contractor Ultimate Exam Prep Rental Package Prepare for the Virginia Master Gasfitter examination with an Ultimate Exam Prep Rental Package that combines technical reference books, structured online preparation, and Application Service in one comprehensive option. This package is designed for candidates pursuing the Virginia Master Gasfitter credential who want a more organized way to study the technical material, work directly with the applicable references, and prepare for the licensing process.

@@ -36,6 +36,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Books ship from our fulfillment center; online parts arrive by email
 - Options from $640 to $1,090, chosen above before checkout
 
+The Books and Courses Rental costs $640 to $1,090 with the options above and is written for the Residential Plans Examiner (R3) exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 **Options at checkout:** Book & Course Rental - Self Study; Book & Course Rental - Self Study + State Application [+$450]. Pick one above and the price updates.
 
 ## About this Residential Plans Examiner (R3) package

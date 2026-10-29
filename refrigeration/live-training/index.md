@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Refrigeration Contractor exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Live Virtual Training costs $495 and is written for the Refrigeration Contractor exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Refrigeration Contractor package
 
 Virginia Refrigeration Contractor Exam Prep - Live Virtual + Self Study Training Prepare for the Virginia Refrigeration Contractor examination with a flexible training program that combines Live Virtual instruction with Self Study exam preparation. This format gives refrigeration professionals the structure of instructor-led training while allowing additional time for independent review, practice-oriented preparation, and reference-book navigation between live classes. Virginia identifies Refrigeration Contracting by the specialty abbreviation REF.

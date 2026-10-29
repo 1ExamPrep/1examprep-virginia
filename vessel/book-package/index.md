@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Vessel Contractor exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Book Package costs $1,895 and is written for the Vessel Contractor exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Vessel Contractor package
 
 Virginia Vessel Contractor Exam Complete Book Package Prepare for the Virginia Vessel Construction Contracting (VCC) examination with a complete technical book package covering underground and aboveground storage systems, excavation, welding, rigging, construction safety, piping, and related vessel construction subjects. This package is designed for contractors, qualified individuals, project supervisors, welders, rigging professionals, tank installers, and experienced construction tradespeople preparing for the Virginia Vessel Construction Contracting specialty examination.

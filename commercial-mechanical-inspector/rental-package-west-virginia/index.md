@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Commercial Mechanical Inspector (M2) exam (West Virginia edition)
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Books and Courses Rental costs $840 and is written for the Commercial Mechanical Inspector (M2) exam (West Virginia edition). Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Commercial Mechanical Inspector (M2) package
 
 West Virginia Commercial Mechanical Inspector (ICC - M2) - Books & Courses Rental Package The West Virginia Commercial Mechanical Inspector (ICC - M2) - Books & Courses Rental Package is designed for candidates preparing for the ICC M2 Commercial Mechanical Inspector certification exam using the 2021 International Mechanical Code and the 2021 International Fuel Gas Code. This package combines rental reference books with online exam prep so candidates can study with the materials connected to the commercial mechanical inspection exam while building stronger code-navigation skills.

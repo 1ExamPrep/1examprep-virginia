@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Floor and Floor Covering Contractor exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Ultimate Rental Package costs $2,010 and is written for the Floor and Floor Covering Contractor exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Floor and Floor Covering Contractor package
 
 Virginia Flooring and Floor Covering Contractor Ultimate Exam Prep Rental Package Prepare for the Virginia Flooring and Floor Covering Contractor Exam with a comprehensive Ultimate Exam Prep Rental Package designed for candidates pursuing the Virginia Flooring and Floor Covering Contracting specialty, commonly identified as FLR.

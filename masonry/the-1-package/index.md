@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Masonry Contractor exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The The 1 Package (all-inclusive) costs $2,510 and is written for the Masonry Contractor exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Masonry Contractor package
 
 The 1 Package: All-Inclusive Virginia Masonry Contractor Exam, Licensing & Business Setup Solution Take a more complete approach to becoming a Virginia Masonry Contractor with The 1 Package, an all-inclusive solution that brings together exam preparation, rental reference books, contractor licensing support, Application Service, and business setup assistance.

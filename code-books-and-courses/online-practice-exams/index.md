@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Code Books and Code Courses exam (any state)
 - Online access arrives by email after purchase
 
+The Online Practice Exams costs $125 and is written for the Code Books and Code Courses exam (any state). Online access arrives by email after purchase, and Buy now takes you straight to checkout.
+
 ## About this Code Books and Code Courses package
 
 ONLINE COURSE REVIEW TO THE INTERNATIONAL BUILDING CODE (IBC)®The Online Course Review to the International Building Code (IBC)® by Pass Your Virginia Contractor Exam provides structured training aligned with the International Code Council (ICC) requirements for building officials, plans examiners, and general contractors. This course focuses on the 2021 edition of the IBC, covering essential topics such as occupancy classifications, construction types, egress systems, and fire-resistance ratings.

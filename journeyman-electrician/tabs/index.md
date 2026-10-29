@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Journeyman Electrician exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Pre-Printed Tabs costs $39.99 and is written for the Journeyman Electrician exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Journeyman Electrician package
 
 VIRGINIA JOURNEYMAN ELECTRICIAN EXAM; PRE-PRINTED TABS The Virginia Journeyman Electrician Exam Pre-Printed Tabs set from Pass Your Virginia Contractor Exam is designed to help candidates efficiently navigate their reference materials during the Virginia Department of Professional and Occupational Regulation (DPOR) journeyman electrician licensing examination. These durable, color-coded tabs correspond to key sections of the National Electrical Code (NEC) and related references used in the PSI open-book test.

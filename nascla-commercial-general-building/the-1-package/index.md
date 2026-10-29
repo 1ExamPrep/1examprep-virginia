@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the NASCLA Commercial General Building Contractor exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The The 1 Package (all-inclusive) costs $4,674 and is written for the NASCLA Commercial General Building Contractor exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this NASCLA Commercial General Building Contractor package
 
 The 1 Package: All-Inclusive Virginia NASCLA Commercial General Building Contractor Licensing & Business Setup Prepare for Virginia commercial building contractor licensing with an all-inclusive solution that combines NASCLA Commercial General Building Contractor exam preparation, Virginia contractor business and law study, a comprehensive construction reference library, licensing Application Service, and essential business setup assistance.

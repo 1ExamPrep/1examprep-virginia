@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Master Electrician exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Exam Prep Package costs $350 and is written for the Master Electrician exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Master Electrician package
 
 Virginia 2017 Master Electrician Exam Prep PackageThe Virginia 2017 Master Electrician Exam Prep Package from Pass Your Virginia Contractor Exam is developed in accordance with the Virginia Department of Professional and Occupational Regulation (DPOR) and the Board for Contractors’ requirements for the Master Electrician license. Based on the 2017 National Electrical Code (NEC), this prep package focuses on code application, service calculations, branch circuits, grounding and bonding, transformers, motors, and overcurrent protection.

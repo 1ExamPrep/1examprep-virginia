@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Master Natural Gas Fitter exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Books and Courses Rental costs $1,805 and is written for the Master Natural Gas Fitter exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Master Natural Gas Fitter package
 
 Virginia Master Natural Gasfitter - Books & Courses Rental Package The Virginia Master Natural Gasfitter - Books & Courses Rental Package is designed for candidates preparing for the Virginia Master Natural Gasfitter trade exam and related Virginia contractor business preparation. This package combines the key gasfitter reference books, Virginia business and law references, and structured online course access into one organized rental option for students who want a focused study path.

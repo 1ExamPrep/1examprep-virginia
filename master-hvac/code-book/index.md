@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Master HVAC exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Code Book costs $65 and is written for the Master HVAC exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Master HVAC package
 
 Virginia Master HVAC Licensing Exam Prep Study Flash Cards Prepare for the Virginia Master HVAC licensing examination with 250 HVAC exam prep study flash cards built to reinforce the technical knowledge, Virginia regulations, HVAC terminology, system concepts, and trade principles covered on the Master HVAC examination. The Virginia Master HVAC exam covers a broad range of heating, ventilation, air conditioning, refrigeration, hydronic, duct, combustion, control, and regulatory subjects.

@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Journeyman Electrician exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Highlighted and Tabbed Books costs $499 and is written for the Journeyman Electrician exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Journeyman Electrician package
 
 VIRGINIA JOURNEYMAN ELECTRICIAN BOOK PACKAGE - HIGHLIGHTED AND TABBED The Virginia Journeyman Electrician Book Package - Highlighted and Tabbed from Pass Your Virginia Contractor Exam includes all required reference materials approved by the Virginia Department of Professional and Occupational Regulation (DPOR) for the journeyman electrician licensing examination. Each book is professionally highlighted and tabbed to correspond with PSI’s open-book test format, enabling fast access to essential information.

@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Journeyman Natural Gas Fitter exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Live Virtual Training costs $495 and is written for the Journeyman Natural Gas Fitter exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Journeyman Natural Gas Fitter package
 
 Virginia Journeyman Natural Gasfitter Exam Prep - Live Virtual + Self Study Training Prepare for the Virginia Journeyman Natural Gasfitter examination with a training format that combines live virtual instruction with flexible self study exam preparation. This program is designed for candidates who want instructor-led training while also having the ability to review technical material, work with the exam references, and reinforce important natural gasfitting concepts independently.

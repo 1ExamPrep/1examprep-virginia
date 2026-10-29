@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Journeyman Electrician exam (any state)
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Jump Start Package costs $350 and is written for the Journeyman Electrician exam (any state). Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 **Options at checkout:** Alabama; Alaska; Arizona; Arkansas; California. Pick one above and the price updates.
 
 ## About this Journeyman Electrician package

@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Master Natural Gas Fitter exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Live Virtual Training costs $495 and is written for the Master Natural Gas Fitter exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Master Natural Gas Fitter package
 
 Virginia Master Natural Gasfitter Contractor Exam Prep - Live Virtual + Self Study Training Prepare for the Virginia Master Natural Gasfitter examination with a combination of live virtual instruction and self-study training designed around the technical knowledge, Virginia regulations, and reference-navigation skills associated with natural gas fitting. This training option gives candidates a structured way to review natural gas systems while also developing the ability to work efficiently with the technical references used during open-book testing.

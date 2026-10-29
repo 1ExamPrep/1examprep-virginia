@@ -27,8 +27,9 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
 
 Highlighted and Tabbed Books
+[Virginia Farm Improvement Contracting Exam Complete Pre-Highlighted and Tabbed Book Package](https://passyourvirginiacontractorexam.com/farm-improvement/highlighted-tabbed/)
 
-### [Virginia Farm Improvement Contracting Exam Complete Pre-Highlighted and Tabbed Book Package](https://passyourvirginiacontractorexam.com/farm-improvement/highlighted-tabbed/)
+The reference books already highlighted and permanently tabbed, ready for the exam room.
 
 $1,545 (was $1,745) Save 11%
 [Buy now](https://1examprep.com/cart/44381578494009:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/farm-improvement/highlighted-tabbed/)

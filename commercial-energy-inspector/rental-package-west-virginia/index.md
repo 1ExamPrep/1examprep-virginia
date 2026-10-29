@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Commercial Energy Inspector exam (West Virginia edition)
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Books and Courses Rental costs $540 and is written for the Commercial Energy Inspector exam (West Virginia edition). Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Commercial Energy Inspector package
 
 West Virginia Commercial Energy Inspector (ICC - 77) - Books & Courses Rental Package The West Virginia Commercial Energy Inspector (ICC - 77) Books & Courses Rental Package is designed for students preparing for the ICC Commercial Energy Inspector certification exam using the 2021 International Energy Conservation Code. This package gives students rental access to the required code book and structured course support for focused commercial energy inspection exam preparation.

@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Commercial Mechanical Inspector (M2) exam (Ohio edition)
 - Online access arrives by email after purchase
 
+The Online Exam Prep Course costs $295 and is written for the Commercial Mechanical Inspector (M2) exam (Ohio edition). Online access arrives by email after purchase, and Buy now takes you straight to checkout.
+
 ## About this Commercial Mechanical Inspector (M2) package
 
 Ohio Commercial Mechanical Inspector (ICC - M2) - Online Exam Prep The Ohio Commercial Mechanical Inspector (ICC - M2) - Online Exam Prep is designed for candidates preparing for the ICC Commercial Mechanical Inspector certification exam using the 2021 International Mechanical Code and the 2021 International Fuel Gas Code.

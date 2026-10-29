@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Journeyman Electrician exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Books and Courses Rental costs $1,370 and is written for the Journeyman Electrician exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Journeyman Electrician package
 
 Virginia NASCLA Journeyman Electrician - Books & Courses Rental Package Prepare for the Virginia NASCLA Journeyman Electrician examination with a structured combination of online exam preparation and a complete highlighted and tabbed rental reference library. The Virginia NASCLA Journeyman Electrician - Books & Courses Rental Package is designed for candidates who want organized study support together with the electrical code, workplace safety, theory, fire alarm, and field-reference materials used to strengthen journeyman-level electrical knowledge and open-book examination skills.

@@ -22,93 +22,117 @@ See the packages
 
 Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 
-## 12 Journeyman Plumber packages
+## Journeyman Plumber options: online courses and practice
 
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
 
 Online Exam Prep Course
+[Virginia Journeyman Plumber - Online Exam Prep Course](https://passyourvirginiacontractorexam.com/journeyman-plumber/online-course/)
 
-### [Virginia Journeyman Plumber - Online Exam Prep Course](https://passyourvirginiacontractorexam.com/journeyman-plumber/online-course/)
+An online course with practice exams you can take on a phone or laptop.
 
 $295 (was $395) Save 25%  to $495
 [Buy now](https://1examprep.com/cart/41286702202937:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/journeyman-plumber/online-course/)
 
-Pre-Printed Tabs
-
-### [Virginia Journeyman Plumber Exam; Pre-Printed Tabs](https://passyourvirginiacontractorexam.com/journeyman-plumber/tabs/)
-
-$29.99 (was $33.50) Save 10%
-[Buy now](https://1examprep.com/cart/41290048569401:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/journeyman-plumber/tabs/)
-
 Study Guide and Online Course
+[2026 Virginia Journeyman Plumber Exam Prep Study Guide & Online Course](https://passyourvirginiacontractorexam.com/journeyman-plumber/study-guide-online-course-2026/)
 
-### [2026 Virginia Journeyman Plumber Exam Prep Study Guide & Online Course](https://passyourvirginiacontractorexam.com/journeyman-plumber/study-guide-online-course-2026/)
+The study guide plus the online course.
 
 $119.99 (was $150) Save 20%
 [Buy now](https://1examprep.com/cart/45745394122809:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/journeyman-plumber/study-guide-online-course-2026/)
 
-Study Guide
+## Journeyman Plumber options: study guides, books and tabs
 
-### [2026 Virginia Journeyman Plumber Exam Prep Study Guide](https://passyourvirginiacontractorexam.com/journeyman-plumber/study-guide-2026/)
+4 products of the 12 Journeyman Plumber options, from $29.99.
+
+Pre-Printed Tabs
+[Virginia Journeyman Plumber Exam; Pre-Printed Tabs](https://passyourvirginiacontractorexam.com/journeyman-plumber/tabs/)
+
+Pre-printed permanent tabs for the reference books, allowed in the exam room.
+
+$29.99 (was $33.50) Save 10%
+[Buy now](https://1examprep.com/cart/41290048569401:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/journeyman-plumber/tabs/)
+
+Study Guide
+[2026 Virginia Journeyman Plumber Exam Prep Study Guide](https://passyourvirginiacontractorexam.com/journeyman-plumber/study-guide-2026/)
+
+The printed study guide with practice exams.
 
 $59.99 (was $79) Save 24%
 [Buy now](https://1examprep.com/cart/45745394876473:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/journeyman-plumber/study-guide-2026/)
 
 Book Package
+[Virginia Journeyman Plumber Book Package](https://passyourvirginiacontractorexam.com/journeyman-plumber/book-package/)
 
-### [Virginia Journeyman Plumber Book Package](https://passyourvirginiacontractorexam.com/journeyman-plumber/book-package/)
+The reference books the exam is written to, new and unmarked.
 
 $149 (was $166) Save 10%
 [Buy now](https://1examprep.com/cart/41290046308409:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/journeyman-plumber/book-package/)
 
-Complete Package
-
-### [2026 Virginia Journeyman Plumber Exam Complete Books, Tabs & Course Package](https://passyourvirginiacontractorexam.com/journeyman-plumber/complete-package-2026/)
-
-$344.99 (was $400) Save 14%
-[Buy now](https://1examprep.com/cart/45745392615481:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/journeyman-plumber/complete-package-2026/)
-
 Highlighted and Tabbed Books
+[Virginia Journeyman Plumber Book Package - Highlighted and Tabbed](https://passyourvirginiacontractorexam.com/journeyman-plumber/highlighted-tabbed/)
 
-### [Virginia Journeyman Plumber Book Package - Highlighted and Tabbed](https://passyourvirginiacontractorexam.com/journeyman-plumber/highlighted-tabbed/)
+The reference books already highlighted and permanently tabbed, ready for the exam room.
 
 $225 (was $250) Save 10%
 [Buy now](https://1examprep.com/cart/41290048012345:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/journeyman-plumber/highlighted-tabbed/)
 
-Live Virtual Training
+## Journeyman Plumber options: combos and complete packages
 
-### [Virginia Journeyman Plumber Exam Prep - Live Virtual + Self Study Training](https://passyourvirginiacontractorexam.com/journeyman-plumber/live-training/)
+3 products of the 12 Journeyman Plumber options, from $175.
 
-$495 (was $695) Save 29%
-[Buy now](https://1examprep.com/cart/45846495756345:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/journeyman-plumber/live-training/)
+Complete Package
+[2026 Virginia Journeyman Plumber Exam Complete Books, Tabs & Course Package](https://passyourvirginiacontractorexam.com/journeyman-plumber/complete-package-2026/)
 
-Books and Courses Rental
+The books, tabs and course together.
 
-### [Virginia Journeyman Plumber - Book Rental Package](https://passyourvirginiacontractorexam.com/journeyman-plumber/rental-package/)
-
-$325 (was $625) Save 48%  to $525
-[Buy now](https://1examprep.com/cart/44449152958521:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/journeyman-plumber/rental-package/)
-
-Ultimate Rental Package
-
-### [Virginia Journeyman Plumber Ultimate Exam Prep Rental Package](https://passyourvirginiacontractorexam.com/journeyman-plumber/ultimate-rental/)
-
-$895 (was $1,095) Save 18%
-[Buy now](https://1examprep.com/cart/44449234911289:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/journeyman-plumber/ultimate-rental/)
+$344.99 (was $400) Save 14%
+[Buy now](https://1examprep.com/cart/45745392615481:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/journeyman-plumber/complete-package-2026/)
 
 Ultimate Exam Prep Package
+[Virginia Journeyman Plumber Ultimate Exam Prep Package [2021 IPC]](https://passyourvirginiacontractorexam.com/journeyman-plumber/ultimate-package-2021/)
 
-### [Virginia Journeyman Plumber Ultimate Exam Prep Package [2021 IPC]](https://passyourvirginiacontractorexam.com/journeyman-plumber/ultimate-package-2021/)
+The complete exam prep package.
 
 $325 (was $362) Save 10%
 [Buy now](https://1examprep.com/cart/40078893219897:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/journeyman-plumber/ultimate-package-2021/)
 
 Exam Prep Package
+[Virginia Journeyman Plumber Exam Prep Package [2021 IPC]](https://passyourvirginiacontractorexam.com/journeyman-plumber/exam-prep-package-2021/)
 
-### [Virginia Journeyman Plumber Exam Prep Package [2021 IPC]](https://passyourvirginiacontractorexam.com/journeyman-plumber/exam-prep-package-2021/)
+An exam prep package for an earlier code cycle.
 
 $175 (was $195) Save 10%
 [Buy now](https://1examprep.com/cart/40038697107513:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/journeyman-plumber/exam-prep-package-2021/)
+
+## Journeyman Plumber options: live training and rentals
+
+3 products of the 12 Journeyman Plumber options, from $325.
+
+Live Virtual Training
+[Virginia Journeyman Plumber Exam Prep - Live Virtual + Self Study Training](https://passyourvirginiacontractorexam.com/journeyman-plumber/live-training/)
+
+Live virtual classes with an instructor plus self-study material.
+
+$495 (was $695) Save 29%
+[Buy now](https://1examprep.com/cart/45846495756345:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/journeyman-plumber/live-training/)
+
+Books and Courses Rental
+[Virginia Journeyman Plumber - Book Rental Package](https://passyourvirginiacontractorexam.com/journeyman-plumber/rental-package/)
+
+The reference books on rental plus the online course, returned after your exam.
+
+$325 (was $625) Save 48%  to $525
+[Buy now](https://1examprep.com/cart/44449152958521:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/journeyman-plumber/rental-package/)
+
+Ultimate Rental Package
+[Virginia Journeyman Plumber Ultimate Exam Prep Rental Package](https://passyourvirginiacontractorexam.com/journeyman-plumber/ultimate-rental/)
+
+Highlighted and tabbed rental books, the online course and live training.
+
+$895 (was $1,095) Save 18%
+[Buy now](https://1examprep.com/cart/44449234911289:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/journeyman-plumber/ultimate-rental/)
 
 ## How do the Journeyman Plumber options compare?
 

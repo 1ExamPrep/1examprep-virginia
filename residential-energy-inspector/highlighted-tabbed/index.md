@@ -36,6 +36,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Books ship from our fulfillment center, 1 Exam Prep
 - Options from $245 to $540, chosen above before checkout
 
+The Highlighted and Tabbed Books costs $245 to $540 with the options above and is written for the Residential Energy Inspector / Plans Examiner exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 **Options at checkout:** Highlighted & Tabbed Book Package; Highlighted & Tabbed Book Package + Online Courses [+$295]. Pick one above and the price updates.
 
 ## About this Residential Energy Inspector / Plans Examiner package

@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Swimming Pool Construction Contractor exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The The 1 Package (all-inclusive) costs $3,210 and is written for the Swimming Pool Construction Contractor exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Swimming Pool Construction Contractor package
 
 The 1 Package: All-Inclusive Virginia Swimming Pool Construction Contractor Exam, Licensing & Business Setup Solution The 1 Package is an all-inclusive solution for professionals pursuing the Virginia Swimming Pool Construction Contracting (POL) specialty and preparing to establish a contracting business. It combines technical exam preparation, essential reference books, 1 year of course access, Application Service, Business Formation, EIN Filing with the IRS, and Contractor Compliance Guidance in one coordinated package.

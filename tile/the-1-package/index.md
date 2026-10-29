@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Tile, Marble, Ceramic and Terrazzo Contractor exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The The 1 Package (all-inclusive) costs $2,510 and is written for the Tile, Marble, Ceramic and Terrazzo Contractor exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Tile, Marble, Ceramic and Terrazzo Contractor package
 
 The 1 Package: All-Inclusive Virginia Tile, Marble, Ceramic and Terrazzo Contractor Exam, Licensing & Business Setup Solution The 1 Package is an all-inclusive preparation, licensing, and business setup solution for professionals pursuing the Virginia Tile, Marble, Ceramic and Terrazzo Contracting (TMC) specialty. It combines technical exam preparation, required study references, 1 year of course access, Application Service, Business Formation, EIN Filing with the IRS, and Contractor Compliance Guidance in one coordinated package.

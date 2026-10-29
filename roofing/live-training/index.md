@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Roofing Contractor exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Live Virtual Training costs $595 and is written for the Roofing Contractor exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Roofing Contractor package
 
 Virginia Roofing Contractor Exam Prep - Live Virtual + Self Study Training Prepare for the Virginia Roofing Contractor examination with a flexible training program that combines Live Virtual instruction with Self Study preparation. This format is designed for roofing professionals who want scheduled, instructor-led training while also having the flexibility to review roofing systems, building codes, construction safety, estimating, reroofing, waterproofing, and reference-book navigation independently. Virginia identifies Roofing Contracting by the specialty abbreviation ROC.

@@ -36,6 +36,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Books ship from our fulfillment center, 1 Exam Prep
 - Options from $1,045 to $1,495, chosen above before checkout
 
+The Book Package costs $1,045 to $1,495 with the options above and is written for the Swimming Pool Construction Contractor exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 **Options at checkout:** Book Package; Highlighted Tabbed Book Package [+$450]. Pick one above and the price updates.
 
 ## About this Swimming Pool Construction Contractor package

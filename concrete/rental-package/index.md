@@ -36,6 +36,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Books ship from our fulfillment center; online parts arrive by email
 - Options from $2,385 to $3,135, chosen above before checkout
 
+The Books and Courses Rental costs $2,385 to $3,135 with the options above and is written for the Concrete Contractor exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 **Options at checkout:** Books & Courses Rental - Self Study; Books & Courses Self Study + Live & Recorded Classes [+$300]; Books & Courses Self Study + Live & Recorded Classes + State Application [+$750]. Pick one above and the price updates.
 
 ## About this Concrete Contractor package

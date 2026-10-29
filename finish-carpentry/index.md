@@ -27,15 +27,17 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
 
 Book Package
+[Virginia Finish Carpentry Exam Complete Book Package](https://passyourvirginiacontractorexam.com/finish-carpentry/book-package/)
 
-### [Virginia Finish Carpentry Exam Complete Book Package](https://passyourvirginiacontractorexam.com/finish-carpentry/book-package/)
+The reference books the exam is written to, new and unmarked.
 
 $145 (was $245) Save 41%  to $245
 [Buy now](https://1examprep.com/cart/50623215468601:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/finish-carpentry/book-package/)
 
 Highlighted and Tabbed Books
+[Virginia Finish Carpentry Contractor Exam Complete Pre-Highlighted & Tabbed Book Package](https://passyourvirginiacontractorexam.com/finish-carpentry/highlighted-tabbed/)
 
-### [Virginia Finish Carpentry Contractor Exam Complete Pre-Highlighted & Tabbed Book Package](https://passyourvirginiacontractorexam.com/finish-carpentry/highlighted-tabbed/)
+The reference books already highlighted and permanently tabbed, ready for the exam room.
 
 $245 (was $445) Save 45%
 [Buy now](https://1examprep.com/cart/44379209367609:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/finish-carpentry/highlighted-tabbed/)

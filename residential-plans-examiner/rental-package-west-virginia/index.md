@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Residential Plans Examiner (R3) exam (West Virginia edition)
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Books and Courses Rental costs $640 and is written for the Residential Plans Examiner (R3) exam (West Virginia edition). Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Residential Plans Examiner (R3) package
 
 West Virginia Residential Plans Examiner (ICC - R3) - Books & Courses Rental Package The West Virginia Residential Plans Examiner (ICC - R3) Books & Courses Rental Package is designed for students preparing for the ICC Residential Plans Examiner certification exam using the 2021 International Residential Code. This package gives students rental access to the required code book and structured course support for focused residential plan review exam preparation.

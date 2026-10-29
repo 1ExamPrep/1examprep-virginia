@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Floor and Floor Covering Contractor exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The The 1 Package (all-inclusive) costs $2,710 and is written for the Floor and Floor Covering Contractor exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Floor and Floor Covering Contractor package
 
 The 1 Package: All-Inclusive Virginia Flooring and Floor Covering Contractor Exam, Licensing & Business Setup Solution Build your Virginia flooring and floor covering contracting path with one comprehensive package designed to bring exam preparation, contractor licensing support, business setup services, and contractor compliance guidance together in one organized solution. The 1 Package is built for customers who want more than a study course or a collection of reference books.

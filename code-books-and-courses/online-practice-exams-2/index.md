@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Code Books and Code Courses exam (any state)
 - Online access arrives by email after purchase
 
+The Online Practice Exams costs $79.99 and is written for the Code Books and Code Courses exam (any state). Online access arrives by email after purchase, and Buy now takes you straight to checkout.
+
 ## About this Code Books and Code Courses package
 
 ONLINE COURSE REVIEW TO THE INTERNATIONAL PLUMBING CODE (IPC)®The ONLINE COURSE REVIEW TO THE INTERNATIONAL PLUMBING CODE (IPC)® by Pass Your Virginia Contractor Exam provides a comprehensive study framework aligned with the International Code Council (ICC) standards for plumbing professionals. This course focuses on the structure and enforcement of the International Plumbing Code, covering fixture requirements, water distribution, sanitary drainage, vent systems, and health safeguards as defined by the IPC.

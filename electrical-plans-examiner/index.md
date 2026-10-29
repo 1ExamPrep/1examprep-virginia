@@ -27,50 +27,57 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
 
 Online Exam Prep Course
+[Virginia Electrical Plans Examiner - (ICC - E3) - Online Exam Prep](https://passyourvirginiacontractorexam.com/electrical-plans-examiner/online-course/)
 
-### [Virginia Electrical Plans Examiner - (ICC - E3) - Online Exam Prep](https://passyourvirginiacontractorexam.com/electrical-plans-examiner/online-course/)
+An online course with practice exams you can take on a phone or laptop.
 
 $295 (was $395) Save 25%  to $495
 [Buy now](https://1examprep.com/cart/46315031691321:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/electrical-plans-examiner/online-course/)
 
 Book Package
+[Virginia Electrical Plans Examiner - (ICC - E3) Exam Book Package](https://passyourvirginiacontractorexam.com/electrical-plans-examiner/book-package/)
 
-### [Virginia Electrical Plans Examiner - (ICC - E3) Exam Book Package](https://passyourvirginiacontractorexam.com/electrical-plans-examiner/book-package/)
+The reference books the exam is written to, new and unmarked.
 
 $225 (was $695) Save 68%  to $425
 [Buy now](https://1examprep.com/cart/46479787393081:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/electrical-plans-examiner/book-package/)
 
 Highlighted and Tabbed Books
+[Virginia Electrical Plans Examiner - (ICC - E3) Highlighted & Tabbed Book Package](https://passyourvirginiacontractorexam.com/electrical-plans-examiner/highlighted-tabbed/)
 
-### [Virginia Electrical Plans Examiner - (ICC - E3) Highlighted & Tabbed Book Package](https://passyourvirginiacontractorexam.com/electrical-plans-examiner/highlighted-tabbed/)
+The reference books already highlighted and permanently tabbed, ready for the exam room.
 
 $425 (was $625) Save 32%  to $720
 [Buy now](https://1examprep.com/cart/46479808036921:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/electrical-plans-examiner/highlighted-tabbed/)
 
 Live Virtual Training
+[Virginia Electrical Plans Examiner - (ICC - E3) Exam Prep - Live Virtual + Self Study Training](https://passyourvirginiacontractorexam.com/electrical-plans-examiner/live-training/)
 
-### [Virginia Electrical Plans Examiner - (ICC - E3) Exam Prep - Live Virtual + Self Study Training](https://passyourvirginiacontractorexam.com/electrical-plans-examiner/live-training/)
+Live virtual classes with an instructor plus self-study material.
 
 $495 (was $695) Save 29%
 [Buy now](https://1examprep.com/cart/46278740869177:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/electrical-plans-examiner/live-training/)
 
 Books and Courses Rental
+[Virginia Electrical Plans Examiner - (ICC - E3) - Books & Courses Rental Package](https://passyourvirginiacontractorexam.com/electrical-plans-examiner/rental-package/)
 
-### [Virginia Electrical Plans Examiner - (ICC - E3) - Books & Courses Rental Package](https://passyourvirginiacontractorexam.com/electrical-plans-examiner/rental-package/)
+The reference books on rental plus the online course, returned after your exam.
 
 $720 (was $920) Save 22%  to $1,370
 [Buy now](https://1examprep.com/cart/46315040342073:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/electrical-plans-examiner/rental-package/)
 
 Highlighted and Tabbed Books (Ohio edition)
+[Ohio Electrical Plans Examiner - (ICC - E3) Highlighted & Tabbed Book Package](https://passyourvirginiacontractorexam.com/electrical-plans-examiner/highlighted-tabbed-ohio/)
 
-### [Ohio Electrical Plans Examiner - (ICC - E3) Highlighted & Tabbed Book Package](https://passyourvirginiacontractorexam.com/electrical-plans-examiner/highlighted-tabbed-ohio/)
+The reference books already highlighted and permanently tabbed, ready for the exam room.
 
 $425 (was $625) Save 32%
 [Buy now](https://1examprep.com/cart/46109879500857:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/electrical-plans-examiner/highlighted-tabbed-ohio/)
 
 Books and Courses Rental (West Virginia edition)
+[West Virginia Electrical Plans Examiner - (ICC - E3) - Books & Courses Rental Package](https://passyourvirginiacontractorexam.com/electrical-plans-examiner/rental-package-west-virginia/)
 
-### [West Virginia Electrical Plans Examiner - (ICC - E3) - Books & Courses Rental Package](https://passyourvirginiacontractorexam.com/electrical-plans-examiner/rental-package-west-virginia/)
+The reference books on rental plus the online course, returned after your exam.
 
 $720 (was $1,020) Save 29%  to $920
 [Buy now](https://1examprep.com/cart/46314791665721:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/electrical-plans-examiner/rental-package-west-virginia/)

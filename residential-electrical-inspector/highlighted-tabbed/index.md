@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Residential Electrical Inspector (E1) exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Highlighted and Tabbed Books costs $395 and is written for the Residential Electrical Inspector (E1) exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Residential Electrical Inspector (E1) package
 
 Virginia Residential Electrical Inspector - (ICC - E1)- Highlighted & Tabbed Book Package The Virginia Residential Electrical Inspector - (ICC - E1)- Highlighted & Tabbed Book Package is designed for candidates preparing for the ICC E1 Residential Electrical Inspector exam using the 2021 International Residential Code.

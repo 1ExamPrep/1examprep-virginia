@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the NASCLA Electrical Contractor exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Ultimate Rental Package costs $3,005 and is written for the NASCLA Electrical Contractor exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this NASCLA Electrical Contractor package
 
 Virginia NASCLA Master Electrical Contractor Ultimate Exam Prep Rental Package Prepare for the NASCLA Accredited Trade Examination for Electrical Contractors and the Virginia contractor licensing process with a comprehensive Ultimate package built around organized study materials, extended course access, and application support.

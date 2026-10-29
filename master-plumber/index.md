@@ -27,50 +27,57 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
 
 Online Exam Prep Course
+[Virginia Master Plumber Exam - Online Exam Prep Course](https://passyourvirginiacontractorexam.com/master-plumber/online-course/)
 
-### [Virginia Master Plumber Exam - Online Exam Prep Course](https://passyourvirginiacontractorexam.com/master-plumber/online-course/)
+An online course with practice exams you can take on a phone or laptop.
 
 $295 (was $395) Save 25%  to $495
 [Buy now](https://1examprep.com/cart/356267196442:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/master-plumber/online-course/)
 
 Pre-Printed Tabs
+[Virginia Master Plumber Exam; Pre-Printed Tabs](https://passyourvirginiacontractorexam.com/master-plumber/tabs/)
 
-### [Virginia Master Plumber Exam; Pre-Printed Tabs](https://passyourvirginiacontractorexam.com/master-plumber/tabs/)
+Pre-printed permanent tabs for the reference books, allowed in the exam room.
 
 $29.99 (was $33.50) Save 10%
 [Buy now](https://1examprep.com/cart/41290048634937:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/master-plumber/tabs/)
 
 Book Package
+[Virginia Master Plumber Exam Complete Book Package](https://passyourvirginiacontractorexam.com/master-plumber/book-package/)
 
-### [Virginia Master Plumber Exam Complete Book Package](https://passyourvirginiacontractorexam.com/master-plumber/book-package/)
+The reference books the exam is written to, new and unmarked.
 
 $195 (was $295) Save 34%  to $295
 [Buy now](https://1examprep.com/cart/50659995156537:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/master-plumber/book-package/)
 
 Highlighted and Tabbed Books
+[Virginia Master Plumber Exam Complete Highlighted & Tabbed Book Package](https://passyourvirginiacontractorexam.com/master-plumber/highlighted-tabbed/)
 
-### [Virginia Master Plumber Exam Complete Highlighted & Tabbed Book Package](https://passyourvirginiacontractorexam.com/master-plumber/highlighted-tabbed/)
+The reference books already highlighted and permanently tabbed, ready for the exam room.
 
 $295 (was $495) Save 40%  to $590
 [Buy now](https://1examprep.com/cart/50660098179129:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/master-plumber/highlighted-tabbed/)
 
 Live Virtual Training
+[Virginia Master Plumber Exam Prep - Live Virtual + Self Study Training](https://passyourvirginiacontractorexam.com/master-plumber/live-training/)
 
-### [Virginia Master Plumber Exam Prep - Live Virtual + Self Study Training](https://passyourvirginiacontractorexam.com/master-plumber/live-training/)
+Live virtual classes with an instructor plus self-study material.
 
 $495 (was $695) Save 29%
 [Buy now](https://1examprep.com/cart/45846490382393:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/master-plumber/live-training/)
 
 Books and Courses Rental
+[Virginia Master Plumber Exam - Book & Courses Rental Package](https://passyourvirginiacontractorexam.com/master-plumber/rental-package/)
 
-### [Virginia Master Plumber Exam - Book & Courses Rental Package](https://passyourvirginiacontractorexam.com/master-plumber/rental-package/)
+The reference books on rental plus the online course, returned after your exam.
 
 $885 (was $1,185) Save 25%  to $1,535
 [Buy now](https://1examprep.com/cart/44449147387961:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/master-plumber/rental-package/)
 
 Ultimate Rental Package
+[Virginia Master Plumber Ultimate Exam Prep Rental Package](https://passyourvirginiacontractorexam.com/master-plumber/ultimate-rental/)
 
-### [Virginia Master Plumber Ultimate Exam Prep Rental Package](https://passyourvirginiacontractorexam.com/master-plumber/ultimate-rental/)
+Highlighted and tabbed rental books, the online course and live training.
 
 $1,310 (was $1,710) Save 23%
 [Buy now](https://1examprep.com/cart/44449228226617:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/master-plumber/ultimate-rental/)

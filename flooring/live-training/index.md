@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Floor and Floor Covering Contractor exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Live Virtual Training costs $595 and is written for the Floor and Floor Covering Contractor exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Floor and Floor Covering Contractor package
 
 Virginia Flooring and Floor Covering Contractor Exam Prep - Live Virtual + Self Study Training Prepare for the Virginia Flooring and Floor Covering Contractor examination with a training program that combines live virtual instruction and self-study preparation. This course is designed for candidates pursuing the Virginia Flooring and Floor Covering Contracting specialty, commonly identified by the specialty abbreviation FLR.

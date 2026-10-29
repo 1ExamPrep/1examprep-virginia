@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Billboard Sign Contractor exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Book Package costs $195 and is written for the Billboard Sign Contractor exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Billboard Sign Contractor package
 
 Virginia Billboard Sign Contractor Exam Book Package Prepare for the Virginia Billboard/Sign Contractor examination with a focused reference-book package covering sign structure engineering, sign-code requirements, billboard erection, materials, and OSHA construction safety. This package brings together the three key references used to support preparation for the Virginia Billboard/Sign Contracting specialty examination. Virginia regulates Billboard/Sign Contracting through the Virginia Department of Professional and Occupational Regulation Board for Contractors.

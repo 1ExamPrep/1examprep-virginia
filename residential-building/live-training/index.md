@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Residential Building Contractor (RBC) exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Live Virtual Training costs $595 and is written for the Residential Building Contractor (RBC) exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Residential Building Contractor (RBC) package
 
 Virginia Residential Building Contractor Exam Prep - Live Virtual + Self Study Training Prepare for the Virginia Residential Building Contractor examination with a flexible training program that combines Live Virtual instruction with Self Study exam preparation. This training format is designed for candidates who want the structure and interaction of scheduled instructor-led classes while also having the flexibility to review residential construction concepts, practice exam questions, and work with the reference books independently.
