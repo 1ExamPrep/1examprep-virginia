@@ -39,7 +39,23 @@ The Licensing Service costs $995 and is written for the Application and Business
 
 ## About this Application and Business Filing Services package
 
-ULTIMATE VIRGINIA STATE APPLICATION AND BUSINESS FILING PACKAGEThe Ultimate Virginia State Application and Business Filing Package from Pass Your Virginia Contractor Exam provides contractors with all essential tools and guidance to complete the Virginia Board for Contractors licensing and business registration process. This package includes resources for preparing and filing state contractor applications, establishing business entities, securing tax identification numbers, and ensuring compliance with DPOR licensing requirements.
+The *Ultimate Virginia State Application and Business Filing Package* from Pass Your Virginia Contractor Exam provides contractors with all essential tools and guidance to complete the Virginia Board for Contractors licensing and business registration process. This package includes resources for preparing and filing state contractor applications, establishing business entities, securing tax identification numbers, and ensuring compliance with DPOR licensing requirements. It supports Class A, B, and C applicants by aligning with Virginia Department of Professional and Occupational Regulation (DPOR) standards for contractor business setup and documentation. Through Pass Your Virginia Contractor Exam’s structured filing system, contractors can efficiently navigate state application procedures and establish their licensed business operations in full accordance with Virginia law.
+
+**The Ultimate Application and Business Filing Package Includes:**
+
+- **Application Assistance and Processing**
+
+  - Educate and consult our client on licensing laws and the licensing process
+  - Determine eligibility qualifications based on client’s specific needs and background
+  - Prepare and process a license application
+  - Assemble necessary documents
+  - Prepare applicant for Board appearance, if required
+  - Oversee the clients application until approved
+
+- **Corporate or LLC Filing**
+- **EIN Filing**
+- **Expedited Services on All of the Above
+**NOTE: Package does NOT include the application processing fee required by the State. Separate check(s) or money order(s) made payable to the State will be required to submit your application(s).
 
 ## How does the Application and Business Filing Services exam work?
 

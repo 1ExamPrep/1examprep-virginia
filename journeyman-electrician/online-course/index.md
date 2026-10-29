@@ -39,7 +39,20 @@ The Online Exam Prep Course costs $250 and is written for the Journeyman Electri
 
 ## About this Journeyman Electrician package
 
-VIRGINIA JOURNEYMAN ELECTRICIAN - ONLINE EXAM PREP COURSE The Virginia Journeyman Electrician Online Exam Prep Course from Pass Your Virginia Contractor Exam provides comprehensive preparation for the Virginia Board for Contractors Journeyman Electrician Examination administered by PSI. This course covers core content areas from the 2020 National Electrical Code (NEC), including wiring methods, overcurrent protection, grounding and bonding, load calculations, motors, transformers, and safety practices. Students also review sections of the Virginia Administrative Code relevant to electrical licensing.
+The Virginia Journeyman Electrician Online Exam Prep Course from Pass Your Virginia Contractor Exam provides comprehensive preparation for the Virginia Board for Contractors Journeyman Electrician Examination administered by PSI. This course covers core content areas from the 2020 National Electrical Code (NEC), including wiring methods, overcurrent protection, grounding and bonding, load calculations, motors, transformers, and safety practices. Students also review sections of the Virginia Administrative Code relevant to electrical licensing. Developed to meet the requirements of the Virginia Department of Professional and Occupational Regulation (DPOR), the program equips candidates with the technical knowledge and code familiarity necessary to pass the journeyman-level licensing exam and perform electrical installations safely and in compliance with state standards.
+
+Get one step closer to becoming a **Virginia Journeyman Electrician** with a prep course designed by Pass Your Virginia Contractor Exam to help you conquer the required Virginia Journeyman Electrical computer based examination with PSI.
+
+- Highlighting and tabbing locations for each book permitted into the exam, so you can quickly and easily reference your materials during the exam
+-  Practice questions for each book in printable PDF format
+
+- Final practice exams in printable PDF format
+- Simulated computer-based practice exams
+- Testing techniques that are an indispensable part of these open-book exams
+
+- Instructor available via phone and/or email
+- 1 year of online access to the course
+- Android and iOS Compatible - Complete the course on your phone, anytime or anywhere.
 
 ## How does the Journeyman Electrician exam work?
 

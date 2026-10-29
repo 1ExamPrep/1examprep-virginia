@@ -39,7 +39,37 @@ The Exam Prep Package costs $350 and is written for the Master Electrician exam.
 
 ## About this Master Electrician package
 
-Virginia 2017 Master Electrician Exam Prep PackageThe Virginia 2017 Master Electrician Exam Prep Package from Pass Your Virginia Contractor Exam is developed in accordance with the Virginia Department of Professional and Occupational Regulation (DPOR) and the Board for Contractors’ requirements for the Master Electrician license. Based on the 2017 National Electrical Code (NEC), this prep package focuses on code application, service calculations, branch circuits, grounding and bonding, transformers, motors, and overcurrent protection.
+The Virginia 2017 Master Electrician Exam Prep Package from Pass Your Virginia Contractor Exam is developed in accordance with the Virginia Department of Professional and Occupational Regulation (DPOR) and the Board for Contractors’ requirements for the Master Electrician license. Based on the 2017 National Electrical Code (NEC), this prep package focuses on code application, service calculations, branch circuits, grounding and bonding, transformers, motors, and overcurrent protection. It also includes PSI-formatted practice exams reflecting the open-book testing procedures used statewide. Emphasizing NEC proficiency and Virginia-specific amendments, the materials help candidates demonstrate mastery of electrical systems, safety standards, and regulatory compliance necessary to achieve master-level certification under DPOR licensing standards.
+
+The only package you will need to pass your Master Electrician's exam. We offer a 100% satisfaction guarantee. Our Electrician Exam Prep books are #1 Amazon best sellers in their category!
+
+**Free Shipping on this package!!For Help Please Call 1-888-710-2550**
+
+Check out the four great publications you receive:
+
+1) **Virginia2017 Master Electrician Study Guide**; (ISBN 9781094885704)
+
+An excellent study-aid when preparing for the Masters Electrical Exam. This workbook will prepare you for both, the "open book" or code book related questions and the new "no book" (formally titled closed book) questions. It also includes the most popular electrical exam formats (number of questions, time allowed, etc.) and is the best way to study the Code book as it forces you to find the answers in the time limit. Includes 10 open book tests and 2 final closed exams. A special intro dedicated to your specific state exam.
+
+2) **Electrician's Practice Calculations Exams 2017**; (ISBN 9781946798992)
+
+This self-study exam prep book is based on the 2017 NEC® with ten practice calculations exams consisting of 25 questions each and a final exam of 100 questions.
+
+3) **Online Master Electrician Test Success Kit**;
+
+Ray Holder's 2017 Master Electrician Exam Prep is an excellent ONLINE study-aid for the helper, apprentice, or electrician in preparing for the **Master Electrical Exam**. This Online Course will prepare you for both, the "open book" or code book related questions and the new "no book" (formally titled closed book) questions. It also includes the most popular electrical exam formats (number of questions, time allowed, etc.) and is the best way to study the Code book as it forces you to find the answers in the time limit.
+
+**Includes:**
+
+- **10 Open Book Practice Exams with Answers**
+- **2 Complete Final Exams with Answers & Analysis**
+- **Helpful Tips to Pass the Test**
+- **Simulated Exams to give you the experience you need to pass**
+- **A [downloadable](https://electricians.browntechnical.org/products/2017-masters-electrician-exam-questions-tests-online-version#) copy of all the material in the 2017 Master Electrician Study [Guide](https://electricians.browntechnical.org/products/2017-masters-electrician-exam-questions-tests-online-version#)!**
+
+4) **National Electrical Code 2017 Paperback with Tabs**;
+
+This set includes the NEC 2017 Code and the tabs that go along with it.
 
 ## How does the Master Electrician exam work?
 

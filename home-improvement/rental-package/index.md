@@ -42,7 +42,53 @@ The Books and Courses Rental costs $1,649 to $1,949 with the options above and i
 
 ## About this Home Improvement Contractor (HIC) package
 
-VIRGINIA HOME IMPROVEMENT CONTRACTING - BOOK RENTAL PACKAGE (TRADE ONLY) The Virginia Home Improvement Contracting – Book Rental Package (Trade Only) from Pass Your Virginia Contractor Exam provides the complete set of officially referenced materials required for the Virginia Board for Contractors Home Improvement (HIC) classification trade examination administered by PSI. This rental package includes core references such as the International Residential Code (IRC), OSHA construction safety standards, and trade-specific texts covering remodeling, repair, and renovation practices.
+The Virginia Home Improvement Contracting – Book Rental Package (Trade Only) from Pass Your Virginia Contractor Exam provides the complete set of officially referenced materials required for the Virginia Board for Contractors Home Improvement (HIC) classification trade examination administered by PSI. This rental package includes core references such as the International Residential Code (IRC), OSHA construction safety standards, and trade-specific texts covering remodeling, repair, and renovation practices. Designed in accordance with the Virginia Department of Professional and Occupational Regulation (DPOR) requirements, the package focuses on carpentry, finishes, building materials, and job site safety. Intended for the trade portion of the exam, it offers contractors a cost-effective option to study with state-approved resources for the HIC license classification.
+
+###  Virginia Home Improvement Contracting - (Trade Only)
+
+###
+
+### Book Rental Package Pricing:
+
+### $999.00
+
+#### *plus $650 refundable deposit if books are returned in similar condition within 6 months from the time they are received.
+
+#### Total: $1,649.00
+
+### Book Rental Includes:
+
+- Highlighted and tabbed books for the Home Improvement Contracting trade/technical exams
+- Home Improvement Contracting online exam prep course
+- 6 month book rental period and access to courses
+
+* ***This is a special order item. Please allow 15 business days for your books to be tabbed and highlighted
+
+ This book rental package includes all the required books for the Virginia Home Improvement Contracting open book examination already pre-tabbed and highlighted to help you quickly and easily navigate through the books during your exam.
+**The complete set of highlighted and tabbed exam books includes: **
+
+1. Code of Federal Regulations - 29 CFR Part 1926 (OSHA), with latest available amendments
+
+2. International Residential Code, 2021
+3. Carpentry and Building Construction 2016 (Student Edition)
+4. The Contractor's Guide to Quality Concrete Construction
+5. Craftsman's Manual and Textbook, 8th edition
+6. Modern Masonry - Brick, Block, Stone, Clois E. Kicklighter, 10th Edition
+7. Standard Practice for Installation of Rigid Poly Vinyl Chloride (PVC) Siding and Soffit - ASTM D4756-15
+8. Insulation Handbook, 2000
+9. Gypsum Construction Handbook, 2014 Edition
+10. Finish Carpenter's Manual, 1993
+11. ANSI A117.1-2017 Accessible and Usable Buildings and Facilities
+
+**Virginia License Requirements:**
+
+Virginia requires two licenses to become a contractor: Business (Class A or B only) to be taken by the Designated Employee and Technical/Trade to be taken by the Qualified Individual. This Class A or B license covers the business portion and is required by the Designated Employee or member of responsible management. There is an [8-hour Pre-License requirement](https://1examprep.com/products/virginia-8-hour-pre-license-education-online-course-for-contractors) for all new Virginia Contractors. The same person who takes the Pre-License course must be the same person who takes the Class A/B exams.
+
+**Class A** – contractors perform or manage construction, removal, repair, or improvements when (i) the total value referred to in a single contract or project is $120,000 or more, or (ii) the total value of all such construction, removal, repair, or improvements undertaken by such person within any twelve-month period is $750,000 or more. The Company must have a $45k minimum net worth. Class A applicants must have a minimum five years experience.
+
+**Class B** – contractors perform or manage construction, removal, repair, or improvements when (i) the total value referred to in a single contract or project is $10,000 or more, but less than $120,000, or (ii) the total value of all such construction, removal, repair, or improvements undertaken by such person within any twelve-month period is $150,000 or more, but less than $750,000 The company must have a minimum net worth of $15,000. Class B applicants must have a minimum three years experience.
+
+**Class C** – contractors perform or manage construction, removal, repair, or improvements when (i) the total value referred to in a single contract or project is over $1,000 but no more than $10,000, or (ii) the total value of all such construction, removal, repair, or improvements undertaken by such person within any twelve-month period is no more than $150,000. Class C applicants must have a minimum two years experience.
 
 ## How does the Home Improvement Contractor (HIC) exam work?
 

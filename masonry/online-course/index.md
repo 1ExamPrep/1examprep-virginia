@@ -42,7 +42,159 @@ The Online Exam Prep Course costs $295 to $495 with the options above and is wri
 
 ## About this Masonry Contractor package
 
-Virginia Masonry Contractor - Online Exam Prep Course Prepare for the Virginia Masonry Contractor examination with an online exam prep course built around the knowledge areas and reference materials associated with the Virginia Masonry Contracting specialty, commonly identified as BRK. This course is designed to help candidates organize their study time, strengthen masonry trade knowledge, and become more comfortable navigating the technical references used for exam preparation. The Virginia Masonry Contractor exam covers much more than basic brick and block installation.
+Prepare for the Virginia Masonry Contractor examination with an online exam prep course built around the knowledge areas and reference materials associated with the Virginia Masonry Contracting specialty, commonly identified as BRK. This course is designed to help candidates organize their study time, strengthen masonry trade knowledge, and become more comfortable navigating the technical references used for exam preparation.
+
+The Virginia Masonry Contractor exam covers much more than basic brick and block installation. Candidates are expected to understand topics involving estimating and plan reading, unit masonry, mortar and grout, accessories and specialties, stone, masonry tools, restoration and cleaning, reinforced masonry, and construction safety. Successful preparation requires a combination of trade knowledge and the ability to locate information efficiently in technical references.
+
+The online format provides a structured way to work through masonry exam subjects while developing stronger reference-navigation habits. Rather than approaching the exam as one large collection of information, candidates can concentrate on individual knowledge areas and connect each subject to the reference most likely to contain the information they need.
+
+The Virginia Masonry Contractor examination is an open-book test. That makes familiarity with the reference books an important part of preparation. Candidates should know how their books are organized, understand the terminology used in the references, and practice finding code provisions, safety requirements, masonry procedures, stone information, and restoration guidance efficiently.
+
+The primary references associated with this preparation include the Code of Federal Regulations - 29 CFR Part 1926 (OSHA), the 2021 International Building Code, *Modern Masonry - Brick, Block, Stone* by Clois E. Kicklighter, 10th Edition, the *Indiana Limestone Handbook*, 22nd Edition, 2007, and *Repointing Mortar Joints in Historic Masonry Buildings* by Robert C. Mack and John P. Speweik, October 1998.
+
+These references address different parts of the knowledge expected from a masonry contractor. Studying them alongside organized exam-preparation material can help candidates understand which resource to use for a particular type of question and develop a more efficient approach to open-book testing.
+
+### Exam Details
+
+The Virginia Masonry Contracting specialty is identified as BRK by the Virginia Board for Contractors. Masonry Contracting covers work involving brick, concrete block, stone, marble, slate, and other masonry products, as well as related masonry activities within the specialty's defined scope.
+
+The Virginia Masonry Contracting examination contains 60 questions. Candidates are allowed 150 minutes to complete the exam. A passing score of 70 percent requires 42 correct answers.
+
+The official exam content is divided into multiple knowledge areas:
+
+- **Estimating and Plan Reading:** 5 questions
+- **Unit Masonry:** 12 questions
+- **Mortar and Grout:** 11 questions
+- **Accessories and Specialties:** 10 questions
+- **Stone:** 3 questions
+- **Tools:** 4 questions
+- **Restoration and Cleaning:** 4 questions
+- **Reinforced Masonry:** 6 questions
+- **Safety:** 5 questions
+
+This distribution shows why a balanced study plan is important. Unit masonry, mortar and grout, and accessories and specialties account for a substantial portion of the examination, but candidates should not overlook smaller areas such as stone, tools, restoration, reinforced masonry, estimating, or safety.
+
+The Masonry specialty requires the applicable Qualified Individual to meet Virginia qualification requirements and successfully complete the required technical examination. BRK is among the contractor specialties for which examination approval is required.
+
+### Open Book Test
+
+The Virginia Masonry Contractor examination is open book. Candidates must bring their own permitted references because examination books are not supplied at the testing site.
+
+Open-book testing changes the way candidates should prepare. The objective is not simply to memorize every detail in every book. Candidates should build enough trade knowledge to recognize the subject of a question and enough familiarity with the references to know where the supporting information is likely to be located.
+
+Reference materials may be highlighted, underlined, and indexed when prepared according to PSI examination rules. Permanent tabs may be used, while removable tabs are prohibited. Candidates should follow the current testing rules when preparing any books that will be taken into the examination.
+
+With 60 questions and 150 minutes, candidates have an average of approximately two and a half minutes per question. Some questions may be answered quickly through trade knowledge, while others may require finding information in a code, safety standard, trade reference, stone handbook, or restoration publication. Practicing reference navigation before test day helps reduce time spent searching.
+
+A useful open-book strategy is to identify the subject first. A construction-safety question should direct attention toward 29 CFR Part 1926. A building-code requirement may point toward the 2021 International Building Code. Questions involving masonry installation and materials may require *Modern Masonry*. Limestone questions may involve the *Indiana Limestone Handbook*, while historic mortar repair may require the repointing publication.
+
+### Licensing Steps
+
+Virginia contractor licensing is administered by the Virginia Department of Professional and Occupational Regulation through the Board for Contractors. Contractor licenses are issued to businesses and consist of a license class together with one or more classifications or specialty designations.
+
+1. **Determine the appropriate contractor license class.** Virginia contractor licenses are issued as Class A, Class B, or Class C.
+2. **Select the Masonry Contracting specialty.** Masonry Contracting is identified by the BRK specialty designation.
+3. **Identify the Qualified Individual.** A contractor business must identify a Qualified Individual for each classification or specialty requested.
+4. **Meet the applicable experience requirement.** The required amount of experience depends on the contractor license class being pursued.
+5. **Complete required pre-license education.** New Class A, Class B, and Class C contractor applicants must satisfy Virginia's eight-hour pre-license education requirement.
+6. **Obtain approval for the technical examination.** The Masonry specialty requires pre-approval for the Qualified Individual examination.
+7. **Prepare for and successfully complete the Masonry examination.** Study the required trade subjects and become familiar with the approved exam references.
+8. **Complete the contractor license application requirements.** The business must meet the applicable requirements for its selected license class, Qualified Individual, Responsible Management, examinations, documentation, and application.
+
+Virginia requires successful completion of applicable examinations before contractor licensure is issued. Candidates pursuing the Masonry specialty should therefore plan their exam preparation as one part of the broader contractor licensing process.
+
+### State Requirements
+
+The Virginia Board for Contractors regulates contractor businesses performing construction, removal, repair, and improvement work on property owned by others. Each contractor license includes a class and one or more classifications or specialties. The license class governs the level of contracting activity, while the classification or specialty determines the type of work the contractor may perform.
+
+Each contractor business must name a Qualified Individual for the classification or specialty requested. For current Virginia applications, the Qualified Individual must be a member of Responsible Management or a qualifying full-time employee of the business.
+
+The experience requirement depends on the license class. A Qualified Individual for a Class C business must have at least one year of experience in the applicable classification or specialty. Class B requires at least three years of experience, while Class A requires at least five years.
+
+Masonry, identified as BRK, is one of the specialties for which applicants are required to be pre-approved and successfully complete an examination. An Experience Verification Form is required for Qualified Individuals seeking a designation that requires pre-approval for an examination.
+
+Virginia also requires eight hours of approved pre-license education for new Class A, Class B, and Class C contractor licenses. This education is a separate business and regulatory requirement and is not the same as the Masonry technical examination.
+
+### Reference Books
+
+- **Code of Federal Regulations - 29 CFR Part 1926 (OSHA)**
+ This federal construction-safety reference contains OSHA standards for construction. Candidates should become familiar with safety subjects relevant to masonry and construction work, including personal protective equipment, fall protection, scaffolds, ladders, tools, material handling, and other jobsite hazards.
+- **International Building Code, 2021**
+ The 2021 International Building Code contains building requirements relevant to regulated construction. Candidates should practice navigating the code by chapter, section, definition, table, index entry, and cross-reference so that masonry-related requirements can be located efficiently.
+- **Modern Masonry - Brick, Block, Stone, Clois E. Kicklighter, 10th Edition**
+ This trade reference covers masonry materials and methods involving brick, block, stone, mortar, grout, tools, layout, construction procedures, wall systems, and related masonry knowledge. It provides an important foundation for many of the practical trade subjects represented on the exam.
+- **Indiana Limestone Handbook, 22nd Edition, 2007**
+ This specialized stone reference addresses Indiana limestone and provides information related to stone characteristics, detailing, fabrication, anchorage, joints, handling, and installation. Candidates should know how the handbook is organized before working through stone-related exam questions.
+- **Repointing Mortar Joints in Historic Masonry Buildings, Robert C. Mack and John P. Speweik, October 1998**
+ This masonry-preservation reference addresses the evaluation and repair of deteriorated mortar joints in historic masonry. It includes information involving mortar selection, joint preparation, removal of deteriorated mortar, repointing procedures, tooling, curing, and cleaning.
+
+### Test Information and Study Materials
+
+Studying for the Virginia Masonry Contractor exam is most effective when candidates connect the examination outline to the appropriate reference material. Each study session should have a clear objective, such as reviewing mortar and grout, practicing code navigation, working through safety topics, or becoming more familiar with stone and restoration information.
+
+Estimating and plan reading preparation should focus on understanding construction information and applying masonry-related quantities and measurements. Candidates should be comfortable interpreting the type of information commonly used to determine masonry materials, dimensions, and work requirements.
+
+Unit masonry deserves substantial attention because it represents one of the largest exam categories. Review brick and concrete masonry construction, bonding and layout concepts, installation practices, materials, wall components, and terminology. Knowing the trade terminology can also make reference searches faster because candidates can recognize the correct index terms.
+
+Mortar and grout preparation should include material properties, applications, mixing and placement concepts, joints, curing, and the relationship of mortar and grout to masonry assemblies. Candidates should practice locating supporting information rather than relying exclusively on memorization.
+
+Accessories and specialties represent another significant exam category. Candidates should review the materials and components that interact with masonry construction and understand how they function within masonry assemblies.
+
+For safety preparation, work directly with 29 CFR Part 1926. Become familiar with the organization of OSHA construction standards and practice finding information about common jobsite hazards. Knowing where a safety requirement is located is especially useful during an open-book examination.
+
+For code preparation, practice navigating the 2021 International Building Code. Use the table of contents, index, definitions, chapters, sections, and tables. Code books become much easier to use when candidates understand how information is structured rather than attempting to search randomly during the exam.
+
+Stone preparation should incorporate the *Indiana Limestone Handbook*, while restoration preparation should use *Repointing Mortar Joints in Historic Masonry Buildings*. These references are narrower in scope than the International Building Code or OSHA regulations, but familiarity is still essential for efficient lookup.
+
+A strong exam-preparation routine should also include timed practice. Because candidates have 150 minutes for 60 questions, developing a consistent pace matters. Practice deciding when a question can be answered from knowledge and when a reference lookup is necessary. Spending too much time on a single question can reduce the time available for the rest of the examination.
+
+### How Pass Your Virginia Contractor Exam Helps You Reach Your Goal
+
+Pass Your Virginia Contractor Exam helps Virginia Masonry Contractor candidates approach their preparation with an organized, trade-focused study structure. Instead of treating the exam as a collection of unrelated facts, the course helps students concentrate on the knowledge areas that make up the BRK examination and connect those areas to the appropriate technical references.
+
+Organized study guidance helps candidates work through topics such as estimating and plan reading, unit masonry, mortar and grout, accessories, stone, tools, reinforced masonry, restoration, cleaning, and construction safety. This focused approach can make a large body of trade information easier to manage.
+
+Practice-oriented preparation encourages students to apply what they have studied and recognize where additional review is needed. Working through masonry concepts and reference-based questions can help candidates improve both subject knowledge and their ability to identify where an answer is likely to be found.
+
+Reference navigation is especially important for the Virginia Masonry Contractor exam because it is open book. Pass Your Virginia Contractor Exam emphasizes becoming familiar with the organization and terminology of the references so students can build more efficient lookup habits. Knowing which book to use and where to begin searching can be as important as understanding the underlying trade concept.
+
+The goal is to help candidates develop a practical study routine, strengthen masonry knowledge, improve reference-navigation skills, and approach exam day with a clearer preparation strategy. No course can replace the licensing requirements established by Virginia or guarantee an examination result, but organized preparation can help candidates make better use of their study time.
+
+### Is the Virginia Masonry Contractor exam open book?
+
+Yes. The Virginia Masonry Contracting examination is open book. Candidates must bring their own permitted references and follow the testing rules governing reference materials.
+
+### How many questions are on the Virginia Masonry Contractor exam?
+
+The Virginia Masonry Contractor exam contains 60 questions. Candidates have 150 minutes to complete the examination.
+
+### What score is required to pass the Virginia Masonry Contractor exam?
+
+The passing score is 70 percent, which equals 42 correct answers out of 60 questions.
+
+### What subjects are covered on the Virginia Masonry exam?
+
+The exam covers estimating and plan reading, unit masonry, mortar and grout, accessories and specialties, stone, tools, restoration and cleaning, reinforced masonry, and safety.
+
+### What is BRK in Virginia contractor licensing?
+
+BRK is the specialty designation used for Masonry Contracting under the Virginia Board for Contractors.
+
+### Do I need reference books even though this is an online exam prep course?
+
+The Virginia Masonry examination is open book and uses technical references associated with the exam content. Candidates should study with the applicable reference materials and become comfortable navigating them before test day.
+
+### Why is book navigation important for an open-book exam?
+
+Open-book testing is timed, so searching unfamiliar books for every answer can consume valuable exam time. Practicing with the references helps candidates recognize where information is located and develop a more efficient lookup process.
+
+### Does Virginia require experience for the Masonry Qualified Individual?
+
+Yes. Current Virginia requirements specify at least one year of experience for the Qualified Individual of a Class C business, three years for Class B, and five years for Class A in the applicable classification or specialty.
+
+### Is the eight-hour Virginia pre-license course the same as this Masonry exam prep course?
+
+No. Virginia's eight-hour pre-license education requirement is a separate business and regulatory requirement for new contractor licenses. The Masonry technical examination and preparation for the BRK specialty are separate from that requirement.
 
 ## How does the Masonry Contractor exam work?
 

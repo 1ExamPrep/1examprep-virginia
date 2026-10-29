@@ -3,28 +3,36 @@ title: Virginia Residential Plumber Tradesman Exam Prep
 url: https://passyourvirginiacontractorexam.com/residential-plumber/
 updated: 2026-10-29
 site: Pass Your Virginia Contractor Exam
-description: Residential Plumber Tradesman exam prep for Virginia: 2 options from $195 to $345, including book package, highlighted and tabbed books. One-click checkout.
+description: Residential Plumber Tradesman exam prep for Virginia: 6 options from $195 to $2,060, including book package, books and courses rental, highlighted and tabbed.
 ---
 
 [All licenses](https://passyourvirginiacontractorexam.com/) /[Tradesman licenses](https://passyourvirginiacontractorexam.com/#trades) /Residential Plumber Tradesman
 
 # Residential Plumber Tradesman exam prep
 
-The residential plumbing license, available since April 1, 2025, is limited to residential plumbing and needs less experience than the journeyman license. Here are 2 packages, from $195 to $345, each with one-click checkout. Compare what each one includes, see how the exam works and find the answers to the questions people ask most.
+The residential plumbing license, available since April 1, 2025, is limited to residential plumbing and needs less experience than the journeyman license. Here are 6 packages, from $195 to $2,060, each with one-click checkout. Compare what each one includes, see how the exam works and find the answers to the questions people ask most.
 See the packages
 
 ## Key takeaways
 
-- 2 options for the Residential Plumber Tradesman exam, from $195 to $345.
+- 6 options for the Residential Plumber Tradesman exam, from $195 to $2,060.
 - Tradesman licenses are issued by the Board for Contractors through its Tradesmen program, for electrical, plumbing, HVAC and gas fitting.
 - Pre-license education is required, and renewals need 3 hours of continuing education for electrical, plumbing and HVAC and 1 hour for gas fitting.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
 Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 
-## 2 Residential Plumber Tradesman packages
+## 6 Residential Plumber Tradesman packages
 
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
+
+Online Exam Prep Course
+[Virginia Residential Plumber Tradesman - Online Course](https://passyourvirginiacontractorexam.com/residential-plumber/online-course/)
+
+An online course with practice exams you can take on a phone or laptop.
+
+$295 (was $395) Save 25%
+[Buy now](https://1examprep.com/cart/50690911273017:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/residential-plumber/online-course/)
 
 Book Package
 [Virginia Residential Plumber Tradesman Book Package](https://passyourvirginiacontractorexam.com/residential-plumber/book-package/)
@@ -42,13 +50,41 @@ The reference books already highlighted and permanently tabbed, ready for the ex
 $345 (was $445) Save 22%
 [Buy now](https://1examprep.com/cart/45281851867193:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/residential-plumber/highlighted-tabbed/)
 
+Books and Courses Rental
+[Virginia Residential Plumber Tradesman - Books & Courses Rental Package](https://passyourvirginiacontractorexam.com/residential-plumber/rental-package/)
+
+The reference books on rental plus the online course, returned after your exam.
+
+$935 (was $1,235) Save 24%  to $1,385
+[Buy now](https://1examprep.com/cart/50677132066873:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/residential-plumber/rental-package/)
+
+Ultimate Rental Package
+[Virginia Residential Plumber Tradesman Ultimate Exam Prep Rental Package](https://passyourvirginiacontractorexam.com/residential-plumber/ultimate-rental/)
+
+Highlighted and tabbed rental books, the online course and live training.
+
+$1,360 (was $1,660) Save 18%
+[Buy now](https://1examprep.com/cart/50676707131449:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/residential-plumber/ultimate-rental/)
+
+The 1 Package (all-inclusive)
+[The 1 Package: All-Inclusive Virginia Residential Plumber Tradesman Licensing & Business Setup](https://passyourvirginiacontractorexam.com/residential-plumber/the-1-package/)
+
+Everything: exam prep, books, licensing paperwork and business setup.
+
+$2,060 (was $2,360) Save 13%
+[Buy now](https://1examprep.com/cart/50676708900921:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/residential-plumber/the-1-package/)
+
 ## How do the Residential Plumber Tradesman options compare?
 
 Prices are the starting price for each option; some offer add-ons at checkout.
 
 Option | What you get | Price
+[Online Exam Prep Course](https://passyourvirginiacontractorexam.com/residential-plumber/online-course/) | an online course with practice exams you can take on a phone or laptop | $295
 [Book Package](https://passyourvirginiacontractorexam.com/residential-plumber/book-package/) | the reference books the exam is written to, new and unmarked | $195
 [Highlighted and Tabbed Books](https://passyourvirginiacontractorexam.com/residential-plumber/highlighted-tabbed/) | the reference books already highlighted and permanently tabbed, ready for the exam room | $345
+[Books and Courses Rental](https://passyourvirginiacontractorexam.com/residential-plumber/rental-package/) | the reference books on rental plus the online course, returned after your exam | $935
+[Ultimate Rental Package](https://passyourvirginiacontractorexam.com/residential-plumber/ultimate-rental/) | highlighted and tabbed rental books, the online course and live training | $1,360
+[The 1 Package (all-inclusive)](https://passyourvirginiacontractorexam.com/residential-plumber/the-1-package/) | everything: exam prep, books, licensing paperwork and business setup | $2,060
 
 ## How does the Residential Plumber Tradesman exam work?
 
@@ -61,13 +97,13 @@ The Residential Plumber Tradesman exam is a tradesman exam: one person is licens
 
 ### Which Residential Plumber Tradesman option should I choose?
 
-The Book Package at $195 is the lightest way into the Residential Plumber Tradesman exam: the reference books the exam is written to, new and unmarked. Highlighted and Tabbed Books at $345 are the biggest time saver on an open-book test, because the references arrive ready for the exam room. The Highlighted and Tabbed Books at $345 is the most complete option: the reference books already highlighted and permanently tabbed, ready for the exam room.
+The Book Package at $195 is the lightest way into the Residential Plumber Tradesman exam: the reference books the exam is written to, new and unmarked. Highlighted and Tabbed Books at $345 are the biggest time saver on an open-book test, because the references arrive ready for the exam room. The Online Exam Prep Course at $295 adds timed practice you can run on a phone between jobs. The The 1 Package (all-inclusive) at $2,060 is the most complete option: everything: exam prep, books, licensing paperwork and business setup.
 
 ## Residential Plumber Tradesman exam questions
 
 ### How much does Residential Plumber Tradesman exam prep cost?
 
-Residential Plumber Tradesman exam prep runs from $195 to $345 across 2 options: Book Package $195; Highlighted and Tabbed Books $345.
+Residential Plumber Tradesman exam prep runs from $195 to $2,060 across 6 options: Online Exam Prep Course $295; Book Package $195; Highlighted and Tabbed Books $345; Books and Courses Rental $935; Ultimate Rental Package $1,360; The 1 Package (all-inclusive) $2,060.
 
 ### Is the Residential Plumber Tradesman exam open book?
 

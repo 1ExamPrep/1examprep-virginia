@@ -39,7 +39,37 @@ The Exam Prep Package costs $350 and is written for the Journeyman Electrician e
 
 ## About this Journeyman Electrician package
 
-VIRGINIA 2017 JOURNEYMAN ELECTRICIAN EXAM PREP PACKAGEThe Virginia 2017 Journeyman Electrician Exam Prep Package by Pass Your Virginia Contractor Exam is designed to prepare candidates for the Virginia Board for Contractors (DPOR) journeyman electrician licensing examination. This package provides comprehensive coverage of the 2017 National Electrical Code (NEC), which is the primary reference for the exam. It includes study materials, code highlighting guides, and practice questions reflecting PSI test vendor standards.
+The Virginia 2017 Journeyman Electrician Exam Prep Package by Pass Your Virginia Contractor Exam is designed to prepare candidates for the Virginia Board for Contractors (DPOR) journeyman electrician licensing examination. This package provides comprehensive coverage of the 2017 National Electrical Code (NEC), which is the primary reference for the exam. It includes study materials, code highlighting guides, and practice questions reflecting PSI test vendor standards. The course content focuses on electrical theory, wiring methods, load calculations, overcurrent protection, grounding, and safety regulations. Developed to meet Virginia’s journeyman electrician certification requirements, this prep package enables tradespeople to demonstrate competency in electrical installation and maintenance in compliance with state and NEC guidelines.:contentReference[oaicite:0]{index=0}
+
+The only package you will need to pass your Journeyman Electrician's exam. We offer a 100% satisfaction guarantee. Our Electrician Exam Prep books are #1 Amazon best sellers in their category!
+
+**Free Shipping on this package!!For Help Please Call 1-888-710-2550**
+
+Check out the four great publications you receive:
+
+1) **Virginia 2017 Journeyman Electrician Study Guide**;
+
+An excellent study-aid when preparing for the Journeyman Electrical Exam. This workbook will prepare you for both, the "open book" or code book related questions and the new "no book" (formally titled closed book) questions. It also includes the most popular electrical exam formats (number of questions, time allowed, etc.) and is the best way to study the Code book as it forces you to find the answers in the time limit. Includes 10 open book tests and 2 final closed exams. A special intro dedicated to your specific state exam.
+
+2) **Electrician's Practice Calculations Exams 2017**; (ISBN 9781946798992)
+
+This self-study exam prep book is based on the 2017 NEC® with ten practice calculations exams consisting of 25 questions each and a final exam of 100 questions.
+
+3) **Online Journeyman Electrician Test Success Kit**;
+
+Ray Holder's 2017 Journeyman Electrician Exam Prep is an excellent ONLINE study-aid for the helper, apprentice, or electrician in preparing for the **Journeyman Electrical Exam**. This Online Course will prepare you for both, the "open book" or code book related questions and the new "no book" (formally titled closed book) questions. It also includes the most popular electrical exam formats (number of questions, time allowed, etc.) and is the best way to study the Code book as it forces you to find the answers in the time limit.
+
+**Includes:**
+
+- **10 Open Book Practice Exams with Answers**
+- **2 Complete Final Exams with Answers & Analysis**
+- **Helpful Tips to Pass the Test**
+- **Simulated Exams to give you the experience you need to pass**
+- **A downloadable copy of all the material in the 2017 Journeyman Electrician Study Guide!**
+
+4) **National Electrical Code 2017 Paperback with Tabs**;
+
+This set includes the NEC 2017 Code and the tabs that go along with it.
 
 ## How does the Journeyman Electrician exam work?
 

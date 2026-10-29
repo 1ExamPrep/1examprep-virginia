@@ -39,7 +39,59 @@ The The 1 Package (all-inclusive) costs $2,597 and is written for the Master Gas
 
 ## About this Master Gas Fitter (LP) package
 
-THE 1 PACKAGE: ALL-INCLUSIVE VIRGINIA MASTER GASFITTER CONTRACTOR EXAM, LICENSING & BUSINESS SETUP SOLUTION The 1 Package: All-Inclusive Virginia Master Gasfitter Contractor Exam, Licensing & Business Setup Solution from Pass Your Virginia Contractor Exam provides a complete preparation and licensing solution for candidates pursuing the Virginia Board for Contractors Master Gasfitter (GFC) classification.
+The 1 Package: All-Inclusive Virginia Master Gasfitter Contractor Exam, Licensing & Business Setup Solution from Pass Your Virginia Contractor Exam provides a complete preparation and licensing solution for candidates pursuing the Virginia Board for Contractors Master Gasfitter (GFC) classification. This program includes the required technical and business exam prep courses, study materials, and guided business setup assistance in accordance with Virginia Department of Professional and Occupational Regulation (DPOR) requirements. It covers gas piping systems, venting, combustion air, code compliance, and safety practices based on the International Fuel Gas Code (IFGC). Designed for contractor school participants and trade professionals, this all-in-one package streamlines exam readiness, licensing approval, and business establishment for Virginia Master Gasfitter contractors.
+
+### **The 1 Package: All-Inclusive Virginia Master Gasfitter Contractor Exam, Licensing & Business Setup Solution**
+
+### **Total Cost: $2,347Plus a $250 Refundable Deposit if books are returned in similar condition within 1 yearTotal: $2,597 (All-Inclusive – No Hidden Fees!)**
+
+### **The 1 Package: All-Inclusive Virginia Master Gasfitter Contractor Exam, Licensing & Business Setup Solution**
+
+🏠 **Your Complete Licensing & Business Launch Solution**
+
+The **1 Package** is your all-in-one, stress-free path to becoming a licensed **Virginia Master Gasfitter Contractor** and launching your construction or remodeling business legally and confidently.
+
+We handle everything—**from exam prep and professionally tabbed & highlighted book rentals to forming your business, filing your EIN, workers’ comp exemption, and completing your licensing paperwork**—so you can focus on passing the exam and building your future.
+
+✅ **What’s Included?**
+
+- **State & Licensing Fees Paid – We cover your application fee and all associated state licensing fees!**
+- **State Licensing Application Support** – We walk you through the licensing process and paperwork to ensure a smooth application experience.
+
+- **Business Formation (LLC or Corporation)** – We establish your business entity so you're legally structured and ready to operate.
+
+- **EIN Filing with the IRS** – We handle your Employer Identification Number registration to get you ready for taxes, payroll, and banking.
+
+- **Workers’ Comp Exemption Filing** – If eligible, we’ll file your exemption to help reduce startup insurance costs.
+
+- **Tabbed & Highlighted Book Set** – Your exam books are professionally tabbed and highlighted for easy navigation and faster studying—compliant with Prov exam rules.
+- **1-Year Book Rental Period** – Keep the books for up to 12 months. Return them in similar condition to receive your full deposit back.
+
+- **Online Exam Prep Courses** – Access in-depth, self-paced online courses designed specifically for the Virginia Contractor exam.
+
+- ✅ **Build Beyond Business Accelerator** – Gain exclusive access to the **Build Beyond Business Accelerator**, an 18-week live training program that gives contractors a complete blueprint to grow from worker to owner and build a profitable, scalable contracting business. The program is held **live every Thursday night from 6:30–8:00 PM EST**, 100% virtually, and focuses on real-world systems for pricing, operations, financial clarity, and long-term growth.
+
+🎓 **Online Course Includes:**
+
+- Master Gasfitter Contractor Trade Exam
+
+- Weekly Live Virtual Classes – Get expert instruction, ask questions, and stay accountable with live instructor-led classes each week.
+
+**Included Highlighted & Tabbed Books:**
+
+- International Fuel Gas Code, 2021
+
+- NFPA 58 Liquefied Petroleum Gas Code, 2014
+
+- Virginia Board for Contractors, Individual License and Certification Regulations
+
+All books are **professionally highlighted and tabbed** for quick reference during the open-book exam. This set has been carefully compiled to prepare you for the **Virginia Master Gasfitter Contractor exam**.
+
+📌 *Please allow up to 15 business days for your tabbed and highlighted books to be prepared and shipped.*
+
+🚀 **Get Licensed. Get Legal. Build Your Residential Business with Confidence.**
+With **The 1 Package**, you get everything you need in one place—exam prep, business setup, and full support every step of the way.
+**Start your journey today and take your contracting career to the next level!**
 
 ## How does the Master Gas Fitter (LP) exam work?
 

@@ -39,7 +39,19 @@ The Online Exam Prep Course costs $129.95 and is written for the Master Electric
 
 ## About this Master Electrician package
 
-Ray Holder's 2014 Master Electrician Exam Questions Tests; Online CourseThis online course provides exam-style practice questions and test simulations based on the 2014 National Electrical Code for candidates preparing for the master electrician licensing exam, covering services, feeders, branch circuits, grounding and bonding, wiring methods, conductor and overcurrent protection sizing, load calculations, motors, transformers, and essential electrical safety requirements to strengthen code proficiency and exam readiness.
+The Ray Holder's 2014 Master Electrician Exam Questions Tests; Online Course provides exam-style practice questions and test simulations based on the 2014 National Electrical Code for candidates preparing for the master electrician licensing exam, covering services, feeders, branch circuits, grounding and bonding, wiring methods, conductor and overcurrent protection sizing, load calculations, motors, transformers, and essential electrical safety requirements to strengthen code proficiency and exam readiness.
+
+ An excellent ONLINE study-aid for the helper, apprentice, or electrician in preparing for the Master Electrical Exam. This Online Course will prepare you for both, the "open book" or code book related questions and the new "no book" (formally titled closed book) questions. It also includes the most popular electrical exam formats (number of questions, time allowed, etc.) and is the best way to study the Code book as it forces you to find the answers in the time limit.
+
+Written by Ray Holder and published by Brown Technical Publications. Brown has taken its 70 years of knowledge to combine all of the best and most comprehensive study prep book for Journeymen on the market.
+
+Includes:
+
+10 Open Book Practice Exams with Answers
+2 Complete Final Exams with Answers & Analysis
+Helpful Tips to Pass the Test
+Simulated Exams to give you the experience you need to pass
+A downloadable copy of all the material in the 2014 Master Electrician Study Guide!
 
 ## How does the Master Electrician exam work?
 

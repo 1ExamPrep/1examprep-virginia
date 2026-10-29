@@ -39,7 +39,15 @@ The Book Package costs $399 and is written for the Master Electrician exam. Book
 
 ## About this Master Electrician package
 
-VIRGINIA MASTER ELECTRICIAN BOOK PACKAGE The Virginia Master Electrician Book Package from Pass Your Virginia Contractor Exam provides the complete collection of reference materials required by the Virginia Department of Professional and Occupational Regulation (DPOR) for the master electrician licensing examination. This package includes the latest edition of the National Electrical Code (NEC) and other PSI-approved resources that cover electrical design, load calculations, grounding, overcurrent protection, wiring methods, and safety standards.
+The Virginia Master Electrician Book Package from Pass Your Virginia Contractor Exam provides the complete collection of reference materials required by the Virginia Department of Professional and Occupational Regulation (DPOR) for the master electrician licensing examination. This package includes the latest edition of the National Electrical Code (NEC) and other PSI-approved resources that cover electrical design, load calculations, grounding, overcurrent protection, wiring methods, and safety standards. Designed to align with Virginia’s state exam requirements, the package equips candidates with the technical knowledge and reference materials necessary to prepare for and successfully obtain their master electrician license.
+
+**The Virginia Master Electrician Book Package includes the following books allowed into the exam:**
+
+- NFPA 70 National Electrical Code, 2020
+
+- American Electricians’ Handbook, 17th Edition
+
+- Virginia Board for Contractors, Individual License and Certification Regulations
 
 ## How does the Master Electrician exam work?
 

@@ -39,7 +39,23 @@ The Pre-Printed Tabs costs $74.99 and is written for the Masonry Contractor exam
 
 ## About this Masonry Contractor package
 
-VIRGINIA MASONRY CONTRACTING EXAM; PRE-PRINTED TABS The Virginia Masonry Contracting Exam Pre-Printed Tabs set from Pass Your Virginia Contractor Exam is created to help candidates efficiently organize and reference materials during the Virginia Department of Professional and Occupational Regulation (DPOR) masonry contractor licensing examination. These durable, color-coded tabs correspond to essential sections within masonry and construction code references used in the PSI open-book test. Topics include brick and block installation, mortar types, reinforcement methods, fire resistance, and safety practices.
+The Virginia Masonry Contracting Exam Pre-Printed Tabs set from Pass Your Virginia Contractor Exam is created to help candidates efficiently organize and reference materials during the Virginia Department of Professional and Occupational Regulation (DPOR) masonry contractor licensing examination. These durable, color-coded tabs correspond to essential sections within masonry and construction code references used in the PSI open-book test. Topics include brick and block installation, mortar types, reinforcement methods, fire resistance, and safety practices. Designed for rapid access to key code areas, the tab set enhances study efficiency and on-exam performance for Virginia masonry contractor applicants.
+
+Our permanent quick reference tabs will help you navigate quickly through the books during your exam. These tabs are self-adhesive and must be added at least one-day prior for sufficient adhesive power.
+
+**Includes pre-printed tabs for the following books:**
+
+- Code of Federal Regulations - 29 CFR Part 1926 (OSHA), with latest available amendments
+
+- International Building Code, 2021
+
+- Modern Masonry - Brick, Block, Stone, Clois E. Kicklighter, 10th Edition
+
+- Indiana Limestone Handbook, 22nd edition, 2007
+
+- Repointing Mortar Joints in Historic Masonry Buildings
+
+*NOTE: TABS ONLY. NO HIGHLIGHTS FOR THE BOOKS ARE INCLUDED*
 
 ## How does the Masonry Contractor exam work?
 

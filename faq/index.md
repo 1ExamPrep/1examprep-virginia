@@ -10,18 +10,18 @@ description: 20 answers about Virginia contractor, tradesman and code official e
 
 # Virginia contractor exam FAQ
 
-20 answers about Virginia contractor, tradesman and code official exams: the Class A, B and C limits, the 8-hour pre-license course, PSI exam fees, open-book rules, studying and ordering. Each of the 60 license pages adds 7 questions of its own, linked at the bottom of this page.
+20 answers about Virginia contractor, tradesman and code official exams: the Class A, B and C limits, the 8-hour pre-license course, PSI exam fees, open-book rules, studying and ordering. Each of the 61 license pages adds 7 questions of its own, linked at the bottom of this page.
 
 ## Key takeaways
 
-- 20 questions answered here, plus 7 more on each of the 60 license pages.
+- 20 questions answered here, plus 7 more on each of the 61 license pages.
 - Class C covers jobs of $1,000 to under $10,000; Class B up to under $120,000 a job and $750,000 a year; Class A has no upper limit.
 - PSI contractor exams cost $40 to $85; tradesman exams cost $100 for journeyman and $125 for master.
 - Every exam PSI runs for the board is open book, with highlighting and permanent tabs allowed.
 
 Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 
-How do you get licensed in Virginia? 6How does the Virginia exam work? 5How should you study for it? 4How does ordering work? 5Where are the questions for my license? 60
+How do you get licensed in Virginia? 6How does the Virginia exam work? 5How should you study for it? 4How does ordering work? 5Where are the questions for my license? 61
 
 ## How do you get licensed in Virginia?
 
@@ -175,11 +175,12 @@ Every license page ends with its own questions: the price range, open-book rules
 - [Underground Utility and Excavating Contractor](https://passyourvirginiacontractorexam.com/underground-utility/#faq)
 - [Vessel Contractor](https://passyourvirginiacontractorexam.com/vessel/#faq)
 - [Code Books and Code Courses](https://passyourvirginiacontractorexam.com/code-books-and-courses/#faq)
+- [Other Exam Prep](https://passyourvirginiacontractorexam.com/other/#faq)
 
 Ready to study?
 Find your license, then choose a package.
 
-Exam prep for 60 Virginia licenses, from $19.95. Buy buttons go straight to checkout.
+Exam prep for 61 Virginia licenses, from $19.95. Buy buttons go straight to checkout.
 [Find my license](https://passyourvirginiacontractorexam.com/#contractor)
 
 ## Sources

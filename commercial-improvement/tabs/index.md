@@ -39,7 +39,29 @@ The Pre-Printed Tabs costs $79.99 and is written for the Commercial Improvement 
 
 ## About this Commercial Improvement Contractor (CIC) package
 
-VIRGINIA COMMERCIAL IMPROVEMENT CONTRACTING EXAM; PRE-PRINTED TABS The Virginia Commercial Improvement Contracting Exam Pre-Printed Tabs set from Pass Your Virginia Contractor Exam is designed to assist candidates preparing for the Virginia Department of Professional and Occupational Regulation (DPOR) commercial improvement contractor licensing examination. These durable, color-coded tabs correspond to major sections of the International Building Code (IBC), OSHA safety standards, and other PSI-approved reference materials.
+The Virginia Commercial Improvement Contracting Exam Pre-Printed Tabs set from Pass Your Virginia Contractor Exam is designed to assist candidates preparing for the Virginia Department of Professional and Occupational Regulation (DPOR) commercial improvement contractor licensing examination. These durable, color-coded tabs correspond to major sections of the International Building Code (IBC), OSHA safety standards, and other PSI-approved reference materials. Organized for quick and accurate navigation during the open-book exam, the tabs highlight essential topics such as structural repair, building renovation, fire safety, accessibility, and construction management, helping candidates efficiently locate information and improve exam performance.
+
+Our permanent quick reference tabs will help you navigate quickly through the books during your exam. These tabs are self-adhesive and must be added at least one-day prior for sufficient adhesive power.
+
+**Includes pre-printed tabs for the following books:**
+
+- Code of Federal Regulations - 29 CFR Part 1926 (OSHA), with latest available amendments
+
+- Virginia Uniform Statewide Building Code 2015 Edition, USBC
+
+- International Building Code, 2021
+
+- International Residential Code for One- and Two-Family Dwellings, 2021
+
+- Carpentry and Building Construction
+
+- Design and Control of Concrete Mixtures, 17th Edition
+
+- Modern Masonry - Brick, Block, Stone, Clois E. Kicklighter, 10th Edition
+
+- Gypsum Construction Handbook, 7th Edition
+
+*NOTE: TABS ONLY. NO HIGHLIGHTS FOR THE BOOKS ARE INCLUDED*
 
 ## How does the Commercial Improvement Contractor (CIC) exam work?
 

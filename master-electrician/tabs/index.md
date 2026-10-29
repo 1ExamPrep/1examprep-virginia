@@ -39,7 +39,19 @@ The Pre-Printed Tabs costs $39.99 and is written for the Master Electrician exam
 
 ## About this Master Electrician package
 
-VIRGINIA MASTER ELECTRICIAN EXAM; PRE-PRINTED TABS The Virginia Master Electrician Exam Pre-Printed Tabs set from Pass Your Virginia Contractor Exam is designed to assist candidates in efficiently navigating their reference materials during the Virginia Department of Professional and Occupational Regulation (DPOR) master electrician licensing examination. These durable, color-coded tabs correspond to major sections of the National Electrical Code (NEC) and additional PSI-approved references.
+The Virginia Master Electrician Exam Pre-Printed Tabs set from Pass Your Virginia Contractor Exam is designed to assist candidates in efficiently navigating their reference materials during the Virginia Department of Professional and Occupational Regulation (DPOR) master electrician licensing examination. These durable, color-coded tabs correspond to major sections of the National Electrical Code (NEC) and additional PSI-approved references. The tab set allows for quick access to key topics including load calculations, grounding, overcurrent protection, wiring methods, and electrical system design, helping candidates save time and improve accuracy during Virginia’s open-book master electrician exam.
+
+Our permanent quick reference tabs will help you navigate quickly through the books during your exam. These tabs are self-adhesive and must be added at least one-day prior for sufficient adhesive power.
+
+**Includes pre-printed tabs for the following books:**
+
+- National Electrical Code, NFPA 70 2020
+
+- American Electricians’ Handbook, 17th Edition
+
+- Virginia Board for Contractors, Individual License and Certification Regulations
+
+*NOTE: TABS ONLY. NO HIGHLIGHTS FOR THE BOOKS ARE INCLUDED*
 
 ## How does the Master Electrician exam work?
 

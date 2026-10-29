@@ -39,7 +39,19 @@ The Online Exam Prep Course costs $129.95 and is written for the Journeyman Elec
 
 ## About this Journeyman Electrician package
 
-Ray Holder's 2014 Journeyman's Electrician Licensing Tests; Online CourseThis online course provides practice exams aligned with the 2014 National Electrical Code for journeyman electrician candidates, covering services, feeders, branch circuits, grounding and bonding, wiring methods, conductor and overcurrent protection sizing, load calculations and essential workplace safety requirements to support NEC proficiency and exam preparation. An excellent ONLINE study-aid for the helper, apprentice, or electrician in preparing for the Journeyman Electrical Exam.
+The Ray Holder's 2014 Journeyman's Electrician Licensing Tests; Online Course provides practice exams aligned with the 2014 National Electrical Code for journeyman electrician candidates, covering services, feeders, branch circuits, grounding and bonding, wiring methods, conductor and overcurrent protection sizing, load calculations and essential workplace safety requirements to support NEC proficiency and exam preparation.
+
+ An excellent ONLINE study-aid for the helper, apprentice, or electrician in preparing for the Journeyman Electrical Exam. This Online Course will prepare you for both, the "open book" or code book related questions and the new "no book" (formally titled closed book) questions. It also includes the most popular electrical exam formats (number of questions, time allowed, etc.) and is the best way to study the Code book as it forces you to find the answers in the time limit.
+
+Written by Ray Holder and published by Brown Technical Publications. Brown has taken its 70 years of knowledge to combine all of the best and most comprehensive study prep book for Journeymen on the market.
+
+Includes:
+
+10 Open Book Practice Exams with Answers
+2 Complete Final Exams with Answers & Analysis
+Helpful Tips to Pass the Test
+Simulated Exams to give you the experience you need to pass
+A downloadable copy of all the material in the 2017 Journeyman Electrician Study Guide!
 
 ## How does the Journeyman Electrician exam work?
 

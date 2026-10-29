@@ -39,7 +39,68 @@ The The 1 Package (all-inclusive) costs $2,795 and is written for the Painting a
 
 ## About this Painting and Wall Covering Contractor package
 
-THE 1 PACKAGE: ALL-INCLUSIVE VIRGINIA PAINTING AND WALLCOVERING CONTRACTOR EXAM, LICENSING & BUSINESS SETUP SOLUTION The 1 Package: All-Inclusive Virginia Painting and Wallcovering Contractor Exam, Licensing & Business Setup Solution from Pass Your Virginia Contractor Exam offers a comprehensive preparation and licensing pathway for candidates pursuing the Virginia Board for Contractors Painting and Wallcovering (PTC) classification.
+The 1 Package: All-Inclusive Virginia Painting and Wallcovering Contractor Exam, Licensing & Business Setup Solution from Pass Your Virginia Contractor Exam offers a comprehensive preparation and licensing pathway for candidates pursuing the Virginia Board for Contractors Painting and Wallcovering (PTC) classification. This all-inclusive package includes online trade and business exam prep courses, study materials, and guided business setup assistance in compliance with Virginia Department of Professional and Occupational Regulation (DPOR) requirements. It covers surface preparation, coating applications, wallcovering installation, safety standards, and code compliance for residential and commercial projects. Ideal for contractor school participants and finishing trade professionals, this program streamlines exam readiness, licensing approval, and business formation for Virginia painting contractors.
+
+### **The 1 Package: All-Inclusive Virginia Painting and Wallcovering Contractor Exam, Licensing & Business Setup Solution**
+
+### **Total Cost: $2,495Plus a $300 Refundable Deposit if books are returned in similar condition within 1 yearTotal: $2,795 (All-Inclusive – No Hidden Fees!)**
+
+### **The 1 Package: All-Inclusive Virginia Painting and Wallcovering Contractor Exam, Licensing & Business Setup Solution**
+
+🏠 **Your Complete Licensing & Business Launch Solution**
+
+The **1 Package** is your all-in-one, stress-free path to becoming a licensed **Virginia Painting and Wallcovering Contractor** and launching your construction or remodeling business legally and confidently.
+
+We handle everything—**from exam prep and professionally tabbed & highlighted book rentals to forming your business, filing your EIN, workers’ comp exemption, and completing your licensing paperwork**—so you can focus on passing the exam and building your future.
+
+✅ **What’s Included?**
+
+- **State & Licensing Fees Paid – We cover your application fee and all associated state licensing fees!**
+- **State Licensing Application Support** – We walk you through the licensing process and paperwork to ensure a smooth application experience.
+
+- **Business Formation (LLC or Corporation)** – We establish your business entity so you're legally structured and ready to operate.
+
+- **EIN Filing with the IRS** – We handle your Employer Identification Number registration to get you ready for taxes, payroll, and banking.
+
+- **Workers’ Comp Exemption Filing** – If eligible, we’ll file your exemption to help reduce startup insurance costs.
+
+- **Tabbed & Highlighted Book Set** – Your exam books are professionally tabbed and highlighted for easy navigation and faster studying—compliant with PSI exam rules.
+- **1-Year Book Rental Period** – Keep the books for up to 12 months. Return them in similar condition to receive your full deposit back.
+
+- **Online Exam Prep Courses** – Access in-depth, self-paced online courses designed specifically for the Virginia Contractor exam.
+
+- ✅ **Build Beyond Business Accelerator** – Gain exclusive access to the **Build Beyond Business Accelerator**, an 18-week live training program that gives contractors a complete blueprint to grow from worker to owner and build a profitable, scalable contracting business. The program is held **live every Thursday night from 6:30–8:00 PM EST**, 100% virtually, and focuses on real-world systems for pricing, operations, financial clarity, and long-term growth.
+
+🎓 **Online Course Includes:**
+
+- Virginia Class A/B Business Exam
+
+- Painting and Wallcovering Contractor Trade Exam
+
+- 8 Hour Pre-Licensing Course
+
+  - For Class A and Class B, the course must be completed by a member of responsible management or a designated employee
+
+  - For Class C, the course must be completed by a member of responsible management
+
+**Included Highlighted & Tabbed Books:Business and Law Exam Books (Class A/B):**
+
+1. NASCLA Contractor’s Guide to Business, Law and Project Management, Virginia 11th Edition
+2. Virginia Uniform Statewide Building Code (USBC), Part 1 Summary, 2018
+
+**Painting and Wallcovering Exam Books:**
+
+1. Code of Federal Regulations - 29 CFR Part 1926 (OSHA), with latest available amendments
+2. PDCA Craftsman's Manual and Textbook, 8th edition
+3. Paint Contractor's Manual
+
+All books are **professionally highlighted and tabbed** for quick reference during the open-book exam. This set has been carefully compiled to prepare you for the **Virginia Painting and Wallcovering Contractor exam**.
+
+📌 *Please allow up to 15 business days for your tabbed and highlighted books to be prepared and shipped.*
+
+🚀 **Get Licensed. Get Legal. Build Your Residential Business with Confidence.**
+With **The 1 Package**, you get everything you need in one place—exam prep, business setup, and full support every step of the way.
+**Start your journey today and take your contracting career to the next level!**
 
 ## How does the Painting and Wall Covering Contractor exam work?
 

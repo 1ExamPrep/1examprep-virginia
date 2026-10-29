@@ -39,7 +39,238 @@ The Ultimate Rental Package costs $2,810 and is written for the Home Improvement
 
 ## About this Home Improvement Contractor (HIC) package
 
-Virginia Home Improvement Contractor Exam Ultimate Exam Prep Rental Package Prepare for the Virginia Home Improvement Contractor Exam with an Ultimate Exam Prep Rental Package that combines a comprehensive reference-book collection, 1 year of course access, and Application Service in one organized preparation package. This option is designed for candidates who want access to the listed Virginia Home Improvement Contractor technical references along with structured exam preparation and application support.
+Prepare for the **Virginia Home Improvement Contractor Exam** with an Ultimate Exam Prep Rental Package that combines a comprehensive reference-book collection, **1 year of course access**, and **Application Service** in one organized preparation package. This option is designed for candidates who want access to the listed Virginia Home Improvement Contractor technical references along with structured exam preparation and application support.
+
+The Virginia Home Improvement Contractor specialty covers a broad range of residential construction and improvement subjects. Preparation may involve construction safety, residential building requirements, carpentry, concrete, painting and decorating, masonry, siding and soffit installation, insulation, gypsum construction, finish carpentry, accessibility, contractor business and law, and Virginia building-code material.
+
+Because this examination involves numerous technical subjects and multiple references, a well-organized preparation approach is important. Candidates should become familiar with which reference addresses each type of construction question and practice navigating the books throughout their study period.
+
+This Ultimate package includes the listed rental books, **1 year of course access**, and **Application Service**. Some books are highlighted and tabbed for exam preparation, helping candidates organize selected references and become more familiar with important sections before exam day.
+
+**Please allow up to 15 business days for Ultimate book package orders.**
+
+### What You Get
+
+- **Included Book(s):** Code of Federal Regulations - 29 CFR Part 1926 (OSHA); International Residential Code for One- and Two-Family Dwellings, 2021; Carpentry and Building Construction, 2016; The Contractor's Guide to Quality Concrete Construction - 4th Edition; Painting & Decorating Craftsman's Manual and Textbook, Eighth Edition, 1995; Modern Masonry - Brick, Block, Stone, Clois E. Kicklighter, 10th Edition; Standard Practice for Installation of Rigid Poly(Vinyl Chloride) (PVC) Siding and Soffit - ASTM D 4756; Insulation Handbook, 2001; Gypsum Construction Handbook, 7th Edition; Finish Carpenter's Manual, Jim Tolpin, 1993; ICC A117.1-2017 Standard for Accessible and Usable Buildings and Facilities; NASCLA Contractor’s Guide to Business, Law and Project Management, Virginia 11th Edition; and Virginia Uniform Statewide Building Code, 2021 Edition, USBC.
+- **Course Access:** 1 year of course access.
+- **Application Service:** Included with this package.
+- **Total Cost:** $2,110.
+- **Refundable Deposit:** $700 if books are returned in similar condition within 1 year from the date received.
+- **Total Including Refundable Deposit:** $2,810.
+- **Book Preparation:** Some book(s) are highlighted and tabbed for exam preparation.
+- **Processing Time:** Please allow up to 15 business days for Ultimate book package orders.
+
+### Exam Details
+
+The **Virginia Home Improvement Contracting examination** is the technical specialty examination associated with the Home Improvement Contracting designation. Preparation for this examination involves a wide range of residential construction subjects rather than one isolated trade.
+
+Candidates should be prepared to work with technical information involving areas such as concrete, masonry, painting and wall covering, drywall, rough carpentry and framing, siding, finish carpentry, roofing, insulation, safety, windows, doors, residential building requirements, and accessibility.
+
+The breadth of the subject matter makes the reference books especially important. A candidate may need to work with a residential building code for one question, an OSHA construction-safety reference for another, and a specialized trade manual for masonry, concrete, siding, gypsum, insulation, or finish carpentry for another.
+
+A practical preparation strategy should therefore combine construction knowledge with repeated book-navigation practice. Candidates should know what each reference covers and learn how to identify which book is most relevant before beginning a detailed search.
+
+### Open Book Test
+
+The Virginia Home Improvement Contractor examination is an **open book test**. Candidates preparing for the exam should become familiar with the allowable references and learn how to navigate those books efficiently.
+
+An open-book examination still requires substantial preparation. Candidates should not expect to search every book from the beginning for each question. Instead, preparation should focus on identifying the subject first and selecting the reference most likely to contain the applicable information.
+
+For example, construction-safety material should direct attention toward **Code of Federal Regulations - 29 CFR Part 1926 (OSHA)**. Residential code questions may require the **International Residential Code for One- and Two-Family Dwellings, 2021**, while accessibility material can point toward **ICC A117.1-2017**.
+
+Questions involving specialized trade topics may require references such as Modern Masonry, the Gypsum Construction Handbook, Insulation Handbook, Finish Carpenter's Manual, or the ASTM standard for rigid PVC siding and soffit installation.
+
+Some books in this Ultimate package are highlighted and tabbed for exam preparation. Those markings can provide useful navigation points, but candidates should still learn the organization of each reference, including its table of contents, chapters, index, terminology, and technical sections.
+
+### Licensing Steps
+
+Virginia contractor licensing involves more than completing the technical examination. Candidates preparing for the Home Improvement Contractor specialty should also understand the broader licensing process associated with the business and the applicable contractor license class.
+
+1. **Determine the appropriate Virginia contractor license class.** The contractor business must pursue the class appropriate for the work it intends to perform.
+2. **Select the Home Improvement Contracting specialty.** The requested specialty identifies the type of contractor work the business intends to perform.
+3. **Identify the Qualified Individual.** The business must designate the individual responsible for meeting the applicable technical qualifications for the specialty.
+4. **Meet applicable experience requirements.** The Qualified Individual must satisfy the experience requirements associated with the requested license class and specialty.
+5. **Complete applicable pre-license education.** Virginia contractor applicants must complete required licensing education applicable to the license class being pursued.
+6. **Prepare for the technical examination.** Use the included references and course access to review home improvement trade subjects and practice book navigation.
+7. **Complete applicable business and law preparation.** This package includes the NASCLA Contractor’s Guide to Business, Law and Project Management, Virginia 11th Edition for applicable Virginia contractor business preparation.
+8. **Complete the contractor application process.** Submit the required information and documentation associated with the license and specialty being pursued.
+
+**Application Service is included with this Ultimate package** to support customers during the contractor application process. Exam preparation and application support are separate parts of the overall licensing process.
+
+### State Requirements
+
+Virginia Home Improvement Contracting is part of the state's contractor licensing system and applies to qualifying home improvement work performed within the authorized specialty scope.
+
+Candidates preparing for the specialty should understand that contractor licensing involves both technical qualifications and business-related requirements. The specialty examination represents one part of that process, while contractor business requirements, application documentation, and other licensing elements are handled separately.
+
+The references included with this package reflect both sides of preparation. Technical books address construction subjects such as carpentry, concrete, masonry, painting, siding, insulation, gypsum construction, accessibility, and safety. The NASCLA Virginia reference provides business, law, and project-management material, while the Virginia Uniform Statewide Building Code provides Virginia-specific code material.
+
+This combination allows candidates to organize their preparation around both technical construction subjects and broader Virginia contractor requirements.
+
+### Reference Books
+
+- **Included Book: Code of Federal Regulations - 29 CFR Part 1926 (OSHA)**
+This federal construction-safety reference provides material involving workplace safety requirements applicable to construction activities. Candidates can use it to build familiarity with OSHA organization, terminology, and construction-safety topics.
+- **Included Book: International Residential Code for One- and Two-Family Dwellings, 2021**
+This residential construction code provides requirements applicable to one- and two-family dwellings and related residential building work. Candidates should become familiar with its chapters, tables, definitions, figures, and index.
+- **Included Book: Carpentry and Building Construction, 2016**
+This general construction reference supports preparation involving carpentry, building methods, structural components, tools, materials, and other residential construction subjects.
+- **Included Book: The Contractor's Guide to Quality Concrete Construction - 4th Edition**
+This dedicated concrete reference gives candidates a focused source for studying concrete construction subjects and related technical practices.
+- **Included Book: Painting & Decorating Craftsman's Manual and Textbook, Eighth Edition, 1995**
+This reference provides painting and decorating material involving tools, methods, materials, surface preparation, and other finishing-related subjects.
+- **Included Book: Modern Masonry - Brick, Block, Stone, Clois E. Kicklighter, 10th Edition**
+This masonry reference provides material involving brick, block, stone, mortar, construction methods, tools, and other masonry subjects.
+- **Included Book: Standard Practice for Installation of Rigid Poly(Vinyl Chloride) (PVC) Siding and Soffit - ASTM D 4756**
+This ASTM standard provides specialized technical material related to rigid PVC siding and soffit installation.
+- **Included Book: Insulation Handbook, 2001**
+This reference provides dedicated material for insulation-related preparation and helps candidates separate insulation topics from other residential construction subjects.
+- **Included Book: Gypsum Construction Handbook, 7th Edition**
+This handbook provides specialized material related to gypsum construction, drywall applications, and related building methods.
+- **Included Book: Finish Carpenter's Manual, Jim Tolpin, 1993**
+This specialized carpentry reference supports preparation involving finish-carpentry methods and complements the broader general carpentry reference included in the package.
+- **Included Book: ICC A117.1-2017 Standard for Accessible and Usable Buildings and Facilities**
+This accessibility standard provides technical criteria associated with accessible and usable building elements and facilities.
+- **Included Book: NASCLA Contractor’s Guide to Business, Law and Project Management, Virginia 11th Edition**
+This Virginia contractor reference provides business, law, and project-management material for applicable contractor licensing preparation.
+- **Included Book: Virginia Uniform Statewide Building Code, 2021 Edition, USBC**
+This Virginia-specific code reference provides additional state building-code material for candidates preparing for contractor licensing requirements.
+
+### Book Preparation
+
+**Some book(s) are highlighted and tabbed for exam preparation.** Prepared highlighting and tabs can help organize selected references and provide recognizable navigation points while studying.
+
+Because the package information states that only some books are highlighted and tabbed, candidates should not assume that every reference will contain the same level of preparation. All books should be reviewed individually so their organization becomes familiar.
+
+Use the table of contents and index to identify major subjects. Learn where key chapters begin, which references apply to different construction trades, and how standards or code books are arranged.
+
+The strongest use of highlighting and tabs is to combine them with genuine familiarity. A tab is most helpful when the candidate understands the subject located behind it and knows why that section is relevant.
+
+### Test Information and Study Materials
+
+A large reference package can seem overwhelming until each book is assigned a clear purpose. Organizing the books by topic is one of the most useful preparation strategies for a broad home improvement examination.
+
+For **safety**, work with OSHA 29 CFR Part 1926. Become familiar with how construction regulations are organized and practice locating specific safety subjects using the structure of the reference.
+
+For **residential construction requirements**, use the 2021 International Residential Code. Review its major chapters, tables, figures, definitions, and index so you know how to navigate code-related questions.
+
+For **carpentry**, use Carpentry and Building Construction as the broader reference and Finish Carpenter's Manual when preparation moves into specialized finish-carpentry material.
+
+For **concrete**, work with The Contractor's Guide to Quality Concrete Construction. For **masonry**, use Modern Masonry. Creating these subject-to-book associations can make future reference lookups more efficient.
+
+Use the Painting & Decorating Craftsman's Manual and Textbook for **painting and decorating**, the Gypsum Construction Handbook for **gypsum and drywall material**, and the Insulation Handbook for **insulation topics**.
+
+For rigid PVC siding and soffit material, become familiar with the specialized **ASTM D 4756** standard. For accessibility-related material, use **ICC A117.1-2017**.
+
+Business, law, and project-management preparation can be organized around the **NASCLA Contractor’s Guide to Business, Law and Project Management, Virginia 11th Edition**, while Virginia-specific building-code material can be reviewed through the **Virginia Uniform Statewide Building Code, 2021 Edition, USBC**.
+
+During study sessions, practice working from the subject to the book. Identify the construction or business category first, select the appropriate reference, and then use the table of contents, index, chapters, permanent tabs, or highlighted material to narrow the search.
+
+Repeated use of the books throughout the **1 year of course access** can help candidates build familiarity with terminology, reference organization, technical standards, and common construction subjects.
+
+### Ultimate Package Pricing and Deposit
+
+The **Virginia Home Improvement Contractor Exam Ultimate Exam Prep Rental Package** is priced as follows:
+
+- **Total Cost:** $2,110.00
+- **Refundable Deposit:** $700.00
+- **Total Including Refundable Deposit:** $2,810.00
+
+The **$700 refundable deposit** applies in addition to the $2,110 package cost. The deposit is refundable if the books are returned in similar condition within **1 year from the date received**.
+
+The total initial amount is therefore **$2,810.00**, consisting of the $2,110 Ultimate package cost plus the $700 refundable book deposit.
+
+### 1-Year Book Return Period
+
+The rental books must be returned in similar condition within **1 year from the date received** for the $700 deposit to be refundable.
+
+The one-year return period gives candidates an extended period to work with the included references while using their course access and preparing for the applicable examination and licensing requirements.
+
+Candidates should keep the return deadline in mind and take reasonable care of the books throughout the rental period.
+
+### Order Processing Time
+
+**Please allow up to 15 business days for Ultimate book package orders.**
+
+The preparation period should be considered when planning your study schedule. Ordering in advance gives additional time for the books to be prepared, received, and incorporated into your exam-preparation routine.
+
+### How Pass Your Virginia Contractor Exam Helps You Reach Your Goal
+
+Pass Your Virginia Contractor Exam helps Virginia Home Improvement Contractor candidates organize a large collection of technical, business, law, and code references into manageable areas of study. Rather than approaching every book as a separate challenge, candidates can develop a structured method for connecting specific subjects to the appropriate references.
+
+The Ultimate package includes **1 year of course access**, allowing candidates to work through exam-oriented preparation while repeatedly using the included books. This extended preparation period can help candidates become more familiar with construction terminology, trade subjects, code organization, and reference navigation.
+
+**Application Service is also included**, providing support as candidates work through the applicable contractor application process in addition to preparing for the examination.
+
+Some books are highlighted and tabbed for exam preparation, providing additional organization for selected references. Candidates can combine these prepared navigation aids with trade-focused review, practice-oriented preparation, and repeated independent reference use.
+
+Pass Your Virginia Contractor Exam focuses on organized study guidance, reference navigation, construction-topic review, business and law preparation, and confidence-building study structure. The objective is to help candidates approach both their exam materials and licensing preparation with a more organized process.
+
+### Frequently Asked Questions
+
+### What is included in the Ultimate Exam Prep Rental Package?
+
+The package includes the thirteen listed technical, business, law, and Virginia code references, **1 year of course access**, and **Application Service**.
+
+### What is the cost of the Ultimate package?
+
+The Ultimate package cost is **$2,110.00**.
+
+### Is there a refundable deposit?
+
+Yes. A **$700 refundable deposit** applies to the rental books.
+
+### What is the total including the refundable deposit?
+
+The total is **$2,810.00**, consisting of the $2,110 package cost plus the $700 refundable deposit.
+
+### How long do I have to return the books?
+
+The books must be returned in similar condition within **1 year from the date received** for the $700 deposit to be refundable.
+
+### How long is the course access?
+
+The Ultimate package includes **1 year of course access**.
+
+### Is Application Service included?
+
+Yes. **Application Service is included** with this Ultimate package.
+
+### Are all books highlighted and tabbed?
+
+The package information states that **some book(s) are highlighted and tabbed for exam preparation**. It does not state that every reference receives highlighting and tabbing.
+
+### How long should I allow for the order to be prepared?
+
+Please allow **up to 15 business days** for Ultimate book package orders.
+
+### Does the package include OSHA 29 CFR Part 1926?
+
+Yes. Code of Federal Regulations - 29 CFR Part 1926 (OSHA) is included.
+
+### Does the package include the 2021 International Residential Code?
+
+Yes. International Residential Code for One- and Two-Family Dwellings, 2021 is included.
+
+### Is the NASCLA Virginia contractor book included?
+
+Yes. The package includes the NASCLA Contractor’s Guide to Business, Law and Project Management, Virginia 11th Edition.
+
+### Is the Virginia Uniform Statewide Building Code included?
+
+Yes. The Virginia Uniform Statewide Building Code, 2021 Edition, USBC is included.
+
+### Does the package include accessibility material?
+
+Yes. ICC A117.1-2017 Standard for Accessible and Usable Buildings and Facilities is included.
+
+### Why prepare with the included books throughout the course-access period?
+
+Repeated use helps candidates become more familiar with book organization, terminology, indexes, chapters, standards, and subject locations. That familiarity can support a more organized approach to an open-book examination.
+
+### Does the Ultimate package guarantee a passing score or contractor license?
+
+No. The package provides exam preparation, reference materials, course access, and Application Service, but it does not guarantee an exam result, licensing approval, or contractor license.
 
 ## How does the Home Improvement Contractor (HIC) exam work?
 

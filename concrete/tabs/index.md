@@ -39,7 +39,27 @@ The Pre-Printed Tabs costs $99.99 and is written for the Concrete Contractor exa
 
 ## About this Concrete Contractor package
 
-VIRGINIA CONCRETE CONTRACTING EXAM; PRE-PRINTED TABS The Virginia Concrete Contracting Exam Pre-Printed Tabs set from Pass Your Virginia Contractor Exam is designed to assist candidates in preparing for the Virginia Department of Professional and Occupational Regulation (DPOR) concrete contractor licensing examination. These durable, color-coded tabs correspond to critical sections within the Concrete Manual and related construction references used for the PSI open-book test.
+The Virginia Concrete Contracting Exam Pre-Printed Tabs set from Pass Your Virginia Contractor Exam is designed to assist candidates in preparing for the Virginia Department of Professional and Occupational Regulation (DPOR) concrete contractor licensing examination. These durable, color-coded tabs correspond to critical sections within the Concrete Manual and related construction references used for the PSI open-book test. Organized for efficient code navigation, the tabs highlight key topics such as concrete materials, mix design, placement, curing, testing, and structural reinforcement. This tool enables faster access to essential content during study and examination, improving accuracy and time management for Virginia concrete contractor applicants.
+
+Our permanent quick reference tabs will help you navigate quickly through the books during your exam. These tabs are self-adhesive and must be added at least one-day prior for sufficient adhesive power.
+
+**Includes pre-printed tabs for the following books:**
+
+- Code of Federal Regulations - 29 CFR Part 1926 (OSHA), with latest available amendments
+
+- International Building Code, 2021
+
+- ACI 318-14 (2014): Building Code Requirements for Structural Concrete and Commentary
+
+- Design and Control of Concrete Mixtures, 17th Edition
+
+- Pipe and Excavation Contracting, 2011
+
+- Formwork for Concrete, 7th Edition
+
+- Placing Reinforcing Bars, 10th Edition
+
+*NOTE: TABS ONLY. NO HIGHLIGHTS FOR THE BOOKS ARE INCLUDED*
 
 ## How does the Concrete Contractor exam work?
 

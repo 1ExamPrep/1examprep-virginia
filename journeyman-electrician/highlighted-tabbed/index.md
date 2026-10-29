@@ -39,7 +39,17 @@ The Highlighted and Tabbed Books costs $499 and is written for the Journeyman El
 
 ## About this Journeyman Electrician package
 
-VIRGINIA JOURNEYMAN ELECTRICIAN BOOK PACKAGE - HIGHLIGHTED AND TABBED The Virginia Journeyman Electrician Book Package - Highlighted and Tabbed from Pass Your Virginia Contractor Exam includes all required reference materials approved by the Virginia Department of Professional and Occupational Regulation (DPOR) for the journeyman electrician licensing examination. Each book is professionally highlighted and tabbed to correspond with PSI’s open-book test format, enabling fast access to essential information.
+The Virginia Journeyman Electrician Book Package - Highlighted and Tabbed from Pass Your Virginia Contractor Exam includes all required reference materials approved by the Virginia Department of Professional and Occupational Regulation (DPOR) for the journeyman electrician licensing examination. Each book is professionally highlighted and tabbed to correspond with PSI’s open-book test format, enabling fast access to essential information. The package covers key topics from the National Electrical Code (NEC) such as wiring methods, conductor sizing, grounding, overcurrent protection, and electrical calculations. This complete study resource is designed to help candidates prepare efficiently for the Virginia journeyman electrician exam.
+
+Please allow an additional 15 business days on tabbed and highlighted trade book package orders.
+
+**This package includes the following tabbed and highlighted trade books for the Virginia Journeyman Electrician examination with PSI:**
+
+- NFPA 70 National Electrical Code, 2020
+
+- American Electricians’ Handbook, 17th Edition
+
+- Virginia Board for Contractors, Individual License and Certification Regulations
 
 ## How does the Journeyman Electrician exam work?
 

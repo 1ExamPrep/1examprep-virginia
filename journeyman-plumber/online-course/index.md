@@ -42,7 +42,19 @@ The Online Exam Prep Course costs $295 to $495 with the options above and is wri
 
 ## About this Journeyman Plumber package
 
-VIRGINIA JOURNEYMAN PLUMBER - ONLINE EXAM PREP COURSE The Virginia Journeyman Plumber Online Exam Prep Course from Pass Your Virginia Contractor Exam is structured to prepare candidates for the Virginia Board for Contractors Journeyman Plumbing Examination administered by PSI. This course covers essential topics drawn from the 2018 International Plumbing Code (IPC), Virginia Administrative Code, and related DPOR regulations. Students receive instruction on drainage, venting, fixtures, water distribution, safety, and plumbing math, along with business and law fundamentals required for licensure.
+The Virginia Journeyman Plumber Online Exam Prep Course from Pass Your Virginia Contractor Exam is structured to prepare candidates for the Virginia Board for Contractors Journeyman Plumbing Examination administered by PSI. This course covers essential topics drawn from the 2018 International Plumbing Code (IPC), Virginia Administrative Code, and related DPOR regulations. Students receive instruction on drainage, venting, fixtures, water distribution, safety, and plumbing math, along with business and law fundamentals required for licensure. The course follows the content outline approved by the Virginia Department of Professional and Occupational Regulation and is ideal for tradespeople seeking journeyman-level certification in compliance with state plumbing standards.
+
+Get one step closer to becoming a **Virginia Journeyman Plumber **with a prep course designed by Pass Your Virginia Contractor Exam to help you conquer the required Virginia Journeyman Plumber examination.
+
+Course includes:
+
+- Highlighting and tabbing locations for each book permitted into the exam, so you can quickly and easily reference your materials during the exam
+-  Practice questions for each book in printable PDF format
+- Testing techniques that are an indispensable part of these open-book exams
+
+- Instructor available via phone and/or email
+- 1 year of online access to the course
+- Android and iOS Compatible - Complete the course on your phone, anytime or anywhere.
 
 ## How does the Journeyman Plumber exam work?
 

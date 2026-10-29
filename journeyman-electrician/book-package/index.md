@@ -39,7 +39,15 @@ The Book Package costs $399 and is written for the Journeyman Electrician exam. 
 
 ## About this Journeyman Electrician package
 
-VIRGINIA JOURNEYMAN ELECTRICIAN BOOK PACKAGE The Virginia Journeyman Electrician Book Package from Pass Your Virginia Contractor Exam includes all reference materials approved by the Virginia Department of Professional and Occupational Regulation (DPOR) for the journeyman electrician licensing exam. This comprehensive set features the National Electrical Code (NEC) and other PSI-approved resources covering wiring methods, conductor sizing, grounding, load calculations, overcurrent protection, and safety standards.
+The Virginia Journeyman Electrician Book Package from Pass Your Virginia Contractor Exam includes all reference materials approved by the Virginia Department of Professional and Occupational Regulation (DPOR) for the journeyman electrician licensing exam. This comprehensive set features the National Electrical Code (NEC) and other PSI-approved resources covering wiring methods, conductor sizing, grounding, load calculations, overcurrent protection, and safety standards. Designed to align with the PSI open-book examination format, the package provides electricians with the essential tools and study materials needed to prepare effectively for Virginia’s journeyman electrician license.
+
+**The Virginia Journeyman Electrician Book Package includes the following books allowed into the exam:**
+
+- NFPA 70 National Electrical Code, 2020
+
+- American Electricians’ Handbook, 17th Edition
+
+- Virginia Board for Contractors, Individual License and Certification Regulations
 
 ## How does the Journeyman Electrician exam work?
 

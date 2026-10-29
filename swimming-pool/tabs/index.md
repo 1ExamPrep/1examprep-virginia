@@ -39,7 +39,27 @@ The Pre-Printed Tabs costs $99.99 and is written for the Swimming Pool Construct
 
 ## About this Swimming Pool Construction Contractor package
 
-VIRGINIA SWIMMING POOL CONTRACTING EXAM; PRE-PRINTED TABS The Virginia Swimming Pool Contracting Exam Pre-Printed Tabs set from Pass Your Virginia Contractor Exam is designed to help candidates efficiently navigate their reference materials during the Virginia Department of Professional and Occupational Regulation (DPOR) swimming pool contractor examination. These color-coded, durable tabs correspond to key sections of the International Swimming Pool and Spa Code (ISPSC), OSHA safety standards, and related construction references used in the PSI open-book test.
+The Virginia Swimming Pool Contracting Exam Pre-Printed Tabs set from Pass Your Virginia Contractor Exam is designed to help candidates efficiently navigate their reference materials during the Virginia Department of Professional and Occupational Regulation (DPOR) swimming pool contractor examination. These color-coded, durable tabs correspond to key sections of the International Swimming Pool and Spa Code (ISPSC), OSHA safety standards, and related construction references used in the PSI open-book test. Organized for quick access to essential topics such as pool construction, filtration, electrical systems, and water safety, the tab set improves code navigation and exam performance for Virginia pool contractor licensing candidates.
+
+Our permanent quick reference tabs will help you navigate quickly through the books during your exam. These tabs are self-adhesive and must be added at least one-day prior for sufficient adhesive power.
+
+**Includes pre-printed tabs for the following books:**
+
+- Certified Pool-Spa Operator Handbook
+
+- Design and Control of Concrete Mixtures, 17th Edition
+
+- Guide to Shotcrete
+
+- International Building Code, 2021
+
+- International Swimming Pool and Spa Code, 2021
+
+- Pipe and Excavation Contracting, Dave Roberts, 2011
+
+- Placing Reinforcing Bars, Recommended Practices, 10th Edition
+
+*NOTE: TABS ONLY. NO HIGHLIGHTS FOR THE BOOKS ARE INCLUDED*
 
 ## How does the Swimming Pool Construction Contractor exam work?
 

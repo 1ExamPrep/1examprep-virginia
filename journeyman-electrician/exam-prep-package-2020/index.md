@@ -42,7 +42,11 @@ The Exam Prep Package costs $240 to $770 with the options above and is written f
 
 ## About this Journeyman Electrician package
 
-VIRGINIA 2020 JOURNEYMAN ELECTRICIAN EXAM PREP PACKAGEThe Virginia 2020 Journeyman Electrician Exam Prep Package from Pass Your Virginia Contractor Exam provides focused training for individuals pursuing licensure through the Virginia Board for Contractors. This course aligns with the Virginia Department of Professional and Occupational Regulation (DPOR) requirements and covers the National Electrical Code (NEC) 2020, electrical theory, load calculations, wiring methods, and safety standards relevant to journeyman-level competency.
+The Virginia 2020 Journeyman Electrician Exam Prep Package from Pass Your Virginia Contractor Exam provides focused training for individuals pursuing licensure through the Virginia Board for Contractors. This course aligns with the Virginia Department of Professional and Occupational Regulation (DPOR) requirements and covers the National Electrical Code (NEC) 2020, electrical theory, load calculations, wiring methods, and safety standards relevant to journeyman-level competency. Designed for those preparing for the PSI-administered state exam, it includes reference materials, study guides, and timed practice exams emphasizing circuit design, grounding, and electrical service calculations. The program prepares candidates for the Virginia Journeyman Electrician examination and ensures compliance with current state and national electrical codes, supporting certification in residential, commercial, and industrial electrical work.
+
+**NOTE:** The Test Success Kit included in some packages is an online course, not a book. You will receive a course invitation via email.
+
+Pass Your Virginia Contractor Exam brings you the most advanced, comprehensive and user-friendly electrician exam prep on the market. Let's get your new career as an electrician started! With 4 distinct packages to choose from, you will get the tools that are right for your learning style and budget. Ranging from the complete book set to webinar access and highlights, this product has proven to help over 50,000 students to date (Available in all 50 states).
 
 ## How does the Journeyman Electrician exam work?
 

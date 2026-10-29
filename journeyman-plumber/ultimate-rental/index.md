@@ -39,7 +39,51 @@ The Ultimate Rental Package costs $895 and is written for the Journeyman Plumber
 
 ## About this Journeyman Plumber package
 
-VIRGINIA JOURNEYMAN PLUMBER ULTIMATE EXAM PREP RENTAL PACKAGEThe Virginia Journeyman Plumber Ultimate Exam Prep Rental Package from Pass Your Virginia Contractor Exam provides PSI-approved reference materials and online learning tools for candidates seeking journeyman-level plumbing licensure through the Virginia Board for Contractors. This package aligns with DPOR and PSI exam specifications, covering plumbing systems, piping installation, venting, drainage, fixture requirements, and the International Plumbing Code as adopted in Virginia.
+The *Virginia Journeyman Plumber Ultimate Exam Prep Rental Package* from Pass Your Virginia Contractor Exam provides PSI-approved reference materials and online learning tools for candidates seeking journeyman-level plumbing licensure through the Virginia Board for Contractors. This package aligns with DPOR and PSI exam specifications, covering plumbing systems, piping installation, venting, drainage, fixture requirements, and the International Plumbing Code as adopted in Virginia. It supports preparation for the trade portion of the PSI-administered exam while emphasizing safety, materials, and local code compliance. Ideal for Class A and B license pathways, this rental package from Pass Your Virginia Contractor Exam offers cost-effective, structured study options to help tradespeople meet Virginia’s licensing and professional competency standards for plumbing contractors.
+
+### Virginia Journeyman Plumber Contractor Ultimate Book Rental Package
+
+### **Includes refundable deposit**
+
+### Total Cost: $845
+
+#### *Plus $50 refundable deposit if books are returned in similar condition within 1 year from the date received.
+
+### **Total: $895**
+
+###
+
+### **The Ultimate Rental Package for Journeyman Plumber Contractors Includes:**
+
+This all-inclusive package is your streamlined path to passing your exams and obtaining your license. It includes every essential resource, from tabbed and highlighted books approved for the open-book business and trade exams to online courses, live virtual classes, and licensure application assistance, so you’re fully supported to achieve your goals.
+
+**Features:**
+
+- **Test-Ready Books** – Highlighted and tabbed for fast, easy reference during the exams
+- **1 year of Access to Online Exam Prep Courses:**
+
+  - **Journeyman Plumber**
+
+- **1 Year Book Rental Period**
+- **Licensure Application Preparation **
+- **$50 Refundable Deposit** – Books must be returned in similar condition within 1 year from date received
+
+**Please allow an additional 15 business days on tabbed and highlighted book package orders.The Ultimate Exam Prep for Virginia Journeyman Plumber Contractors includes the following highlighted and tabbed references:The complete set of highlighted and tabbed Virginia Exam books includes:**
+
+*All references are pre-tabbed and highlighted for quick, stress-free access during the exam.*
+
+- International Plumbing Code, 2021
+
+- Virginia Board for Contractors, Individual License and Certification Regulations
+
+### **Why Choose This Highlighted & Tabbed Package?**
+
+🔧 **Built for Industrial Contractors** – Perfect for those managing structural steel, concrete, and large-scale facility construction.
+📘 **Complete & Exam-Approved** – Every book required for the Virginia exams is included and professionally prepped.
+⚡ **Open-Book Optimized** – Save time during the test with highlighted content and easy-to-locate tabs.
+🏗️ **Use Beyond the Exam** – These are valuable field references you’ll return to on real projects for years to come.
+
+📦 **Order now and step into your Virginia Contractor Exam fully prepared, fully equipped, and completely confident!**
 
 ## How does the Journeyman Plumber exam work?
 

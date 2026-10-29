@@ -39,7 +39,17 @@ The Highlighted and Tabbed Books costs $499 and is written for the Master Electr
 
 ## About this Master Electrician package
 
-VIRGINIA MASTER ELECTRICIAN BOOK PACKAGE - HIGHLIGHTED AND TABBED The Virginia Master Electrician Book Package - Highlighted and Tabbed from Pass Your Virginia Contractor Exam provides all reference materials approved by the Virginia Department of Professional and Occupational Regulation (DPOR) for the master electrician licensing examination. Each book is expertly highlighted and tabbed to align with PSI’s open-book exam format, allowing for quick and efficient code navigation.
+The Virginia Master Electrician Book Package - Highlighted and Tabbed from Pass Your Virginia Contractor Exam provides all reference materials approved by the Virginia Department of Professional and Occupational Regulation (DPOR) for the master electrician licensing examination. Each book is expertly highlighted and tabbed to align with PSI’s open-book exam format, allowing for quick and efficient code navigation. The package includes the National Electrical Code (NEC) and related references covering load calculations, grounding and bonding, overcurrent protection, wiring design, and safety standards. This comprehensive package supports electricians preparing to earn the Virginia Master Electrician credential with confidence and accuracy.
+
+Please allow an additional 15 business days on tabbed and highlighted trade book package orders.
+
+**This package includes the following tabbed and highlighted trade books for the Virginia Master Electrician examination with PSI:**
+
+- NFPA 70 National Electrical Code, 2020
+
+- American Electricians’ Handbook, 17th Edition
+
+- Virginia Board for Contractors, Individual License and Certification Regulations
 
 ## How does the Master Electrician exam work?
 

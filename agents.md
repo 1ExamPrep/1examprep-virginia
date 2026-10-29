@@ -6,7 +6,7 @@ Last updated: 2026-10-29
 
 ## What this site is
 
-Pass Your Virginia Contractor Exam sells exam preparation for 60 Virginia licenses: contractor trade classifications, the business and law exam, tradesman licenses and ICC code official certifications. Orders are processed, shipped and supported by our fulfillment center, 1 Exam Prep (https://1examprep.com).
+Pass Your Virginia Contractor Exam sells exam preparation for 61 Virginia licenses: contractor trade classifications, the business and law exam, tradesman licenses and ICC code official certifications. Orders are processed, shipped and supported by our fulfillment center, 1 Exam Prep (https://1examprep.com).
 
 ## How it is organised
 

@@ -39,7 +39,15 @@ The Online Exam Prep Course costs $350 and is written for the NASCLA Electrical 
 
 ## About this NASCLA Electrical Contractor package
 
-NASCLA RESIDENTIAL ELECTRICAL - ONLINE EXAM PREP COURSE The NASCLA Residential Electrical Online Exam Prep Course from Pass Your Virginia Contractor Exam is designed to prepare electricians for the NASCLA-accredited residential electrical contractor licensing examination. This self-paced online course follows the official NASCLA exam outline and covers essential topics from the National Electrical Code (NEC), electrical theory, load calculations, wiring methods, overcurrent protection, and safety standards.
+The NASCLA Residential Electrical Online Exam Prep Course from Pass Your Virginia Contractor Exam is designed to prepare electricians for the NASCLA-accredited residential electrical contractor licensing examination. This self-paced online course follows the official NASCLA exam outline and covers essential topics from the National Electrical Code (NEC), electrical theory, load calculations, wiring methods, overcurrent protection, and safety standards. Featuring instructional videos, practice questions, and code navigation exercises, the program helps candidates build familiarity with the open-book testing format used across participating state licensing boards for residential electrical contractor certification.
+
+Get one step closer to becoming a NASCLA Residential Electrical contractor with a prep course designed by Pass Your Virginia Contractor Exam to help you conquer the required NASCLA Residential Electrical computer based examination.
+
+Course includes:
+
+- Test taking techniques
+- Tab and highlight locations
+- Practice questions for each book
 
 ## How does the NASCLA Electrical Contractor exam work?
 

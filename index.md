@@ -3,16 +3,16 @@ title: Virginia Contractor Exam Prep for Every License
 url: https://passyourvirginiacontractorexam.com/
 updated: 2026-10-29
 site: Pass Your Virginia Contractor Exam
-description: Virginia contractor exam prep for 60 licenses: Class A, B and C trade classifications, tradesman licenses and ICC inspector exams. Books, courses and The 1.
+description: Virginia contractor exam prep for 61 licenses: Class A, B and C trade classifications, tradesman licenses and ICC inspector exams. Books, courses and The 1.
 ---
 
 # Virginia contractor exam prep for every license
 
-Exam prep for 60 Virginia licenses: contractor classes A, B and C, tradesman licenses for electricians, plumbers, HVAC and gas fitters, and ICC inspector and plans examiner certifications. Pick your license to compare its packages, from online courses to The 1 Package, then check out in one click.
+Exam prep for 61 Virginia licenses: contractor classes A, B and C, tradesman licenses for electricians, plumbers, HVAC and gas fitters, and ICC inspector and plans examiner certifications. Pick your license to compare its packages, from online courses to The 1 Package, then check out in one click.
 
 ## Key takeaways
 
-- 339 products across 60 license classes, from $19.95 to $4,674.
+- 369 products across 61 license classes, from $19.95 to $4,674.
 - Class A, B and C contractor applicants all complete 8 hours of pre-license education; Class A and B also pass PSI exams costing $40 to $85.
 - Tradesman exams cost $100 for journeyman and $125 for master, paid to PSI after board approval.
 - Every Buy now button goes straight to secure checkout at our fulfillment center, 1 Exam Prep.
@@ -38,13 +38,13 @@ Board for Contractors trade classifications for a Class A, B or C license. The d
 - [**Refrigeration Contractor** 7 options from $295](https://passyourvirginiacontractorexam.com/refrigeration/)
 - [**Fire Alarm Systems Contractor** 2 options from $545](https://passyourvirginiacontractorexam.com/fire-alarm/)
 - [**Framing Contractor** 1 option from $595](https://passyourvirginiacontractorexam.com/framing/)
-- [**Finish Carpentry Contractor** 2 options from $145](https://passyourvirginiacontractorexam.com/finish-carpentry/)
-- [**Insulation and Weather Stripping Contractor** 1 option from $1,495](https://passyourvirginiacontractorexam.com/insulation/)
-- [**Marine Facility Contractor** 2 options from $795](https://passyourvirginiacontractorexam.com/marine-facility/)
+- [**Finish Carpentry Contractor** 6 options from $145](https://passyourvirginiacontractorexam.com/finish-carpentry/)
+- [**Insulation and Weather Stripping Contractor** 5 options from $295](https://passyourvirginiacontractorexam.com/insulation/)
+- [**Marine Facility Contractor** 6 options from $295](https://passyourvirginiacontractorexam.com/marine-facility/)
 - [**Alternative Energy Systems Contractor** 1 option from $545](https://passyourvirginiacontractorexam.com/alternative-energy/)
 - [**Asphalt Paving and Sealcoating Contractor** 2 options from $795](https://passyourvirginiacontractorexam.com/asphalt-paving/)
 - [**Billboard Sign Contractor** 1 option from $195](https://passyourvirginiacontractorexam.com/billboard-sign/)
-- [**Farm Improvement Contractor** 1 option from $1,545](https://passyourvirginiacontractorexam.com/farm-improvement/)
+- [**Farm Improvement Contractor** 4 options from $295](https://passyourvirginiacontractorexam.com/farm-improvement/)
 - [**Landscape Service Contractor** 1 option from $695](https://passyourvirginiacontractorexam.com/landscape-service/)
 - [**Steel Erection Contractor** 1 option from $695](https://passyourvirginiacontractorexam.com/steel-erection/)
 - [**Underground Utility and Excavating Contractor** 1 option from $1,195](https://passyourvirginiacontractorexam.com/underground-utility/)
@@ -65,10 +65,10 @@ Journeyman and master licenses for electricians, plumbers, HVAC technicians and 
 - [**NASCLA Electrical Contractor** 9 options from $295](https://passyourvirginiacontractorexam.com/electrical-contractor-nascla/)
 - [**Journeyman Electrician** 33 options from $39.99](https://passyourvirginiacontractorexam.com/journeyman-electrician/)
 - [**Master Electrician** 24 options from $39.99](https://passyourvirginiacontractorexam.com/master-electrician/)
-- [**Residential Plumber Tradesman** 2 options from $195](https://passyourvirginiacontractorexam.com/residential-plumber/)
+- [**Residential Plumber Tradesman** 6 options from $195](https://passyourvirginiacontractorexam.com/residential-plumber/)
 - [**Journeyman Plumber** 12 options from $29.99](https://passyourvirginiacontractorexam.com/journeyman-plumber/)
 - [**Master Plumber** 7 options from $29.99](https://passyourvirginiacontractorexam.com/master-plumber/)
-- [**Residential HVAC Tradesman** 2 options from $745](https://passyourvirginiacontractorexam.com/residential-hvac/)
+- [**Residential HVAC Tradesman** 5 options from $295](https://passyourvirginiacontractorexam.com/residential-hvac/)
 - [**Journeyman HVAC** 3 options from $495](https://passyourvirginiacontractorexam.com/journeyman-hvac/)
 - [**Master HVAC** 5 options from $65](https://passyourvirginiacontractorexam.com/master-hvac/)
 - [**Journeyman Natural Gas Fitter** 5 options from $295](https://passyourvirginiacontractorexam.com/journeyman-natural-gas-fitter/)
@@ -103,6 +103,7 @@ ICC certification exams for code officials. ICC exams are national, so a few Ohi
 Reference books and short courses on the codes the exams are written to.
 
 - [**Code Books and Code Courses** 6 options from $19.99](https://passyourvirginiacontractorexam.com/code-books-and-courses/)
+- [**Other Exam Prep** 8 options from $124.99](https://passyourvirginiacontractorexam.com/other/)
 
 ## How do Virginia contractor license classes work?
 
@@ -121,12 +122,12 @@ Most licenses offer the same building blocks. Prices vary by license because the
 
 Package | What you get | Price range | Products
 Online Practice Exams | timed practice questions online, with explanations | $59.95 to $125 | 6
-Online Exam Prep Course | an online course with practice exams you can take on a phone or laptop | $89 to $395 | 44
+Online Exam Prep Course | an online course with practice exams you can take on a phone or laptop | $89 to $395 | 51
 Pre-Printed Tabs | pre-printed permanent tabs for the reference books, allowed in the exam room | $19.95 to $99.99 | 17
 Study Guide and Online Course | the study guide plus the online course | $119.99 | 1
 Study Guide and Flash Cards | the study guide with practice exams plus flash cards | $99.95 | 2
 Study Guide | the printed study guide with practice exams | $59.95 to $59.99 | 5
-Code Book | the printed code book | $19.99 to $65 | 3
+Code Book | the printed code book | $19.99 to $309.99 | 7
 Book Package | the reference books the exam is written to, new and unmarked | $129 to $2,244 | 51
 Study Guide + NEC with Tabs | the study guide, the National Electrical Code and pre-printed tabs | $249.95 | 4
 Study Guide + Calculations + NEC | the study guide, the calculations guide and the National Electrical Code | $279.95 | 4
@@ -137,10 +138,10 @@ Ultimate Combo | the full study set plus the online test kit | $399.95 | 4
 Highlighted and Tabbed Books | the reference books already highlighted and permanently tabbed, ready for the exam room | $225 to $3,094 | 57
 Study Package with NEC Course | the study package plus an instructor-led NEC course | $499.95 | 4
 Live Virtual Training | live virtual classes with an instructor plus self-study material | $495 to $595 | 23
-Books and Courses Rental | the reference books on rental plus the online course, returned after your exam | $325 to $3,684 | 51
-Ultimate Rental Package | highlighted and tabbed rental books, the online course and live training | $895 to $4,109 | 21
+Books and Courses Rental | the reference books on rental plus the online course, returned after your exam | $325 to $3,684 | 56
+Ultimate Rental Package | highlighted and tabbed rental books, the online course and live training | $895 to $4,109 | 28
 Licensing Service | help preparing and filing the license application | $295 to $995 | 4
-The 1 Package (all-inclusive) | everything: exam prep, books, licensing paperwork and business setup | $2,410 to $4,674 | 16
+The 1 Package (all-inclusive) | everything: exam prep, books, licensing paperwork and business setup | $1,960 to $4,674 | 23
 
 ## How does buying work?
 

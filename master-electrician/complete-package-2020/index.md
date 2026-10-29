@@ -39,7 +39,37 @@ The Complete Package costs $350 and is written for the Master Electrician exam. 
 
 ## About this Master Electrician package
 
-VIRGINIA 2020 COMPLETE MASTER ELECTRICIAN BOOK PACKAGEThe Virginia 2020 Complete Master Electrician Book Package from Pass Your Virginia Contractor Exam provides the required reference materials for candidates preparing for the Virginia Master Electrician licensing examination, as regulated by the Virginia Department of Professional and Occupational Regulation (DPOR). This comprehensive set includes the 2020 National Electrical Code (NEC) and related publications covering load calculations, grounding, wiring methods, and service installation standards.
+The Virginia 2020 Complete Master Electrician Book Package from Pass Your Virginia Contractor Exam provides the required reference materials for candidates preparing for the Virginia Master Electrician licensing examination, as regulated by the Virginia Department of Professional and Occupational Regulation (DPOR). This comprehensive set includes the 2020 National Electrical Code (NEC) and related publications covering load calculations, grounding, wiring methods, and service installation standards. Developed to align with PSI testing requirements, the package ensures compliance with current state codes and exam content areas, helping applicants demonstrate proficiency in electrical design, installation, and maintenance practices for residential, commercial, and industrial applications.
+
+An essential package to passing your Master Electrician's exam. We offer a 100% satisfaction guarantee. Our Electrician Exam Prep books are #1 Amazon best sellers in their category!
+
+**Free Shipping on this package!!For Help Please Call 1-888-710-2550**
+
+Check out the four great publications you receive:
+
+1) **2020 Master Electrician Study Guide**; (ISBN 979-8620738816)
+
+An excellent study-aid when preparing for the Master Electrical Exam. This workbook will prepare you for both, the "open book" or code book related questions and the new "no book" (formally titled closed book) questions. It also includes the most popular electrical exam formats (number of questions, the time allowed, etc.) and is the best way to study the Code book as it forces you to find the answers in the time limit. Includes 12 open book tests and 2 final closed exams. A special intro dedicated to your specific state exam.
+
+2) **Electrician's Practice Calculations Exams 2020**; (ISBN 979-8615055973)
+
+This self-study exam prep book is based on the 2020 NEC® with 10 practice calculations exams consisting of 25 questions each and a final exam of 100 questions.
+
+3) **Online Master Electrician Test Success Kit**;
+
+Ray Holder's 2020 Master Electrician Exam Prep is an excellent ONLINE study-aid for the helper, apprentice, or electrician in preparing for the **Master Electrical Exam**. This Online Course will prepare you for both, the "open book" or code book related questions and the new "no book" (formally titled closed book) questions. It also includes the most popular electrical exam formats (number of questions, the time allowed, etc.) and is the best way to study the Code book as it forces you to find the answers in the time limit.
+
+**Includes:**
+
+- **12 Open Book Practice Exams with Answers**
+- **2 Complete Final Exams with Answers & Analysis**
+- **Helpful Tips to Pass the Test**
+- **Simulated Exams to give you the experience you need to pass**
+- **A downloadable copy of all the material in the 2020 Master Electrician Study Guide!**
+
+4) **National Electrical Code 2020 Paperback with Tabs**;
+
+This set includes the NEC 2020 Code and the tabs that go along with it.
 
 ## How does the Master Electrician exam work?
 

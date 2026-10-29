@@ -3,7 +3,7 @@ title: Virginia Class A/B Business and Law Pre-Printed Tabs
 url: https://passyourvirginiacontractorexam.com/business-and-law/tabs-2/
 updated: 2026-10-29
 site: Pass Your Virginia Contractor Exam
-description: Pre-Printed Tabs for the Virginia Class A/B Business and Law exam: pre-printed permanent tabs for the reference books, allowed in the exam room. $19.95.
+description: Pre-Printed Tabs for the Virginia Class A/B Business and Law exam: pre-printed permanent tabs for the reference books, allowed in the exam room. $24.95.
 ---
 
 [All licenses](https://passyourvirginiacontractorexam.com/) /[Business and law, pre-license and paperwork](https://passyourvirginiacontractorexam.com/#business) /[Class A/B Business and Law](https://passyourvirginiacontractorexam.com/business-and-law/) /Pre-Printed Tabs
@@ -12,9 +12,9 @@ Class A/B Business and Law · Pre-Printed Tabs
 
 # Virginia NASCLA Contractors Guide to Business, Law and Project Management, Virginia 11th Edition; Pre-Printed Tabs
 
-The Virginia NASCLA Contractors Guide to Business, Law and Project Management, Virginia 11th Edition; Pre-Printed Tabs is pre-printed permanent tabs for the reference books, allowed in the exam room for the Class A/B Business and Law exam (Virginia), at $19.95, 9% off the $22 list price. Books ship from our fulfillment center, 1 Exam Prep.
+The Virginia NASCLA Contractors Guide to Business, Law and Project Management, Virginia 11th Edition; Pre-Printed Tabs is pre-printed permanent tabs for the reference books, allowed in the exam room for the Class A/B Business and Law exam (Virginia), at $24.95, 29% off the $35 list price. Books ship from our fulfillment center, 1 Exam Prep.
 
-$19.95 (was $22) Save 9% [Buy now, go to checkout](https://1examprep.com/cart/45416010186809:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com)
+$24.95 (was $35) Save 29% [Buy now, go to checkout](https://1examprep.com/cart/45416010186809:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com)
 
 - Secure checkout, fulfilled by 1 Exam Prep
 - Books ship from our fulfillment center, 1 Exam Prep
@@ -22,7 +22,7 @@ $19.95 (was $22) Save 9% [Buy now, go to checkout](https://1examprep.com/cart/45
 
 ## Key takeaways
 
-- Pre-Printed Tabs: $19.95, down from $22.
+- Pre-Printed Tabs: $24.95, down from $35.
 - For the Class A/B Business and Law exam; pre-printed permanent tabs for the reference books, allowed in the exam room.
 - Class A and B applicants pass the Virginia and general business portions, written to the NASCLA Contractors Guide to Business, Law and Project Management, Virginia edition.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
@@ -35,11 +35,17 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Class A/B Business and Law exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
-The Pre-Printed Tabs costs $19.95 and is written for the Class A/B Business and Law exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+The Pre-Printed Tabs costs $24.95 and is written for the Class A/B Business and Law exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
 
 ## About this Class A/B Business and Law package
 
-Virginia NASCLA Contractors Guide to Business, Law and Project Management, Virginia 11th Edition; Pre-Printed Tabs The NASCLA Contractors Guide to Business, Law and Project Management – Virginia 11th Edition is the official reference for the National Association of State Contractors Licensing Agencies (NASCLA) and meets the requirements for the Virginia Board for Contractors (administered by PSI Services) licensing exam.
+The NASCLA Contractors Guide to Business, Law and Project Management – Virginia 11th Edition is the official reference for the National Association of State Contractors Licensing Agencies (NASCLA) and meets the requirements for the Virginia Board for Contractors (administered by PSI Services) licensing exam. According to NASCLA’s bookstore listing, the book is structured in three parts: Part 1 covers business planning, choosing a business structure, licensing and insurance; Part 2 focuses on estimating, contract management, scheduling, project management, safety and environmental responsibilities; and Part 3 addresses administrative functions such as financial management, tax basics, and lien laws.
+
+Pre-printed tabs for the Virginia NASCLA Contractors Guide to Business, Law and Project Management, Virginia 11th Edition;(Tabs Only).
+
+Our permanent quick reference tabs will help you navigate quickly through this book during your exam. These tabs are self-adhesive and must be added at least one-day prior for sufficient adhesive power.
+
+*Please note that the Testing Facility Proctor is the deciding factor on whether or not tabs will be accepted and allowed into the exam. If the tabs do not adhere properly, they will not be accepted. *
 
 ## How does the Class A/B Business and Law exam work?
 
@@ -61,7 +67,7 @@ The Class A/B Business and Law products cover the business side of a Virginia co
 
 ### How much is the Virginia NASCLA Contractors Guide to Business, Law and Project Management, Virgi?
 
-$19.95. The price at checkout is the one that applies, and it is shown before you pay.
+$24.95. The price at checkout is the one that applies, and it is shown before you pay.
 
 ### What is included?
 

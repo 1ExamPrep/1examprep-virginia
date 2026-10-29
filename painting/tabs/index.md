@@ -39,7 +39,19 @@ The Pre-Printed Tabs costs $39.99 and is written for the Painting and Wall Cover
 
 ## About this Painting and Wall Covering Contractor package
 
-VIRGINIA PAINTING AND WALL COVERING CONTRACTING EXAM; PRE-PRINTED TABS The Virginia Painting and Wall Covering Contracting Exam Pre-Printed Tabs set from Pass Your Virginia Contractor Exam is designed to help candidates efficiently navigate their reference materials during the Virginia Department of Professional and Occupational Regulation (DPOR) contractor licensing exam. These durable, color-coded tabs correspond to key sections of the Painting and Decorating Contractors of America (PDCA) standards, safety guidelines, and code references used in the PSI open-book test.
+The Virginia Painting and Wall Covering Contracting Exam Pre-Printed Tabs set from Pass Your Virginia Contractor Exam is designed to help candidates efficiently navigate their reference materials during the Virginia Department of Professional and Occupational Regulation (DPOR) contractor licensing exam. These durable, color-coded tabs correspond to key sections of the Painting and Decorating Contractors of America (PDCA) standards, safety guidelines, and code references used in the PSI open-book test. The tab set enables quick access to essential topics such as surface preparation, coatings, application methods, wall coverings, and safety procedures, improving organization and performance for Virginia painting and wall covering contractor candidates.
+
+Our permanent quick reference tabs will help you navigate quickly through the books during your exam. These tabs are self-adhesive and must be added at least one-day prior for sufficient adhesive power.
+
+**Includes pre-printed tabs for the following books:**
+
+- Code of Federal Regulations - 29 CFR Part 1926 (OSHA), with latest available amendments
+
+- PDCA Craftsman's Manual and Textbook, 8th edition
+
+- Paint Contractor's Manual
+
+*NOTE: TABS ONLY. NO HIGHLIGHTS FOR THE BOOKS ARE INCLUDED*
 
 ## How does the Painting and Wall Covering Contractor exam work?
 

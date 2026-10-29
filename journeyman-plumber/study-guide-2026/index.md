@@ -39,7 +39,65 @@ The Study Guide costs $59.99 and is written for the Journeyman Plumber exam. Boo
 
 ## About this Journeyman Plumber package
 
-Get the focused preparation you need to pass your 2026 Virginia Journeyman Plumber Exam with this comprehensive, easy-to-follow Study Guide—built specifically around the 2024 International Plumbing Code (IPC) and aligned with Virginia licensing requirements. This guide is designed to simplify complex topics, reinforce key concepts, and give you the exact tools needed to walk into your exam with confidence.
+**Get the focused preparation you need to pass your 2026 Virginia Journeyman Plumber Exam** with this comprehensive, easy-to-follow Study Guide—built specifically around the **2024 International Plumbing Code (IPC)** and aligned with Virginia licensing requirements.
+
+This guide is designed to simplify complex topics, reinforce key concepts, and give you the exact tools needed to walk into your exam with confidence.
+
+### 📗 What’s Included in the Study Guide
+
+#### ✔️ 700+ Practice Questions with Answer Keys
+
+Sharpen your knowledge and test your understanding with a large bank of exam-style questions designed to reflect what you’ll see on test day.
+
+- Detailed answer explanations
+- Reinforces both code knowledge and practical application
+- Helps identify weak areas quickly
+
+#### ✔️ Exam Topics Based on Virginia Licensing Standards
+
+Study smarter with content built from real exam topics—so you can focus on what actually matters.
+
+#### ✔️ Exclusive Test-Taking Techniques
+
+Learn proven strategies to help you:
+
+- Navigate questions more efficiently
+- Avoid common mistakes
+- Maximize your score under time pressure
+
+#### ✔️ Proven Study Plan to Pass the First Time
+
+Follow a structured, step-by-step plan that removes guesswork and keeps your preparation on track from start to finish.
+
+### 🔧 Comprehensive Topic Coverage
+
+This study guide covers all major areas tested on the **Virginia Journeyman Plumber Exam**:
+
+- OSHA Safety Review
+- International Plumbing Code (IPC) Review
+- Plumbing Systems & Installation
+- Isometric Analysis & Interpretation
+- Plumbing Math Calculations
+- Virginia Licensing & Exam Requirements
+
+### 🎯 Why This Study Guide Works
+
+✅ Built specifically for the **Virginia Journeyman Plumber Exam**
+✅ Based on the latest **2024 IPC standards**
+✅ Combines practice, strategy, and structured learning
+✅ Designed for both first-time test takers and retakes
+
+### 🚀 Who This Is For
+
+- Apprentices preparing to become licensed Journeyman Plumbers in Virginia
+- Students who want a clear, structured path to passing the exam
+- Anyone looking to improve confidence and pass faster
+
+### 🏁 Prepare Smarter. Pass Faster.
+
+With the right preparation, passing your exam isn’t a guessing game—it’s a system. This study guide gives you the knowledge, structure, and confidence to succeed.
+
+👉 **Start studying today and take the next step toward earning your Virginia Journeyman Plumber License.**
 
 ## How does the Journeyman Plumber exam work?
 

@@ -42,7 +42,11 @@ The Exam Prep Package costs $240 to $770 with the options above and is written f
 
 ## About this Master Electrician package
 
-VIRGINIA 2020 MASTER ELECTRICIAN EXAM PREP PACKAGEThe Virginia 2020 Master Electrician Exam Prep Package from Pass Your Virginia Contractor Exam is designed to help candidates meet the requirements of the Virginia Board for Contractors for the Master Electrician license. This comprehensive program aligns with the National Electrical Code (NEC 2020) and covers topics essential to the Virginia Master Electrician exam, including electrical theory, load calculations, wiring methods, grounding, bonding, and safety standards.
+The Virginia 2020 Master Electrician Exam Prep Package from Pass Your Virginia Contractor Exam is designed to help candidates meet the requirements of the Virginia Board for Contractors for the Master Electrician license. This comprehensive program aligns with the National Electrical Code (NEC 2020) and covers topics essential to the Virginia Master Electrician exam, including electrical theory, load calculations, wiring methods, grounding, bonding, and safety standards. The course provides practice exams modeled on PSI’s testing format and includes reference materials approved by the Virginia Department of Professional and Occupational Regulation (DPOR). It prepares electricians for state licensing by emphasizing NEC compliance, construction law, and professional conduct for residential, commercial, and industrial projects under CILB equivalency standards.
+
+**NOTE:** The Test Success Kit included in some packages is an online course, not a book. You will receive a course invitation via email.
+
+Pass Your Virginia Contractor Exam brings you the most advanced, comprehensive and user-friendly electrician exam prep on the market. Let's get your new career as an electrician started! With 4 distinct packages to choose from, you will get the tools that are right for your learning style and budget. Ranging from the complete book set to webinar access and highlights, this product has proven to help over 50,000 students to date (Available in all 50 states).
 
 ## How does the Master Electrician exam work?
 

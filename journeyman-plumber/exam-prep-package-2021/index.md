@@ -39,7 +39,51 @@ The Exam Prep Package costs $175 and is written for the Journeyman Plumber exam.
 
 ## About this Journeyman Plumber package
 
-Virginia Journeyman Plumber Exam Prep Package [2021 IPC]The Virginia Journeyman Plumber Exam Prep Package from Pass Your Virginia Contractor Exam is designed for candidates preparing for the Virginia Board for Contractors’ Journeyman Plumber licensing examination under the 2021 International Plumbing Code (IPC). This course aligns with state requirements and covers essential plumbing system design, materials, fixtures, drainage, venting, and code compliance. Participants receive comprehensive reference materials, including the 2021 IPC and related trade publications, structured to mirror the PSI testing format.
+The Virginia Journeyman Plumber Exam Prep Package from Pass Your Virginia Contractor Exam is designed for candidates preparing for the Virginia Board for Contractors’ Journeyman Plumber licensing examination under the 2021 International Plumbing Code (IPC). This course aligns with state requirements and covers essential plumbing system design, materials, fixtures, drainage, venting, and code compliance. Participants receive comprehensive reference materials, including the 2021 IPC and related trade publications, structured to mirror the PSI testing format. The package focuses on plumbing calculations, code interpretation, and hands-on knowledge required by the Commonwealth of Virginia for journeyman-level certification. It is developed to meet the standards established by the Department of Professional and Occupational Regulation (DPOR) and serves as a recognized preparatory path for PSI-administered plumbing exams.
+
+###  Virginia **Journeyman Plumber Exam Prep Package**
+
+### **Based on the 2021 International Plumbing Code**
+
+If you are looking into a career change and are interested in pursuing a trade career, becoming a **Journeyman Plumber** could be a great choice. With our Journeyman Plumber Exam Prep Package, you will get the 2021 International Plumbing Code plus tabs and our study guide packed with practice problems, detailed explanations, study and time management tips and preliminary testing requirements for each state. This book is an excellent resource created to enhance your study sessions and help you pass your Journeyman Plumber exam.
+
+Our Virginia Journeyman Plumber Exam Prep Package includes:
+
+#### 1) **2021 International Plumbing Code**
+
+- Softbound
+- ISBN: 978-1609839628
+
+#### 2) **Quick Reference Tabs for the 2021 International Plumbing Code**
+
+- Our permanent quick reference tabs will help you navigate quickly through the Code book during your exam.
+
+#### 3) **Journeyman Plumber Exam Study Guide (softbound book)**
+
+- 750 Practice Questions with Answer Keys
+
+- Exam Topics from Actual Exam
+
+- Exclusive Test Taking Techniques
+
+- Proven Study Plan to Pass the First Time
+
+- OSHA Review
+
+- International Plumbing Code Review
+
+- International Fuel Gas Code Review
+
+- Isometrics Analysis
+
+- Plumber Math Review
+
+- Virginia Licensing and Testing Requirements
+
+- Number of Pages: 260
+- ISBN: 979-8434781022
+
+**For Questions Please Call 1-877-775-9400**
 
 ## How does the Journeyman Plumber exam work?
 

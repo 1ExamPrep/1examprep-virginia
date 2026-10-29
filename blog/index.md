@@ -16,7 +16,7 @@ Study plans, Virginia licensing rules and exam strategy for the contractor, trad
 
 - 0 posts so far, written for Virginia contractor, tradesman and code official candidates.
 - Topics cover study strategy, using the references and Virginia licensing rules.
-- Exam prep for 60 Virginia licenses, with every rule linked to the board that sets it.
+- Exam prep for 61 Virginia licenses, with every rule linked to the board that sets it.
 - New posts appear in the RSS feed at /blog/feed.xml the moment they are published.
 
 Updated October 29, 2026 · prices checked against the 1 Exam Prep store

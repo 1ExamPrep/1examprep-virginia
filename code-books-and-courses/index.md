@@ -133,7 +133,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 
 ### More in Code books and code courses
 
-- [Every license](https://passyourvirginiacontractorexam.com/)
+- [Other Exam Prep](https://passyourvirginiacontractorexam.com/other/)
 
 ### Other license groups
 

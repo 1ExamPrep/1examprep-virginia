@@ -39,7 +39,15 @@ The Highlighted and Tabbed Books costs $225 and is written for the Journeyman Pl
 
 ## About this Journeyman Plumber package
 
-VIRGINIA JOURNEYMAN PLUMBER BOOK PACKAGE - HIGHLIGHTED AND TABBED The Virginia Journeyman Plumber Book Package - Highlighted and Tabbed from Pass Your Virginia Contractor Exam provides all reference materials required by the Virginia Department of Professional and Occupational Regulation (DPOR) for the journeyman plumber licensing examination. Each book is expertly highlighted and tabbed to align with PSI’s open-book exam format, enabling quick and accurate code navigation.
+The Virginia Journeyman Plumber Book Package - Highlighted and Tabbed from Pass Your Virginia Contractor Exam provides all reference materials required by the Virginia Department of Professional and Occupational Regulation (DPOR) for the journeyman plumber licensing examination. Each book is expertly highlighted and tabbed to align with PSI’s open-book exam format, enabling quick and accurate code navigation. The package covers critical topics from the International Plumbing Code (IPC), including pipe installation, drainage systems, venting, fixtures, backflow prevention, and safety regulations. This complete and organized resource helps candidates prepare efficiently for Virginia’s journeyman plumber license exam.
+
+Please allow an additional 15 business days on tabbed and highlighted trade book package orders.
+
+**This package includes the following tabbed and highlighted trade books for the Virginia Master Plumber examination with PSI:**
+
+- International Plumbing Code, 2021
+
+- Virginia Board for Contractors, Individual License and Certification Regulations
 
 ## How does the Journeyman Plumber exam work?
 

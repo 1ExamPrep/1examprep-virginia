@@ -39,7 +39,25 @@ The Pre-Printed Tabs costs $89.99 and is written for the Roofing Contractor exam
 
 ## About this Roofing Contractor package
 
-VIRGINIA ROOFING CONTRACTING EXAM; PRE-PRINTED TABS The Virginia Roofing Contracting Exam Pre-Printed Tabs set from Pass Your Virginia Contractor Exam is designed to help candidates efficiently navigate reference materials during the Virginia Department of Professional and Occupational Regulation (DPOR) roofing contractor licensing examination. These durable, color-coded tabs correspond to key sections of the International Building Code (IBC), OSHA safety standards, and roofing installation references used in the PSI open-book test.
+The Virginia Roofing Contracting Exam Pre-Printed Tabs set from Pass Your Virginia Contractor Exam is designed to help candidates efficiently navigate reference materials during the Virginia Department of Professional and Occupational Regulation (DPOR) roofing contractor licensing examination. These durable, color-coded tabs correspond to key sections of the International Building Code (IBC), OSHA safety standards, and roofing installation references used in the PSI open-book test. Organized for quick access to essential topics such as roof systems, waterproofing, flashing, insulation, and structural safety, this tab set enhances code navigation and exam performance for Virginia roofing contractor applicants.
+
+Our permanent quick reference tabs will help you navigate quickly through the books during your exam. These tabs are self-adhesive and must be added at least one-day prior for sufficient adhesive power.
+
+**Includes pre-printed tabs for the following books:**
+
+- Code of Federal Regulations - 29 CFR Part 1926
+
+- International Building Code, 2021
+
+- International Residential Code for One- and Two -Family Dwellings, 2021
+
+- Roofing Construction & Estimating
+
+- NRCA Roofing Manual: Steep Slope Roof Systems, 2025
+
+- NRCA Roofing Manual: Membrane Roofing Systems, 2023
+
+*NOTE: TABS ONLY. NO HIGHLIGHTS FOR THE BOOKS ARE INCLUDED*
 
 ## How does the Roofing Contractor exam work?
 

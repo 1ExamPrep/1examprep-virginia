@@ -3,28 +3,36 @@ title: Virginia Marine Facility Contractor Exam Prep
 url: https://passyourvirginiacontractorexam.com/marine-facility/
 updated: 2026-10-29
 site: Pass Your Virginia Contractor Exam
-description: Marine Facility Contractor exam prep for Virginia: 2 options from $795 to $1,195, including book package, highlighted and tabbed books. One-click checkout.
+description: Marine Facility Contractor exam prep for Virginia: 6 options from $295 to $2,910, including book package, books and courses rental, highlighted and tabbed.
 ---
 
 [All licenses](https://passyourvirginiacontractorexam.com/) /[Contractor license classes](https://passyourvirginiacontractorexam.com/#contractor) /Marine Facility Contractor
 
 # Marine Facility Contractor exam prep
 
-The Marine Facility Contractor specialty covers piers, docks, bulkheads, boat ramps and similar waterfront structures. Here are 2 packages, from $795 to $1,195, each with one-click checkout. Compare what each one includes, see how the exam works and find the answers to the questions people ask most.
+The Marine Facility Contractor specialty covers piers, docks, bulkheads, boat ramps and similar waterfront structures. Here are 6 packages, from $295 to $2,910, each with one-click checkout. Compare what each one includes, see how the exam works and find the answers to the questions people ask most.
 See the packages
 
 ## Key takeaways
 
-- 2 options for the Marine Facility Contractor exam, from $795 to $1,195.
+- 6 options for the Marine Facility Contractor exam, from $295 to $2,910.
 - Virginia issues contractor licenses in three classes. Class C covers single jobs of $1,000 to under $10,000 and under $150,000 a year; Class B covers single jobs of $10,000 to under $120,000 and under $750,000 a year; Class A has no upper limit.
 - Class A and B firms name a designated employee or member of responsible management who passes the exams. PSI runs them, and the fee is $40 for one portion, $72 for two and $85 for three.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
 Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 
-## 2 Marine Facility Contractor packages
+## 6 Marine Facility Contractor packages
 
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
+
+Online Exam Prep Course
+[Virginia Marine Facility Contractor - Online Exam Prep](https://passyourvirginiacontractorexam.com/marine-facility/online-course/)
+
+An online course with practice exams you can take on a phone or laptop.
+
+$295 (was $395) Save 25%  to $495
+[Buy now](https://1examprep.com/cart/50634596122681:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/marine-facility/online-course/)
 
 Book Package
 [Virginia Marine Facility Contractor Exam Complete Book Package](https://passyourvirginiacontractorexam.com/marine-facility/book-package/)
@@ -42,13 +50,41 @@ The reference books already highlighted and permanently tabbed, ready for the ex
 $1,195 (was $1,395) Save 14%
 [Buy now](https://1examprep.com/cart/44379230437433:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/marine-facility/highlighted-tabbed/)
 
+Books and Courses Rental
+[Virginia Marine Facility Contractor - Books & Courses Rental Package](https://passyourvirginiacontractorexam.com/marine-facility/rental-package/)
+
+The reference books on rental plus the online course, returned after your exam.
+
+$1,785 (was $2,085) Save 14%  to $2,235
+[Buy now](https://1examprep.com/cart/50634639867961:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/marine-facility/rental-package/)
+
+Ultimate Rental Package
+[Virginia Marine Facility Contractor Ultimate Exam Prep Rental Package](https://passyourvirginiacontractorexam.com/marine-facility/ultimate-rental/)
+
+Highlighted and tabbed rental books, the online course and live training.
+
+$2,210 (was $2,610) Save 15%
+[Buy now](https://1examprep.com/cart/50634600120377:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/marine-facility/ultimate-rental/)
+
+The 1 Package (all-inclusive)
+[The 1 Package: All-Inclusive Virginia Marine Facility Contractor Licensing & Business Setup](https://passyourvirginiacontractorexam.com/marine-facility/the-1-package/)
+
+Everything: exam prep, books, licensing paperwork and business setup.
+
+$2,910 (was $3,410) Save 15%
+[Buy now](https://1examprep.com/cart/50634602315833:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/marine-facility/the-1-package/)
+
 ## How do the Marine Facility Contractor options compare?
 
 Prices are the starting price for each option; some offer add-ons at checkout.
 
 Option | What you get | Price
+[Online Exam Prep Course](https://passyourvirginiacontractorexam.com/marine-facility/online-course/) | an online course with practice exams you can take on a phone or laptop | $295
 [Book Package](https://passyourvirginiacontractorexam.com/marine-facility/book-package/) | the reference books the exam is written to, new and unmarked | $795
 [Highlighted and Tabbed Books](https://passyourvirginiacontractorexam.com/marine-facility/highlighted-tabbed/) | the reference books already highlighted and permanently tabbed, ready for the exam room | $1,195
+[Books and Courses Rental](https://passyourvirginiacontractorexam.com/marine-facility/rental-package/) | the reference books on rental plus the online course, returned after your exam | $1,785
+[Ultimate Rental Package](https://passyourvirginiacontractorexam.com/marine-facility/ultimate-rental/) | highlighted and tabbed rental books, the online course and live training | $2,210
+[The 1 Package (all-inclusive)](https://passyourvirginiacontractorexam.com/marine-facility/the-1-package/) | everything: exam prep, books, licensing paperwork and business setup | $2,910
 
 ## How does the Marine Facility Contractor exam work?
 
@@ -61,13 +97,13 @@ The Marine Facility Contractor exam is the technical portion of the license for 
 
 ### Which Marine Facility Contractor option should I choose?
 
-The Book Package at $795 is the lightest way into the Marine Facility Contractor exam: the reference books the exam is written to, new and unmarked. Highlighted and Tabbed Books at $1,195 are the biggest time saver on an open-book test, because the references arrive ready for the exam room. The Highlighted and Tabbed Books at $1,195 is the most complete option: the reference books already highlighted and permanently tabbed, ready for the exam room.
+The Online Exam Prep Course at $295 is the lightest way into the Marine Facility Contractor exam: an online course with practice exams you can take on a phone or laptop. Highlighted and Tabbed Books at $1,195 are the biggest time saver on an open-book test, because the references arrive ready for the exam room. The Online Exam Prep Course at $295 adds timed practice you can run on a phone between jobs. The The 1 Package (all-inclusive) at $2,910 is the most complete option: everything: exam prep, books, licensing paperwork and business setup.
 
 ## Marine Facility Contractor exam questions
 
 ### How much does Marine Facility Contractor exam prep cost?
 
-Marine Facility Contractor exam prep runs from $795 to $1,195 across 2 options: Book Package $795; Highlighted and Tabbed Books $1,195.
+Marine Facility Contractor exam prep runs from $295 to $2,910 across 6 options: Online Exam Prep Course $295; Book Package $795; Highlighted and Tabbed Books $1,195; Books and Courses Rental $1,785; Ultimate Rental Package $2,210; The 1 Package (all-inclusive) $2,910.
 
 ### Is the Marine Facility Contractor exam open book?
 

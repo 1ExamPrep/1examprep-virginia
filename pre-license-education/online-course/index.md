@@ -39,7 +39,67 @@ The Online Exam Prep Course costs $89 and is written for the 8-Hour Pre-License 
 
 ## About this 8-Hour Pre-License Education package
 
-VIRGINIA 8-HOUR PRE-LICENSE EDUCATION ONLINE COURSE FOR CONTRACTORSThe Virginia 8-Hour Pre-License Education Online Course for Contractors from Pass Your Virginia Contractor Exam fulfills the mandatory training requirement established by the Virginia Board for Contractors for initial license applicants. This self-paced online course covers essential topics including business organization, contract law, Virginia lien regulations, workplace safety, tax responsibilities, and the regulations of the Department of Professional and Occupational Regulation (DPOR).
+The Virginia 8-Hour Pre-License Education Online Course for Contractors from Pass Your Virginia Contractor Exam fulfills the mandatory training requirement established by the Virginia Board for Contractors for initial license applicants. This self-paced online course covers essential topics including business organization, contract law, Virginia lien regulations, workplace safety, tax responsibilities, and the regulations of the Department of Professional and Occupational Regulation (DPOR). Designed for Class A, B, and C contractor candidates, the program ensures compliance with Virginia Code 54.1-1108.2 and prepares participants for responsible business operation and state licensing. It is ideal for those entering the construction, electrical, plumbing, HVAC, or specialty contractor fields seeking state-approved pre-license certification.
+
+### **Virginia Contractor Pre-License Course – 8 Hours (Class A, B, and C)Approved by the Virginia Department of Professional and Occupational Regulation (DPOR)Provider Number: 2730000488 | Course Approval Number: 2731004885**
+
+✅ **Meets Virginia DPOR Requirements**
+
+All applicants for a Virginia contractor license (Class A, B, or C) must complete an 8-hour pre-licensing course approved by the Department of Professional and Occupational Regulation (DPOR). This course satisfies that requirement and is designed to prepare you with the knowledge necessary to operate a successful and compliant contracting business in Virginia.
+
+Pre-license education is required for all new contractor licenses and must be completed by a qualifying individual depending on the license type:
+
+- For **Class A and B licenses**, the course must be completed by a **member of responsible management or a designated employee**.
+
+- For a **Class C license**, it must be completed by a **member of responsible management**.
+
+This education requirement is **separate from the Class A and B licensing examinations**. The course is a basic business education that covers the regulations, statutes, and requirements essential for all Virginia contractors.
+
+💻 **Convenient, Self-Paced, and 100% Online**
+
+This online course is self-paced, allowing you to work through the material on your own schedule, with the ability to pause and resume as needed.
+
+Once you complete the course, we will report your completion to the DPOR within **7 business days**. You will also receive a Certificate of Completion. While it should not be necessary for you to submit documentation proving course completion, you are strongly encouraged to keep a record of completing the course (i.e. certificate of completion) in case it is requested by the Board office when you apply.
+
+📚 **What the Course Covers**
+
+- Business Planning and Management
+
+- Contractor License Types and Limits in Virginia
+
+- Obtaining Your Contractor’s License
+
+- Laws and Regulations for Contractors
+
+- Risk Management in Construction
+
+- Ethics in Contracting
+
+- Customer Service
+
+- Debt
+
+- Labor Laws
+
+- Accounting
+
+- Taxes
+
+- Building Codes
+
+- Warranties
+
+- Underground Utilities
+
+- Erosion and Sediment Control
+
+- OSHA
+
+- Contracts and Contract Management
+
+- Estimating and Bidding
+
+**Get started today with a trusted, DPOR-approved provider and take the next step toward becoming a licensed Virginia contractor.**
 
 ## How does the 8-Hour Pre-License Education exam work?
 

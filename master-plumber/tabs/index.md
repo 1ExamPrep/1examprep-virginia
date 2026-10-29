@@ -39,7 +39,17 @@ The Pre-Printed Tabs costs $29.99 and is written for the Master Plumber exam. Bo
 
 ## About this Master Plumber package
 
-VIRGINIA MASTER PLUMBER EXAM; PRE-PRINTED TABS The Virginia Master Plumber Exam Pre-Printed Tabs set from Pass Your Virginia Contractor Exam is designed to help candidates efficiently navigate reference materials during the Virginia Department of Professional and Occupational Regulation (DPOR) master plumber licensing examination. These durable, color-coded tabs correspond to key sections of the International Plumbing Code (IPC) and other approved references used in the PSI open-book test.
+The Virginia Master Plumber Exam Pre-Printed Tabs set from Pass Your Virginia Contractor Exam is designed to help candidates efficiently navigate reference materials during the Virginia Department of Professional and Occupational Regulation (DPOR) master plumber licensing examination. These durable, color-coded tabs correspond to key sections of the International Plumbing Code (IPC) and other approved references used in the PSI open-book test. The tab set highlights essential topics such as piping design, fixture installation, venting, backflow prevention, and safety requirements, allowing for faster code lookup and improved performance on the Virginia Master Plumber exam.
+
+Our permanent quick reference tabs will help you navigate quickly through the books during your exam. These tabs are self-adhesive and must be added at least one-day prior for sufficient adhesive power.
+
+**Includes pre-printed tabs for the following books:**
+
+- International Plumbing Code, 2021
+
+- Virginia Board for Contractors, Individual License and Certification Regulations
+
+*NOTE: TABS ONLY. NO HIGHLIGHTS FOR THE BOOKS ARE INCLUDED*
 
 ## How does the Master Plumber exam work?
 

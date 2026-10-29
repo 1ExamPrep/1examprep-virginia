@@ -39,7 +39,9 @@ The Online Practice Exams costs $125 and is written for the Code Books and Code 
 
 ## About this Code Books and Code Courses package
 
-ONLINE COURSE REVIEW TO THE INTERNATIONAL BUILDING CODE (IBC)®The Online Course Review to the International Building Code (IBC)® by Pass Your Virginia Contractor Exam provides structured training aligned with the International Code Council (ICC) requirements for building officials, plans examiners, and general contractors. This course focuses on the 2021 edition of the IBC, covering essential topics such as occupancy classifications, construction types, egress systems, and fire-resistance ratings.
+The *Online Course Review to the International Building Code (IBC)®* by Pass Your Virginia Contractor Exam provides structured training aligned with the International Code Council (ICC) requirements for building officials, plans examiners, and general contractors. This course focuses on the 2021 edition of the IBC, covering essential topics such as occupancy classifications, construction types, egress systems, and fire-resistance ratings. Designed to assist candidates preparing for ICC certification exams, it integrates study modules, practice exams, and code interpretation exercises that mirror actual testing conditions. Offered entirely online, the course supports Florida contractors and others seeking continuing education credits or compliance with state licensing authorities like the CILB. Students gain detailed instruction in code navigation and application relevant to residential, commercial, and mixed-use projects, ensuring readiness for both open-book and closed-book ICC exams.
+
+This course includes the following modules
 
 ## How does the Code Books and Code Courses exam work?
 
@@ -55,7 +57,7 @@ The Code Books and Code Courses items are references and short courses that sit 
 [**Code Book** Virginia Uniform Statewide Building Code, 2015 - Part 1 Virg… $19.99](https://passyourvirginiacontractorexam.com/code-books-and-courses/code-book-2015/) · [**Code Book** Virginia Uniform Statewide Building Code, 2018 - Part 1 Virg… $19.99](https://passyourvirginiacontractorexam.com/code-books-and-courses/code-book-2018/) · [**Online Practice Exams (any state)** Online Practice Exam for Code of Federal Regulations, (OSHA)… $59.95](https://passyourvirginiacontractorexam.com/code-books-and-courses/online-practice-exams-3/) · [**Online Practice Exams (any state)** Online Course Review to the International Plumbing Code (IPC… $79.99](https://passyourvirginiacontractorexam.com/code-books-and-courses/online-practice-exams-2/) · [**Online Exam Prep Course (any state)** National Electrical Code Webinar - Complete Series [Parts 1 … $395](https://passyourvirginiacontractorexam.com/code-books-and-courses/online-course/) [Compare every Code Books and Code Courses package →](https://passyourvirginiacontractorexam.com/code-books-and-courses/) [Choose a different license →](https://passyourvirginiacontractorexam.com/)
 
 ### More code books and code courses
-[Virginia exam FAQ](https://passyourvirginiacontractorexam.com/faq/) · [Study tips](https://passyourvirginiacontractorexam.com/blog/)
+[Other Exam Prep](https://passyourvirginiacontractorexam.com/other/) · [Virginia exam FAQ](https://passyourvirginiacontractorexam.com/faq/) · [Study tips](https://passyourvirginiacontractorexam.com/blog/)
 
 ## Questions before you buy
 

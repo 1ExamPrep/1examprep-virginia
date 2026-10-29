@@ -42,7 +42,194 @@ The Book Package costs $995 to $1,495 with the options above and is written for 
 
 ## About this Roofing Contractor package
 
-Virginia Roofing Contractor Complete Book Package Prepare for the Virginia Roofing Contractor examination with a complete reference package covering roofing systems, building codes, estimating, steep-slope and low-slope roofing, membrane systems, reroofing, waterproofing, roof components, and construction safety. The Virginia Roofing Contractor Complete Book Package brings together six important references candidates can use while preparing for the Virginia Roofing Contracting (ROC) specialty examination.
+Prepare for the Virginia Roofing Contractor examination with a complete reference package covering roofing systems, building codes, estimating, steep-slope and low-slope roofing, membrane systems, reroofing, waterproofing, roof components, and construction safety. The Virginia Roofing Contractor Complete Book Package brings together six important references candidates can use while preparing for the Virginia **Roofing Contracting (ROC)** specialty examination.
+
+Virginia defines Roofing Contracting as the installation, repair, removal, or improvement of materials commonly used in the roofing industry to create a watertight and weather-resistant surface for roofs and decks. The specialty also includes roofing system components installed in conjunction with a roofing project, dampproofing and waterproofing applications, and roof insulation panels and other roof insulation systems installed above the roof deck.
+
+This package is designed for roofing contractors, experienced roofers, supervisors, estimators, construction professionals, and Qualified Individuals preparing for the ROC technical examination. Roofing work can involve multiple systems and materials, so candidates should be prepared to work with both residential and commercial roofing concepts.
+
+The included references address construction safety, commercial building-code requirements, residential building-code requirements, roofing estimating and construction practices, steep-slope roof systems, and membrane roofing systems. Together, these books give candidates a broad study library for preparing across the major subjects represented on the Virginia Roofing Contractor examination.
+
+Because the ROC examination is open book, candidates should become familiar with the references before test day. Effective preparation involves more than bringing the books into the examination. Candidates should know which reference is most useful for a particular roofing subject and practice locating information efficiently within the available time.
+
+### What You Get
+
+- **Code of Federal Regulations - 29 CFR Part 1926 (OSHA)**
+- **International Building Code, 2018**
+- **International Residential Code for One- and Two-Family Dwellings, 2018**
+- **Roofing Construction and Estimating, Daniel Atcheson, 1995**
+- **NRCA Roofing Manual: Steep Slope Roof Systems**
+- **NRCA Roofing Manual: Membrane Roofing Systems**
+
+The books cover different portions of roofing examination preparation. The OSHA reference addresses construction safety. The building codes support residential and commercial roofing requirements. Roofing Construction and Estimating provides practical roofing and estimating information, while the NRCA manuals provide specialized guidance for steep-slope and membrane roofing systems.
+
+### Exam Details
+
+The Virginia Roofing Contractor examination is the technical Qualified Individual examination associated with the **ROC** specialty. Virginia requires Qualified Individuals for contractor specialties such as Roofing Contracting to receive the applicable examination approval and successfully complete the Board-approved technical examination.
+
+Virginia uses PSI as the examination vendor for Qualified Individual contractor specialty exams. Candidates must receive the required pre-approval before scheduling the Roofing Contractor examination.
+
+The current ROC examination contains **50 questions**, and candidates receive **120 minutes** to complete the test.
+
+The examination covers several major roofing subject areas, including:
+
+- **Estimating and Plan Reading**
+- **Surface Preparation and Planning**
+- **Steep and Low Slope Roofing, including Built-Up Roofing and Waterproofing**
+- **Roofing Components**
+- **Safety**
+- **Repairs and Reroofing**
+
+Steep-slope and low-slope roofing represent a major portion of the technical material. Candidates should understand differences between roof systems, substrates, underlayments, membranes, flashing, drainage, insulation, attachment methods, and installation practices.
+
+Estimating and plan-reading skills are also important. Roofing contractors need to interpret dimensions, roof slopes, drawings, plans, specifications, quantities, and material requirements. Candidates should be comfortable converting construction information into practical roofing calculations and job requirements.
+
+Safety is another important exam subject. Roofing work commonly involves elevated work surfaces, ladders, scaffolds, fall hazards, material handling, tools, and changing jobsite conditions. OSHA 29 CFR Part 1926 provides the construction-safety framework used during preparation.
+
+The current Virginia Qualified Individual specialty examination fee is **$85**, paid directly to PSI. The testing fee is separate from the purchase of this book package.
+
+### Open Book Test
+
+The Virginia Roofing Contractor examination is an **open-book test**. Candidates are responsible for bringing their own permitted references because books are not supplied at the testing center.
+
+Open-book testing makes reference familiarity an important exam skill. With 50 questions and 120 minutes, candidates have an average of approximately two minutes and twenty-four seconds per question. Searching through several unfamiliar books for every answer can quickly consume the available testing time.
+
+Permitted references may be highlighted, underlined, and indexed before the examination in accordance with applicable testing rules. Permanent tabs may be used to organize important chapters and subjects, while removable tabs are not permitted.
+
+Candidates should practice identifying the type of question before choosing a book. A fall-protection or construction-safety question may require OSHA 29 CFR Part 1926. A question involving a commercial roofing code requirement may require the International Building Code, while a residential roofing provision may be found in the International Residential Code.
+
+Questions concerning material quantities, roof measurements, estimating practices, or general roofing construction may be supported by Roofing Construction and Estimating. Steep-slope system questions may lead to the NRCA Steep Slope Roof Systems manual, while membrane, low-slope, and related system questions may require the NRCA Membrane Roofing Systems manual.
+
+The objective is not to look up every question. Candidates should develop enough roofing knowledge to recognize common concepts immediately and use the references when exact code requirements, technical details, installation procedures, or calculations need confirmation.
+
+### Licensing Steps
+
+Virginia contractor licenses consist of a license class and one or more classifications or specialties. Roofing Contracting is identified by the specialty abbreviation **ROC**.
+
+1. **Determine the appropriate contractor license class.** Virginia issues Class A, Class B, and Class C contractor licenses.
+2. **Select Roofing Contracting.** The applicable specialty abbreviation is ROC.
+3. **Identify the Qualified Individual.** The contractor business must designate a Qualified Individual for the Roofing specialty.
+4. **Meet the applicable experience requirement.** The Qualified Individual must have experience within the scope of roofing work associated with the requested license class.
+5. **Complete the required experience documentation.** Qualified Individuals seeking specialties requiring technical examinations must complete the applicable qualification process.
+6. **Receive pre-approval for the ROC examination.** Virginia requires Qualified Individuals to be approved before scheduling the technical exam.
+7. **Prepare for the Roofing Contractor examination.** Study roofing systems, codes, safety, estimating, repairs, reroofing, waterproofing, and open-book reference navigation.
+8. **Successfully complete the required technical examination.** The Qualified Individual must satisfy the Roofing specialty examination requirement.
+9. **Complete pre-license education.** New Virginia contractor applicants must complete the required eight-hour Board-approved pre-license business course.
+10. **Complete applicable Class A or Class B business requirements.** Class A and Class B contractor businesses must designate a qualified Designated Employee and satisfy the applicable business examination requirements.
+11. **Submit the contractor license application.** The business must complete the licensing process for its selected class and ROC specialty.
+
+Passing the Roofing Contractor examination does not automatically create a contractor license. The examination is one component of a broader process that includes the contractor business, Qualified Individual, license class, pre-license education, and other applicable requirements.
+
+### State Requirements
+
+The Virginia Board for Contractors regulates contractor businesses. Contractor licenses are issued to business entities rather than directly to individual workers. Every contractor business must identify a Qualified Individual for each classification or specialty on its license.
+
+The Qualified Individual must be either a full-time employee of the contractor business or a member of Responsible Management. The individual must also have applicable work experience within the scope of the specialty.
+
+Current Virginia requirements establish a minimum of **one year of experience for a Class C Qualified Individual**, **three years for Class B**, and **five years for Class A**.
+
+Virginia currently defines Class A, Class B, and Class C contractor licenses based largely on project and annual contract values. The contractor class determines the scale of work the business may perform, while the ROC specialty determines the type of work the business is authorized to perform.
+
+The Roofing Contracting specialty includes installation, repair, removal, and improvement of materials used to create watertight and weather-resistant roof and deck surfaces. It also includes roofing components installed as part of a roofing project, dampproofing, waterproofing, roof insulation panels, and other above-deck roof insulation systems.
+
+Virginia also requires an eight-hour Board-approved pre-license business course for a business entity applying for an initial contractor license. Class A and Class B contractor businesses have additional Designated Employee examination requirements involving Virginia laws, regulations, and general business knowledge.
+
+### Reference Books
+
+- **Code of Federal Regulations - 29 CFR Part 1926 (OSHA)**
+ This construction-safety reference covers federal OSHA requirements affecting roofing and construction work. Candidates can use it to review fall protection, ladders, scaffolds, personal protective equipment, material handling, tools, work areas, and other jobsite safety requirements relevant to roofing contractors.
+- **International Building Code, 2018**
+ This building-code reference provides requirements affecting commercial and other nonresidential building construction. Roofing candidates can use it to study roofing assemblies, roof coverings, roof construction, insulation, drainage, structural considerations, and related building-code requirements.
+- **International Residential Code for One- and Two-Family Dwellings, 2018**
+ This residential code reference supports study of roof assemblies and roof coverings used on one- and two-family dwellings and townhouses. It addresses roof materials, underlayment, flashing, reroofing, roof drainage, structural provisions, and related residential requirements.
+- **Roofing Construction and Estimating, Daniel Atcheson, 1995**
+ This practical roofing reference supports preparation involving roof measurement, estimating, construction methods, roofing materials, installation practices, quantities, planning, and other concepts used by roofing contractors and estimators.
+- **NRCA Roofing Manual: Steep Slope Roof Systems**
+ This roofing-industry reference focuses on steep-slope roof systems and provides technical information involving roof coverings, underlayments, flashing, materials, installation practices, roof details, and other considerations affecting steep-slope roofing work.
+- **NRCA Roofing Manual: Membrane Roofing Systems**
+ This specialized roofing reference supports study of membrane and low-slope roof systems. Candidates can use it to review membrane materials, roof assemblies, flashing, attachment, insulation, drainage, installation practices, and other technical considerations associated with membrane roofing.
+
+The references are most useful when candidates understand the purpose of each one. Code questions should generally be approached through the appropriate building code, safety questions through OSHA, estimating questions through the construction and estimating reference, and system-specific questions through the applicable NRCA roofing manual.
+
+### Test Information and Study Materials
+
+A strong Roofing Contractor study strategy should begin with the examination categories and build outward from them. Candidates can divide study time among estimating, preparation, roofing systems, components, safety, and reroofing instead of reading all six references from beginning to end without a plan.
+
+**Estimating and Plan Reading** preparation should include roof dimensions, slope, area calculations, waste allowances, quantities, materials, labor considerations, plans, and specifications. Roofing contractors routinely convert drawings and field measurements into material and installation requirements.
+
+**Surface Preparation and Planning** should include evaluation of existing roof conditions, substrates, deck preparation, moisture concerns, removal requirements, installation sequencing, and coordination of materials before roofing begins.
+
+**Steep-Slope Roofing** should include common roof coverings, underlayments, flashing, valleys, ridges, penetrations, ventilation considerations, attachment practices, and weather protection. Candidates should combine the applicable building-code requirements with technical information from the NRCA manual.
+
+**Low-Slope and Membrane Roofing** preparation should include built-up systems, membrane systems, insulation, flashing, drainage, roof penetrations, attachment, terminations, and waterproofing principles. The NRCA Membrane Roofing Systems manual is especially useful for this part of preparation.
+
+**Roofing Components** should include flashing, insulation, fasteners, underlayments, decks, drainage components, penetrations, edges, transitions, and other materials that work together as a complete roofing assembly.
+
+**Safety** should be reviewed throughout preparation rather than treated as a single isolated chapter. Roofing contractors regularly work at elevation and may encounter fall hazards, ladders, scaffolds, tools, material-handling operations, and other risks addressed by OSHA construction standards.
+
+**Repairs and Reroofing** require candidates to understand existing roof evaluation, removal and replacement considerations, repair methods, code limitations, substrate conditions, flashing, and integration of new roofing materials with existing construction.
+
+Reference-navigation practice should be incorporated into every study session. Choose a practice question, identify the subject, determine which reference is most likely to contain the answer, and then locate the supporting information using the index, chapter organization, headings, tables, or permanent tabs.
+
+When a practice answer is incorrect, find the underlying requirement and review the surrounding material. This creates a stronger understanding of the roofing principle and teaches candidates where related information can be found when a similar question appears in a different form.
+
+Timed practice can also help candidates develop an efficient rhythm for the 50-question, 120-minute examination. Candidates should avoid spending too long on one difficult lookup and learn to return to challenging questions after completing items they can answer more quickly.
+
+### How Pass Your Virginia Contractor Exam Helps You Reach Your Goal
+
+Pass Your Virginia Contractor Exam helps Virginia Roofing Contractor candidates organize a broad specialty examination into a focused preparation process. Roofing combines technical system knowledge, code requirements, safety, estimating, installation practices, repairs, and open-book navigation, making structured study particularly useful.
+
+Trade-focused review helps candidates connect practical roofing experience with written examination material. An experienced roofer may understand installation in the field but still need additional practice with formal code language, estimating questions, safety requirements, or membrane-system terminology.
+
+Practice-oriented preparation helps identify weaker areas. A steep-slope roofer may need additional preparation with membrane systems or commercial code requirements. A commercial roofer may need more review of residential code provisions, estimating, or reroofing topics.
+
+Reference navigation is especially important for an open-book examination. Candidates should work with the OSHA reference, building codes, estimating book, and NRCA manuals throughout preparation so they understand which resource is most appropriate for each subject.
+
+The Complete Book Package provides a coordinated library for studying the major areas represented on the ROC examination. Candidates can use the books to confirm practice answers, study roofing details, review code requirements, and strengthen technical knowledge before test day.
+
+Pass Your Virginia Contractor Exam supports candidates through organized study guidance, trade-focused review, practice-oriented preparation, reference navigation when applicable, and a confidence-building study structure. No book package can guarantee a passing examination or contractor license, but consistent preparation can help candidates approach the Virginia Roofing Contractor exam with greater familiarity and organization.
+
+### Frequently Asked Questions
+
+### What books are included in the Virginia Roofing Contractor Complete Book Package?
+
+The package includes OSHA 29 CFR Part 1926, International Building Code 2018, International Residential Code 2018, Roofing Construction and Estimating, NRCA Roofing Manual: Steep Slope Roof Systems, and NRCA Roofing Manual: Membrane Roofing Systems.
+
+### Is the Virginia Roofing Contractor exam open book?
+
+Yes. The ROC technical examination is open book. Candidates must bring their own permitted references and should become familiar with them before examination day.
+
+### How many questions are on the Virginia Roofing Contractor exam?
+
+The Roofing Contractor examination contains **50 questions**, and candidates receive **120 minutes** to complete the test.
+
+### What subjects are covered on the ROC exam?
+
+Major areas include estimating and plan reading, surface preparation and planning, steep-slope and low-slope roofing, built-up roofing, waterproofing, roofing components, safety, repairs, and reroofing.
+
+### What does the Virginia ROC specialty allow a contractor to do?
+
+The specialty covers installation, repair, removal, and improvement of roofing materials that create watertight and weather-resistant surfaces for roofs and decks, including related roofing components, waterproofing, dampproofing, and above-deck insulation systems.
+
+### Why is OSHA 29 CFR Part 1926 included?
+
+Roofing work involves fall hazards, ladders, scaffolds, tools, material handling, and other construction safety concerns. OSHA 29 CFR Part 1926 supports preparation for the safety portion of the exam.
+
+### Why are both the International Building Code and International Residential Code included?
+
+The two books address different types of construction. The International Building Code supports broader building requirements, while the International Residential Code focuses on one- and two-family dwellings and townhouses.
+
+### Do I need to study both steep-slope and membrane roofing?
+
+Yes. The examination covers both steep-slope and low-slope roofing concepts, including membrane systems, built-up roofing, waterproofing, roofing components, and related installation practices.
+
+### Who administers the Virginia Roofing Contractor exam?
+
+PSI administers Qualified Individual contractor specialty examinations for the Virginia Board for Contractors.
+
+### Does passing the ROC examination automatically issue a Virginia contractor license?
+
+No. Passing the Roofing Contractor technical examination is one part of the licensing process. The contractor business must also satisfy the applicable license class, Qualified Individual, pre-license education, application, and other requirements.
 
 ## How does the Roofing Contractor exam work?
 

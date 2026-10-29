@@ -3,28 +3,36 @@ title: Virginia Finish Carpentry Contractor Exam Prep
 url: https://passyourvirginiacontractorexam.com/finish-carpentry/
 updated: 2026-10-29
 site: Pass Your Virginia Contractor Exam
-description: Finish Carpentry Contractor exam prep for Virginia: 2 options from $145 to $245, including book package, highlighted and tabbed books. One-click checkout.
+description: Finish Carpentry Contractor exam prep for Virginia: 6 options from $145 to $1,960, including book package, books and courses rental, highlighted and tabbed.
 ---
 
 [All licenses](https://passyourvirginiacontractorexam.com/) /[Contractor license classes](https://passyourvirginiacontractorexam.com/#contractor) /Finish Carpentry Contractor
 
 # Finish Carpentry Contractor exam prep
 
-The Finish Carpentry Contractor specialty covers trim, millwork, cabinets, doors, stairs and other finish woodwork. Here are 2 packages, from $145 to $245, each with one-click checkout. Compare what each one includes, see how the exam works and find the answers to the questions people ask most.
+The Finish Carpentry Contractor specialty covers trim, millwork, cabinets, doors, stairs and other finish woodwork. Here are 6 packages, from $145 to $1,960, each with one-click checkout. Compare what each one includes, see how the exam works and find the answers to the questions people ask most.
 See the packages
 
 ## Key takeaways
 
-- 2 options for the Finish Carpentry Contractor exam, from $145 to $245.
+- 6 options for the Finish Carpentry Contractor exam, from $145 to $1,960.
 - Virginia issues contractor licenses in three classes. Class C covers single jobs of $1,000 to under $10,000 and under $150,000 a year; Class B covers single jobs of $10,000 to under $120,000 and under $750,000 a year; Class A has no upper limit.
 - Class A and B firms name a designated employee or member of responsible management who passes the exams. PSI runs them, and the fee is $40 for one portion, $72 for two and $85 for three.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
 Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 
-## 2 Finish Carpentry Contractor packages
+## 6 Finish Carpentry Contractor packages
 
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
+
+Online Exam Prep Course
+[Virginia Finish Carpentry Contractor Exam - Online Exam Prep](https://passyourvirginiacontractorexam.com/finish-carpentry/online-course/)
+
+An online course with practice exams you can take on a phone or laptop.
+
+$295 (was $395) Save 25%  to $495
+[Buy now](https://1examprep.com/cart/50623346049081:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/finish-carpentry/online-course/)
 
 Book Package
 [Virginia Finish Carpentry Exam Complete Book Package](https://passyourvirginiacontractorexam.com/finish-carpentry/book-package/)
@@ -42,13 +50,41 @@ The reference books already highlighted and permanently tabbed, ready for the ex
 $245 (was $445) Save 45%
 [Buy now](https://1examprep.com/cart/44379209367609:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/finish-carpentry/highlighted-tabbed/)
 
+Books and Courses Rental
+[Virginia Finish Carpentry Contractor Exam - Books & Courses Rental Package](https://passyourvirginiacontractorexam.com/finish-carpentry/rental-package/)
+
+The reference books on rental plus the online course, returned after your exam.
+
+$835 (was $1,135) Save 26%  to $1,285
+[Buy now](https://1examprep.com/cart/50623490162745:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/finish-carpentry/rental-package/)
+
+Ultimate Rental Package
+[Virginia Finish Carpentry Contractor Exam Ultimate Exam Prep Rental Package](https://passyourvirginiacontractorexam.com/finish-carpentry/ultimate-rental/)
+
+Highlighted and tabbed rental books, the online course and live training.
+
+$1,260 (was $1,660) Save 24%
+[Buy now](https://1examprep.com/cart/50623348899897:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/finish-carpentry/ultimate-rental/)
+
+The 1 Package (all-inclusive)
+[The 1 Package: All-Inclusive Virginia Finish Carpentry Contractor Exam, Licensing & Business Setup](https://passyourvirginiacontractorexam.com/finish-carpentry/the-1-package/)
+
+Everything: exam prep, books, licensing paperwork and business setup.
+
+$1,960 (was $2,460) Save 20%
+[Buy now](https://1examprep.com/cart/50623346475065:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/finish-carpentry/the-1-package/)
+
 ## How do the Finish Carpentry Contractor options compare?
 
 Prices are the starting price for each option; some offer add-ons at checkout.
 
 Option | What you get | Price
+[Online Exam Prep Course](https://passyourvirginiacontractorexam.com/finish-carpentry/online-course/) | an online course with practice exams you can take on a phone or laptop | $295
 [Book Package](https://passyourvirginiacontractorexam.com/finish-carpentry/book-package/) | the reference books the exam is written to, new and unmarked | $145
 [Highlighted and Tabbed Books](https://passyourvirginiacontractorexam.com/finish-carpentry/highlighted-tabbed/) | the reference books already highlighted and permanently tabbed, ready for the exam room | $245
+[Books and Courses Rental](https://passyourvirginiacontractorexam.com/finish-carpentry/rental-package/) | the reference books on rental plus the online course, returned after your exam | $835
+[Ultimate Rental Package](https://passyourvirginiacontractorexam.com/finish-carpentry/ultimate-rental/) | highlighted and tabbed rental books, the online course and live training | $1,260
+[The 1 Package (all-inclusive)](https://passyourvirginiacontractorexam.com/finish-carpentry/the-1-package/) | everything: exam prep, books, licensing paperwork and business setup | $1,960
 
 ## How does the Finish Carpentry Contractor exam work?
 
@@ -61,13 +97,13 @@ The Finish Carpentry Contractor exam is the technical portion of the license for
 
 ### Which Finish Carpentry Contractor option should I choose?
 
-The Book Package at $145 is the lightest way into the Finish Carpentry Contractor exam: the reference books the exam is written to, new and unmarked. Highlighted and Tabbed Books at $245 are the biggest time saver on an open-book test, because the references arrive ready for the exam room. The Highlighted and Tabbed Books at $245 is the most complete option: the reference books already highlighted and permanently tabbed, ready for the exam room.
+The Book Package at $145 is the lightest way into the Finish Carpentry Contractor exam: the reference books the exam is written to, new and unmarked. Highlighted and Tabbed Books at $245 are the biggest time saver on an open-book test, because the references arrive ready for the exam room. The Online Exam Prep Course at $295 adds timed practice you can run on a phone between jobs. The The 1 Package (all-inclusive) at $1,960 is the most complete option: everything: exam prep, books, licensing paperwork and business setup.
 
 ## Finish Carpentry Contractor exam questions
 
 ### How much does Finish Carpentry Contractor exam prep cost?
 
-Finish Carpentry Contractor exam prep runs from $145 to $245 across 2 options: Book Package $145; Highlighted and Tabbed Books $245.
+Finish Carpentry Contractor exam prep runs from $145 to $1,960 across 6 options: Online Exam Prep Course $295; Book Package $145; Highlighted and Tabbed Books $245; Books and Courses Rental $835; Ultimate Rental Package $1,260; The 1 Package (all-inclusive) $1,960.
 
 ### Is the Finish Carpentry Contractor exam open book?
 

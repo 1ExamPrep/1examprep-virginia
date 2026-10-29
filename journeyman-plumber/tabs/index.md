@@ -39,7 +39,17 @@ The Pre-Printed Tabs costs $29.99 and is written for the Journeyman Plumber exam
 
 ## About this Journeyman Plumber package
 
-VIRGINIA JOURNEYMAN PLUMBER EXAM; PRE-PRINTED TABS The Virginia Journeyman Plumber Exam Pre-Printed Tabs set from Pass Your Virginia Contractor Exam is created to help candidates organize and quickly access key information during the Virginia Department of Professional and Occupational Regulation (DPOR) journeyman plumber licensing examination. These durable, color-coded tabs correspond to essential sections of the International Plumbing Code (IPC) and other approved PSI exam references.
+The Virginia Journeyman Plumber Exam Pre-Printed Tabs set from Pass Your Virginia Contractor Exam is created to help candidates organize and quickly access key information during the Virginia Department of Professional and Occupational Regulation (DPOR) journeyman plumber licensing examination. These durable, color-coded tabs correspond to essential sections of the International Plumbing Code (IPC) and other approved PSI exam references. The tab set simplifies navigation through topics such as pipe sizing, venting, fixture requirements, drainage systems, and safety standards, providing a practical tool to enhance efficiency and accuracy during the open-book plumbing exam in Virginia.
+
+Our permanent quick reference tabs will help you navigate quickly through the books during your exam. These tabs are self-adhesive and must be added at least one-day prior for sufficient adhesive power.
+
+**Includes pre-printed tabs for the following books:**
+
+- International Plumbing Code, 2021
+
+- Virginia Board for Contractors, Individual License and Certification Regulations
+
+*NOTE: TABS ONLY. NO HIGHLIGHTS FOR THE BOOKS ARE INCLUDED*
 
 ## How does the Journeyman Plumber exam work?
 

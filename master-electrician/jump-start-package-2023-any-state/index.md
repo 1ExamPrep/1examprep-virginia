@@ -41,7 +41,35 @@ The Jump Start Package costs $350 and is written for the Master Electrician exam
 
 ## About this Master Electrician package
 
-2023 MASTER ELECTRICIAN JUMP START PACKAGEThe 2023 Master Electrician Jump Start Package from Pass Your Virginia Contractor Exam provides complete study resources for candidates pursuing the Florida Master Electrician License under the Department of Business and Professional Regulation (DBPR) and the Construction Industry Licensing Board (CILB). This package includes current National Electrical Code (NEC) reference materials, business and finance preparation guides, and structured electrical theory instruction aligned with PSI examination standards.
+The 2023 Master Electrician Jump Start Package from Pass Your Virginia Contractor Exam provides complete study resources for candidates pursuing the Florida Master Electrician License under the Department of Business and Professional Regulation (DBPR) and the Construction Industry Licensing Board (CILB). This package includes current National Electrical Code (NEC) reference materials, business and finance preparation guides, and structured electrical theory instruction aligned with PSI examination standards. Covering topics such as electrical calculations, grounding, bonding, and safety procedures, it supports preparation for both the technical and business portions of the exam. Designed for individuals seeking state electrical contractor qualification, the course materials ensure compliance with Florida licensing statutes and equip candidates with knowledge of applicable codes, load calculations, and construction laws relevant to master-level certification.
+
+**[CLICK HERE to Add FLASH CARDS as an additional study tool based off of the study guide with 250+ Test Questions](https://1examprep.com/products/2023-master-electrician-exam-flash-cards-250)**
+
+###
+
+This package incudes:
+
+1) **National Electrical Code 2023 Paperback with Tabs**;
+
+This set includes the NEC 2023 Code and the affixable tabs that go along with it.
+
+2) **2023 Master Electrician Study Guide**; (ISBN 979-8377932390)
+
+An excellent study-aid when preparing for the Master Electrical Exam. This workbook will prepare you for both, the "open book" or code book related questions and the new "no book" (formally titled closed book) questions. It also includes the most popular electrical exam formats (number of questions, the time allowed, etc.) and is the best way to study the Code book as it forces you to find the answers in the time limit. Includes 12 open book tests and 2 final closed exams. A special intro dedicated to your specific state exam.
+
+3) **Electrician's Practice Calculations Exams 2023**; (ISBN 979-8377459255)
+
+This self-study exam prep book is based on the 2023 NEC® with 10 practice calculations exams consisting of 25 questions each and a final exam of 100 questions.
+
+4) **Online Master Electrician Test Success Kit**;
+
+Ray Holder's 2023 Master Electrician Exam Prep is an excellent ONLINE study-aid for the helper, apprentice, or electrician in preparing for the **Master Electrical Exam**. This Online Course will prepare you for both, the "open book" or code book related questions and the new "no book" (formally titled closed book) questions. It also includes the most popular electrical exam formats (number of questions, the time allowed, etc.) and is the best way to study the Code book as it forces you to find the answers in the time limit.
+
+Includes:
+
+- Simulated Exams to give you the experience you need to pass
+
+- A downloadable copy of all the material in the 2023 Master Electrician Study Guide!
 
 ## How does the Master Electrician exam work?
 

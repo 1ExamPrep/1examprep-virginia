@@ -39,7 +39,19 @@ The Pre-Printed Tabs costs $39.99 and is written for the Journeyman Electrician 
 
 ## About this Journeyman Electrician package
 
-VIRGINIA JOURNEYMAN ELECTRICIAN EXAM; PRE-PRINTED TABS The Virginia Journeyman Electrician Exam Pre-Printed Tabs set from Pass Your Virginia Contractor Exam is designed to help candidates efficiently navigate their reference materials during the Virginia Department of Professional and Occupational Regulation (DPOR) journeyman electrician licensing examination. These durable, color-coded tabs correspond to key sections of the National Electrical Code (NEC) and related references used in the PSI open-book test.
+The Virginia Journeyman Electrician Exam Pre-Printed Tabs set from Pass Your Virginia Contractor Exam is designed to help candidates efficiently navigate their reference materials during the Virginia Department of Professional and Occupational Regulation (DPOR) journeyman electrician licensing examination. These durable, color-coded tabs correspond to key sections of the National Electrical Code (NEC) and related references used in the PSI open-book test. Organized for quick access to essential topics such as wiring methods, grounding, overcurrent protection, conductor sizing, and electrical safety, this tab set enhances study organization and exam performance for Virginia journeyman electrician candidates.
+
+Our permanent quick reference tabs will help you navigate quickly through the books during your exam. These tabs are self-adhesive and must be added at least one-day prior for sufficient adhesive power.
+
+**Includes pre-printed tabs for the following books:**
+
+- National Electrical Code, NFPA 70, 2020
+
+- American Electricians’ Handbook, 17th Edition
+
+- Virginia Board for Contractors, Individual License and Certification Regulations
+
+*NOTE: TABS ONLY. NO HIGHLIGHTS FOR THE BOOKS ARE INCLUDED*
 
 ## How does the Journeyman Electrician exam work?
 

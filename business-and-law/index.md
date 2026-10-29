@@ -67,7 +67,7 @@ Pre-Printed Tabs
 
 Pre-printed permanent tabs for the reference books, allowed in the exam room.
 
-$19.95 (was $22) Save 9%
+$24.95 (was $35) Save 29%
 [Buy now](https://1examprep.com/cart/45416010186809:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/business-and-law/tabs-2/)
 
 Highlighted and Tabbed Books
@@ -116,14 +116,14 @@ $2,385 (was $2,685) Save 11%  to $3,135
 
 ## Class A/B Business and Law option: all-inclusive and licensing services
 
-1 product of the 11 Class A/B Business and Law options, from $425.99.
+1 product of the 11 Class A/B Business and Law options, from $465.99.
 
 Licensing Service
 [Virginia Class A/B Business and Law Contractor Exam Complete Pass Package](https://passyourvirginiacontractorexam.com/business-and-law/licensing-service/)
 
 Help preparing and filing the license application.
 
-$425.99 (was $499) Save 15%
+$465.99 (was $550) Save 15%
 [Buy now](https://1examprep.com/cart/45417336635449:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/business-and-law/licensing-service/)
 
 ## How do the Class A/B Business and Law options compare?
@@ -134,13 +134,13 @@ Option | What you get | Price
 [Online Practice Exams](https://passyourvirginiacontractorexam.com/business-and-law/online-practice-exams-2/) | timed practice questions online, with explanations | $79.99
 [Online Exam Prep Course](https://passyourvirginiacontractorexam.com/business-and-law/online-course/) | an online course with practice exams you can take on a phone or laptop | $195
 [Pre-Printed Tabs](https://passyourvirginiacontractorexam.com/business-and-law/tabs/) | pre-printed permanent tabs for the reference books, allowed in the exam room | $19.95
-[Pre-Printed Tabs](https://passyourvirginiacontractorexam.com/business-and-law/tabs-2/) | pre-printed permanent tabs for the reference books, allowed in the exam room | $19.95
+[Pre-Printed Tabs](https://passyourvirginiacontractorexam.com/business-and-law/tabs-2/) | pre-printed permanent tabs for the reference books, allowed in the exam room | $24.95
 [Highlighted and Tabbed Books](https://passyourvirginiacontractorexam.com/business-and-law/highlighted-tabbed/) | the reference books already highlighted and permanently tabbed, ready for the exam room | $249
 [Books and Courses Rental](https://passyourvirginiacontractorexam.com/business-and-law/rental-package-4/) | the reference books on rental plus the online course, returned after your exam | $1,485
 [Books and Courses Rental](https://passyourvirginiacontractorexam.com/business-and-law/rental-package-2/) | the reference books on rental plus the online course, returned after your exam | $1,899
 [Books and Courses Rental](https://passyourvirginiacontractorexam.com/business-and-law/rental-package/) | the reference books on rental plus the online course, returned after your exam | $1,999
 [Books and Courses Rental](https://passyourvirginiacontractorexam.com/business-and-law/rental-package-3/) | the reference books on rental plus the online course, returned after your exam | $2,385
-[Licensing Service](https://passyourvirginiacontractorexam.com/business-and-law/licensing-service/) | help preparing and filing the license application | $425.99
+[Licensing Service](https://passyourvirginiacontractorexam.com/business-and-law/licensing-service/) | help preparing and filing the license application | $465.99
 [Online Practice Exams](https://passyourvirginiacontractorexam.com/business-and-law/online-practice-exams/) (any state) | timed practice questions online, with explanations | $79.99
 
 ## How does the Class A/B Business and Law exam work?
@@ -160,7 +160,7 @@ The Pre-Printed Tabs at $19.95 is the lightest way into the Class A/B Business a
 
 ### How much does Class A/B Business and Law exam prep cost?
 
-Class A/B Business and Law exam prep runs from $19.95 to $2,385 across 11 options: Online Practice Exams $79.99; Online Exam Prep Course $195; Pre-Printed Tabs $19.95; Pre-Printed Tabs $19.95; Highlighted and Tabbed Books $249; Books and Courses Rental $1,485; and 5 more.
+Class A/B Business and Law exam prep runs from $19.95 to $2,385 across 11 options: Online Practice Exams $79.99; Online Exam Prep Course $195; Pre-Printed Tabs $19.95; Pre-Printed Tabs $24.95; Highlighted and Tabbed Books $249; Books and Courses Rental $1,485; and 5 more.
 
 ### Is the Class A/B Business and Law exam open book?
 

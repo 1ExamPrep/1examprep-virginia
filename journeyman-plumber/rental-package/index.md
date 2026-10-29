@@ -42,7 +42,43 @@ The Books and Courses Rental costs $325 to $525 with the options above and is wr
 
 ## About this Journeyman Plumber package
 
-VIRGINIA JOURNEYMAN PLUMBER - BOOK RENTAL PACKAGEThe Virginia Journeyman Plumber - Book Rental Package from Pass Your Virginia Contractor Exam provides PSI-approved reference materials required for the Virginia Board for Contractors Journeyman Plumber examination. This rental package includes core plumbing codebooks and study guides aligned with DPOR and PSI trade exam content, covering piping systems, venting, drainage, fixture installation, and safety standards from the International Plumbing Code.
+The *Virginia Journeyman Plumber - Book Rental Package* from Pass Your Virginia Contractor Exam provides PSI-approved reference materials required for the Virginia Board for Contractors Journeyman Plumber examination. This rental package includes core plumbing codebooks and study guides aligned with DPOR and PSI trade exam content, covering piping systems, venting, drainage, fixture installation, and safety standards from the International Plumbing Code. It prepares candidates for journeyman-level certification and ensures compliance with Virginia plumbing regulations. Through Pass Your Virginia Contractor Exam’s rental system, contractors gain affordable access to the complete set of books needed to pass the PSI-administered exam and meet state licensing requirements for professional plumbing practice.
+
+### Virginia Journeyman Plumber
+
+### Book Rental Package Pricing:
+
+### $275
+
+#### *plus $50 refundable deposit if books are returned in similar condition within 6 months from the time they are received.
+
+#### Total: $325
+
+### Book Rental Includes:
+
+- Highlighted and tabbed books for **Journeyman Plumber** trade/technical exam
+
+- **Journeyman Plumber** online exam prep course
+
+- 6 month book rental period and access to course
+
+* ***This is a special order item. Please allow 15 business days for your books to be tabbed and highlighted
+
+ This book rental package includes all the required books for the Virginia **Journeyman Plumber** Tradesman open-book examination already pre-tabbed and highlighted to help you quickly and easily navigate through the books during your exam.
+**The complete set of highlighted and tabbed exam books includes: **
+
+- International Plumbing Code, 2021
+
+- Virginia Board for Contractors, Individual License and Certification Regulations
+
+### Why Choose This Highlighted & Tabbed Package?
+
+🔹 **Highlighted Key Content** – Quickly identify critical information and concepts during study and the exam.
+🔹 **Easy-to-Use Tabs** – Professionally installed tabs allow fast navigation through important sections.
+🔹 **Exam-Approved References** – Every book required for the Virginia Refrigeration Contractor Exam is included.
+🔹 **Comprehensive Knowledge Base** – Covers plumbing fundamentals, plumbing code standards, and contractor licensing regulations.
+
+This **Highlighted & Tabbed Complete Book Package** is designed to maximize your efficiency, boost your confidence, and help you pass the Virginia **Journeyman Plumber** Tradesman Exam on your first attempt.
 
 ## How does the Journeyman Plumber exam work?
 

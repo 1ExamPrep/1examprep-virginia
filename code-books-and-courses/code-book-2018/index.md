@@ -39,7 +39,13 @@ The Code Book costs $19.99 and is written for the Code Books and Code Courses ex
 
 ## About this Code Books and Code Courses package
 
-VIRGINIA UNIFORM STATEWIDE BUILDING CODE, 2018 - PART 1 VIRGINIA CONSTRUCTION CODE [BINDER]The Virginia Uniform Statewide Building Code, 2018 - Part 1 Virginia Construction Code [Binder] is an official publication referenced by the Virginia Department of Housing and Community Development (DHCD) and aligns with the 2015 International Building Code (IBC) with Virginia amendments. This code establishes statewide standards for building safety, structural integrity, accessibility, fire protection, and energy efficiency.
+The *Virginia Uniform Statewide Building Code, 2018 - Part 1 Virginia Construction Code [Binder]* is an official publication referenced by the Virginia Department of Housing and Community Development (DHCD) and aligns with the 2015 International Building Code (IBC) with Virginia amendments. This code establishes statewide standards for building safety, structural integrity, accessibility, fire protection, and energy efficiency. Used in conjunction with Pass Your Virginia Contractor Exam’s Virginia contractor license exam study materials, it supports preparation for the Virginia General Contractor and Building Technical exams authorized by the Virginia Board for Contractors. The 2018 edition serves as the primary reference for Class A and Class B license candidates and building inspectors seeking compliance with construction regulations across the Commonwealth.
+
+**2018 Virginia Construction Code, Part I of the Virginia Uniform Statewide Building Code **
+
+Comes bound in a binder.
+
+**The Virginia Uniform Statewide Building Code (USBC)** is divided into three stand-alone parts. **Part I** contains regulations specific to the construction of new buildings and structures and is known as the **Virginia Construction Code**.
 
 ## How does the Code Books and Code Courses exam work?
 
@@ -55,7 +61,7 @@ The Code Books and Code Courses items are references and short courses that sit 
 [**Code Book** Virginia Uniform Statewide Building Code, 2015 - Part 1 Virg… $19.99](https://passyourvirginiacontractorexam.com/code-books-and-courses/code-book-2015/) · [**Online Practice Exams (any state)** Online Practice Exam for Code of Federal Regulations, (OSHA)… $59.95](https://passyourvirginiacontractorexam.com/code-books-and-courses/online-practice-exams-3/) · [**Online Practice Exams (any state)** Online Course Review to the International Plumbing Code (IPC… $79.99](https://passyourvirginiacontractorexam.com/code-books-and-courses/online-practice-exams-2/) · [**Online Practice Exams (any state)** Online Course Review to the International Building Code (IBC… $125](https://passyourvirginiacontractorexam.com/code-books-and-courses/online-practice-exams/) · [**Online Exam Prep Course (any state)** National Electrical Code Webinar - Complete Series [Parts 1 … $395](https://passyourvirginiacontractorexam.com/code-books-and-courses/online-course/) [Compare every Code Books and Code Courses package →](https://passyourvirginiacontractorexam.com/code-books-and-courses/) [Choose a different license →](https://passyourvirginiacontractorexam.com/)
 
 ### More code books and code courses
-[Virginia exam FAQ](https://passyourvirginiacontractorexam.com/faq/) · [Study tips](https://passyourvirginiacontractorexam.com/blog/)
+[Other Exam Prep](https://passyourvirginiacontractorexam.com/other/) · [Virginia exam FAQ](https://passyourvirginiacontractorexam.com/faq/) · [Study tips](https://passyourvirginiacontractorexam.com/blog/)
 
 ## Questions before you buy
 

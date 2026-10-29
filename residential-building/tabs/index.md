@@ -39,7 +39,23 @@ The Pre-Printed Tabs costs $49.99 and is written for the Residential Building Co
 
 ## About this Residential Building Contractor (RBC) package
 
-VIRGINIA RESIDENTIAL BUILDING CONTRACTOR EXAM; PRE-PRINTED TABS The Virginia Residential Building Contractor Exam Pre-Printed Tabs set from Pass Your Virginia Contractor Exam is designed to assist candidates preparing for the Virginia Department of Professional and Occupational Regulation (DPOR) residential building contractor licensing examination. These durable, color-coded tabs correspond to critical sections of the International Residential Code (IRC), OSHA safety standards, and other PSI-approved references.
+The Virginia Residential Building Contractor Exam Pre-Printed Tabs set from Pass Your Virginia Contractor Exam is designed to assist candidates preparing for the Virginia Department of Professional and Occupational Regulation (DPOR) residential building contractor licensing examination. These durable, color-coded tabs correspond to critical sections of the International Residential Code (IRC), OSHA safety standards, and other PSI-approved references. Organized for quick access during the open-book test, the tab set highlights key topics such as framing, roofing, foundations, electrical systems, and safety compliance, enabling contractors to efficiently locate information and improve performance on the Virginia residential building contractor exam.
+
+Our permanent quick reference tabs will help you navigate quickly through the books during your exam. These tabs are self-adhesive and must be added at least one-day prior for sufficient adhesive power.
+
+**Includes pre-printed tabs for the following books:**
+
+- NASCLA Contractors Guide to Business Law and Project management, Virginia 11th Edition
+
+- Virginia Uniform Statewide Building Code, 2018 Edition
+
+- International Residential Code, 2021
+
+- Carpentry and Building Construction 2016 (Student Edition)
+
+- Builder's Technical Supplement, 2011
+
+*NOTE: TABS ONLY. NO HIGHLIGHTS FOR THE BOOKS ARE INCLUDED*
 
 ## How does the Residential Building Contractor (RBC) exam work?
 

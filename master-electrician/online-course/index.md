@@ -39,7 +39,20 @@ The Online Exam Prep Course costs $250 and is written for the Master Electrician
 
 ## About this Master Electrician package
 
-Virginia Master Electrician - Online Exam Prep CourseThis online course is designed to prepare candidates for the Virginia Master Electrician examination, featuring study modules including recommended highlighting and tabbing locations for permitted reference books, practice questions aligned with the exam format, simulated timed exams, test-taking strategies, instructor support, and 1 year of online access with mobile compatibility.
+The Virginia Master Electrician - Online Exam Prep Course is designed to prepare candidates for the Virginia Master Electrician examination, featuring study modules including recommended highlighting and tabbing locations for permitted reference books, practice questions aligned with the exam format, simulated timed exams, test-taking strategies, instructor support, and 1 year of online access with mobile compatibility.
+
+Get one step closer to becoming a **Virginia Master Electrician** with a prep course designed by Pass Your Virginia Contractor Exam to help you conquer the required Virginia Master Electrical computer based examination with PSI.
+
+- Highlighting and tabbing locations for each book permitted into the exam, so you can quickly and easily reference your materials during the exam
+-  Practice questions for each book in printable PDF format
+
+- Final practice exams in printable PDF format
+- Simulated computer-based practice exams
+- Testing techniques that are an indispensable part of these open-book exams
+
+- Instructor available via phone and/or email
+- 1 year of online access to the course
+- Android and iOS Compatible - Complete the course on your phone, anytime or anywhere.
 
 ## How does the Master Electrician exam work?
 

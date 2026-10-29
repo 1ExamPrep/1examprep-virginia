@@ -39,7 +39,35 @@ The Pre-Printed Tabs costs $99.99 and is written for the Home Improvement Contra
 
 ## About this Home Improvement Contractor (HIC) package
 
-VIRGINIA HOME IMPROVEMENT CONTRACTOR EXAM; PRE-PRINTED TABS The Virginia Home Improvement Contractor Exam, overseen by the Virginia Department of Professional and Occupational Regulation (DPOR), evaluates knowledge in residential remodeling, repair, and construction compliance. The Pass Your Virginia Contractor Exam Virginia Home Improvement Pre-Printed Tabs set is designed to assist candidates in efficiently navigating required reference books during the PSI-administered contractor licensing exam.
+The Virginia Home Improvement Contractor Exam, overseen by the Virginia Department of Professional and Occupational Regulation (DPOR), evaluates knowledge in residential remodeling, repair, and construction compliance. The Pass Your Virginia Contractor Exam Virginia Home Improvement Pre-Printed Tabs set is designed to assist candidates in efficiently navigating required reference books during the PSI-administered contractor licensing exam. These durable, color-coded tabs correspond to key texts such as the Virginia Uniform Statewide Building Code, OSHA Safety Standards, and the NASCLA Contractor’s Guide to Business, Law and Project Management – Virginia Edition. Each tab highlights essential topics like permits, safety, building materials, and contract administration, ensuring compliance with DPOR testing standards. This product is compatible with the PSI Virginia Home Improvement Contractor exam book set used for license preparation through 1 Exam Prep.
+
+Our permanent quick reference tabs will help you navigate quickly through the books during your exam. These tabs are self-adhesive and must be added at least one-day prior for sufficient adhesive power.
+
+**Includes pre-printed tabs for the following books:**
+
+- Code of Federal Regulations - 29 CFR Part 1926 (OSHA), with latest available amendments
+
+- International Residential Code, 2021
+
+- Carpentry and Building Construction 2016 (Student Edition)
+
+- The Contractor’s Guide to Quality Concrete Construction, 4th Edition
+
+- Craftsmans Manual and Textbook, 8th edition, 1995
+
+- Modern Masonry - Brick, Block, Stone, Clois E. Kicklighter, 10th Edition
+
+- Standard Practice for Installation of Rigid Poly Vinyl Chloride (PVC) Siding and Soffit - ASTM D 4756 - 06, 2006
+
+- Insulation Handbook, 2000, Richard T. Bynum
+
+- Gypsum Construction Handbook, 2014 Edition
+
+- Finish Carpenters’ Manual, 1993
+
+- ANSI A117.1-2017 Accessible and Usable Buildings and Facilities
+
+*NOTE: TABS ONLY. NO HIGHLIGHTS FOR THE BOOKS ARE INCLUDED*
 
 ## How does the Home Improvement Contractor (HIC) exam work?
 

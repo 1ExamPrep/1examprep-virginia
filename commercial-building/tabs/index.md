@@ -39,7 +39,25 @@ The Pre-Printed Tabs costs $99.99 and is written for the Commercial Building Con
 
 ## About this Commercial Building Contractor (CBC) package
 
-Virginia Commercial Building Technical Contractor Exam; Pre-Printed Tabs The Virginia Commercial Building Technical Contractor Exam Pre-Printed Tabs by Pass Your Virginia Contractor Exam are designed for use with the official reference books approved by the Virginia Department of Professional and Occupational Regulation (DPOR) for the Commercial Building (BLD) classification.
+The Virginia Commercial Building Technical Contractor Exam Pre-Printed Tabs by Pass Your Virginia Contractor Exam are designed for use with the official reference books approved by the Virginia Department of Professional and Occupational Regulation (DPOR) for the Commercial Building (BLD) classification. These durable, color-coded tabs correspond to key sections of the International Building Code, OSHA Construction Safety Regulations, and the Virginia Uniform Statewide Building Code, allowing candidates to quickly locate relevant content during the PSI-administered exam. Aligned with NASCLA exam standards, these pre-printed tabs streamline study and test navigation for topics such as structural framing, concrete, roofing, and building envelope systems, ensuring efficiency and compliance with Virginia’s contractor licensing requirements.
+
+Our permanent quick reference tabs will help you navigate quickly through the books during your exam. These tabs are self-adhesive and must be added at least one-day prior for sufficient adhesive power.
+
+**Includes pre-printed tabs for the following books:**
+
+- Code of Federal Regulations - 29 CFR Part 1926 (OSHA), with latest available amendments
+
+- International Building Code 2021
+- Accessible and Usable Buildings and Facilities
+- Technical Digest No. 9 – Handling and Erection of Steel Joists and Joist Girders, 3rd Edition
+- Carpentry and Building Construction 2016 (Student Edition)
+- Gypsum Construction Handbook, 2014 Edition
+- Placing Reinforcing Bars
+- The Contractor's Guide to Quality Concrete Construction
+- Roofing Construction & Estimating
+- Modern Masonry - Brick, Block, Stone, Clois E. Kicklighter, 10th Edition
+- SDI Manual of Construction with Steel Deck, 2016, 3rd Edition
+- Pipe and Excavation Contracting
 
 ## How does the Commercial Building Contractor (CBC) exam work?
 
