@@ -158,7 +158,7 @@ def head_extra(path, title, desc, image, rel, noindex=False, extra_ld=(), page_t
     if CFG.get("gtagId"): h.append('<script async src="https://www.googletagmanager.com/gtag/js?id=%s"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag("js",new Date());gtag("config","%s",{"send_page_view":true});</script>' % (CFG["gtagId"], CFG["gtagId"]))
     if CFG.get("gtmId"): h.append("<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s);j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','%s');</script>" % CFG["gtmId"])
     if CFG.get("metaPixelId"): h.append("<script>!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init','%s');fbq('track','PageView');</script>" % CFG["metaPixelId"])
-    if CFG.get("dashboardUrl") and CFG.get("siteKey"): h.append('<script>window.__dashCustom=true;</script><script src="%s/t.js" data-site="%s" defer></script>' % (esc(CFG["dashboardUrl"].rstrip("/")), esc(CFG["siteKey"])))
+    if CFG.get("dashboardUrl") and CFG.get("siteKey"): h.append('<script>window.__dashCustom=true;</script>')  # the tracker itself goes before </body>, see the end of this file
     for o in extra_ld: h.append(ld(o).rstrip())
     if url and not noindex and page_type:
         h.append(ld({"@context": "https://schema.org", "@type": page_type, "@id": url, "url": url, "name": title, "description": desc, "inLanguage": "en-US", "datePublished": LAUNCH, "dateModified": TODAY,
@@ -784,3 +784,16 @@ if SITE:
 
 print("Built home + %d license pages + %d product pages + %d blog posts + /faq/ /search/ robots.txt llms.txt agents.md%s" % (len(CLASSES), len(PRODUCTS), len(POSTS), (" sitemap.xml (%d URLs)" % len(urls)) if SITE else ""))
 if UNCLASSIFIED: print("Unclassified (listed under Other, add a rule in tools/vaclass.py):", "; ".join(UNCLASSIFIED))
+
+# ---------- site dashboard tracker, just before </body> on every page (not /admin/) ----------
+if CFG.get("dashboardUrl") and CFG.get("siteKey"):
+    _tag = '<script src="%s/t.js" data-site="%s" defer></script>' % (html.escape(CFG["dashboardUrl"].rstrip("/")), html.escape(CFG["siteKey"]))
+    _added = 0
+    for _d, _subs, _files in os.walk(ROOT):
+        _subs[:] = [x for x in _subs if not x.startswith(".") and x not in ("store", "tools", "node_modules", "brand", "admin", "content", "worker")]
+        for _f in _files:
+            if not _f.endswith(".html"): continue
+            _p = os.path.join(_d, _f); _t = open(_p, encoding="utf-8").read()
+            if "/t.js\" data-site=" in _t or "</body>" not in _t: continue
+            _i = _t.rindex("</body>"); open(_p, "w", encoding="utf-8").write(_t[:_i] + _tag + "\n" + _t[_i:]); _added += 1
+    print("Dashboard tracker added to %d pages" % _added)

@@ -47,7 +47,7 @@
   "_repo_help": "GitHub owner/repo, used by /admin/ to show sync runs and recent updates.",
   "dashboardUrl": "https://site-dashboard-c32v.onrender.com",
   "_dashboardUrl_help": "Address of your site dashboard on Render, e.g. https://site-dashboard.onrender.com. With siteKey set, every page view and click is sent there.",
-  "siteKey": "",
+  "siteKey": "sk_f173e0b75c2d8e851ded3088",
   "_siteKey_help": "The site's tracker key from the dashboard (Settings → Tracker), e.g. sk_…",
   "launched": "2026-10-19",
   "_launched_help": "Date the site went live (YYYY-MM-DD); used as datePublished in the page schema.",
