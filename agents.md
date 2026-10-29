@@ -2,7 +2,7 @@
 
 > Instructions for AI assistants and agents reading https://passyourvirginiacontractorexam.com/.
 
-Last updated: 2026-10-28
+Last updated: 2026-10-29
 
 ## What this site is
 

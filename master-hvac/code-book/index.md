@@ -1,7 +1,7 @@
 ---
 title: Virginia Master HVAC Code Book
 url: https://passyourvirginiacontractorexam.com/master-hvac/code-book/
-updated: 2026-10-28
+updated: 2026-10-29
 site: Pass Your Virginia Contractor Exam
 description: Code Book for the Virginia Master HVAC exam: the printed code book. $65. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $65 (was $95) Save 32% [Buy now, go to checkout](https://1examprep.com/cart/5067
 - Tradesman licenses are issued by the Board for Contractors through its Tradesmen program, for electrical, plumbing, HVAC and gas fitting.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated October 28, 2026 · prices checked against the 1 Exam Prep store
+Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Code Book include?
 
@@ -86,7 +86,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [DPOR Tradesmen program, Board for Contractors](https://www.dpor.virginia.gov/Boards/Tradesmen/)
 - [Virginia Board for Contractors (DPOR)](https://www.dpor.virginia.gov/Boards/Contractors)
 
-Licensing facts checked against these pages; last updated October 28, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated October 29, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

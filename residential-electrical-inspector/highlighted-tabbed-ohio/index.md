@@ -1,7 +1,7 @@
 ---
 title: Residential Electrical Inspector Highlighted and Tabbed
 url: https://passyourvirginiacontractorexam.com/residential-electrical-inspector/highlighted-tabbed-ohio/
-updated: 2026-10-28
+updated: 2026-10-29
 site: Pass Your Virginia Contractor Exam
 description: Highlighted and Tabbed Books for the Virginia Residential Electrical Inspector (E1) exam: the reference books already highlighted and permanently tabbed.
 ---
@@ -27,7 +27,7 @@ $395 (was $595) Save 34% [Buy now, go to checkout](https://1examprep.com/cart/46
 - Virginia code officials are certified by the Department of Housing and Community Development (DHCD), not by DPOR.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated October 28, 2026 · prices checked against the 1 Exam Prep store
+Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Highlighted and Tabbed Books include?
 
@@ -86,7 +86,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [DHCD: earn a code official certification](https://www.dhcd.virginia.gov/earn-certification)
 - [Virginia Board for Contractors (DPOR)](https://www.dpor.virginia.gov/Boards/Contractors)
 
-Licensing facts checked against these pages; last updated October 28, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated October 29, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

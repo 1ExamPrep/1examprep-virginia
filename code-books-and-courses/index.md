@@ -1,7 +1,7 @@
 ---
 title: Virginia Code Books and Code Courses Exam Prep
 url: https://passyourvirginiacontractorexam.com/code-books-and-courses/
-updated: 2026-10-28
+updated: 2026-10-29
 site: Pass Your Virginia Contractor Exam
 description: Code Books and Code Courses exam prep for Virginia: 6 options from $19.99 to $395, including code book, online exam prep course, online practice exams.
 ---
@@ -20,7 +20,7 @@ See the packages
 - Bring the edition named in your candidate bulletin, which is not always the newest one.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated October 28, 2026 · prices checked against the 1 Exam Prep store
+Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 
 ## 6 Code Books and Code Courses packages
 
@@ -147,7 +147,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [Virginia Board for Contractors (DPOR)](https://www.dpor.virginia.gov/Boards/Contractors)
 - [DHCD: earn a code official certification](https://www.dhcd.virginia.gov/earn-certification)
 
-Licensing facts checked against these pages; last updated October 28, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated October 29, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

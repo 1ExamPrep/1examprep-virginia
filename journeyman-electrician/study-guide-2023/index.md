@@ -1,7 +1,7 @@
 ---
 title: Virginia Journeyman Electrician Study Guide (2023)
 url: https://passyourvirginiacontractorexam.com/journeyman-electrician/study-guide-2023/
-updated: 2026-10-28
+updated: 2026-10-29
 site: Pass Your Virginia Contractor Exam
 description: Study Guide for the Virginia Journeyman Electrician exam: the printed study guide with practice exams. $59.95. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $59.95 (was $70) Save 14% [Buy now, go to checkout](https://1examprep.com/cart/4
 - Tradesman licenses are issued by the Board for Contractors through its Tradesmen program, for electrical, plumbing, HVAC and gas fitting.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated October 28, 2026 · prices checked against the 1 Exam Prep store
+Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Study Guide include?
 
@@ -89,7 +89,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [DPOR Tradesmen program, Board for Contractors](https://www.dpor.virginia.gov/Boards/Tradesmen/)
 - [Virginia Board for Contractors (DPOR)](https://www.dpor.virginia.gov/Boards/Contractors)
 
-Licensing facts checked against these pages; last updated October 28, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated October 29, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Mechanical Plans Examiner (M3) Books and Courses Rental
 url: https://passyourvirginiacontractorexam.com/mechanical-plans-examiner/rental-package/
-updated: 2026-10-28
+updated: 2026-10-29
 site: Pass Your Virginia Contractor Exam
 description: Books and Courses Rental for the Virginia Mechanical Plans Examiner (M3) exam: the reference books on rental plus the online course, returned after your.
 ---
@@ -27,7 +27,7 @@ $840 (was $1,140) Save 26% [Buy now, go to checkout](https://1examprep.com/cart/
 - Virginia code officials are certified by the Department of Housing and Community Development (DHCD), not by DPOR.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated October 28, 2026 · prices checked against the 1 Exam Prep store
+Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Books and Courses Rental include?
 
@@ -93,7 +93,7 @@ Yes. Rental books are returned after your exam, using the return instructions th
 - [DHCD: earn a code official certification](https://www.dhcd.virginia.gov/earn-certification)
 - [Virginia Board for Contractors (DPOR)](https://www.dpor.virginia.gov/Boards/Contractors)
 
-Licensing facts checked against these pages; last updated October 28, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated October 29, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Journeyman Electrician Study Package with NEC Course (2026)
 url: https://passyourvirginiacontractorexam.com/journeyman-electrician/nec-course-package-2026/
-updated: 2026-10-28
+updated: 2026-10-29
 site: Pass Your Virginia Contractor Exam
 description: Study Package with NEC Course for the Virginia Journeyman Electrician exam: the study package plus an instructor-led NEC course. $499.95. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $499.95 (was $650) Save 23% [Buy now, go to checkout](https://1examprep.com/cart
 - Tradesman licenses are issued by the Board for Contractors through its Tradesmen program, for electrical, plumbing, HVAC and gas fitting.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated October 28, 2026 · prices checked against the 1 Exam Prep store
+Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Study Package with NEC Course include?
 
@@ -86,7 +86,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [DPOR Tradesmen program, Board for Contractors](https://www.dpor.virginia.gov/Boards/Tradesmen/)
 - [Virginia Board for Contractors (DPOR)](https://www.dpor.virginia.gov/Boards/Contractors)
 
-Licensing facts checked against these pages; last updated October 28, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated October 29, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Virginia Electrical Plans Examiner (E3) Exam Prep
 url: https://passyourvirginiacontractorexam.com/electrical-plans-examiner/
-updated: 2026-10-28
+updated: 2026-10-29
 site: Pass Your Virginia Contractor Exam
 description: Electrical Plans Examiner (E3) exam prep for Virginia: 7 options from $225 to $720, including book package, books and courses rental, highlighted and tabbed.
 ---
@@ -20,7 +20,7 @@ See the packages
 - Building, fire and property maintenance officials apply within 12 months of hire; technical assistants have 18 months.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated October 28, 2026 · prices checked against the 1 Exam Prep store
+Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 
 ## 7 Electrical Plans Examiner (E3) packages
 
@@ -162,7 +162,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [DHCD: earn a code official certification](https://www.dhcd.virginia.gov/earn-certification)
 - [Virginia Board for Contractors (DPOR)](https://www.dpor.virginia.gov/Boards/Contractors)
 
-Licensing facts checked against these pages; last updated October 28, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated October 29, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

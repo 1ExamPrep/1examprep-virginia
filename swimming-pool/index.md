@@ -1,7 +1,7 @@
 ---
 title: Virginia Swimming Pool Construction Contractor Exam Prep
 url: https://passyourvirginiacontractorexam.com/swimming-pool/
-updated: 2026-10-28
+updated: 2026-10-29
 site: Pass Your Virginia Contractor Exam
 description: Swimming Pool Construction Contractor exam prep for Virginia: 8 options from $99.99 to $3,210, including book package, books and courses rental, highlighted.
 ---
@@ -20,7 +20,7 @@ See the packages
 - Class A and B firms name a designated employee or member of responsible management who passes the exams. PSI runs them, and the fee is $40 for one portion, $72 for two and $85 for three.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated October 28, 2026 · prices checked against the 1 Exam Prep store
+Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 
 ## 8 Swimming Pool Construction Contractor packages
 
@@ -171,7 +171,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [Code of Virginia, section 54.1-1100: license classes](https://law.lis.virginia.gov/vacode/title54.1/chapter11/section54.1-1100/)
 - [PSI candidate bulletin for the Virginia contractor exams](https://www.dpor.virginia.gov/sites/default/files/boards/Contractors/CIB_PSI_Contr_BusDE.pdf)
 
-Licensing facts checked against these pages; last updated October 28, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated October 29, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

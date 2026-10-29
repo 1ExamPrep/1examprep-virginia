@@ -1,7 +1,7 @@
 ---
 title: Virginia Master HVAC Exam Prep
 url: https://passyourvirginiacontractorexam.com/master-hvac/
-updated: 2026-10-28
+updated: 2026-10-29
 site: Pass Your Virginia Contractor Exam
 description: Master HVAC exam prep for Virginia: 5 options from $65 to $1,685, including book package, books and courses rental, code book. One-click checkout.
 ---
@@ -20,7 +20,7 @@ See the packages
 - Pre-license education is required, and renewals need 3 hours of continuing education for electrical, plumbing and HVAC and 1 hour for gas fitting.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated October 28, 2026 · prices checked against the 1 Exam Prep store
+Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 
 ## 5 Master HVAC packages
 
@@ -146,7 +146,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [DPOR Tradesmen program, Board for Contractors](https://www.dpor.virginia.gov/Boards/Tradesmen/)
 - [Virginia Board for Contractors (DPOR)](https://www.dpor.virginia.gov/Boards/Contractors)
 
-Licensing facts checked against these pages; last updated October 28, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated October 29, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

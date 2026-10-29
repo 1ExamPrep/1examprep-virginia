@@ -1,7 +1,7 @@
 ---
 title: Virginia Residential HVAC Tradesman Exam Prep
 url: https://passyourvirginiacontractorexam.com/residential-hvac/
-updated: 2026-10-28
+updated: 2026-10-29
 site: Pass Your Virginia Contractor Exam
 description: Residential HVAC Tradesman exam prep for Virginia: 2 options from $745 to $1,495, including book package, highlighted and tabbed books. One-click checkout.
 ---
@@ -20,7 +20,7 @@ See the packages
 - Pre-license education is required, and renewals need 3 hours of continuing education for electrical, plumbing and HVAC and 1 hour for gas fitting.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated October 28, 2026 · prices checked against the 1 Exam Prep store
+Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 
 ## 2 Residential HVAC Tradesman packages
 
@@ -122,7 +122,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [DPOR Tradesmen program, Board for Contractors](https://www.dpor.virginia.gov/Boards/Tradesmen/)
 - [Virginia Board for Contractors (DPOR)](https://www.dpor.virginia.gov/Boards/Contractors)
 
-Licensing facts checked against these pages; last updated October 28, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated October 29, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

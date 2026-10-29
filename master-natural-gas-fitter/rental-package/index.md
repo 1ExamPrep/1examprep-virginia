@@ -1,7 +1,7 @@
 ---
 title: Virginia Master Natural Gas Fitter Books and Courses Rental
 url: https://passyourvirginiacontractorexam.com/master-natural-gas-fitter/rental-package/
-updated: 2026-10-28
+updated: 2026-10-29
 site: Pass Your Virginia Contractor Exam
 description: Books and Courses Rental for the Virginia Master Natural Gas Fitter exam: the reference books on rental plus the online course, returned after your exam.
 ---
@@ -27,7 +27,7 @@ $1,805 (was $2,105) Save 14% [Buy now, go to checkout](https://1examprep.com/car
 - Tradesman licenses are issued by the Board for Contractors through its Tradesmen program, for electrical, plumbing, HVAC and gas fitting.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated October 28, 2026 · prices checked against the 1 Exam Prep store
+Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Books and Courses Rental include?
 
@@ -90,7 +90,7 @@ Yes. Rental books are returned after your exam, using the return instructions th
 - [DPOR Tradesmen program, Board for Contractors](https://www.dpor.virginia.gov/Boards/Tradesmen/)
 - [Virginia Board for Contractors (DPOR)](https://www.dpor.virginia.gov/Boards/Contractors)
 
-Licensing facts checked against these pages; last updated October 28, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated October 29, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

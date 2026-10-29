@@ -1,7 +1,7 @@
 ---
 title: Virginia Class A/B Business and Law Books and Courses Rental
 url: https://passyourvirginiacontractorexam.com/business-and-law/rental-package-3/
-updated: 2026-10-28
+updated: 2026-10-29
 site: Pass Your Virginia Contractor Exam
 description: Books and Courses Rental for the Virginia Class A/B Business and Law exam: the reference books on rental plus the online course, returned after your exam.
 ---
@@ -27,7 +27,7 @@ $2,385 (was $2,685) Save 11% [Buy now, go to checkout](https://1examprep.com/car
 - Class A and B applicants pass the Virginia and general business portions, written to the NASCLA Contractors Guide to Business, Law and Project Management, Virginia edition.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated October 28, 2026 · prices checked against the 1 Exam Prep store
+Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Books and Courses Rental include?
 
@@ -94,7 +94,7 @@ Yes. Rental books are returned after your exam, using the return instructions th
 - [PSI candidate bulletin for the Virginia contractor exams](https://www.dpor.virginia.gov/sites/default/files/boards/Contractors/CIB_PSI_Contr_BusDE.pdf)
 - [Code of Virginia, section 54.1-1100: license classes](https://law.lis.virginia.gov/vacode/title54.1/chapter11/section54.1-1100/)
 
-Licensing facts checked against these pages; last updated October 28, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated October 29, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

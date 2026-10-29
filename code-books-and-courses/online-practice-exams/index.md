@@ -1,7 +1,7 @@
 ---
 title: Code Books and Code Courses: Online Practice Exams
 url: https://passyourvirginiacontractorexam.com/code-books-and-courses/online-practice-exams/
-updated: 2026-10-28
+updated: 2026-10-29
 site: Pass Your Virginia Contractor Exam
 description: Online Practice Exams for the Virginia Code Books and Code Courses exam: timed practice questions online, with explanations. $125. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $125 (was $140) Save 11% [Buy now, go to checkout](https://1examprep.com/cart/18
 - Contractor and tradesman exams in Virginia are open book, so the code books you bring decide how fast you find answers.
 - Online access arrives by email after purchase. Buying does not grant exam eligibility.
 
-Updated October 28, 2026 · prices checked against the 1 Exam Prep store
+Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Online Practice Exams include?
 
@@ -86,7 +86,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [Virginia Board for Contractors (DPOR)](https://www.dpor.virginia.gov/Boards/Contractors)
 - [DHCD: earn a code official certification](https://www.dhcd.virginia.gov/earn-certification)
 
-Licensing facts checked against these pages; last updated October 28, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated October 29, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 
