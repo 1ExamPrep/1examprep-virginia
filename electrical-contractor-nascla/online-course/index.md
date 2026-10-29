@@ -1,7 +1,7 @@
 ---
 title: NASCLA Electrical Contractor Online Exam Prep Course
 url: https://passyourvirginiacontractorexam.com/electrical-contractor-nascla/online-course/
-updated: 2026-10-19
+updated: 2026-10-28
 site: Pass Your Virginia Contractor Exam
 description: Online Exam Prep Course for the Virginia NASCLA Electrical Contractor exam: an online course with practice exams you can take on a phone or laptop. $295.
 ---
@@ -27,7 +27,7 @@ $295 (was $395) Save 25% [Buy now, go to checkout](https://1examprep.com/cart/46
 - Tradesman licenses are issued by the Board for Contractors through its Tradesmen program, for electrical, plumbing, HVAC and gas fitting.
 - Online access arrives by email after purchase. Buying does not grant exam eligibility.
 
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 28, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Online Exam Prep Course include?
 
@@ -86,7 +86,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [DPOR Tradesmen program, Board for Contractors](https://www.dpor.virginia.gov/Boards/Tradesmen/)
 - [Virginia Board for Contractors (DPOR)](https://www.dpor.virginia.gov/Boards/Contractors)
 
-Licensing facts checked against these pages; last updated October 19, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated October 28, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

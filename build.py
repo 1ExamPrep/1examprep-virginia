@@ -17,6 +17,7 @@ import json, os, re, sys, shutil, html, datetime, collections
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, os.path.join(ROOT, "tools"))
+import schemakit
 import blogkit, vaclass, vacopy
 
 tpl = open(os.path.join(ROOT, "store", "template.html"), encoding="utf-8").read()
@@ -458,10 +459,9 @@ def product_page(c, p):
     if p["year"] and p["year"] not in short_t and len(short_t) + 7 <= 60: short_t += " (%s)" % p["year"]
     desc = trim_desc("%s for the Virginia %s exam: %s. %s. One-click checkout." % (p["typeName"], c["name"], blurb, money(n0)))
     if len(desc) < 70: desc = trim_desc(desc + " Fulfilled by %s; call %s with questions." % (FUL["name"], CFG["phone"]))
-    jsonld = {"@context": "https://schema.org", "@type": "Product", "name": p["short"], "image": imgs[:6], "description": re.sub(r"\s+", " ", p.get("desc") or sub)[:500],
-              "brand": {"@type": "Brand", "name": FUL["name"]}, "sku": p["id"], "productID": p["id"], "category": "%s exam prep" % c["name"], "url": absurl(path),
-              "offers": [{"@type": "Offer", "name": v["title"], "priceCurrency": "USD", "price": v["price"], "availability": "https://schema.org/InStock" if v.get("available", True) else "https://schema.org/OutOfStock",
-                          "itemCondition": "https://schema.org/NewCondition", "url": absurl(path), "seller": {"@type": "Organization", "name": BRAND}} for v in p["variants"]]}
+    full_text = html.unescape(re.sub(r"<[^>]+>", " ", hx))
+    jsonld = schemakit.product_ld(p["short"], absurl(path), imgs, full_text if len(full_text) > 120 else (p.get("desc") or sub), p["id"],
+                                  "%s exam prep" % c["name"], p["variants"], p.get("type", ""), brand=FUL["name"], fallback=sub)
     crumbs = [("All licenses", ""), (c["name"], c["slug"] + "/"), (p["typeName"], path)]
     extra = head_extra(path, short_t, desc, imgs[0], rel, False, [crumbs_ld(crumbs), faq_ld(pairs)], page_type="WebPage", about="%s exam" % c["name"])
     pjson = json.dumps({"id": p["id"], "variants": p["variants"], "title": p["short"], "state": c["name"], "level": GROUP_NAME[c["group"]], "tierName": p["typeName"], "price": p["price"]})

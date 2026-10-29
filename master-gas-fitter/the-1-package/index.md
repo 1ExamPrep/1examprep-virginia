@@ -1,7 +1,7 @@
 ---
 title: Master Gas Fitter (LP) The 1 Package (all-inclusive)
 url: https://passyourvirginiacontractorexam.com/master-gas-fitter/the-1-package/
-updated: 2026-10-19
+updated: 2026-10-28
 site: Pass Your Virginia Contractor Exam
 description: The 1 Package (all-inclusive) for the Virginia Master Gas Fitter (LP) exam: everything: exam prep, books, licensing paperwork and business setup. $2,597.
 ---
@@ -27,7 +27,7 @@ $2,597 (was $3,495) Save 26% [Buy now, go to checkout](https://1examprep.com/car
 - Tradesman licenses are issued by the Board for Contractors through its Tradesmen program, for electrical, plumbing, HVAC and gas fitting.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 28, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the The 1 Package (all-inclusive) include?
 
@@ -90,7 +90,7 @@ It adds help with the Board for Contractors application and the business setup, 
 - [DPOR Tradesmen program, Board for Contractors](https://www.dpor.virginia.gov/Boards/Tradesmen/)
 - [Virginia Board for Contractors (DPOR)](https://www.dpor.virginia.gov/Boards/Contractors)
 
-Licensing facts checked against these pages; last updated October 19, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated October 28, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

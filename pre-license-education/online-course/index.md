@@ -1,7 +1,7 @@
 ---
 title: 8-Hour Pre-License Education Online Exam Prep Course
 url: https://passyourvirginiacontractorexam.com/pre-license-education/online-course/
-updated: 2026-10-19
+updated: 2026-10-28
 site: Pass Your Virginia Contractor Exam
 description: Online Exam Prep Course for the Virginia 8-Hour Pre-License Education exam: an online course with practice exams you can take on a phone or laptop. $89.
 ---
@@ -27,7 +27,7 @@ $89 [Buy now, go to checkout](https://1examprep.com/cart/44568533893177:1?attrib
 - Class A and B applicants pass the Virginia and general business portions, written to the NASCLA Contractors Guide to Business, Law and Project Management, Virginia edition.
 - Online access arrives by email after purchase. Buying does not grant exam eligibility.
 
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 28, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Online Exam Prep Course include?
 
@@ -88,7 +88,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [PSI candidate bulletin for the Virginia contractor exams](https://www.dpor.virginia.gov/sites/default/files/boards/Contractors/CIB_PSI_Contr_BusDE.pdf)
 - [Code of Virginia, section 54.1-1100: license classes](https://law.lis.virginia.gov/vacode/title54.1/chapter11/section54.1-1100/)
 
-Licensing facts checked against these pages; last updated October 19, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated October 28, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

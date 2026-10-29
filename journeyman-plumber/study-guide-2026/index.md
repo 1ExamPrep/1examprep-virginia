@@ -1,7 +1,7 @@
 ---
 title: Virginia Journeyman Plumber Study Guide (2026)
 url: https://passyourvirginiacontractorexam.com/journeyman-plumber/study-guide-2026/
-updated: 2026-10-19
+updated: 2026-10-28
 site: Pass Your Virginia Contractor Exam
 description: Study Guide for the Virginia Journeyman Plumber exam: the printed study guide with practice exams. $59.99. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $59.99 (was $79) Save 24% [Buy now, go to checkout](https://1examprep.com/cart/4
 - Tradesman licenses are issued by the Board for Contractors through its Tradesmen program, for electrical, plumbing, HVAC and gas fitting.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 28, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Study Guide include?
 
@@ -86,7 +86,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [DPOR Tradesmen program, Board for Contractors](https://www.dpor.virginia.gov/Boards/Tradesmen/)
 - [Virginia Board for Contractors (DPOR)](https://www.dpor.virginia.gov/Boards/Contractors)
 
-Licensing facts checked against these pages; last updated October 19, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated October 28, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

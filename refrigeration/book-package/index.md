@@ -1,7 +1,7 @@
 ---
 title: Virginia Refrigeration Contractor Book Package
 url: https://passyourvirginiacontractorexam.com/refrigeration/book-package/
-updated: 2026-10-19
+updated: 2026-10-28
 site: Pass Your Virginia Contractor Exam
 description: Book Package for the Virginia Refrigeration Contractor exam: the reference books the exam is written to, new and unmarked. $495. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $495 (was $595) Save 17% [Buy now, go to checkout](https://1examprep.com/cart/50
 - Virginia issues contractor licenses in three classes. Class C covers single jobs of $1,000 to under $10,000 and under $150,000 a year; Class B covers single jobs of $10,000 to under $120,000 and under $750,000 a year; Class A has no upper limit.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 28, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Book Package include?
 
@@ -90,7 +90,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [Code of Virginia, section 54.1-1100: license classes](https://law.lis.virginia.gov/vacode/title54.1/chapter11/section54.1-1100/)
 - [PSI candidate bulletin for the Virginia contractor exams](https://www.dpor.virginia.gov/sites/default/files/boards/Contractors/CIB_PSI_Contr_BusDE.pdf)
 
-Licensing facts checked against these pages; last updated October 19, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated October 28, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Virginia Master Electrician Pre-Printed Tabs
 url: https://passyourvirginiacontractorexam.com/master-electrician/tabs/
-updated: 2026-10-19
+updated: 2026-10-28
 site: Pass Your Virginia Contractor Exam
 description: Pre-Printed Tabs for the Virginia Master Electrician exam: pre-printed permanent tabs for the reference books, allowed in the exam room. $39.99. One-click.
 ---
@@ -27,7 +27,7 @@ $39.99 (was $44.50) Save 10% [Buy now, go to checkout](https://1examprep.com/car
 - Tradesman licenses are issued by the Board for Contractors through its Tradesmen program, for electrical, plumbing, HVAC and gas fitting.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 28, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Pre-Printed Tabs include?
 
@@ -86,7 +86,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [DPOR Tradesmen program, Board for Contractors](https://www.dpor.virginia.gov/Boards/Tradesmen/)
 - [Virginia Board for Contractors (DPOR)](https://www.dpor.virginia.gov/Boards/Contractors)
 
-Licensing facts checked against these pages; last updated October 19, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated October 28, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

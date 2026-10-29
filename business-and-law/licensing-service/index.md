@@ -1,7 +1,7 @@
 ---
 title: Virginia Class A/B Business and Law Licensing Service
 url: https://passyourvirginiacontractorexam.com/business-and-law/licensing-service/
-updated: 2026-10-19
+updated: 2026-10-28
 site: Pass Your Virginia Contractor Exam
 description: Licensing Service for the Virginia Class A/B Business and Law exam: help preparing and filing the license application. $425.99. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $425.99 (was $499) Save 15% [Buy now, go to checkout](https://1examprep.com/cart
 - Class A and B applicants pass the Virginia and general business portions, written to the NASCLA Contractors Guide to Business, Law and Project Management, Virginia edition.
 - The service starts after purchase; we contact you for the details. Buying does not grant exam eligibility.
 
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 28, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Licensing Service include?
 
@@ -87,7 +87,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [PSI candidate bulletin for the Virginia contractor exams](https://www.dpor.virginia.gov/sites/default/files/boards/Contractors/CIB_PSI_Contr_BusDE.pdf)
 - [Code of Virginia, section 54.1-1100: license classes](https://law.lis.virginia.gov/vacode/title54.1/chapter11/section54.1-1100/)
 
-Licensing facts checked against these pages; last updated October 19, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated October 28, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

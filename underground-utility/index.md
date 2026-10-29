@@ -1,7 +1,7 @@
 ---
 title: Underground Utility and Excavating Contractor Exam Prep
 url: https://passyourvirginiacontractorexam.com/underground-utility/
-updated: 2026-10-19
+updated: 2026-10-28
 site: Pass Your Virginia Contractor Exam
 description: Underground Utility and Excavating Contractor exam prep for Virginia: 1 option from $1,195 to $1,195, including book package. One-click checkout.
 ---
@@ -20,7 +20,7 @@ See the package
 - Class A and B firms name a designated employee or member of responsible management who passes the exams. PSI runs them, and the fee is $40 for one portion, $72 for two and $85 for three.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 28, 2026 · prices checked against the 1 Exam Prep store
 
 ## 1 Underground Utility and Excavating Contractor package
 
@@ -115,7 +115,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [Code of Virginia, section 54.1-1100: license classes](https://law.lis.virginia.gov/vacode/title54.1/chapter11/section54.1-1100/)
 - [PSI candidate bulletin for the Virginia contractor exams](https://www.dpor.virginia.gov/sites/default/files/boards/Contractors/CIB_PSI_Contr_BusDE.pdf)
 
-Licensing facts checked against these pages; last updated October 19, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated October 28, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

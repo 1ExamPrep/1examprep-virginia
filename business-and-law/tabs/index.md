@@ -1,7 +1,7 @@
 ---
 title: Virginia Class A/B Business and Law Pre-Printed Tabs
 url: https://passyourvirginiacontractorexam.com/business-and-law/tabs/
-updated: 2026-10-19
+updated: 2026-10-28
 site: Pass Your Virginia Contractor Exam
 description: Pre-Printed Tabs for the Virginia Class A/B Business and Law exam: pre-printed permanent tabs for the reference books, allowed in the exam room. $19.95.
 ---
@@ -27,7 +27,7 @@ $19.95 (was $22) Save 9% [Buy now, go to checkout](https://1examprep.com/cart/26
 - Class A and B applicants pass the Virginia and general business portions, written to the NASCLA Contractors Guide to Business, Law and Project Management, Virginia edition.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 28, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Pre-Printed Tabs include?
 
@@ -87,7 +87,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [PSI candidate bulletin for the Virginia contractor exams](https://www.dpor.virginia.gov/sites/default/files/boards/Contractors/CIB_PSI_Contr_BusDE.pdf)
 - [Code of Virginia, section 54.1-1100: license classes](https://law.lis.virginia.gov/vacode/title54.1/chapter11/section54.1-1100/)
 
-Licensing facts checked against these pages; last updated October 19, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated October 28, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

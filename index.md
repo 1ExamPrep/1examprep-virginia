@@ -1,7 +1,7 @@
 ---
 title: Virginia Contractor Exam Prep for Every License
 url: https://passyourvirginiacontractorexam.com/
-updated: 2026-10-19
+updated: 2026-10-28
 site: Pass Your Virginia Contractor Exam
 description: Virginia contractor exam prep for 60 licenses: Class A, B and C trade classifications, tradesman licenses and ICC inspector exams. Books, courses and The 1.
 ---
@@ -17,7 +17,7 @@ Exam prep for 60 Virginia licenses: contractor classes A, B and C, tradesman lic
 - Tradesman exams cost $100 for journeyman and $125 for master, paid to PSI after board approval.
 - Every Buy now button goes straight to secure checkout at our fulfillment center, 1 Exam Prep.
 
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 28, 2026 · prices checked against the 1 Exam Prep store
 
 ## Contractor license classes
 
@@ -204,7 +204,7 @@ The 1 Package is the all-inclusive option for a contractor classification: the e
 - [DHCD: earn a code official certification](https://www.dhcd.virginia.gov/earn-certification)
 - [DPOR Tradesmen program](https://www.dpor.virginia.gov/Boards/Tradesmen/)
 
-Licensing facts checked against these pages; last updated October 19, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated October 28, 2026. Rules change, so confirm with the board before you apply.
 
 ## Your exam date is not moving. *Start today.*
 
