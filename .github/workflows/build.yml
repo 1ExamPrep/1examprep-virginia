@@ -36,7 +36,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # The newest commit on the branch, not the one that started this run: runs wait in a queue (concurrency above),
+      # so by the time one starts, main may already have moved on.
       - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref }}
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -48,7 +52,16 @@ jobs:
         run: |
           git config user.name "site-build[bot]"
           git config user.email "site-build@users.noreply.github.com"
-          git add -A
-          if git diff --cached --quiet; then echo "Nothing changed."; exit 0; fi
-          git commit -m "Rebuild pages ($(date -u +%Y-%m-%d\ %H:%M) UTC)"
-          git push
+          # Something can still land while the pages build (the dashboard publishing a post, the weekly sync, a person
+          # pushing). Then the push is refused: build again on top of the newest commit and try again, up to 3 times.
+          for attempt in 1 2 3; do
+            git add -A
+            if git diff --cached --quiet; then echo "Nothing changed."; exit 0; fi
+            git commit -q -m "Rebuild pages ($(date -u +%Y-%m-%d\ %H:%M) UTC)"
+            if git push origin "HEAD:$GITHUB_REF_NAME"; then exit 0; fi
+            echo "The branch moved while building (attempt $attempt). Rebuilding on top of the newest commit."
+            git fetch -q origin "$GITHUB_REF_NAME"
+            git reset -q --hard "origin/$GITHUB_REF_NAME"
+            python3 build.py
+          done
+          echo "Could not push after 3 attempts."; exit 1
