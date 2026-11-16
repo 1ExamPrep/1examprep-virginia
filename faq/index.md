@@ -1,7 +1,7 @@
 ---
 title: Virginia Contractor Exam FAQ: 20 Answers
 url: https://passyourvirginiacontractorexam.com/faq/
-updated: 2026-10-29
+updated: 2026-11-16
 site: Pass Your Virginia Contractor Exam
 description: 20 answers about Virginia contractor, tradesman and code official exams: the Class A, B and C limits, the 8-hour pre-license course, PSI exam fees, open-book.
 ---
@@ -19,7 +19,7 @@ description: 20 answers about Virginia contractor, tradesman and code official e
 - PSI contractor exams cost $40 to $85; tradesman exams cost $100 for journeyman and $125 for master.
 - Every exam PSI runs for the board is open book, with highlighting and permanent tabs allowed.
 
-Updated October 29, 2026 · prices checked against the 1 Exam Prep store
+Updated November 16, 2026 · prices checked against the 1 Exam Prep store
 
 How do you get licensed in Virginia? 6How does the Virginia exam work? 5How should you study for it? 4How does ordering work? 5Where are the questions for my license? 61
 
@@ -191,7 +191,7 @@ Exam prep for 61 Virginia licenses, from $19.95. Buy buttons go straight to chec
 - [DPOR Tradesmen program](https://www.dpor.virginia.gov/Boards/Tradesmen/)
 - [DHCD: earn a code official certification](https://www.dhcd.virginia.gov/earn-certification)
 
-Licensing facts checked against these pages; last updated October 29, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 16, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

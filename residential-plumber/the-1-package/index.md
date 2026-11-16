@@ -1,7 +1,7 @@
 ---
 title: Residential Plumber Tradesman The 1 Package (all-inclusive)
 url: https://passyourvirginiacontractorexam.com/residential-plumber/the-1-package/
-updated: 2026-10-29
+updated: 2026-11-16
 site: Pass Your Virginia Contractor Exam
 description: The 1 Package (all-inclusive) for the Virginia Residential Plumber Tradesman exam: everything: exam prep, books, licensing paperwork and business setup.
 ---
@@ -27,7 +27,7 @@ $2,060 (was $2,360) Save 13% [Buy now, go to checkout](https://1examprep.com/car
 - Tradesman licenses are issued by the Board for Contractors through its Tradesmen program, for electrical, plumbing, HVAC and gas fitting.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated October 29, 2026 · prices checked against the 1 Exam Prep store
+Updated November 16, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the The 1 Package (all-inclusive) include?
 
@@ -303,7 +303,7 @@ It adds help with the Board for Contractors application and the business setup, 
 - [DPOR Tradesmen program, Board for Contractors](https://www.dpor.virginia.gov/Boards/Tradesmen/)
 - [Virginia Board for Contractors (DPOR)](https://www.dpor.virginia.gov/Boards/Contractors)
 
-Licensing facts checked against these pages; last updated October 29, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 16, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

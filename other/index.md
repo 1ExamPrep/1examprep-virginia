@@ -1,7 +1,7 @@
 ---
 title: Virginia Other Exam Prep Exam Prep
 url: https://passyourvirginiacontractorexam.com/other/
-updated: 2026-10-29
+updated: 2026-11-16
 site: Pass Your Virginia Contractor Exam
 description: Other Exam Prep exam prep for Virginia: 8 options from $124.99 to $2,610, including books and courses rental, code book, online exam prep course. One-click.
 ---
@@ -20,7 +20,7 @@ See the packages
 - Bring the edition named in your candidate bulletin, which is not always the newest one.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated October 29, 2026 · prices checked against the 1 Exam Prep store
+Updated November 16, 2026 · prices checked against the 1 Exam Prep store
 
 ## 8 Other Exam Prep packages
 
@@ -171,7 +171,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [Virginia Board for Contractors (DPOR)](https://www.dpor.virginia.gov/Boards/Contractors)
 - [DHCD: earn a code official certification](https://www.dhcd.virginia.gov/earn-certification)
 
-Licensing facts checked against these pages; last updated October 29, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 16, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

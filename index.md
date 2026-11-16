@@ -1,7 +1,7 @@
 ---
 title: Virginia Contractor Exam Prep for Every License
 url: https://passyourvirginiacontractorexam.com/
-updated: 2026-10-29
+updated: 2026-11-16
 site: Pass Your Virginia Contractor Exam
 description: Virginia contractor exam prep for 61 licenses: Class A, B and C trade classifications, tradesman licenses and ICC inspector exams. Books, courses and The 1.
 ---
@@ -17,7 +17,7 @@ Exam prep for 61 Virginia licenses: contractor classes A, B and C, tradesman lic
 - Tradesman exams cost $100 for journeyman and $125 for master, paid to PSI after board approval.
 - Every Buy now button goes straight to secure checkout at our fulfillment center, 1 Exam Prep.
 
-Updated October 29, 2026 · prices checked against the 1 Exam Prep store
+Updated November 16, 2026 · prices checked against the 1 Exam Prep store
 
 ## Contractor license classes
 
@@ -45,7 +45,7 @@ Board for Contractors trade classifications for a Class A, B or C license. The d
 - [**Asphalt Paving and Sealcoating Contractor** 2 options from $795](https://passyourvirginiacontractorexam.com/asphalt-paving/)
 - [**Billboard Sign Contractor** 1 option from $195](https://passyourvirginiacontractorexam.com/billboard-sign/)
 - [**Farm Improvement Contractor** 4 options from $295](https://passyourvirginiacontractorexam.com/farm-improvement/)
-- [**Landscape Service Contractor** 1 option from $695](https://passyourvirginiacontractorexam.com/landscape-service/)
+- [**Landscape Service Contractor** 1 option from $1,095](https://passyourvirginiacontractorexam.com/landscape-service/)
 - [**Steel Erection Contractor** 1 option from $695](https://passyourvirginiacontractorexam.com/steel-erection/)
 - [**Underground Utility and Excavating Contractor** 1 option from $1,195](https://passyourvirginiacontractorexam.com/underground-utility/)
 - [**Vessel Contractor** 1 option from $1,895](https://passyourvirginiacontractorexam.com/vessel/)
@@ -205,7 +205,7 @@ The 1 Package is the all-inclusive option for a contractor classification: the e
 - [DHCD: earn a code official certification](https://www.dhcd.virginia.gov/earn-certification)
 - [DPOR Tradesmen program](https://www.dpor.virginia.gov/Boards/Tradesmen/)
 
-Licensing facts checked against these pages; last updated October 29, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 16, 2026. Rules change, so confirm with the board before you apply.
 
 ## Your exam date is not moving. *Start today.*
 

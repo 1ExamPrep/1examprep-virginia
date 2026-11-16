@@ -1,9 +1,9 @@
 ---
 title: Virginia Landscape Service Contractor Book Package
 url: https://passyourvirginiacontractorexam.com/landscape-service/book-package/
-updated: 2026-10-29
+updated: 2026-11-16
 site: Pass Your Virginia Contractor Exam
-description: Book Package for the Virginia Landscape Service Contractor exam: the reference books the exam is written to, new and unmarked. $695. One-click checkout.
+description: Book Package for the Virginia Landscape Service Contractor exam: the reference books the exam is written to, new and unmarked. $1,095. One-click checkout.
 ---
 
 [All licenses](https://passyourvirginiacontractorexam.com/) /[Contractor license classes](https://passyourvirginiacontractorexam.com/#contractor) /[Landscape Service Contractor](https://passyourvirginiacontractorexam.com/landscape-service/) /Book Package
@@ -12,9 +12,9 @@ Landscape Service Contractor · Book Package
 
 # Virginia Landscaping Service Contracting Exam Complete Book Package
 
-The Virginia Landscaping Service Contracting Exam Complete Book Package is the reference books the exam is written to, new and unmarked for the Landscape Service Contractor exam (Virginia), at $695, 13% off the $795 list price. Books ship from our fulfillment center, 1 Exam Prep. Buy now goes straight to secure checkout at 1 Exam Prep.
+The Virginia Landscaping Service Contracting Exam Complete Book Package is the reference books the exam is written to, new and unmarked for the Landscape Service Contractor exam (Virginia), at $1,095, 8% off the $1,195 list price. Books ship from our fulfillment center, 1 Exam Prep. Buy now goes straight to secure checkout at 1 Exam Prep.
 
-$695 (was $795) Save 13% [Buy now, go to checkout](https://1examprep.com/cart/44378914095161:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com)
+$1,095 (was $1,195) Save 8% [Buy now, go to checkout](https://1examprep.com/cart/44378914095161:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com)
 
 - Secure checkout, fulfilled by 1 Exam Prep
 - Books ship from our fulfillment center, 1 Exam Prep
@@ -22,12 +22,12 @@ $695 (was $795) Save 13% [Buy now, go to checkout](https://1examprep.com/cart/44
 
 ## Key takeaways
 
-- Book Package: $695, down from $795.
+- Book Package: $1,095, down from $1,195.
 - For the Landscape Service Contractor exam; the reference books the exam is written to, new and unmarked.
 - Virginia issues contractor licenses in three classes. Class C covers single jobs of $1,000 to under $10,000 and under $150,000 a year; Class B covers single jobs of $10,000 to under $120,000 and under $750,000 a year; Class A has no upper limit.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated October 29, 2026 · prices checked against the 1 Exam Prep store
+Updated November 16, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Book Package include?
 
@@ -35,187 +35,273 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Landscape Service Contractor exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
-The Book Package costs $695 and is written for the Landscape Service Contractor exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+The Book Package costs $1,095 and is written for the Landscape Service Contractor exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
 
 ## About this Landscape Service Contractor package
 
-Prepare for the **Virginia Landscaping Service Contracting Exam** with a complete collection of technical reference books covering landscape construction, excavation, grading, soils, drainage, retaining walls, construction equipment, and jobsite safety. This package is designed for candidates pursuing the Virginia **Landscape Service Contracting specialty (LSC)** who want the listed references together in one organized exam-preparation package.
+Virginia Landscaping Service Contracting Exam Complete Book Package
+Prepare for the Virginia Landscaping Service Contracting examination with the **Virginia Landscaping Service Contracting Exam Complete Book Package from Pass Your Virginia Contractor Exam**. This seven-book study package brings together construction references covering excavation, grading, soil conditions, drainage, retaining walls, landscape construction, equipment operation, and workplace safety.
 
-Landscape service contracting involves much more than planting and routine landscape maintenance. Virginia's LSC specialty includes alteration or improvement of land through activities such as excavation, clearing, grading, construction of retaining walls for landscaping purposes, placement of landscaping timbers, and removal of stumps and roots below grade.
+Designed for landscape contractors, excavation professionals, grading contractors, sitework specialists, and individuals pursuing the Virginia Landscaping Service Contracting (LSC) specialty, this package supports preparation for the technical knowledge assessed on the state contractor examination.
 
-The technical knowledge associated with this work can involve estimating, earthmoving, soil conditions, excavation equipment, compaction, drainage, site preparation, retaining-wall construction, and construction safety. Candidates should be prepared to understand how these subjects work together on a landscape construction project.
+Landscape service contracting involves more than improving the appearance of a property. Contractors must understand how excavation, grading, soil conditions, surface drainage, retaining walls, and landscape construction methods affect the stability and performance of outdoor improvements.
 
-The **Virginia Landscaping Service Contracting Exam Complete Book Package** includes references covering those major areas. OSHA 29 CFR Part 1926 supports construction-safety preparation. Pipe and Excavation Contracting addresses excavation and underground construction concepts. Construction Planning, Equipment, and Methods provides information about construction operations and equipment. The Excavation and Grading Handbook focuses on earthmoving and grading, while Soils and Foundations supports soil-related preparation.
+The Virginia Landscaping Service Contracting examination evaluates knowledge of these construction activities, including planning, estimating, vegetation removal, compaction, and safe jobsite practices.
 
-Landscape Construction provides trade-focused information for landscape projects, and Fences & Retaining Walls provides additional material involving barriers and retaining-wall construction.
+This package includes seven physical publications: **OSHA 29 CFR Part 1926, Pipe and Excavation Contracting, Construction Planning, Equipment, and Methods, Excavation and Grading Handbook, Soils and Foundations, Landscape Construction, and Fences & Retaining Walls**.
 
-Because the Virginia Landscape Service Contracting examination is open book, candidates should work with their references throughout preparation. The objective is not merely to own the books, but to understand which reference is most likely to address a particular question and how to locate that information efficiently.
+The Virginia Landscaping Service Contracting examination is an **open-book test**. Candidates may consult permitted reference publications during testing, making familiarity with technical information and effective book navigation valuable preparation skills.
 
-### What You Get
+With references addressing both practical construction methods and technical principles, this package supports a structured approach to studying the subjects associated with Virginia's LSC examination.
 
-- **Code of Federal Regulations - 29 CFR Part 1926 (OSHA)**
-- **Pipe and Excavation Contracting**
-- **Construction Planning, Equipment, and Methods, 10th Edition**
-- **Excavation and Grading Handbook, Nick Capachi, 2006**
-- **Soils and Foundations, Cheng Liu and Jack B. Evett, 2008, 7th Edition**
-- **Landscape Construction, 2011**
-- **Fences & Retaining Walls (USED)**
+Whether you are preparing for your first landscaping contractor examination or expanding your professional construction qualifications, Pass Your Virginia Contractor Exam provides reference materials to support your licensing goals.
+
+**Package Contents:** Seven physical study references, including one used copy of Fences & Retaining Walls. Online courses, digital practice questions, and licensing application services are separate products.
 
 ### Exam Details
 
-The **Virginia Landscape Service Contracting examination** is the technical specialty examination associated with the LSC designation. Virginia contractor licensing is administered by the Virginia Department of Professional and Occupational Regulation through the Board for Contractors.
+The **Virginia Landscaping Service Contracting examination** evaluates knowledge of site preparation, landscape construction, soil behavior, drainage, retaining walls, excavation, and construction safety.
 
-- **Specialty:** Landscape Service Contracting
+The examination is administered by **PSI** for the Virginia Board for Contractors under the Department of Professional and Occupational Regulation (DPOR).
+
+**Virginia Landscaping Service Contracting Examination Overview:**
+
+- **Examination Name:** Landscaping Service Contracting
 - **Specialty Abbreviation:** LSC
+- **Licensing Authority:** Virginia Board for Contractors
+- **Examination Provider:** PSI
+- **Examination Format:** Multiple-choice
 - **Number of Questions:** 50
-- **Time Allowed:** 120 minutes
-- **Passing Score:** 70%, or 35 correct answers
-- **Testing Provider:** PSI
+- **Time Allowed:** 120 minutes (2 hours)
+- **Minimum Passing Score:** 70%, or 35 correct answers
+- **Examination Type:** Open book
 
-Major areas associated with Landscape Service Contracting preparation include planning and estimating, excavation, grading, compaction, drainage, soils, vegetation removal, retaining walls, and construction safety.
+The published examination outline identifies nine subject areas covering the technical knowledge required for landscaping service contracting.
 
-These subjects are closely related. An excavation question may also involve soil conditions or equipment selection. A grading problem may require an understanding of drainage. Retaining-wall work can involve excavation, soil behavior, drainage, construction materials, and safe work practices.
+**Examination Content Breakdown:**
 
-Candidates should therefore prepare by understanding complete construction processes rather than memorizing isolated terms. Knowing why a particular excavation, compaction, grading, or drainage method is used can help when interpreting technical examination questions.
+- **Planning and Estimating:** 6 questions
+- **Excavation:** 5 questions
+- **Grading:** 10 questions
+- **Compaction:** 4 questions
+- **Drainage:** 4 questions
+- **Soils:** 10 questions
+- **Vegetation Removal:** 1 question
+- **Retaining Walls:** 5 questions
+- **Safety:** 5 questions
+
+Grading and soils represent the largest examination categories, with ten questions each. Together, they account for 40% of the examination.
+
+Planning and estimating, excavation, retaining walls, and construction safety are also important subjects. Candidates should prepare across the entire outline rather than concentrating exclusively on grading and soils.
+
+Understanding the examination structure helps students organize study sessions and develop familiarity with the technical references associated with each subject.
 
 ### Open Book Test
 
-The Virginia Landscape Service Contracting examination is an **open book test**. Candidates are responsible for bringing allowable reference materials into the examination and following the applicable PSI rules governing those materials.
+The **Virginia Landscaping Service Contracting examination is an open-book test**. Candidates must bring their own permitted reference publications because books are not provided at the testing center.
 
-Open-book testing makes reference navigation an important preparation skill. With 50 questions and 120 minutes available, candidates have an average of approximately two minutes and twenty-four seconds per question. Spending too much time searching through an unrelated reference can make time management more difficult.
+Open-book testing requires knowledge of construction principles and the ability to locate technical information efficiently. With 50 questions and a two-hour time limit, candidates benefit from becoming familiar with the organization of their study references before examination day.
 
-Before opening a book, identify the subject. A construction-safety question should direct attention toward OSHA 29 CFR Part 1926. An excavation or underground construction question may point toward Pipe and Excavation Contracting. Questions involving earthmoving, cuts, fills, or grading may be better addressed through the Excavation and Grading Handbook.
+For example, a question involving soil conditions may require information about soil characteristics, foundations, or compaction. A grading question may involve elevation changes, earthmoving, or equipment selection.
 
-Soil-related questions may require Soils and Foundations. Construction-equipment and planning questions may direct candidates toward Construction Planning, Equipment, and Methods. Landscape-specific construction subjects can be reviewed in Landscape Construction, while retaining-wall or fence subjects may require Fences & Retaining Walls.
+Other questions may address excavation practices, retaining wall construction, drainage, landscape materials, or OSHA safety requirements.
 
-Practice this process regularly. Review the table of contents and index in each reference, identify major chapters, and become familiar with the terminology each book uses. That familiarity can help candidates determine where to begin looking when a question requires a reference lookup.
+**PSI reference-material rules include:**
+
+- Reference publications must be properly bound.
+- Loose papers and unbound reference materials are not permitted.
+- References may be highlighted, underlined, or indexed before testing.
+- Reference materials containing handwritten notes are not permitted.
+- Only permanent reference tabs are allowed.
+- Removable tabs and temporary index flags are not permitted.
+- Candidates may not write in reference materials during the examination.
+- Study guides are not permitted as examination-room references.
+
+PSI permits different editions of listed reference books, although questions involving codes are based on the editions identified in the examination materials.
+
+For preparation, candidates should practice locating relevant information in the included books, reviewing technical tables, and identifying which reference applies to a particular construction question.
+
+The package provides study references in the exact editions and conditions identified in the product listing, including the used copy of Fences & Retaining Walls.
 
 ### Licensing Steps
 
-Virginia contractor licensing involves the contracting business, its license class, and the classifications or specialty designations under which it operates. The technical LSC examination is one component of that process.
+Virginia contractor licensing is administered by the Board for Contractors through the Department of Professional and Occupational Regulation.
 
-1. **Determine the appropriate Virginia contractor license class.** Virginia issues Class A, Class B, and Class C contractor licenses.
-2. **Select Landscape Service Contracting.** The specialty abbreviation is LSC.
-3. **Identify the Qualified Individual.** The contracting business must designate a Qualified Individual for the requested specialty.
-4. **Meet the applicable experience requirement.** The Qualified Individual must satisfy the experience requirement associated with the requested license class.
-5. **Complete required pre-license education.** New Virginia contractor applicants must satisfy the state's applicable pre-license education requirement.
-6. **Receive pre-approval for the technical examination.** Landscape Service Contracting is among the Virginia specialties requiring pre-approval and successful completion of a technical exam.
-7. **Prepare for the LSC specialty examination.** Study planning, estimating, excavation, grading, compaction, drainage, soils, retaining walls, vegetation removal, and safety.
-8. **Complete additional requirements for the selected license class.** Additional business examination and licensing requirements may apply according to the class being pursued.
-9. **Submit the contractor license application.** Complete the applicable Virginia Board for Contractors application and provide the required supporting documentation.
+Applicants seeking the Landscaping Service Contracting specialty must follow the applicable contractor licensing process for their business and license class.
 
-Passing the LSC technical examination does not by itself issue a Virginia contractor license. The business must satisfy the complete requirements associated with its selected license class and specialty.
+1. **Identify the Specialty:** Select Landscaping Service Contracting (LSC) as the appropriate specialty for the intended construction activities.
+2. **Determine the License Class:** Review Virginia's Class A, Class B, and Class C contractor licensing categories.
+3. **Evaluate Professional Qualifications:** Identify the individuals who will satisfy the applicable experience, education, and qualification requirements.
+4. **Prepare Business Information:** Organize the legal business name, ownership information, and applicable business registration details.
+5. **Complete Required Education:** Satisfy the pre-license education requirements associated with the licensing pathway.
+6. **Prepare for Technical Testing:** Review the LSC examination outline and study the construction references included in this package.
+7. **Prepare for Additional Examinations:** Complete any contractor business and licensing examinations required for the selected license class.
+8. **Take the Applicable Examinations:** Follow PSI's registration and testing procedures for the required examinations.
+9. **Submit the Contractor Application:** Complete the application and provide supporting documentation to Virginia DPOR.
+10. **Complete License Issuance:** Satisfy the remaining requirements established by the Board for Contractors.
+
+The Virginia Landscaping Service Contracting Exam Complete Book Package supports the technical examination preparation stage through resources addressing the construction subjects associated with the LSC specialty.
 
 ### State Requirements
 
-Virginia defines **Landscape Service Contracting** as work that alters or improves a land area, when that work is not related to another classification or specialty, by means of excavation, clearing, grading, construction of retaining walls for landscaping purposes, or placement of landscaping timbers.
+The **Virginia Board for Contractors** regulates contractor licensing within the Commonwealth of Virginia.
 
-The specialty may also remove stumps and roots below grade. Certain broader Virginia contractor classifications also provide for the landscape service contracting function within their authorized scopes.
+**LSC Specialty:** Landscaping Service Contracting involves altering or improving land through excavation, clearing, grading, retaining walls for landscaping purposes, or placement of landscaping timbers.
 
-The LSC specialty should not be confused with Landscape Irrigation Contracting. Landscape irrigation is a separate Virginia contractor specialty addressing irrigation sprinkler and outdoor sprinkler systems.
+**Vegetation Removal:** The specialty may include removing stumps and roots below grade.
 
-The contractor business must identify a Qualified Individual for the LSC specialty and meet the applicable licensing requirements. The Qualified Individual must meet the experience requirements associated with the requested license class and successfully satisfy the technical examination requirement.
+**Classification Scope:** LSC applies to landscaping service activities within the specialty's defined construction scope.
 
-Virginia also requires pre-license education for new Class A, Class B, and Class C contractor licenses. This business-focused requirement is separate from preparation for the Landscape Service Contracting technical examination.
+**License Classes:** Virginia recognizes Class A, Class B, and Class C contractor license categories with different qualification requirements.
+
+**Business Qualification:** Contractor applicants must meet the business, financial, and qualification requirements applicable to their license class.
+
+**Specialty Examination:** Applicants pursuing the LSC specialty must satisfy the applicable technical examination requirement.
+
+**Professional Responsibilities:** Contractors must perform construction work within the activities authorized by their licenses.
+
+**Construction Safety:** Landscaping contractors must follow applicable workplace safety requirements when performing excavation, grading, retaining wall construction, and related work.
+
+**Sitework Compliance:** Projects must comply with relevant permits, local requirements, and applicable construction regulations.
+
+Understanding the LSC specialty is important when selecting a contractor classification and preparing for examination subjects involving land improvement and landscape construction.
 
 ### Reference Books
 
+The **Virginia Landscaping Service Contracting Exam Complete Book Package** includes the following seven physical reference publications.
+
 - **Code of Federal Regulations - 29 CFR Part 1926 (OSHA)**
-This federal construction-safety reference supports preparation involving excavation safety, protective equipment, equipment operation, trenches, ladders, electrical hazards, material handling, and other construction-site safety requirements.
+Contains federal construction safety regulations addressing excavation, trenching, personal protective equipment, ladders, machinery, material handling, and workplace hazards. It supports preparation for the safety responsibilities associated with landscaping and sitework projects.
 - **Pipe and Excavation Contracting**
-This trade reference addresses excavation and underground construction concepts. It supports preparation involving trenching, excavation operations, grading, equipment, underground work, and related field practices.
+A construction trade reference addressing excavation, trenching, underground piping, site preparation, equipment operations, and practical contracting methods. It supports understanding of excavation procedures and the construction activities associated with underground site improvements.
 - **Construction Planning, Equipment, and Methods, 10th Edition**
-This reference covers construction planning, equipment selection, productivity, earthmoving operations, construction methods, and related project considerations. It can help candidates connect equipment capabilities with excavation, grading, and site-work operations.
+Explains construction planning, earthmoving equipment, excavation, equipment selection, production methods, and project operations. This reference supports preparation involving grading, sitework, construction machinery, and estimating principles.
 - **Excavation and Grading Handbook, Nick Capachi, 2006**
-This practical reference focuses on excavation, grading, earthmoving, cut-and-fill work, compaction, site preparation, and related construction procedures.
+Provides practical information about excavation methods, site grading, earthmoving, drainage, equipment, and construction planning. It supports study of grading procedures and excavation concepts relevant to landscaping service contracting.
 - **Soils and Foundations, Cheng Liu and Jack B. Evett, 2008, 7th Edition**
-This reference supports preparation involving soil characteristics, soil behavior, compaction, foundations, bearing conditions, and other soil-related concepts that can affect landscape construction and earthwork.
+Addresses soil properties, soil behavior, bearing capacity, foundation principles, compaction, and geotechnical concepts. It supports preparation for the examination's soils, compaction, grading, and retaining wall subjects.
 - **Landscape Construction, 2011**
-This landscape-focused construction reference supports preparation involving site work, landscape construction methods, drainage, hardscape-related work, project organization, and other practical landscape construction subjects.
+Covers practical landscape construction methods, site preparation, materials, grading, drainage, and outdoor improvement activities. It supports preparation for landscaping service work involving land alteration and construction.
 - **Fences & Retaining Walls (USED)**
-This reference provides practical information involving fence and retaining-wall construction, including layout, materials, construction concepts, and related installation considerations. The copy included in this package is identified as used.
+A used physical reference covering fence and retaining wall construction principles, materials, layout, support methods, and installation considerations. It supports study of retaining walls constructed for landscaping purposes.
+
+These references provide complementary coverage of grading, excavation, soils, compaction, drainage, retaining walls, and construction safety.
+
+The Construction Planning, Equipment, and Methods book supports equipment and earthmoving knowledge, while Soils and Foundations provides technical background on soil behavior and stability.
+
+Excavation and Grading Handbook and Pipe and Excavation Contracting support practical sitework review. Landscape Construction and Fences & Retaining Walls provide additional information about outdoor improvements and structural landscaping features.
+
+The OSHA reference helps candidates understand the safety responsibilities involved in excavation, grading, and construction operations.
 
 ### Test Information and Study Materials
 
-A strong LSC preparation plan should begin with **planning and estimating**. Candidates should be comfortable reading dimensions, calculating quantities, considering job conditions, and connecting project requirements with materials, equipment, and labor needs.
+Effective preparation for the Virginia Landscaping Service Contracting examination involves understanding sitework methods, soils, construction planning, retaining walls, drainage, and safety.
 
-**Excavation** should receive focused study because landscape construction frequently begins with site preparation and earthmoving. Review excavation terminology, methods, equipment, trenching concepts, cut-and-fill work, and safe excavation practices.
+**Planning and Estimating:** Review material quantities, project measurements, construction schedules, and estimating principles.
 
-**Grading** is closely connected to drainage and site performance. Candidates should understand how grades influence water movement and how earthwork is used to create the required finished elevations.
+**Excavation:** Study excavation methods, trench conditions, soil removal, equipment operation, and site preparation.
 
-**Compaction** should be studied together with soil conditions. Different soils behave differently when placed, disturbed, or compacted. Use Soils and Foundations together with the excavation references to strengthen understanding of soil behavior and site preparation.
+**Grading:** Understand elevation changes, slopes, earthmoving, site leveling, and the relationship between grading and drainage.
 
-**Drainage** is an important landscape construction subject because poor water management can affect soils, retaining walls, landscaped areas, and surrounding improvements. Review grading concepts and landscape construction principles that influence drainage.
+**Compaction:** Review soil compaction principles, equipment applications, moisture considerations, and construction quality.
 
-**Vegetation removal** can involve clearing, stump removal, roots, excavation equipment, and site-safety considerations. Candidates should understand that the Virginia LSC specialty specifically includes the ability to remove stumps and roots below grade.
+**Drainage:** Study surface drainage, water movement, grading relationships, and methods for managing site runoff.
 
-For **retaining walls**, use the landscape, soil, excavation, and retaining-wall references together. Retaining-wall construction can involve excavation, foundations, backfill, drainage, soil pressure, materials, and site conditions.
+**Soils:** Develop familiarity with soil types, soil properties, stability, and the relationship between soil behavior and construction activities.
 
-**Safety** should be incorporated throughout preparation. Landscape service contracting can involve heavy equipment, excavation, trenches, hand and power tools, material handling, and active construction areas. OSHA 29 CFR Part 1926 provides the primary construction-safety reference included in the package.
+**Vegetation Removal:** Review clearing procedures and the handling of stumps, roots, and vegetation associated with site preparation.
 
-When studying, avoid reading every reference from beginning to end without a plan. Organize preparation around the exam subjects. Choose a topic such as grading, identify the reference most likely to contain that information, and practice locating it through the index and table of contents.
+**Retaining Walls:** Study retaining wall materials, construction methods, soil pressure concepts, drainage, and structural support principles.
 
-Repeated reference use helps create a mental map of the books. Over time, candidates can learn that soil properties belong in one reference, excavation practices in another, and landscape-specific construction material in another.
+**Construction Safety:** Review OSHA requirements, excavation hazards, protective equipment, machinery safety, and safe jobsite practices.
 
-When a practice question is missed, return to the relevant reference and determine why. The error may come from misunderstanding a soil concept, selecting the wrong construction method, making an estimating mistake, or searching the wrong book. Correcting the underlying problem can strengthen future preparation.
+A productive study plan begins with the nine published examination categories. Candidates can devote additional preparation time to grading and soils because these subjects represent the largest portions of the examination.
+
+For example, one study session might address soil characteristics and compaction, while another concentrates on grading methods and drainage.
+
+Additional sessions can cover retaining wall construction, excavation procedures, estimating, vegetation removal, and safety requirements.
+
+Because the examination is open book, candidates benefit from practicing reference navigation while reviewing the underlying construction concepts.
+
+Using the included publications to connect technical information with practical landscaping situations supports a more organized approach to examination preparation.
 
 ### How Pass Your Virginia Contractor Exam Helps You Reach Your Goal
 
-Pass Your Virginia Contractor Exam helps Virginia Landscape Service Contractor candidates organize a broad technical examination into practical areas of study. Landscape construction combines planning, estimating, excavation, soils, equipment, grading, drainage, retaining walls, vegetation removal, and construction safety, making a structured preparation routine especially valuable.
+At Pass Your Virginia Contractor Exam, we understand that preparing for a landscaping contractor examination requires practical sitework knowledge, familiarity with construction references, and a consistent approach to studying.
 
-The Complete Book Package provides the listed references in one collection so candidates can build familiarity with each source while studying the trade. Instead of relying solely on memorization, candidates can learn how the books relate to specific technical subjects.
+The Virginia Landscaping Service Contracting Exam Complete Book Package brings together seven references addressing excavation, grading, soils, drainage, retaining walls, landscape construction, equipment, and OSHA safety.
 
-Pass Your Virginia Contractor Exam emphasizes organized study guidance, trade-focused review, practice-oriented preparation, reference navigation when applicable, and confidence-building study structure.
+Our preparation approach emphasizes organized study guidance, trade-focused review, practical construction knowledge, reference navigation, and confidence-building study habits.
 
-For an open-book examination, reference familiarity is a practical advantage. Candidates who recognize which book addresses a subject can begin their lookup more efficiently and spend more time understanding the actual technical requirement.
+Students can use the books to reinforce their understanding of land improvement, construction equipment, site preparation, and the technical subjects associated with the LSC examination.
 
-The goal is to build stronger landscape construction knowledge and more effective reference-navigation habits. Consistent practice with excavation, grading, soils, equipment, retaining walls, landscape construction, and OSHA material can help candidates develop a more systematic approach to exam preparation.
+For an open-book examination, familiarity with reference organization is particularly valuable. Candidates benefit from knowing which publication covers a subject and practicing how to locate technical information efficiently.
 
-### Frequently Asked Questions
+Whether you are an experienced landscape contractor, excavation professional, or construction specialist pursuing Virginia licensing, Pass Your Virginia Contractor Exam provides coordinated study resources to support your examination goals.
 
-### What books are included in the Virginia Landscape Service Contractor package?
+### FAQ Section
 
-The package includes OSHA 29 CFR Part 1926, Pipe and Excavation Contracting, Construction Planning, Equipment, and Methods, 10th Edition, Excavation and Grading Handbook, Soils and Foundations, Landscape Construction, and Fences & Retaining Walls.
+### What is included in the Virginia Landscaping Service Contracting Exam Complete Book Package?
 
-### What does LSC mean?
+The package includes seven physical reference publications covering excavation, grading, soils, construction planning, landscape construction, retaining walls, and OSHA safety.
 
-LSC is Virginia's abbreviation for **Landscape Service Contracting**.
+### Is the Virginia Landscaping Service Contracting examination open book?
 
-### What type of work does the LSC specialty cover?
+Yes. The LSC examination is an open-book test using reference materials permitted under PSI's testing rules.
 
-The specialty includes qualifying alteration or improvement of land through excavation, clearing, grading, landscape retaining walls, landscaping timbers, and removal of stumps and roots below grade.
+### How many questions are on the examination?
 
-### Is landscape irrigation included in LSC?
-
-Landscape Irrigation Contracting is a separate Virginia specialty. LSC focuses on landscape service work such as excavation, clearing, grading, retaining walls, and landscaping timbers.
-
-### Is the Virginia Landscape Service Contracting exam open book?
-
-Yes. The examination is an open-book test, subject to the applicable PSI rules governing allowable reference materials.
-
-### How many questions are on the exam?
-
-The Landscape Service Contracting examination contains **50 questions**.
+The examination contains 50 multiple-choice questions.
 
 ### How much time is allowed?
 
-Candidates have **120 minutes** to complete the examination.
+Candidates have 120 minutes, or two hours, to complete the examination.
 
-### What score is required to pass?
+### What passing score is required?
 
-The passing score is **70%, or 35 correct answers out of 50 questions**.
+The minimum passing score is 70%, equivalent to 35 correct answers.
 
-### What subjects should I study?
+### Who administers the examination?
 
-Preparation should include planning and estimating, excavation, grading, compaction, drainage, soils, vegetation removal, retaining walls, and construction safety.
+PSI administers the Virginia Landscaping Service Contracting examination for the state's contractor licensing program.
 
-### Is Fences & Retaining Walls a used book?
+### What subjects are covered on the LSC examination?
 
-Yes. The Fences & Retaining Walls book included in this package is identified as **USED**.
+The examination covers planning and estimating, excavation, grading, compaction, drainage, soils, vegetation removal, retaining walls, and safety.
 
-### Does passing the LSC exam automatically issue a Virginia contractor license?
+### What are the largest examination categories?
 
-No. Passing the technical examination is one component of the Virginia contractor licensing process. The business must also satisfy the applicable requirements for its license class, Qualified Individual, experience, education, application, and supporting documentation.
+Grading and Soils are the largest categories, with ten questions each.
+
+### Does the package include OSHA construction safety material?
+
+Yes. Code of Federal Regulations - 29 CFR Part 1926 is included.
+
+### Is Construction Planning, Equipment, and Methods included?
+
+Yes. The package includes the 10th edition.
+
+### Does the package include a soils reference?
+
+Yes. Soils and Foundations by Cheng Liu and Jack B. Evett, 7th Edition, 2008, is included.
+
+### Is Fences & Retaining Walls included as a new book?
+
+No. Fences & Retaining Walls is supplied as a used physical book.
+
+### Can the included references be used during the examination?
+
+The listed publications correspond to the examination's reference subjects. PSI permits reference editions under its examination rules, and books brought into the testing center must meet the applicable binding, marking, and tab requirements.
+
+### Does this package include an online examination preparation course?
+
+No. This product includes physical reference books. Online preparation courses are separate offerings.
+
+### Does purchasing this package guarantee passing or licensing?
+
+No. Candidates must demonstrate the required examination knowledge and satisfy Virginia's applicable contractor licensing qualifications.
+
+**Prepare for the Virginia Landscaping Service Contracting examination with 1 Exam Prep.** Strengthen your understanding of excavation, grading, soils, compaction, drainage, retaining walls, and construction safety with seven coordinated study references supporting focused open-book examination preparation.
 
 ## How does the Landscape Service Contractor exam work?
 
@@ -238,7 +324,7 @@ No other option is listed for this license yet.
 
 ### How much is the Virginia Landscaping Service Contracting Exam Complete Book Package?
 
-$695. The price at checkout is the one that applies, and it is shown before you pay.
+$1,095. The price at checkout is the one that applies, and it is shown before you pay.
 
 ### What is included?
 
@@ -266,7 +352,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [Code of Virginia, section 54.1-1100: license classes](https://law.lis.virginia.gov/vacode/title54.1/chapter11/section54.1-1100/)
 - [PSI candidate bulletin for the Virginia contractor exams](https://www.dpor.virginia.gov/sites/default/files/boards/Contractors/CIB_PSI_Contr_BusDE.pdf)
 
-Licensing facts checked against these pages; last updated October 29, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 16, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

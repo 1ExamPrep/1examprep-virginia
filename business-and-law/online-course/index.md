@@ -1,7 +1,7 @@
 ---
 title: Virginia Class A/B Business and Law Online Exam Prep Course
 url: https://passyourvirginiacontractorexam.com/business-and-law/online-course/
-updated: 2026-10-29
+updated: 2026-11-16
 site: Pass Your Virginia Contractor Exam
 description: Online Exam Prep Course for the Virginia Class A/B Business and Law exam: an online course with practice exams you can take on a phone or laptop. $195.
 ---
@@ -27,7 +27,7 @@ $195 (was $295) Save 34% [Buy now, go to checkout](https://1examprep.com/cart/32
 - Class A and B applicants pass the Virginia and general business portions, written to the NASCLA Contractors Guide to Business, Law and Project Management, Virginia edition.
 - Online access arrives by email after purchase. Buying does not grant exam eligibility.
 
-Updated October 29, 2026 · prices checked against the 1 Exam Prep store
+Updated November 16, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Online Exam Prep Course include?
 
@@ -297,7 +297,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [PSI candidate bulletin for the Virginia contractor exams](https://www.dpor.virginia.gov/sites/default/files/boards/Contractors/CIB_PSI_Contr_BusDE.pdf)
 - [Code of Virginia, section 54.1-1100: license classes](https://law.lis.virginia.gov/vacode/title54.1/chapter11/section54.1-1100/)
 
-Licensing facts checked against these pages; last updated October 29, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 16, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Commercial Electrical Inspector (E2) Live Virtual Training
 url: https://passyourvirginiacontractorexam.com/commercial-electrical-inspector/live-training/
-updated: 2026-10-29
+updated: 2026-11-16
 site: Pass Your Virginia Contractor Exam
 description: Live Virtual Training for the Virginia Commercial Electrical Inspector (E2) exam: live virtual classes with an instructor plus self-study material. $595.
 ---
@@ -27,7 +27,7 @@ $595 (was $795) Save 25% [Buy now, go to checkout](https://1examprep.com/cart/46
 - Virginia code officials are certified by the Department of Housing and Community Development (DHCD), not by DPOR.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated October 29, 2026 · prices checked against the 1 Exam Prep store
+Updated November 16, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Live Virtual Training include?
 
@@ -242,7 +242,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [DHCD: earn a code official certification](https://www.dhcd.virginia.gov/earn-certification)
 - [Virginia Board for Contractors (DPOR)](https://www.dpor.virginia.gov/Boards/Contractors)
 
-Licensing facts checked against these pages; last updated October 29, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 16, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

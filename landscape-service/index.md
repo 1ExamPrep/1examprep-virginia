@@ -1,26 +1,26 @@
 ---
 title: Virginia Landscape Service Contractor Exam Prep
 url: https://passyourvirginiacontractorexam.com/landscape-service/
-updated: 2026-10-29
+updated: 2026-11-16
 site: Pass Your Virginia Contractor Exam
-description: Landscape Service Contractor exam prep for Virginia: 1 option from $695 to $695, including book package. One-click checkout.
+description: Landscape Service Contractor exam prep for Virginia: 1 option from $1,095 to $1,095, including book package. One-click checkout.
 ---
 
 [All licenses](https://passyourvirginiacontractorexam.com/) /[Contractor license classes](https://passyourvirginiacontractorexam.com/#contractor) /Landscape Service Contractor
 
 # Landscape Service Contractor exam prep
 
-The Landscape Service Contractor specialty covers landscape construction such as grading, hardscape, walkways and planting. Here are the one package, from $695 to $695, each with one-click checkout. Compare what each one includes, see how the exam works and find the answers to the questions people ask most.
+The Landscape Service Contractor specialty covers landscape construction such as grading, hardscape, walkways and planting. Here are the one package, from $1,095 to $1,095, each with one-click checkout. Compare what each one includes, see how the exam works and find the answers to the questions people ask most.
 See the package
 
 ## Key takeaways
 
-- 1 option for the Landscape Service Contractor exam, from $695 to $695.
+- 1 option for the Landscape Service Contractor exam, from $1,095 to $1,095.
 - Virginia issues contractor licenses in three classes. Class C covers single jobs of $1,000 to under $10,000 and under $150,000 a year; Class B covers single jobs of $10,000 to under $120,000 and under $750,000 a year; Class A has no upper limit.
 - Class A and B firms name a designated employee or member of responsible management who passes the exams. PSI runs them, and the fee is $40 for one portion, $72 for two and $85 for three.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated October 29, 2026 · prices checked against the 1 Exam Prep store
+Updated November 16, 2026 · prices checked against the 1 Exam Prep store
 
 ## 1 Landscape Service Contractor package
 
@@ -31,7 +31,7 @@ Book Package
 
 The reference books the exam is written to, new and unmarked.
 
-$695 (was $795) Save 13%
+$1,095 (was $1,195) Save 8%
 [Buy now](https://1examprep.com/cart/44378914095161:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/landscape-service/book-package/)
 
 ## How do the Landscape Service Contractor options compare?
@@ -39,7 +39,7 @@ $695 (was $795) Save 13%
 Prices are the starting price for each option; some offer add-ons at checkout.
 
 Option | What you get | Price
-[Book Package](https://passyourvirginiacontractorexam.com/landscape-service/book-package/) | the reference books the exam is written to, new and unmarked | $695
+[Book Package](https://passyourvirginiacontractorexam.com/landscape-service/book-package/) | the reference books the exam is written to, new and unmarked | $1,095
 
 ## How does the Landscape Service Contractor exam work?
 
@@ -52,13 +52,13 @@ The Landscape Service Contractor exam is the technical portion of the license fo
 
 ### Which Landscape Service Contractor option should I choose?
 
-The Book Package at $695 is the lightest way into the Landscape Service Contractor exam: the reference books the exam is written to, new and unmarked. Candidates who fail usually run out of time rather than knowledge, so pick the option that gets you fastest through the references, and call (877) 775-9400 if you are unsure.
+The Book Package at $1,095 is the lightest way into the Landscape Service Contractor exam: the reference books the exam is written to, new and unmarked. Candidates who fail usually run out of time rather than knowledge, so pick the option that gets you fastest through the references, and call (877) 775-9400 if you are unsure.
 
 ## Landscape Service Contractor exam questions
 
 ### How much does Landscape Service Contractor exam prep cost?
 
-Landscape Service Contractor exam prep runs from $695 to $695 across 1 option: Book Package $695.
+Landscape Service Contractor exam prep runs from $1,095 to $1,095 across 1 option: Book Package $1,095.
 
 ### Is the Landscape Service Contractor exam open book?
 
@@ -116,7 +116,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [Code of Virginia, section 54.1-1100: license classes](https://law.lis.virginia.gov/vacode/title54.1/chapter11/section54.1-1100/)
 - [PSI candidate bulletin for the Virginia contractor exams](https://www.dpor.virginia.gov/sites/default/files/boards/Contractors/CIB_PSI_Contr_BusDE.pdf)
 
-Licensing facts checked against these pages; last updated October 29, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 16, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

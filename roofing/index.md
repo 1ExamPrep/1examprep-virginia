@@ -1,7 +1,7 @@
 ---
 title: Virginia Roofing Contractor Exam Prep
 url: https://passyourvirginiacontractorexam.com/roofing/
-updated: 2026-10-29
+updated: 2026-11-16
 site: Pass Your Virginia Contractor Exam
 description: Roofing Contractor exam prep for Virginia: 8 options from $89.99 to $3,210, including book package, books and courses rental, highlighted and tabbed books.
 ---
@@ -20,7 +20,7 @@ See the packages
 - Class A and B firms name a designated employee or member of responsible management who passes the exams. PSI runs them, and the fee is $40 for one portion, $72 for two and $85 for three.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated October 29, 2026 · prices checked against the 1 Exam Prep store
+Updated November 16, 2026 · prices checked against the 1 Exam Prep store
 
 ## 8 Roofing Contractor packages
 
@@ -179,7 +179,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [Code of Virginia, section 54.1-1100: license classes](https://law.lis.virginia.gov/vacode/title54.1/chapter11/section54.1-1100/)
 - [PSI candidate bulletin for the Virginia contractor exams](https://www.dpor.virginia.gov/sites/default/files/boards/Contractors/CIB_PSI_Contr_BusDE.pdf)
 
-Licensing facts checked against these pages; last updated October 29, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 16, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

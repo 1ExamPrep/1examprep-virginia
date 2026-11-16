@@ -1,7 +1,7 @@
 ---
 title: Virginia Other Exam Prep Code Book
 url: https://passyourvirginiacontractorexam.com/other/code-book/
-updated: 2026-10-29
+updated: 2026-11-16
 site: Pass Your Virginia Contractor Exam
 description: Code Book for the Virginia Other Exam Prep exam: the printed code book. $124.99. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $124.99 (was $174.99) Save 29% [Buy now, go to checkout](https://1examprep.com/c
 - Contractor and tradesman exams in Virginia are open book, so the code books you bring decide how fast you find answers.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated October 29, 2026 · prices checked against the 1 Exam Prep store
+Updated November 16, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Code Book include?
 
@@ -434,7 +434,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [Virginia Board for Contractors (DPOR)](https://www.dpor.virginia.gov/Boards/Contractors)
 - [DHCD: earn a code official certification](https://www.dhcd.virginia.gov/earn-certification)
 
-Licensing facts checked against these pages; last updated October 29, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 16, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 
