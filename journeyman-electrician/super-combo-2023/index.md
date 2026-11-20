@@ -1,7 +1,7 @@
 ---
 title: Virginia Journeyman Electrician Super Combo (2023)
 url: https://passyourvirginiacontractorexam.com/journeyman-electrician/super-combo-2023/
-updated: 2026-11-16
+updated: 2026-11-20
 site: Pass Your Virginia Contractor Exam
 description: Super Combo for the Virginia Journeyman Electrician exam: study guide, calculations guide, flash cards, the NEC and tabs. $349.95. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $349.95 (was $395) Save 11% [Buy now, go to checkout](https://1examprep.com/cart
 - Tradesman licenses are issued by the Board for Contractors through its Tradesmen program, for electrical, plumbing, HVAC and gas fitting.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 16, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Super Combo include?
 
@@ -275,7 +275,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [DPOR Tradesmen program, Board for Contractors](https://www.dpor.virginia.gov/Boards/Tradesmen/)
 - [Virginia Board for Contractors (DPOR)](https://www.dpor.virginia.gov/Boards/Contractors)
 
-Licensing facts checked against these pages; last updated November 16, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

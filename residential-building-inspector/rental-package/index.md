@@ -1,7 +1,7 @@
 ---
 title: Residential Building Inspector (B1) Books and Courses Rental
 url: https://passyourvirginiacontractorexam.com/residential-building-inspector/rental-package/
-updated: 2026-11-16
+updated: 2026-11-20
 site: Pass Your Virginia Contractor Exam
 description: Books and Courses Rental for the Virginia Residential Building Inspector (B1) exam: the reference books on rental plus the online course, returned after your.
 ---
@@ -27,7 +27,7 @@ $640 (was $940) Save 32% [Buy now, go to checkout](https://1examprep.com/cart/50
 - Virginia code officials are certified by the Department of Housing and Community Development (DHCD), not by DPOR.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 16, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Books and Courses Rental include?
 
@@ -261,7 +261,7 @@ Yes. Rental books are returned after your exam, using the return instructions th
 - [DHCD: earn a code official certification](https://www.dhcd.virginia.gov/earn-certification)
 - [Virginia Board for Contractors (DPOR)](https://www.dpor.virginia.gov/Boards/Contractors)
 
-Licensing facts checked against these pages; last updated November 16, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

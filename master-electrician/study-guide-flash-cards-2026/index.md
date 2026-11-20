@@ -1,7 +1,7 @@
 ---
 title: Virginia Master Electrician Study Guide and Flash Cards
 url: https://passyourvirginiacontractorexam.com/master-electrician/study-guide-flash-cards-2026/
-updated: 2026-11-16
+updated: 2026-11-20
 site: Pass Your Virginia Contractor Exam
 description: Study Guide and Flash Cards for the Virginia Master Electrician exam: the study guide with practice exams plus flash cards. $99.95. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $99.95 (was $125) Save 20% [Buy now, go to checkout](https://1examprep.com/cart/
 - Tradesman licenses are issued by the Board for Contractors through its Tradesmen program, for electrical, plumbing, HVAC and gas fitting.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 16, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Study Guide and Flash Cards include?
 
@@ -264,7 +264,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [DPOR Tradesmen program, Board for Contractors](https://www.dpor.virginia.gov/Boards/Tradesmen/)
 - [Virginia Board for Contractors (DPOR)](https://www.dpor.virginia.gov/Boards/Contractors)
 
-Licensing facts checked against these pages; last updated November 16, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Virginia Master Natural Gas Fitter Online Practice Exams
 url: https://passyourvirginiacontractorexam.com/master-natural-gas-fitter/online-practice-exams/
-updated: 2026-11-16
+updated: 2026-11-20
 site: Pass Your Virginia Contractor Exam
 description: Online Practice Exams for the Virginia Master Natural Gas Fitter exam: timed practice questions online, with explanations. $79.99. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $79.99 (was $120) Save 33% [Buy now, go to checkout](https://1examprep.com/cart/
 - Tradesman licenses are issued by the Board for Contractors through its Tradesmen program, for electrical, plumbing, HVAC and gas fitting.
 - Online access arrives by email after purchase. Buying does not grant exam eligibility.
 
-Updated November 16, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Online Practice Exams include?
 
@@ -377,7 +377,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [DPOR Tradesmen program, Board for Contractors](https://www.dpor.virginia.gov/Boards/Tradesmen/)
 - [Virginia Board for Contractors (DPOR)](https://www.dpor.virginia.gov/Boards/Contractors)
 
-Licensing facts checked against these pages; last updated November 16, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

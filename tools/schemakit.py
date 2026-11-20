@@ -1,7 +1,8 @@
 """Product structured data (schema.org JSON-LD) shared by the Pass Your ... sites.
 
-The same file lives in tools/ of every site repo (Texas, Virginia, Electrician), so all three describe
-products the same way. build.py calls product_ld() for every product page.
+The same file lives in tools/ of every site repo (Texas, Virginia, Electrician, Nevada, HVAC, Plumbing,
+Mississippi, NASCLA), so they all describe
+products the same way. build.py calls product_ld() (or delivery_fields() for its own offers) on every product page.
 
 Store facts below come from the 1 Exam Prep Shopify store (1examprep.com), checked 2026-10-28:
   - Shipping: the only delivery method is "Free USPS (Media Mail)", United States only.
@@ -23,6 +24,14 @@ RETURN_POLICY = {
 FREE_US_SHIPPING = {
     "@type": "OfferShippingDetails",
     "shippingLabel": "Free USPS Media Mail",
+    "shippingRate": {"@type": "MonetaryAmount", "value": "0", "currency": "USD"},
+    "shippingDestination": {"@type": "DefinedRegion", "addressCountry": "US"},
+}
+# Online courses and services ship nothing: access arrives by email, so delivery is free.
+# Google still wants shippingDetails on every offer, so these get a $0 email delivery instead of no entry.
+EMAIL_DELIVERY = {
+    "@type": "OfferShippingDetails",
+    "shippingLabel": "Online access by email, nothing shipped",
     "shippingRate": {"@type": "MonetaryAmount", "value": "0", "currency": "USD"},
     "shippingDestination": {"@type": "DefinedRegion", "addressCountry": "US"},
 }
@@ -64,6 +73,12 @@ def clean_description(text, limit=500):
     return window[:ends[-1]].strip()
 
 
+def delivery_fields(title, ptype=""):
+    """shippingDetails and hasMerchantReturnPolicy for one offer. Every offer gets both (Google flags either one missing)."""
+    return {"shippingDetails": FREE_US_SHIPPING if ships(title, ptype) else EMAIL_DELIVERY,
+            "hasMerchantReturnPolicy": RETURN_POLICY}
+
+
 def offer(v, product_name, url, ptype):
     name = v.get("title") or ""
     o = {"@type": "Offer"}
@@ -73,12 +88,11 @@ def offer(v, product_name, url, ptype):
         o["name"] = product_name
     o.update({"priceCurrency": "USD", "price": "%.2f" % float(v["price"]),
               "availability": "https://schema.org/InStock" if v.get("available", True) else "https://schema.org/OutOfStock",
-              "url": url, "seller": STORE_SELLER, "hasMerchantReturnPolicy": RETURN_POLICY})
+              "url": url, "seller": STORE_SELLER})
     cond = condition(product_name + " " + name, ptype)
     if cond:
         o["itemCondition"] = cond
-    if ships(product_name + " " + name, ptype):
-        o["shippingDetails"] = FREE_US_SHIPPING
+    o.update(delivery_fields(product_name + " " + name, ptype))
     return o
 
 

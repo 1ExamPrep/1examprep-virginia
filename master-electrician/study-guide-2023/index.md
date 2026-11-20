@@ -1,7 +1,7 @@
 ---
 title: Virginia Master Electrician Study Guide (2023)
 url: https://passyourvirginiacontractorexam.com/master-electrician/study-guide-2023/
-updated: 2026-11-16
+updated: 2026-11-20
 site: Pass Your Virginia Contractor Exam
 description: Study Guide for the Virginia Master Electrician exam: the printed study guide with practice exams. $59.95. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $59.95 (was $70) Save 14% [Buy now, go to checkout](https://1examprep.com/cart/4
 - Tradesman licenses are issued by the Board for Contractors through its Tradesmen program, for electrical, plumbing, HVAC and gas fitting.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 16, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Study Guide include?
 
@@ -244,7 +244,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [DPOR Tradesmen program, Board for Contractors](https://www.dpor.virginia.gov/Boards/Tradesmen/)
 - [Virginia Board for Contractors (DPOR)](https://www.dpor.virginia.gov/Boards/Contractors)
 
-Licensing facts checked against these pages; last updated November 16, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

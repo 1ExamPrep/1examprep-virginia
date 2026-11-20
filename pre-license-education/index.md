@@ -1,7 +1,7 @@
 ---
 title: Virginia 8-Hour Pre-License Education Exam Prep
 url: https://passyourvirginiacontractorexam.com/pre-license-education/
-updated: 2026-11-16
+updated: 2026-11-20
 site: Pass Your Virginia Contractor Exam
 description: 8-Hour Pre-License Education exam prep for Virginia: 1 option from $89 to $89, including online exam prep course. One-click checkout.
 ---
@@ -20,7 +20,7 @@ See the package
 - PSI runs the exams; the fee is $40 for one portion, $72 for two and $85 for three.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated November 16, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 ## 1 8-Hour Pre-License Education package
 
@@ -110,7 +110,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [PSI candidate bulletin for the Virginia contractor exams](https://www.dpor.virginia.gov/sites/default/files/boards/Contractors/CIB_PSI_Contr_BusDE.pdf)
 - [Code of Virginia, section 54.1-1100: license classes](https://law.lis.virginia.gov/vacode/title54.1/chapter11/section54.1-1100/)
 
-Licensing facts checked against these pages; last updated November 16, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 
