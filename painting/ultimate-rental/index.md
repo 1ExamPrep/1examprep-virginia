@@ -1,7 +1,7 @@
 ---
 title: Painting and Wall Covering Contractor Ultimate Rental
 url: https://passyourvirginiacontractorexam.com/painting/ultimate-rental/
-updated: 2026-11-20
+updated: 2026-11-23
 site: Pass Your Virginia Contractor Exam
 description: Ultimate Rental Package for the Virginia Painting and Wall Covering Contractor exam: highlighted and tabbed rental books, the online course and live.
 ---
@@ -27,7 +27,7 @@ $1,610 (was $2,010) Save 20% [Buy now, go to checkout](https://1examprep.com/car
 - Virginia issues contractor licenses in three classes. Class C covers single jobs of $1,000 to under $10,000 and under $150,000 a year; Class B covers single jobs of $10,000 to under $120,000 and under $750,000 a year; Class A has no upper limit.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 20, 2026 · prices checked against the 1 Exam Prep store
+Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Ultimate Rental Package include?
 
@@ -260,7 +260,7 @@ Yes. Rental books are returned after your exam, using the return instructions th
 - [Code of Virginia, section 54.1-1100: license classes](https://law.lis.virginia.gov/vacode/title54.1/chapter11/section54.1-1100/)
 - [PSI candidate bulletin for the Virginia contractor exams](https://www.dpor.virginia.gov/sites/default/files/boards/Contractors/CIB_PSI_Contr_BusDE.pdf)
 
-Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

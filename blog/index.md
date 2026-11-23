@@ -1,7 +1,7 @@
 ---
 title: Virginia Contractor Exam Blog: Study Tips and Rules
 url: https://passyourvirginiacontractorexam.com/blog/
-updated: 2026-11-20
+updated: 2026-11-23
 site: Pass Your Virginia Contractor Exam
 description: Study plans, Virginia licensing rules and exam strategy for contractor, tradesman and code official exams, from Pass Your Virginia Contractor Exam.
 ---
@@ -11,19 +11,27 @@ description: Study plans, Virginia licensing rules and exam strategy for contrac
 # The Virginia contractor exam blog
 
 Study plans, Virginia licensing rules and exam strategy for the contractor, tradesman and code official exams. Each post links to the license it covers, and every rule we quote links back to the board that sets it, so you can check it yourself before you apply.
+[All](https://passyourvirginiacontractorexam.com/blog/) · [business and law](https://passyourvirginiacontractorexam.com/blog/tag/business-and-law/) · [class a](https://passyourvirginiacontractorexam.com/blog/tag/class-a/) · [class b](https://passyourvirginiacontractorexam.com/blog/tag/class-b/) · [class c](https://passyourvirginiacontractorexam.com/blog/tag/class-c/) · [virginia contractor license](https://passyourvirginiacontractorexam.com/blog/tag/virginia-contractor-license/)
 
 ## Key takeaways
 
-- 0 posts so far, written for Virginia contractor, tradesman and code official candidates.
-- Topics cover study strategy, using the references and Virginia licensing rules.
+- 1 post so far, written for Virginia contractor, tradesman and code official candidates.
+- Topics: business and law, class a, class b, class c, virginia contractor license.
 - Exam prep for 61 Virginia licenses, with every rule linked to the board that sets it.
 - New posts appear in the RSS feed at /blog/feed.xml the moment they are published.
 
-Updated November 20, 2026 · prices checked against the 1 Exam Prep store
+Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 Most people who fail a licensing exam do not fail on knowledge. They run out of time in the references, misread an exception, or bring the wrong edition. New posts land here first and in the [RSS feed](https://passyourvirginiacontractorexam.com/blog/feed.xml). When a post is about one license, it links straight to that license page so you can act on it.
+[
+Latest
 
-No posts yet. The first one is on its way.
+## Virginia Contractor License: 15 Questions People Ask, Answered
+
+Virginia licenses contractors in Class A, B and C by job size through DPOR. Here are straight answers to the 15 questions people search most, from cost and timing to reciprocity and renewals. Each answer is short, plain and checked against the official board and exam sources.
+
+November 23, 2026 6 min read
+](https://passyourvirginiacontractorexam.com/blog/virginia-contractor-license-questions-answered/)
 
 ## Where should you start if your Virginia exam is coming up?
 
@@ -96,7 +104,7 @@ Exam prep for 60 Virginia contractor, tradesman and inspector licenses. Buy butt
 - [DPOR Tradesmen program](https://www.dpor.virginia.gov/Boards/Tradesmen/)
 - [DHCD: earn a code official certification](https://www.dhcd.virginia.gov/earn-certification)
 
-Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

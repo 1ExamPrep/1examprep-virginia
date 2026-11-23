@@ -1,7 +1,7 @@
 ---
 title: Commercial Energy Inspector: Highlighted and Tabbed Books
 url: https://passyourvirginiacontractorexam.com/commercial-energy-inspector/highlighted-tabbed-ohio/
-updated: 2026-11-20
+updated: 2026-11-23
 site: Pass Your Virginia Contractor Exam
 description: Highlighted and Tabbed Books for the Virginia Commercial Energy Inspector exam: the reference books already highlighted and permanently tabbed, ready for the.
 ---
@@ -27,7 +27,7 @@ $245 (was $445) Save 45% [Buy now, go to checkout](https://1examprep.com/cart/46
 - Virginia code officials are certified by the Department of Housing and Community Development (DHCD), not by DPOR.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 20, 2026 · prices checked against the 1 Exam Prep store
+Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Highlighted and Tabbed Books include?
 
@@ -240,7 +240,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [DHCD: earn a code official certification](https://www.dhcd.virginia.gov/earn-certification)
 - [Virginia Board for Contractors (DPOR)](https://www.dpor.virginia.gov/Boards/Contractors)
 
-Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 
