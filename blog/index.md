@@ -30,7 +30,7 @@ Latest
 
 Virginia licenses contractors in Class A, B and C by job size through DPOR. Here are straight answers to the 15 questions people search most, from cost and timing to reciprocity and renewals. Each answer is short, plain and checked against the official board and exam sources.
 
-November 23, 2026 6 min read
+November 23, 2026 7 min read
 ](https://passyourvirginiacontractorexam.com/blog/virginia-contractor-license-questions-answered/)
 
 ## Where should you start if your Virginia exam is coming up?

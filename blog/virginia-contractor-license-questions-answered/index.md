@@ -8,7 +8,7 @@ description: Do you need a contractor license in Virginia? Class A, B and C limi
 
 [Home](https://passyourvirginiacontractorexam.com/) /[Blog](https://passyourvirginiacontractorexam.com/blog/) /Virginia Contractor License: 15 Questions People Ask, Answer…
 
-November 23, 2026 Max Ace 6 min read
+November 23, 2026 Max Ace 7 min read
 
 # Virginia Contractor License: 15 Questions People Ask, Answered
 
@@ -92,6 +92,19 @@ Yes, for the client's protection and your own. A license shows the firm passed t
 ## What books do I need for the Virginia contractor exam?
 
 For Class A and B, the core book is the NASCLA Contractors Guide to Business, Law and Project Management, Virginia edition, plus the references listed in the PSI bulletin for your trade classification. Because the exam is open book, a highlighted and tabbed set saves the most time. See the [business and law](https://passyourvirginiacontractorexam.com/business-and-law/) page for the current packages.
+
+## Where can you read about other licenses?
+
+Licensing rules change from state to state and trade to trade, so we answer the most searched questions for each one in its own post. If you work across state lines or hold more than one trade license, these companion posts cover the other exams our sites prepare you for:
+
+- [Texas contractor license: 15 questions answered](https://passyourtexascontractorexam.com/blog/texas-contractor-license-questions-answered/)
+- [Nevada contractor license: 15 questions answered](https://passyournevadacontractorexam.com/blog/nevada-contractor-license-questions-answered/)
+- [Mississippi contractor license: 15 questions answered](https://passyourmississippicontractorexam.com/blog/mississippi-contractor-license-questions-answered/)
+- [Florida contractor exam: 15 questions answered](https://passyourfloridacontractorexam.com/blog/florida-contractor-exam-questions-answered/)
+- [Master electrician exam: 15 questions answered](https://passyourmasterelectricianexam.com/blog/master-electrician-exam-questions-answered/)
+- [Plumbing license exam: 15 questions answered](https://passyourplumbingexam.com/blog/plumbing-license-exam-questions-answered/)
+- [HVAC license exam: 15 questions answered](https://passyourhvacexam.com/blog/hvac-license-exam-questions-answered/)
+- [NASCLA exam: 15 questions answered](https://passyournasclaexam.com/blog/nascla-exam-questions-answered/)
 
 ## Frequently asked questions
 
