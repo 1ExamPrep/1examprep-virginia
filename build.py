@@ -635,11 +635,13 @@ for q in POSTS + PAGES:
             "author": {"@type": "Organization" if not q["author"] or q["author"] == BRAND else "Person", "name": q["author"] or BRAND}, "publisher": publisher_ld(),
             "mainEntityOfPage": url, "url": url, "wordCount": q["words"], "keywords": ", ".join(q["tags"]) or None, "articleSection": "Virginia Contractor Exam Prep", "inLanguage": "en-US"}]
     lds[1] = {k: v for k, v in lds[1].items() if v}
+    # FAQ schema from the post's own questions, unless the post already carries its own FAQPage markup
+    if q.get("faq") and '"FAQPage"' not in q["html"]: lds.append(faq_ld(q["faq"]))
     ptitle = q.get("meta_title") or (q["title"] if len(q["title"]) + len(BRAND) + 3 > 60 else "%s | %s" % (q["title"], BRAND))
     pdesc = q.get("meta_description") or q["excerpt"]
     if is_page: lds[0] = crumbs_ld([("Home", ""), (q["title"], path)]); lds[1]["@type"] = "Article"
     out = blog_common(btpl, rel, path, ptitle, pdesc, q["image"] or CFG.get("logo"), lds, {"depth": 2, "blog": True, "post": q["slug"]}, page_type=None)
-    if is_page: out = out.replace('<a href="{{REL}}blog/">Blog</a><span>/</span>', "").replace('<p class="post-meta">', '<p class="post-meta" hidden>')
+    if is_page: out = out.replace('<a href="{{REL}}blog/">Blog</a><span>/</span>', "").replace('<div class="post-meta">', '<div class="post-meta" hidden>')
     out = (out.replace("{{H1}}", esc(q["title"])).replace("{{TITLE_SHORT}}", esc(q["title"][:60] + ("…" if len(q["title"]) > 60 else ""))).replace("{{EXCERPT}}", esc(q["excerpt"]))
            .replace("{{DATE}}", q["date"]).replace("{{UPDATED}}", q["updated"]).replace("{{DATE_NICE}}", nice_date(q["date"])).replace("{{AUTHOR_HTML}}", ('<span>%s</span>' % esc(q["author"])) if q["author"] else "")
            .replace("{{READ_MIN}}", str(max(1, round(q["words"] / 220)))).replace("{{TAGS_HTML}}", tags_html).replace("{{HERO_HTML}}", hero).replace("{{TAKEAWAYS_HTML}}", takeaways_html(q.get("takeaways") or [])).replace("{{BODY_HTML}}", q["html"])
