@@ -127,7 +127,7 @@ Pre-Printed Tabs | pre-printed permanent tabs for the reference books, allowed i
 Study Guide and Online Course | the study guide plus the online course | $119.99 | 1
 Study Guide and Flash Cards | the study guide with practice exams plus flash cards | $99.95 | 2
 Study Guide | the printed study guide with practice exams | $59.95 to $59.99 | 5
-Code Book | the printed code book | $19.99 to $309.99 | 7
+Code Book | the printed code book | $19.99 to $309.99 | 6
 Book Package | the reference books the exam is written to, new and unmarked | $129 to $2,244 | 51
 Study Guide + NEC with Tabs | the study guide, the National Electrical Code and pre-printed tabs | $249.95 | 4
 Study Guide + Calculations + NEC | the study guide, the calculations guide and the National Electrical Code | $279.95 | 4

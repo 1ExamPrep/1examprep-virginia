@@ -220,11 +220,11 @@ journeyman-hvac/highlighted-tabbed
 journeyman-hvac/live-training
 journeyman-hvac/rental-package
 master-hvac
-master-hvac/code-book
 master-hvac/book-package
 master-hvac/highlighted-tabbed
 master-hvac/live-training
 master-hvac/rental-package
+master-hvac/virginia-master-hvac-licensing-exam-prep-study-fla
 journeyman-natural-gas-fitter
 journeyman-natural-gas-fitter/online-course
 journeyman-natural-gas-fitter/highlighted-tabbed

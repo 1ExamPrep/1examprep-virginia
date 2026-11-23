@@ -3,7 +3,7 @@ title: Virginia Master HVAC Exam Prep
 url: https://passyourvirginiacontractorexam.com/master-hvac/
 updated: 2026-11-23
 site: Pass Your Virginia Contractor Exam
-description: Master HVAC exam prep for Virginia: 5 options from $65 to $1,685, including book package, books and courses rental, code book. One-click checkout.
+description: Master HVAC exam prep for Virginia: 5 options from $65 to $1,685, including book package, books and courses rental, flash cards. One-click checkout.
 ---
 
 [All licenses](https://passyourvirginiacontractorexam.com/) /[Tradesman licenses](https://passyourvirginiacontractorexam.com/#trades) /Master HVAC
@@ -25,14 +25,6 @@ Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 ## 5 Master HVAC packages
 
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
-
-Code Book
-[Virginia Master HVAC Licensing Exam Prep Study Flash Cards](https://passyourvirginiacontractorexam.com/master-hvac/code-book/)
-
-The printed code book.
-
-$65 (was $95) Save 32%
-[Buy now](https://1examprep.com/cart/50670933671993:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/master-hvac/code-book/)
 
 Book Package
 [Virginia Master HVAC Exam Complete Book Package](https://passyourvirginiacontractorexam.com/master-hvac/book-package/)
@@ -66,16 +58,24 @@ The reference books on rental plus the online course, returned after your exam.
 $1,685 (was $1,985) Save 15%  to $2,335
 [Buy now](https://1examprep.com/cart/44760389222457:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/master-hvac/rental-package/)
 
+Flash Cards
+[Virginia Master HVAC Licensing Exam Prep Study Flash Cards](https://passyourvirginiacontractorexam.com/master-hvac/virginia-master-hvac-licensing-exam-prep-study-fla/)
+
+Exam prep.
+
+$65 (was $95) Save 32%
+[Buy now](https://1examprep.com/cart/50670933671993:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com) · [Details](https://passyourvirginiacontractorexam.com/master-hvac/virginia-master-hvac-licensing-exam-prep-study-fla/)
+
 ## How do the Master HVAC options compare?
 
 Prices are the starting price for each option; some offer add-ons at checkout.
 
 Option | What you get | Price
-[Code Book](https://passyourvirginiacontractorexam.com/master-hvac/code-book/) | the printed code book | $65
 [Book Package](https://passyourvirginiacontractorexam.com/master-hvac/book-package/) | the reference books the exam is written to, new and unmarked | $745
 [Highlighted and Tabbed Books](https://passyourvirginiacontractorexam.com/master-hvac/highlighted-tabbed/) | the reference books already highlighted and permanently tabbed, ready for the exam room | $1,095
 [Live Virtual Training](https://passyourvirginiacontractorexam.com/master-hvac/live-training/) | live virtual classes with an instructor plus self-study material | $495
 [Books and Courses Rental](https://passyourvirginiacontractorexam.com/master-hvac/rental-package/) | the reference books on rental plus the online course, returned after your exam | $1,685
+[Flash Cards](https://passyourvirginiacontractorexam.com/master-hvac/virginia-master-hvac-licensing-exam-prep-study-fla/) | exam prep | $65
 
 ## How does the Master HVAC exam work?
 
@@ -88,13 +88,13 @@ The Master HVAC exam is a tradesman exam: one person is licensed, and a contract
 
 ### Which Master HVAC option should I choose?
 
-The Code Book at $65 is the lightest way into the Master HVAC exam: the printed code book. Highlighted and Tabbed Books at $1,095 are the biggest time saver on an open-book test, because the references arrive ready for the exam room. Live Virtual Training at $495 suits people who learn better with an instructor and a fixed schedule. The Books and Courses Rental at $1,685 is the most complete option: the reference books on rental plus the online course, returned after your exam.
+The Flash Cards at $65 is the lightest way into the Master HVAC exam: exam prep. Highlighted and Tabbed Books at $1,095 are the biggest time saver on an open-book test, because the references arrive ready for the exam room. Live Virtual Training at $495 suits people who learn better with an instructor and a fixed schedule. The Books and Courses Rental at $1,685 is the most complete option: the reference books on rental plus the online course, returned after your exam.
 
 ## Master HVAC exam questions
 
 ### How much does Master HVAC exam prep cost?
 
-Master HVAC exam prep runs from $65 to $1,685 across 5 options: Code Book $65; Book Package $745; Highlighted and Tabbed Books $1,095; Live Virtual Training $495; Books and Courses Rental $1,685.
+Master HVAC exam prep runs from $65 to $1,685 across 5 options: Book Package $745; Highlighted and Tabbed Books $1,095; Live Virtual Training $495; Books and Courses Rental $1,685; Flash Cards $65.
 
 ### Is the Master HVAC exam open book?
 

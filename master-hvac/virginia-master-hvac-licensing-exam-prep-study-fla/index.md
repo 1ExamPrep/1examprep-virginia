@@ -1,18 +1,18 @@
 ---
-title: Virginia Master HVAC Code Book
-url: https://passyourvirginiacontractorexam.com/master-hvac/code-book/
+title: Virginia Master HVAC Flash Cards
+url: https://passyourvirginiacontractorexam.com/master-hvac/virginia-master-hvac-licensing-exam-prep-study-fla/
 updated: 2026-11-23
 site: Pass Your Virginia Contractor Exam
-description: Code Book for the Virginia Master HVAC exam: the printed code book. $65. One-click checkout.
+description: Flash Cards for the Virginia Master HVAC exam: exam prep. $65. One-click checkout.
 ---
 
-[All licenses](https://passyourvirginiacontractorexam.com/) /[Tradesman licenses](https://passyourvirginiacontractorexam.com/#trades) /[Master HVAC](https://passyourvirginiacontractorexam.com/master-hvac/) /Code Book
+[All licenses](https://passyourvirginiacontractorexam.com/) /[Tradesman licenses](https://passyourvirginiacontractorexam.com/#trades) /[Master HVAC](https://passyourvirginiacontractorexam.com/master-hvac/) /Flash Cards
 
-Master HVAC · Code Book
+Master HVAC · Flash Cards
 
 # Virginia Master HVAC Licensing Exam Prep Study Flash Cards
 
-The Virginia Master HVAC Licensing Exam Prep Study Flash Cards is the printed code book for the Master HVAC exam (Virginia), at $65, 32% off the $95 list price. Books ship from our fulfillment center, 1 Exam Prep. Buy now goes straight to secure checkout at 1 Exam Prep. Call (877) 775-9400 with questions first.
+The Virginia Master HVAC Licensing Exam Prep Study Flash Cards is exam prep for the Master HVAC exam (Virginia), at $65, 32% off the $95 list price. Books ship from our fulfillment center, 1 Exam Prep. Buy now goes straight to secure checkout at 1 Exam Prep. Call (877) 775-9400 with questions first.
 
 $65 (was $95) Save 32% [Buy now, go to checkout](https://1examprep.com/cart/50670933671993:1?attributes%5BSite%5D=passyourvirginiacontractorexam.com&ref=passyourvirginiacontractorexam.com)
 
@@ -22,20 +22,20 @@ $65 (was $95) Save 32% [Buy now, go to checkout](https://1examprep.com/cart/5067
 
 ## Key takeaways
 
-- Code Book: $65, down from $95.
-- For the Master HVAC exam; the printed code book.
+- Flash Cards: $65, down from $95.
+- For the Master HVAC exam; exam prep.
 - Tradesman licenses are issued by the Board for Contractors through its Tradesmen program, for electrical, plumbing, HVAC and gas fitting.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
 Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
-## What does the Code Book include?
+## What does the Flash Cards include?
 
-- Code Book: the printed code book
+- Flash Cards: exam prep
 - Written for the Master HVAC exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
-The Code Book costs $65 and is written for the Master HVAC exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+The Flash Cards costs $65 and is written for the Master HVAC exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
 
 ## About this Master HVAC package
 
@@ -251,7 +251,7 @@ $65. The price at checkout is the one that applies, and it is shown before you p
 
 ### What is included?
 
-Code Book: the printed code book. Books ship from our fulfillment center, 1 Exam Prep.
+Flash Cards: exam prep. Books ship from our fulfillment center, 1 Exam Prep.
 
 ### Is the Master HVAC exam open book?
 
@@ -278,6 +278,6 @@ Licensing facts checked against these pages; last updated November 23, 2026. Rul
 
 ---
 
-Source: https://passyourvirginiacontractorexam.com/master-hvac/code-book/  
+Source: https://passyourvirginiacontractorexam.com/master-hvac/virginia-master-hvac-licensing-exam-prep-study-fla/  
 Publisher: Pass Your Virginia Contractor Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
 Prices change; the product page and checkout show the current price.
