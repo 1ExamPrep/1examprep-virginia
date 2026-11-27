@@ -1,7 +1,7 @@
 ---
 title: Virginia Contractor License: 15 Common Questions Answered
 url: https://passyourvirginiacontractorexam.com/blog/virginia-contractor-license-questions-answered/
-updated: 2026-11-23
+updated: 2026-11-27
 site: Pass Your Virginia Contractor Exam
 description: Do you need a contractor license in Virginia? Class A, B and C limits, costs, exams, timing, reciprocity and renewals for a Virginia contractor license.
 ---
@@ -22,7 +22,7 @@ Virginia licenses contractors in Class A, B and C by job size through DPOR. Here
 - PSI charges $40 for one exam portion, $72 for two and $85 for three, and every exam is open book.
 - Electricians, plumbers, HVAC and gas fitters also need a tradesman license from the same board.
 
-Updated November 23, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 Virginia requires a contractor license for any job of $1,000 or more. The Board for Contractors at DPOR issues three classes by job size: Class C, Class B and Class A. Every applicant takes 8 hours of pre-license education, and Class A and B firms also pass open-book PSI exams. Below are answers to the 15 questions Virginians search most.
 

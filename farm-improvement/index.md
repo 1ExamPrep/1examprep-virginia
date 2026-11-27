@@ -1,7 +1,7 @@
 ---
 title: Virginia Farm Improvement Contractor Exam Prep
 url: https://passyourvirginiacontractorexam.com/farm-improvement/
-updated: 2026-11-23
+updated: 2026-11-27
 site: Pass Your Virginia Contractor Exam
 description: Farm Improvement Contractor exam prep for Virginia: 4 options from $295 to $3,260, including highlighted and tabbed books, online exam prep course, the 1.
 ---
@@ -20,7 +20,7 @@ See the packages
 - Class A and B firms name a designated employee or member of responsible management who passes the exams. PSI runs them, and the fee is $40 for one portion, $72 for two and $85 for three.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated November 23, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 ## 4 Farm Improvement Contractor packages
 
@@ -143,7 +143,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [Code of Virginia, section 54.1-1100: license classes](https://law.lis.virginia.gov/vacode/title54.1/chapter11/section54.1-1100/)
 - [PSI candidate bulletin for the Virginia contractor exams](https://www.dpor.virginia.gov/sites/default/files/boards/Contractors/CIB_PSI_Contr_BusDE.pdf)
 
-Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Virginia Other Exam Prep Online Exam Prep Course
 url: https://passyourvirginiacontractorexam.com/other/online-course/
-updated: 2026-11-23
+updated: 2026-11-27
 site: Pass Your Virginia Contractor Exam
 description: Online Exam Prep Course for the Virginia Other Exam Prep exam: an online course with practice exams you can take on a phone or laptop. $295. One-click.
 ---
@@ -27,7 +27,7 @@ $295 (was $395) Save 25% [Buy now, go to checkout](https://1examprep.com/cart/50
 - Contractor and tradesman exams in Virginia are open book, so the code books you bring decide how fast you find answers.
 - Online access arrives by email after purchase. Buying does not grant exam eligibility.
 
-Updated November 23, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Online Exam Prep Course include?
 
@@ -261,7 +261,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [Virginia Board for Contractors (DPOR)](https://www.dpor.virginia.gov/Boards/Contractors)
 - [DHCD: earn a code official certification](https://www.dhcd.virginia.gov/earn-certification)
 
-Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

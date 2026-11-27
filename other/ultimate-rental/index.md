@@ -1,7 +1,7 @@
 ---
 title: Virginia Other Exam Prep Ultimate Rental Package
 url: https://passyourvirginiacontractorexam.com/other/ultimate-rental/
-updated: 2026-11-23
+updated: 2026-11-27
 site: Pass Your Virginia Contractor Exam
 description: Ultimate Rental Package for the Virginia Other Exam Prep exam: highlighted and tabbed rental books, the online course and live training. $1,910. One-click.
 ---
@@ -27,7 +27,7 @@ $1,910 (was $2,310) Save 17% [Buy now, go to checkout](https://1examprep.com/car
 - Contractor and tradesman exams in Virginia are open book, so the code books you bring decide how fast you find answers.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 23, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Ultimate Rental Package include?
 
@@ -276,7 +276,7 @@ Yes. Rental books are returned after your exam, using the return instructions th
 - [Virginia Board for Contractors (DPOR)](https://www.dpor.virginia.gov/Boards/Contractors)
 - [DHCD: earn a code official certification](https://www.dhcd.virginia.gov/earn-certification)
 
-Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

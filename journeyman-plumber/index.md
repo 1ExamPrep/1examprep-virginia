@@ -1,7 +1,7 @@
 ---
 title: Virginia Journeyman Plumber Exam Prep
 url: https://passyourvirginiacontractorexam.com/journeyman-plumber/
-updated: 2026-11-23
+updated: 2026-11-27
 site: Pass Your Virginia Contractor Exam
 description: Journeyman Plumber exam prep for Virginia: 12 options from $29.99 to $895, including book package, books and courses rental, complete package. One-click.
 ---
@@ -20,7 +20,7 @@ See the packages
 - Pre-license education is required, and renewals need 3 hours of continuing education for electrical, plumbing and HVAC and 1 hour for gas fitting.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated November 23, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 ## Journeyman Plumber options: online courses and practice
 
@@ -226,7 +226,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [DPOR Tradesmen program, Board for Contractors](https://www.dpor.virginia.gov/Boards/Tradesmen/)
 - [Virginia Board for Contractors (DPOR)](https://www.dpor.virginia.gov/Boards/Contractors)
 
-Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

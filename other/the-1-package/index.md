@@ -1,7 +1,7 @@
 ---
 title: Virginia Other Exam Prep The 1 Package (all-inclusive)
 url: https://passyourvirginiacontractorexam.com/other/the-1-package/
-updated: 2026-11-23
+updated: 2026-11-27
 site: Pass Your Virginia Contractor Exam
 description: The 1 Package (all-inclusive) for the Virginia Other Exam Prep exam: everything: exam prep, books, licensing paperwork and business setup. $2,610. One-click.
 ---
@@ -27,7 +27,7 @@ $2,610 (was $3,110) Save 16% [Buy now, go to checkout](https://1examprep.com/car
 - Contractor and tradesman exams in Virginia are open book, so the code books you bring decide how fast you find answers.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 23, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the The 1 Package (all-inclusive) include?
 
@@ -277,7 +277,7 @@ It adds help with the Board for Contractors application and the business setup, 
 - [Virginia Board for Contractors (DPOR)](https://www.dpor.virginia.gov/Boards/Contractors)
 - [DHCD: earn a code official certification](https://www.dhcd.virginia.gov/earn-certification)
 
-Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

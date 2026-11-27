@@ -1,7 +1,7 @@
 ---
 title: Electrical Plans Examiner (E3) Live Virtual Training
 url: https://passyourvirginiacontractorexam.com/electrical-plans-examiner/live-training/
-updated: 2026-11-23
+updated: 2026-11-27
 site: Pass Your Virginia Contractor Exam
 description: Live Virtual Training for the Virginia Electrical Plans Examiner (E3) exam: live virtual classes with an instructor plus self-study material. $495. One-click.
 ---
@@ -27,7 +27,7 @@ $495 (was $695) Save 29% [Buy now, go to checkout](https://1examprep.com/cart/46
 - Virginia code officials are certified by the Department of Housing and Community Development (DHCD), not by DPOR.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 23, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Live Virtual Training include?
 
@@ -242,7 +242,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [DHCD: earn a code official certification](https://www.dhcd.virginia.gov/earn-certification)
 - [Virginia Board for Contractors (DPOR)](https://www.dpor.virginia.gov/Boards/Contractors)
 
-Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

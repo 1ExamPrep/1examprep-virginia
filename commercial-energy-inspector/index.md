@@ -1,7 +1,7 @@
 ---
 title: Virginia Commercial Energy Inspector Exam Prep
 url: https://passyourvirginiacontractorexam.com/commercial-energy-inspector/
-updated: 2026-11-23
+updated: 2026-11-27
 site: Pass Your Virginia Contractor Exam
 description: Commercial Energy Inspector exam prep for Virginia: 2 options from $245 to $540, including books and courses rental, highlighted and tabbed books. One-click.
 ---
@@ -20,7 +20,7 @@ See the packages
 - Building, fire and property maintenance officials apply within 12 months of hire; technical assistants have 18 months.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated November 23, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 ## 2 Commercial Energy Inspector packages
 
@@ -124,7 +124,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [DHCD: earn a code official certification](https://www.dhcd.virginia.gov/earn-certification)
 - [Virginia Board for Contractors (DPOR)](https://www.dpor.virginia.gov/Boards/Contractors)
 
-Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Residential Plumber Tradesman Books and Courses Rental
 url: https://passyourvirginiacontractorexam.com/residential-plumber/rental-package/
-updated: 2026-11-23
+updated: 2026-11-27
 site: Pass Your Virginia Contractor Exam
 description: Books and Courses Rental for the Virginia Residential Plumber Tradesman exam: the reference books on rental plus the online course, returned after your exam.
 ---
@@ -27,7 +27,7 @@ $935 (was $1,235) Save 24% [Buy now, go to checkout](https://1examprep.com/cart/
 - Tradesman licenses are issued by the Board for Contractors through its Tradesmen program, for electrical, plumbing, HVAC and gas fitting.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 23, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Books and Courses Rental include?
 
@@ -278,7 +278,7 @@ Yes. Rental books are returned after your exam, using the return instructions th
 - [DPOR Tradesmen program, Board for Contractors](https://www.dpor.virginia.gov/Boards/Tradesmen/)
 - [Virginia Board for Contractors (DPOR)](https://www.dpor.virginia.gov/Boards/Contractors)
 
-Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 
